@@ -38,6 +38,15 @@ Výchozí adresa:
 
 - `http://127.0.0.1:8765`
 
+## Veřejná Pages verze
+
+Vedle lokální Python appky teď existuje i statická veřejná varianta pro GitHub Pages:
+
+- build skript: `scripts/build_pages_site.py`
+- výstup: `docs/`
+- workflow: `.github/workflows/deploy-pages.yml`
+- cílová URL: `https://small-ram.github.io/Czech-plants-catalog/`
+
 ## Co appka umí
 
 - fulltext search přes české názvy, vědecké názvy, použití a cílový efekt
@@ -60,7 +69,7 @@ Výchozí adresa:
 ## Důležité chování po dubnovém rozšíření 2026
 
 - katalog jako primární obrázek preferuje jen skutečné `photo` položky
-- `illustration` a `auto_cover` mohou v manifestu zůstat jako fallback, ale galerie ani detail je neberou jako hlavní fotku
+- `illustration` může v manifestu zůstat jako neprimární doprovodné médium, ale galerie ani detail ji neberou jako hlavní fotku
 - `/plants` i `/plants/` vrací `200`
 - frontend soubory jsou v čistém UTF-8
 - server automaticky vybírá nejčerstvější SQLite soubor, tedy i novější `rebuild` fallback
@@ -117,6 +126,6 @@ Výchozí adresa:
 
 ## Co dává smysl dál
 
-- rozšířit reálné fotky z nynějších 16 rostlin na celý katalog
+- kurátorsky zlepšovat reprezentativnost už doplněných fotek a průběžně kontrolovat licence / kredity
 - přidat ještě hlubší invariant checks a release checklist
 - převést heuristicky odvozené metody zpracování na explicitní kurátorské pole ve workbooku

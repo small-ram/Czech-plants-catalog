@@ -1,0 +1,116 @@
+{
+  "use_id": "r154",
+  "plant_id": "plant_plantago_major_l",
+  "raw_record_id": "R154",
+  "cesky_nazev_display": "jitrocel větší",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "listový čaj",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "trávníky, cesty, dvory",
+  "obdobi_ziskani_text": "V–VIII",
+  "mesic_od": 5,
+  "mesic_do": 8,
+  "fenologicka_faze": "zdravý list",
+  "zpusob_pripravy": "Sušený list na jednoduchý čaj; pro oficiální respirační použití je však lépe doložen jitrocel kopinatý.",
+  "cilovy_efekt": "čaj pro krk a dýchací komfort v tradičním smyslu",
+  "chutovy_profil": "lehce trpká",
+  "vonny_profil": "zelená",
+  "palivovy_potencial_text": "neaplikovateln?",
+  "hlavni_rizika": "jen analogie k lépe doloženým plantagům",
+  "kontraindikace_interakce": "u přetrvávání obtíží řešit standardně",
+  "legalita_poznamka_cr": "běžný nechráněný druh",
+  "dukaznost_typ": "genus analog + kurátorovaný zdroj",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravý list; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Přesně označeno jako slabší analogie, ne plně ekvivalentní EMA záznam.",
+  "vedecky_nazev_hlavni": "Plantago major L.",
+  "cesky_nazev_hlavni": "jitrocel větší",
+  "status_v_cr_text": "původní/zdomácnělý, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_plantago_major_l",
+      "alias": "jitrocel větší",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_plantago_major_l",
+      "alias": "Plantago major L.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S46",
+      "nazev": "PFAF: Plantago major",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Plantago+major",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro jitrocel větší; jedlé a folk použití."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S18",
+      "nazev": "EMA: Plantago lanceolata folium assessment report / monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální podklad k jitroceli kopinatému; kašel, oromukózní a kožní užití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+      "alt": "jitrocel větší",
+      "caption": "Wikimedia Commons: Plantago major L.",
+      "credit": "Rasbak",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+  "primary_photo_alt": "jitrocel větší",
+  "primary_photo_credit": "Rasbak",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

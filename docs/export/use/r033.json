@@ -1,0 +1,119 @@
+{
+  "use_id": "r033",
+  "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
+  "raw_record_id": "R033",
+  "cesky_nazev_display": "javor mléč / javor klen / javor babyka",
+  "cast_rostliny_text": "míza",
+  "cast_rostliny_kategorie": "miza",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "fermentovaný nápoj / sirup / ocet",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "globální analog",
+  "status_znalosti_slug": "globalni_analog",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "listnaté lesy, parky, meze, aleje",
+  "obdobi_ziskani_text": "III–IV",
+  "mesic_od": 3,
+  "mesic_do": 4,
+  "fenologicka_faze": "čerstvě získaná míza",
+  "zpusob_pripravy": "Mízu lze v globálních tradicích fermentovat nebo odpařovat; v českém kontextu spíše experimentální domácí použití.",
+  "cilovy_efekt": "Trvanlivější jarní nápoj nebo sladidlo s regionálně vzdáleným, ale přenositelným modelem.",
+  "chutovy_profil": "jemně sladká až lehce kyselá",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nízká výtěžnost; snadné mikrobiální zkažení při špatné hygieně.",
+  "kontraindikace_interakce": "U fermentace nutná čistota; u sirupu vysoká pracnost a spotřeba energie.",
+  "legalita_poznamka_cr": "Jde o globální analog, ne o pevné české mainstreamové použití.",
+  "dukaznost_typ": "etnobotanika severní a východní Evropy",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát · Kvašení / fermentace · Naložení do octa / ocet",
+  "processing_methods_count": 3,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě získaná míza; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.",
+  "kuratorska_poznamka": "Prakticky zajímavé pro databázi právě jako přenositelný, ale téměř zapomenutý směr.",
+  "vedecky_nazev_hlavni": "Acer platanoides / Acer pseudoplatanus / Acer campestre",
+  "cesky_nazev_hlavni": "javor mléč / javor klen / javor babyka",
+  "status_v_cr_text": "původní, běžné",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
+      "alias": "javor mléč / javor klen / javor babyka",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
+      "alias": "Acer platanoides / Acer pseudoplatanus / Acer campestre",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S02",
+      "nazev": "Uses of tree saps in northern and eastern parts of Europe",
+      "url": "https://www.researchgate.net/publication/234004639_Uses_of_tree_saps_in_northern_and_eastern_parts_of_Europe",
+      "source_family": "researchgate",
+      "poznamka": "Globální analog pro mízu, zejména břízu; aplikovatelné na ČR."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "ocet",
+      "label": "Naložení do octa / ocet",
+      "group_label": "fermentace",
+      "method_order": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Spitz-Ahorn%28mbo%29.jpg",
+      "alt": "javor mléč / javor klen / javor babyka",
+      "caption": "Wikimedia Commons: Acer platanoides / Acer pseudoplatanus / Acer campestre",
+      "credit": "Martin Bobka (= Martin120 )",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Spitz-Ahorn(mbo).jpg",
+      "license": "CC BY-SA 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Spitz-Ahorn%28mbo%29.jpg",
+  "primary_photo_alt": "javor mléč / javor klen / javor babyka",
+  "primary_photo_credit": "Martin Bobka (= Martin120 )",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Spitz-Ahorn(mbo).jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

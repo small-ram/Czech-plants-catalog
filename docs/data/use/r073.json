@@ -1,0 +1,125 @@
+{
+  "use_id": "r073",
+  "plant_id": "plant_prunus_cerasus",
+  "raw_record_id": "R073",
+  "cesky_nazev_display": "višeň obecná",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "sirup / kompot / zavařeniny",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, staré sady, dvory",
+  "obdobi_ziskani_text": "VI–VII",
+  "mesic_od": 6,
+  "mesic_do": 7,
+  "fenologicka_faze": "zralý plod",
+  "zpusob_pripravy": "sirupy, kompoty, džemy, pečení",
+  "cilovy_efekt": "výrazná kyselá složka do nápojů a zavařenin",
+  "chutovy_profil": "kyselý až sladkokyselý",
+  "vonny_profil": "ovocný, výrazný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Pecky nepožívat; rychlá kazivost po sklizni.",
+  "kontraindikace_interakce": "Při citlivosti na kyselé ovoce opatrně; jinak běžná potravina.",
+  "legalita_poznamka_cr": "Sběr běžně legální jen z vlastních nebo povolených stromů.",
+  "dukaznost_typ": "středoevropská ovocnářská tradice",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem · Kompot",
+  "processing_methods_count": 4,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VI–VII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Prunus cerasus",
+  "cesky_nazev_hlavni": "višeň obecná",
+  "status_v_cr_text": "pěstovaná, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_prunus_cerasus",
+      "alias": "višeň obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_prunus_cerasus",
+      "alias": "Prunus cerasus",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 3
+    },
+    {
+      "processing_method_id": "kompot",
+      "label": "Kompot",
+      "group_label": "tepelna_konzervace",
+      "method_order": 4
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cerisier_du_Japon_Prunus_serrulata.jpg",
+      "alt": "višeň obecná",
+      "caption": "Wikimedia Commons: Prunus cerasus",
+      "credit": "Myrabella",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cerisier_du_Japon_Prunus_serrulata.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cerisier_du_Japon_Prunus_serrulata.jpg",
+  "primary_photo_alt": "višeň obecná",
+  "primary_photo_credit": "Myrabella",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Cerisier_du_Japon_Prunus_serrulata.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

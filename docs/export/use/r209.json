@@ -1,0 +1,107 @@
+{
+  "use_id": "r209",
+  "plant_id": "plant_artemisia_vulgaris",
+  "raw_record_id": "R209",
+  "cesky_nazev_display": "pelyněk černobýl",
+  "cast_rostliny_text": "nať",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "hořký bylinný nálev",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "téměř zapomenuté",
+  "status_znalosti_slug": "temer_zapomenute",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "náspy, meze, ruderály, okraje cest",
+  "obdobi_ziskani_text": "VII–VIII",
+  "mesic_od": 7,
+  "mesic_do": 8,
+  "fenologicka_faze": "na počátku kvetení",
+  "zpusob_pripravy": "Nať usušit a používat po malém množství v hořkých čajových směsích.",
+  "cilovy_efekt": "Dlouhodobá zásoba výrazně hořké byliny pro velmi střídmé užití.",
+  "chutovy_profil": "silně hořký, kořenitý",
+  "vonny_profil": "silně bylinný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Snadné předávkování chutí i účinkem; není vhodný jako běžný pitný čaj.",
+  "kontraindikace_interakce": "Nevhodné v těhotenství; opatrnost u citlivých osob a u dětí.",
+  "legalita_poznamka_cr": "Sběr běžně možný mimo znečištěná místa.",
+  "dukaznost_typ": "folklórní bylinná praxe / botanický zdroj",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: na počátku kvetení; v datech je pro něj vedené období VII–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Zařazeno spíš jako kurátorský a zapomenutý typ užití než jako univerzální doporučení.",
+  "vedecky_nazev_hlavni": "Artemisia vulgaris",
+  "cesky_nazev_hlavni": "pelyněk černobýl",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Silná bylina, malé spotřeby, proto vydrží dlouho.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_artemisia_vulgaris",
+      "alias": "pelyněk černobýl",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_artemisia_vulgaris",
+      "alias": "Artemisia vulgaris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S68",
+      "nazev": "PFAF: Artemisia vulgaris",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Artemisia+vulgaris",
+      "source_family": "pfaf",
+      "poznamka": "Pelyněk černobýl – kulinární, aromatické a tradiční použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ArtemisiaVulgaris.jpg",
+      "alt": "pelyněk černobýl",
+      "caption": "Wikimedia Commons: Artemisia vulgaris",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ArtemisiaVulgaris.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/ArtemisiaVulgaris.jpg",
+  "primary_photo_alt": "pelyněk černobýl",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:ArtemisiaVulgaris.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,88 @@
+{
+  "plant_id": "plant_beta_vulgaris",
+  "vedecky_nazev_hlavni": "Beta vulgaris",
+  "vedecky_nazev_display": "Beta vulgaris",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "řepa červená",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_puvodni": 0,
+  "status_zdomacnely": 0,
+  "status_pestovany": 1,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_pouziti": 1,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_beta_vulgaris",
+      "alias": "řepa červená",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_beta_vulgaris",
+      "alias": "Beta vulgaris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r095",
+      "raw_record_id": "R095",
+      "domena": "potrava a pití",
+      "poddomena_text": "vařená / pečená / kvas",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "kořen",
+      "cast_rostliny_kategorie": "podzemni_cast",
+      "obdobi_ziskani_text": "VII–III",
+      "cilovy_efekt": "výživná kořenová zelenina s možností nápojového využití",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Kvašení / fermentace · Nakládání",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálý kořen; v datech je pro něj vedené období VII–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Beetseeds3d.jpg",
+      "alt": "řepa červená",
+      "caption": "Wikimedia Commons: Beta vulgaris",
+      "credit": "John Alan Elson",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Beetseeds3d.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 1,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 4
+  }
+}

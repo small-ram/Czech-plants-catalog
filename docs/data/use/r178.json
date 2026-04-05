@@ -1,0 +1,113 @@
+{
+  "use_id": "r178",
+  "plant_id": "plant_betula_pendula_betula_pubescens",
+  "raw_record_id": "R178",
+  "cesky_nazev_display": "bříza bělokorá / pýřitá",
+  "cast_rostliny_text": "míza",
+  "cast_rostliny_kategorie": "miza",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "březový ocet",
+  "poddomena_kategorie": "ocet",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "paseky, lesní okraje, písčiny, vřesoviště, zahrady, remízky",
+  "obdobi_ziskani_text": "III–IV",
+  "mesic_od": 3,
+  "mesic_do": 4,
+  "fenologicka_faze": "silný jarní tok mízy",
+  "zpusob_pripravy": "Čerstvou mízu nechat kontrolovaně zkvasit a převést do octové formy; skladovat v lahvích.",
+  "cilovy_efekt": "Způsob, jak velmi krátce dostupnou mízu převést do dlouhodobější formy.",
+  "chutovy_profil": "jemně kyselý, lehce dřevitý",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Riziko kontaminace a neúspěšného kvašení; mízu nelze odebírat invazivně bez poškození stromu.",
+  "kontraindikace_interakce": "Kyselé produkty mohou dráždit citlivý žaludek či zuby.",
+  "legalita_poznamka_cr": "Preferovat neinvazivní sběr nebo vlastní stromy; nevrtat bezdůvodně cizí dřeviny.",
+  "dukaznost_typ": "etnobotanika severní a východní Evropy",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Kvašení / fermentace · Naložení do octa / ocet",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: silný jarní tok mízy; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.",
+  "kuratorska_poznamka": "Ocet je výrazně trvanlivější než čerstvá míza.",
+  "vedecky_nazev_hlavni": "Betula pendula / Betula pubescens",
+  "cesky_nazev_hlavni": "bříza bělokorá / pýřitá",
+  "status_v_cr_text": "původní, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "ocet / octové kvašení",
+  "orientacni_trvanlivost_text": "6–12+ měsíců",
+  "poznamka_k_skladovani": "Ocet je výrazně trvanlivější než čerstvá míza.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_betula_pendula_betula_pubescens",
+      "alias": "bříza bělokorá / pýřitá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_betula_pendula_betula_pubescens",
+      "alias": "Betula pendula / Betula pubescens",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S02",
+      "nazev": "Uses of tree saps in northern and eastern parts of Europe",
+      "url": "https://www.researchgate.net/publication/234004639_Uses_of_tree_saps_in_northern_and_eastern_parts_of_Europe",
+      "source_family": "researchgate",
+      "poznamka": "Globální analog pro mízu, zejména břízu; aplikovatelné na ČR."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "ocet",
+      "label": "Naložení do octa / ocet",
+      "group_label": "fermentace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Betula_pendula_Finland.jpg",
+      "alt": "bříza bělokorá / pýřitá",
+      "caption": "Wikimedia Commons: Betula pendula / Betula pubescens",
+      "credit": "Percita at Flickr",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
+      "license": "CC BY-SA 2.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Betula_pendula_Finland.jpg",
+  "primary_photo_alt": "bříza bělokorá / pýřitá",
+  "primary_photo_credit": "Percita at Flickr",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

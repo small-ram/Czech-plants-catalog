@@ -1,0 +1,107 @@
+{
+  "use_id": "r204",
+  "plant_id": "plant_origanum_vulgare",
+  "raw_record_id": "R204",
+  "cesky_nazev_display": "dobromysl obecná",
+  "cast_rostliny_text": "nať",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "sušená nať jako koření",
+  "poddomena_kategorie": "koreni_dochucovadlo",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "suché stráně, meze, lesní lemy, zahrady, kamenité trávníky",
+  "obdobi_ziskani_text": "VII–IX",
+  "mesic_od": 7,
+  "mesic_do": 9,
+  "fenologicka_faze": "počátek kvetení až plné kvetení",
+  "zpusob_pripravy": "Nať usušit rychle ve stínu a uchovat v těsnící nádobě jako koření.",
+  "cilovy_efekt": "Velmi praktická trvanlivá aromatická zásoba z běžné byliny.",
+  "chutovy_profil": "teplý, kořenitý, lehce hořký",
+  "vonny_profil": "výrazně bylinný, oreganový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Přesušení na slunci snižuje aroma.",
+  "kontraindikace_interakce": "V běžném kulinárním množství bez zásadních problémů.",
+  "legalita_poznamka_cr": "Šetrný sběr z běžných lokalit nebo pěstování.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj / evropská kulinární praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: počátek kvetení až plné kvetení; v datech je pro něj vedené období VII–IX. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Ve sklenici nebo papírovém sáčku v suchu vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Origanum vulgare",
+  "cesky_nazev_hlavni": "dobromysl obecná",
+  "status_v_cr_text": "původní/pěstovaná, lokálně běžná",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Jako koření drží při suchu a temnu dobře.",
+  "proc_je_v_jadru": "běžná bylina s výbornou skladovatelností a chutí",
+  "aliases": [
+    {
+      "plant_id": "plant_origanum_vulgare",
+      "alias": "dobromysl obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_origanum_vulgare",
+      "alias": "Origanum vulgare",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S70",
+      "nazev": "PFAF: Origanum vulgare",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Origanum+vulgare",
+      "source_family": "pfaf",
+      "poznamka": "Dobromysl/oregano – koření, čaj a aromatické použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Origanum_vulgare_-_harilik_pune.jpg",
+      "alt": "dobromysl obecná",
+      "caption": "Wikimedia Commons: Origanum vulgare",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Origanum_vulgare_-_harilik_pune.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Origanum_vulgare_-_harilik_pune.jpg",
+  "primary_photo_alt": "dobromysl obecná",
+  "primary_photo_credit": "Ivar Leidus",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Origanum_vulgare_-_harilik_pune.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_allium_cepa",
+  "vedecky_nazev_hlavni": "Allium cepa",
+  "vedecky_nazev_display": "Allium cepa",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "cibule kuchyňská",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_puvodni": 0,
+  "status_zdomacnely": 0,
+  "status_pestovany": 1,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_allium_cepa",
+      "alias": "cibule kuchyňská",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_allium_cepa",
+      "alias": "Allium cepa",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r087",
+      "raw_record_id": "R087",
+      "domena": "fytoterapie",
+      "poddomena_text": "cibulový sirup / tradiční domácí užití",
+      "poddomena_kategorie": "sirup_koncentrat",
+      "cast_rostliny_text": "cibule",
+      "cast_rostliny_kategorie": "podzemni_cast",
+      "obdobi_ziskani_text": "celoročně",
+      "cilovy_efekt": "tradiční domácí podpůrné použití při kašli a nachlazení",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sirup / koncentrát",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálá cibule; v datech je pro něj vedené období celoročně. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r086",
+      "raw_record_id": "R086",
+      "domena": "potrava",
+      "poddomena_text": "syrová / vařená / základ kuchyně",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "cibule",
+      "cast_rostliny_kategorie": "podzemni_cast",
+      "obdobi_ziskani_text": "VII–III",
+      "cilovy_efekt": "základní zeleninová a aromatická surovina české kuchyně",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálá cibule; v datech je pro něj vedené období VII–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mixed_onions.jpg",
+      "alt": "cibule kuchyňská",
+      "caption": "Wikimedia Commons: Allium cepa",
+      "credit": "Colin",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 4
+  }
+}

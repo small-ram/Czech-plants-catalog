@@ -1,0 +1,121 @@
+{
+  "use_id": "r200",
+  "plant_id": "plant_ribes_rubrum",
+  "raw_record_id": "R200",
+  "cesky_nazev_display": "rybíz červený",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "rybízové želé",
+  "poddomena_kategorie": "zavarenina",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, drobné ovocné výsadby",
+  "obdobi_ziskani_text": "VII–VIII",
+  "mesic_od": 7,
+  "mesic_do": 8,
+  "fenologicka_faze": "plně vyzrálé plody",
+  "zpusob_pripravy": "Šťávu nebo celé plody zavařit na želé s využitím přirozeného pektinu.",
+  "cilovy_efekt": "Jedna z nejpraktičtějších trvanlivých forem červeného rybízu.",
+  "chutovy_profil": "výrazně kyselý, rybízový",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nedostatečné zavaření zkracuje trvanlivost.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí v běžném potravním užití.",
+  "legalita_poznamka_cr": "Běžné domácí zpracování.",
+  "dukaznost_typ": "středoevropská kuchyňská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody; v datech je pro něj vedené období VII–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Při správném zavaření běžně vydrží mnoho měsíců.",
+  "vedecky_nazev_hlavni": "Ribes rubrum",
+  "cesky_nazev_hlavni": "rybíz červený / bílý",
+  "status_v_cr_text": "pěstovaný, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": "zavařenina",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Při správném zavaření běžně vydrží mnoho měsíců.",
+  "proc_je_v_jadru": "silně pektinové a spolehlivé želé",
+  "aliases": [
+    {
+      "plant_id": "plant_ribes_rubrum",
+      "alias": "rybíz červený / bílý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_ribes_rubrum",
+      "alias": "rybíz červený",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_ribes_rubrum",
+      "alias": "Ribes rubrum",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_rubrum_1.jpg",
+      "alt": "rybíz červený / bílý",
+      "caption": "Wikimedia Commons: Ribes rubrum",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ribes_rubrum_1.jpg",
+      "license": "Public domain",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_rubrum_1.jpg",
+  "primary_photo_alt": "rybíz červený / bílý",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Ribes_rubrum_1.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,107 @@
+{
+  "use_id": "r175",
+  "plant_id": "plant_corylus_avellana",
+  "raw_record_id": "R175",
+  "cesky_nazev_display": "líska obecná",
+  "cast_rostliny_text": "ořech",
+  "cast_rostliny_kategorie": "semena_a_orisky",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "olej z lískových ořechů",
+  "poddomena_kategorie": "olej",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "lesní okraje, křoviny, meze, zahrady",
+  "obdobi_ziskani_text": "IX–X",
+  "mesic_od": 9,
+  "mesic_do": 10,
+  "fenologicka_faze": "plně vyzrálé suché ořechy",
+  "zpusob_pripravy": "Z jader lisovat jedlý olej; uchovávat v dobře uzavřené lahvi v chladu.",
+  "cilovy_efekt": "Koncentrovaná trvanlivá forma využití ořechů.",
+  "chutovy_profil": "jemně oříškový",
+  "vonny_profil": "oříškový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Olej může žluknout při teple a světle.",
+  "kontraindikace_interakce": "Alergie na lískové ořechy se mohou projevit i zde.",
+  "legalita_poznamka_cr": "Prakticky spíše domácí lis nebo nákup; sběr ořechů běžný.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Skladování v chladu",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé suché ořechy; v datech je pro něj vedené období IX–X. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobře uložený olej vydrží měsíce, ale je citlivější než celé ořechy.",
+  "vedecky_nazev_hlavni": "Corylus avellana",
+  "cesky_nazev_hlavni": "líska obecná",
+  "status_v_cr_text": "původní, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "olej",
+  "orientacni_trvanlivost_text": "3–6 měsíců",
+  "poznamka_k_skladovani": "Dobře uložený olej vydrží měsíce, ale je citlivější než celé ořechy.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_corylus_avellana",
+      "alias": "líska obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_corylus_avellana",
+      "alias": "Corylus avellana",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S55",
+      "nazev": "PFAF: Corylus avellana",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Corylus+avellana",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro lísku, skladování ořechů a olej."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "chlazene_skladovani",
+      "label": "Skladování v chladu",
+      "group_label": "chlad",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Corylus_avellana.jpg",
+      "alt": "líska obecná",
+      "caption": "Wikimedia Commons: Corylus avellana",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Corylus_avellana.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Corylus_avellana.jpg",
+  "primary_photo_alt": "líska obecná",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Corylus_avellana.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

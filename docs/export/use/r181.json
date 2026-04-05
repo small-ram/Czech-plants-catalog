@@ -1,0 +1,107 @@
+{
+  "use_id": "r181",
+  "plant_id": "plant_quercus_robur_q_petraea_q_pubescens",
+  "raw_record_id": "R181",
+  "cesky_nazev_display": "dub",
+  "cast_rostliny_text": "kůra",
+  "cast_rostliny_kategorie": "drevnata_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "sušená dubová kůra do zásoby",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "dubiny, parky, remízky; v praxi spíše lékárenská droga",
+  "obdobi_ziskani_text": "jaro",
+  "mesic_od": 3,
+  "mesic_do": 5,
+  "fenologicka_faze": "kůra z vhodné drogy, v praxi spíše nakoupená",
+  "zpusob_pripravy": "Usušenou kůru skladovat pro pozdější odvar, koupel nebo kloktadlo.",
+  "cilovy_efekt": "Dlouhodobě použitelná tříslovinová droga pro krátkodobé zevní či střevní tradiční užití.",
+  "chutovy_profil": "výrazně trpký",
+  "vonny_profil": "slabý kůrový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nadměrná samoléčba nevhodná; sběr kůry z živých stromů je problematický.",
+  "kontraindikace_interakce": "Pozor u déletrvajících potíží; držet krátkodobé použití.",
+  "legalita_poznamka_cr": "V praxi preferovat lékárenskou drogu; divoké stromy nepoškozovat.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: kůra z vhodné drogy, v praxi spíše nakoupená; v datech je pro něj vedené období jaro. Kůru neber dokola z kmene; šetrnější je odběr z menších větví nebo z materiálu určeného k řezu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Usušená droga je skladovatelná déle než měsíc.",
+  "vedecky_nazev_hlavni": "Quercus robur / Q. petraea / Q. pubescens",
+  "cesky_nazev_hlavni": "dub",
+  "status_v_cr_text": "původní",
+  "status_cetnost_reprezentativni": "neurceno",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Usušená droga je skladovatelná déle než měsíc.",
+  "proc_je_v_jadru": "silně praktická skladovatelná kůra pro domácí zásobu",
+  "aliases": [
+    {
+      "plant_id": "plant_quercus_robur_q_petraea_q_pubescens",
+      "alias": "dub",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_quercus_robur_q_petraea_q_pubescens",
+      "alias": "Quercus robur / Q. petraea / Q. pubescens",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S10",
+      "nazev": "EMA: Quercus cortex monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-quercus-robur-l-quercus-petraea-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie dubové kůry."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_robur.jpg",
+      "alt": "dub",
+      "caption": "Wikimedia Commons: Quercus robur / Q. petraea / Q. pubescens",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_robur.jpg",
+  "primary_photo_alt": "dub",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

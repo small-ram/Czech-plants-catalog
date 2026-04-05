@@ -1,0 +1,139 @@
+{
+  "plant_id": "plant_corylus_avellana",
+  "vedecky_nazev_hlavni": "Corylus avellana",
+  "vedecky_nazev_display": "Corylus avellana",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "líska obecná",
+  "status_v_cr_text": "původní, běžná",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 3,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_corylus_avellana",
+      "alias": "líska obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_corylus_avellana",
+      "alias": "Corylus avellana",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r174",
+      "raw_record_id": "R174",
+      "domena": "potrava",
+      "poddomena_text": "skladované ořechy ve skořápce",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "ořech",
+      "cast_rostliny_kategorie": "semena_a_orisky",
+      "obdobi_ziskani_text": "IX–X",
+      "cilovy_efekt": "Jedna z nejpraktičtějších dlouhodobých lesních a zahradních zásob energie.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Skladování v chladu",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé ořechy po opadu nebo snadném uvolnění; v datech je pro něj vedené období IX–X. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "suché skladování ve skořápce",
+      "orientacni_trvanlivost_text": "6–12+ měsíců"
+    },
+    {
+      "use_id": "r175",
+      "raw_record_id": "R175",
+      "domena": "potrava",
+      "poddomena_text": "olej z lískových ořechů",
+      "poddomena_kategorie": "olej",
+      "cast_rostliny_text": "ořech",
+      "cast_rostliny_kategorie": "semena_a_orisky",
+      "obdobi_ziskani_text": "IX–X",
+      "cilovy_efekt": "Koncentrovaná trvanlivá forma využití ořechů.",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Skladování v chladu",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé suché ořechy; v datech je pro něj vedené období IX–X. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "olej",
+      "orientacni_trvanlivost_text": "3–6 měsíců"
+    },
+    {
+      "use_id": "r065",
+      "raw_record_id": "R065",
+      "domena": "potrava",
+      "poddomena_text": "čerstvý ořech / sušení / pasta / mléko",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "ořech",
+      "cast_rostliny_kategorie": "semena_a_orisky",
+      "obdobi_ziskani_text": "VIII–X",
+      "cilovy_efekt": "Energeticky bohatý lesní plod s vysokou univerzalitou.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralé ořechy po opadávání nebo snadném uvolnění; v datech je pro něj vedené období VIII–X. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S55",
+      "nazev": "PFAF: Corylus avellana",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Corylus+avellana",
+      "source_family": "pfaf",
+      "use_count": 2
+    },
+    {
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Corylus_avellana.jpg",
+      "alt": "líska obecná",
+      "caption": "Wikimedia Commons: Corylus avellana",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Corylus_avellana.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 3,
+    "durable_use_count": 2,
+    "core_use_count": 1,
+    "processing_use_count": 3,
+    "top_evidence_rank": 4
+  }
+}

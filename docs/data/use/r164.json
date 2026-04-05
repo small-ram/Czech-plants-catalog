@@ -1,0 +1,107 @@
+{
+  "use_id": "r164",
+  "plant_id": "plant_mespilus_germanica",
+  "raw_record_id": "R164",
+  "cesky_nazev_display": "mišpule obecná",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "uleželé plody do sklepa / bletting",
+  "poddomena_kategorie": "zavarenina",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "staré zahrady, sbírkové sady, teplejší polohy",
+  "obdobi_ziskani_text": "X–XI",
+  "mesic_od": 10,
+  "mesic_do": 11,
+  "fenologicka_faze": "plody po sklizni před úplným změknutím",
+  "zpusob_pripravy": "Skladovat v chladnu a nechat dojít do jedlé uleželosti; poté jíst nebo zpracovat.",
+  "cilovy_efekt": "Neobvyklý způsob přirozeného „zrání ve skladu“, který prodlužuje využitelnost plodů.",
+  "chutovy_profil": "sladký, jablečno-datlový, kašovitý",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Snadné přehlédnout přechod mezi uležením a kažení; vyžaduje dohled.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí.",
+  "legalita_poznamka_cr": "Pěstovaná a vzácnější dřevina; sběr hlavně z vlastních zdrojů.",
+  "dukaznost_typ": "přehledový odborný zdroj k zapomenutému ovoci",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Zavaření / sterilace ve sklenici",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plody po sklizni před úplným změknutím; v datech je pro něj vedené období X–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Při chladném uložení dává okno využití delší než měsíc.",
+  "vedecky_nazev_hlavni": "Mespilus germanica",
+  "cesky_nazev_hlavni": "mišpule obecná",
+  "status_v_cr_text": "pěstovaná, vzácnější",
+  "status_cetnost_reprezentativni": "vzacnejsi",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "zavařenina",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Při chladném uložení dává okno využití delší než měsíc.",
+  "proc_je_v_jadru": "jedna z nejlepších „výletových“ kyselých zavařenin",
+  "aliases": [
+    {
+      "plant_id": "plant_mespilus_germanica",
+      "alias": "mišpule obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_mespilus_germanica",
+      "alias": "Mespilus germanica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S25",
+      "nazev": "Medlar — A Comprehensive and Integrative Review (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8622783/",
+      "source_family": "pmc",
+      "poznamka": "Přehledový zdroj k mišpuli; zapomenuté ovoce, využití a složení."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Medlar_pomes_and_leaves.jpg",
+      "alt": "mišpule obecná",
+      "caption": "Wikimedia Commons: Mespilus germanica",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Medlar_pomes_and_leaves.jpg",
+      "license": "CC BY-SA 2.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Medlar_pomes_and_leaves.jpg",
+  "primary_photo_alt": "mišpule obecná",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Medlar_pomes_and_leaves.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

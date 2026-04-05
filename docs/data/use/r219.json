@@ -1,0 +1,121 @@
+{
+  "use_id": "r219",
+  "plant_id": "plant_taraxacum_officinale_agg",
+  "raw_record_id": "R219",
+  "cesky_nazev_display": "pampeliška lékařská",
+  "cast_rostliny_text": "květ",
+  "cast_rostliny_kategorie": "kvetni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "pampeliškový sirup / „med“",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "louky, trávníky, sady, meze",
+  "obdobi_ziskani_text": "IV–V",
+  "mesic_od": 4,
+  "mesic_do": 5,
+  "fenologicka_faze": "plně otevřené květy za sucha",
+  "zpusob_pripravy": "Květy převařit či vylouhovat, zkoncentrovat s cukrem a zavařit.",
+  "cilovy_efekt": "Praktický způsob uchování velmi krátké květní sezóny.",
+  "chutovy_profil": "sladký, lehce bylinný, květový",
+  "vonny_profil": "jemně květový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Květy z městských a psích ploch nejsou vhodné; příliš řídký sirup má kratší trvanlivost.",
+  "kontraindikace_interakce": "Vysoký obsah cukru; nejde o léčivý přípravek.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých ploch.",
+  "dukaznost_typ": "tradiční domácí praxe + botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně otevřené květy za sucha; v datech je pro něj vedené období IV–V. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobře uzavřený sirup běžně vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Taraxacum officinale agg.",
+  "cesky_nazev_hlavni": "pampeliška lékařská",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": "sirup / zavaření",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Dle koncentrace cukru a zavaření běžně drží měsíce.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_taraxacum_officinale_agg",
+      "alias": "pampeliška lékařská",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 6
+    },
+    {
+      "plant_id": "plant_taraxacum_officinale_agg",
+      "alias": "pampeliška / smetanka",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_taraxacum_officinale_agg",
+      "alias": "Taraxacum officinale agg.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 7
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S61",
+      "nazev": "PFAF: Taraxacum officinale",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro pampelišku a pražený kořen."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/T.%20officinale.jpg",
+      "alt": "Pampeliška lékařská",
+      "caption": "Wikimedia Commons: Taraxacum officinale",
+      "credit": "Enbéká",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
+      "license": "",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/T.%20officinale.jpg",
+  "primary_photo_alt": "Pampeliška lékařská",
+  "primary_photo_credit": "Enbéká",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

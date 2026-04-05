@@ -9,6 +9,7 @@ Aktuální stav k 5. dubnu 2026:
 - existuje kanonický `v7` dataset
 - existuje SQLite databáze pro lokální dotazy a appku
 - existuje lokální webová aplikace pro search, plant galerii a detail stránky
+- existuje veřejný statický GitHub Pages build v `docs/`
 - existuje explicitní vrstva více metod dlouhodobého potravinového zpracování
 - dubnový repertoár obsahuje i niche a ultra-niche druhy
 - media vrstva pokrývá všech `105` rostlin skutečnými fotkami se zdrojem
@@ -47,6 +48,10 @@ Aktuální stav k 5. dubnu 2026:
   lokální katalog aplikace
 - `app/media/`
   media manifest a lokální fallback soubory
+- `docs/`
+  veřejný statický web pro GitHub Pages
+- `.github/workflows/deploy-pages.yml`
+  automatický deploy workflow pro GitHub Pages
 
 ## Nejrychlejší workflow
 
@@ -61,6 +66,7 @@ To spustí:
 - export workbooku
 - build kanonického datasetu
 - build SQLite
+- build veřejného GitHub Pages webu do `docs/`
 - smoke check nad výslednou databází
 
 Smoke check dnes ověřuje:
@@ -144,6 +150,22 @@ python .\app\catalog_server.py
 Výchozí adresa:
 
 - `http://127.0.0.1:8765`
+
+### Veřejná webová verze
+
+GitHub repo:
+
+- `https://github.com/small-ram/Czech-plants-catalog`
+
+GitHub Pages build:
+
+- build skript: `python .\scripts\build_pages_site.py`
+- výstup: `docs/`
+- deploy workflow: `.github/workflows/deploy-pages.yml`
+
+Cílová veřejná URL:
+
+- `https://small-ram.github.io/Czech-plants-catalog/`
 
 ## Důležité dokumenty
 

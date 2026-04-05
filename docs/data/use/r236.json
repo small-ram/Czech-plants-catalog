@@ -1,0 +1,107 @@
+{
+  "use_id": "r236",
+  "plant_id": "plant_plantago_lanceolata",
+  "raw_record_id": "R236",
+  "cesky_nazev_display": "jitrocel kopinatý",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "sušený list do zásoby",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "louky, meze, trávníky, okraje cest",
+  "obdobi_ziskani_text": "V–VIII",
+  "mesic_od": 5,
+  "mesic_do": 8,
+  "fenologicka_faze": "zdravé listy před přestárnutím",
+  "zpusob_pripravy": "List usušit a uchovat pro pozdější nálevy nebo směsi.",
+  "cilovy_efekt": "Jedna z nejpraktičtějších a nejsnáze dostupných sušených domácích drog.",
+  "chutovy_profil": "jemný, lehce travnatý",
+  "vonny_profil": "slabý bylinný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Vlhké sušení snižuje kvalitu; listy snadno tmavnou.",
+  "kontraindikace_interakce": "Při závažnějších symptomech nestačí domácí léčba.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých ploch.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravé listy před přestárnutím; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Přidáno jako explicitně skladovatelná forma, ne jen obecná léčivka.",
+  "vedecky_nazev_hlavni": "Plantago lanceolata",
+  "cesky_nazev_hlavni": "jitrocel kopinatý",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "List jako sušená droga běžně vydrží po celé zimní období.",
+  "proc_je_v_jadru": "velmi snadná a spolehlivá domácí léčivá zásoba",
+  "aliases": [
+    {
+      "plant_id": "plant_plantago_lanceolata",
+      "alias": "jitrocel kopinatý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_plantago_lanceolata",
+      "alias": "Plantago lanceolata",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S18",
+      "nazev": "EMA: Plantago lanceolata folium assessment report / monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální podklad k jitroceli kopinatému; kašel, oromukózní a kožní užití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribwort_600.jpg",
+      "alt": "jitrocel kopinatý",
+      "caption": "Wikimedia Commons: Plantago lanceolata",
+      "credit": "sannse",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ribwort_600.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribwort_600.jpg",
+  "primary_photo_alt": "jitrocel kopinatý",
+  "primary_photo_credit": "sannse",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Ribwort_600.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

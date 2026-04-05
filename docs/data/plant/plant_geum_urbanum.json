@@ -1,0 +1,139 @@
+{
+  "plant_id": "plant_geum_urbanum",
+  "vedecky_nazev_hlavni": "Geum urbanum",
+  "vedecky_nazev_display": "Geum urbanum",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "kuklík městský",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_pouziti": 3,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_geum_urbanum",
+      "alias": "kuklík městský",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_geum_urbanum",
+      "alias": "Geum urbanum",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r230",
+      "raw_record_id": "R230",
+      "domena": "pití",
+      "poddomena_text": "sušený kořen do odvaru nebo svařených nápojů",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "kořen",
+      "cast_rostliny_kategorie": "podzemni_cast",
+      "obdobi_ziskani_text": "III–V a IX–XI",
+      "cilovy_efekt": "Dlouhodobě skladovatelný aromatický „wild spice“ pro nápoje.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě očištěný aromatický kořen; v datech je pro něj vedené období III–V a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r229",
+      "raw_record_id": "R229",
+      "domena": "potrava",
+      "poddomena_text": "sušený kořen jako koření s hřebíčkovým tónem",
+      "poddomena_kategorie": "koreni_dochucovadlo",
+      "cast_rostliny_text": "kořen",
+      "cast_rostliny_kategorie": "podzemni_cast",
+      "obdobi_ziskani_text": "III–V a IX–XI",
+      "cilovy_efekt": "Jedna z nejlepších zapomenutých kořenných zásob z běžných procházek.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: aromatický kořen nejlépe na jaře nebo na podzim; v datech je pro něj vedené období III–V a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r231",
+      "raw_record_id": "R231",
+      "domena": "vůně",
+      "poddomena_text": "usušený kořen do prádla a skříní",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "kořen",
+      "cast_rostliny_kategorie": "podzemni_cast",
+      "obdobi_ziskani_text": "III–V a IX–XI",
+      "cilovy_efekt": "Trvanlivý aromatický a repelenční detail z téměř zapomenuté domácí praxe.",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě vykopaný aromatický kořen; v datech je pro něj vedené období III–V a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušený aromatický sáček",
+      "orientacni_trvanlivost_text": "3–12 měsíců"
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S74",
+      "nazev": "PFAF: Geum urbanum",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Geum+urbanum",
+      "source_family": "pfaf",
+      "use_count": 3
+    },
+    {
+      "raw_source_id": "S75",
+      "nazev": "Practical Plants: Geum urbanum",
+      "url": "https://practicalplants.org/wiki/geum_urbanum/",
+      "source_family": "practicalplants_org",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29_Geum_urbanum_-_Habit.jpg",
+      "alt": "kuklík městský",
+      "caption": "Wikimedia Commons: Geum urbanum",
+      "credit": "Didier Descouens",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Geum_urbanum_-_Habit.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 3,
+    "durable_use_count": 3,
+    "core_use_count": 2,
+    "processing_use_count": 3,
+    "top_evidence_rank": 4
+  }
+}

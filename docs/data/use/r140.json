@@ -1,0 +1,128 @@
+{
+  "use_id": "r140",
+  "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+  "raw_record_id": "R140",
+  "cesky_nazev_display": "hloh obecný / jednosemenný",
+  "cast_rostliny_text": "malvice",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "povidla / želé / sušený plod",
+  "poddomena_kategorie": "zavarenina",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "meze, křoviny, lesní lemy, staré sady, remízky",
+  "obdobi_ziskani_text": "IX–X",
+  "mesic_od": 9,
+  "mesic_do": 10,
+  "fenologicka_faze": "plně vybarvený měkčí plod",
+  "zpusob_pripravy": "Plody po tepelné úpravě na protlaky, želé nebo ovocnou kůži; syrové bývají moučnaté.",
+  "cilovy_efekt": "podzimní plané ovoce",
+  "chutovy_profil": "moučnatě sladká, trpká",
+  "vonny_profil": "slabá ovocná",
+  "palivovy_potencial_text": "neaplikovateln?",
+  "hlavni_rizika": "pecky, trpkost a pracnost; sběr mimo prašné silnice",
+  "kontraindikace_interakce": null,
+  "legalita_poznamka_cr": "běžný nechráněný druh",
+  "dukaznost_typ": "etnobotanika + oficiální monografie pro jinou část drogy",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 3,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvený měkčí plod; v datech je pro něj vedené období IX–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Plody jsou prakticky využitelné, ale sbírá je málo kdo.",
+  "vedecky_nazev_hlavni": "Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.",
+  "cesky_nazev_hlavni": "hloh obecný / jednosemenný",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+      "alias": "hloh obecný / jednosemenný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+      "alias": "Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S32",
+      "nazev": "EMA: Crataegus spp. folium cum flore monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie hlohového listu s květem."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20of%20Crataegus%20monogyna.jpg",
+      "alt": "Listy hlohu obecného",
+      "caption": "Wikimedia Commons: Crataegus monogyna leaves",
+      "credit": "Krzysztof Golik",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leaves_of_Crataegus_monogyna.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20of%20Crataegus%20monogyna.jpg",
+  "primary_photo_alt": "Listy hlohu obecného",
+  "primary_photo_credit": "Krzysztof Golik",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Leaves_of_Crataegus_monogyna.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

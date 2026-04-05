@@ -1,0 +1,113 @@
+{
+  "use_id": "r201",
+  "plant_id": "plant_juglans_regia",
+  "raw_record_id": "R201",
+  "cesky_nazev_display": "ořešák královský",
+  "cast_rostliny_text": "semeno / jádro",
+  "cast_rostliny_kategorie": "semena_a_orisky",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "sušené ořechy ve skořápce nebo vyloupané",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "sady, zahrady, aleje, starší vesnické zahrady",
+  "obdobi_ziskani_text": "IX–X",
+  "mesic_od": 9,
+  "mesic_do": 10,
+  "fenologicka_faze": "plně zralé ořechy po otevření zeleného oplodí",
+  "zpusob_pripravy": "Ořechy dosušit; ve skořápce nebo dobře usušené vyloupané skladovat v suchu a chladu.",
+  "cilovy_efekt": "Vysoce praktická dlouhodobá zásoba tuku, chuti a energie.",
+  "chutovy_profil": "olejnatý, jemně nahořklý, ořechový",
+  "vonny_profil": "jemně ořechový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Žluknutí při teple a vlhku; plísně u špatně dosušených ořechů.",
+  "kontraindikace_interakce": "Alergie na ořechy.",
+  "legalita_poznamka_cr": "Běžné pěstování a sběr z vlastních nebo dostupných stromů.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj / potravní praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení · Skladování v chladu",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé ořechy po otevření zeleného oplodí; v datech je pro něj vedené období IX–X. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Ve skořápce vydrží zpravidla déle než vyloupaná jádra.",
+  "vedecky_nazev_hlavni": "Juglans regia",
+  "cesky_nazev_hlavni": "ořešák královský",
+  "status_v_cr_text": "pěstovaný, místy zplaňující, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení / skladování v chladu",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Ve skořápce nebo dobře vysušené vyloupané jádro vydrží při chladu a suchu měsíce.",
+  "proc_je_v_jadru": "vysoká dostupnost a vysoká kalorická i kuchyňská hodnota",
+  "aliases": [
+    {
+      "plant_id": "plant_juglans_regia",
+      "alias": "ořešák královský",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_juglans_regia",
+      "alias": "Juglans regia",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S66",
+      "nazev": "PFAF: Juglans regia",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Juglans+regia",
+      "source_family": "pfaf",
+      "poznamka": "Ořešák – potravní a tradiční léčebná použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "chlazene_skladovani",
+      "label": "Skladování v chladu",
+      "group_label": "chlad",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Noyer_centenaire_en_automne.JPG",
+      "alt": "ořešák královský",
+      "caption": "Wikimedia Commons: Juglans regia",
+      "credit": "Thesupermat",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Noyer_centenaire_en_automne.JPG",
+  "primary_photo_alt": "ořešák královský",
+  "primary_photo_credit": "Thesupermat",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

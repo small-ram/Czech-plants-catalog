@@ -1,0 +1,107 @@
+{
+  "use_id": "r203",
+  "plant_id": "plant_juglans_regia",
+  "raw_record_id": "R203",
+  "cesky_nazev_display": "ořešák královský",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "sušený list pro zevní oplachy a koupele",
+  "poddomena_kategorie": "zevni_aplikace",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "zahrady, sady, teplejší oblasti",
+  "obdobi_ziskani_text": "VI–VIII",
+  "mesic_od": 6,
+  "mesic_do": 8,
+  "fenologicka_faze": "zdravé plně vyvinuté listy",
+  "zpusob_pripravy": "List usušit a později použít do koupelí nebo oplachů pro drobné kožní potíže a pocení.",
+  "cilovy_efekt": "Dlouhodobě skladovatelná zevní droga.",
+  "chutovy_profil": "hořký, trpký",
+  "vonny_profil": "slabě pryskyřičný, listový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nevhodné zaměňovat s potravním čajem; list rychle ztrácí kvalitu při vlhku.",
+  "kontraindikace_interakce": "Pouze zevně; při zhoršování stavu vyhledat lékaře.",
+  "legalita_poznamka_cr": "Běžné pěstování; sbírat čisté listy.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravé plně vyvinuté listy; v datech je pro něj vedené období VI–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Praktické hlavně jako sušená sezónní zásoba pro zevní použití.",
+  "vedecky_nazev_hlavni": "Juglans regia",
+  "cesky_nazev_hlavni": "ořešák královský",
+  "status_v_cr_text": "pěstovaný, místy zplaňující, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Správně usušený list vydrží měsíce pro zevní použití.",
+  "proc_je_v_jadru": "oficiálně podložená skladovatelná zevní droga",
+  "aliases": [
+    {
+      "plant_id": "plant_juglans_regia",
+      "alias": "ořešák královský",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_juglans_regia",
+      "alias": "Juglans regia",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S67",
+      "nazev": "EMA: Juglandis folium monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-juglans-regia-l-folium_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie listu ořešáku."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Noyer_centenaire_en_automne.JPG",
+      "alt": "ořešák královský",
+      "caption": "Wikimedia Commons: Juglans regia",
+      "credit": "Thesupermat",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Noyer_centenaire_en_automne.JPG",
+  "primary_photo_alt": "ořešák královský",
+  "primary_photo_credit": "Thesupermat",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

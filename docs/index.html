@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>České rostliny katalog</title>
+    <link rel="stylesheet" href="./static/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Veřejný katalog nad statickými daty</p>
+          <h1>České rostliny jako prohledávatelná znalostní báze</h1>
+          <p class="hero-text">
+            Vyhledávání nad kurátorovaným datasetem použití, trvanlivých forem,
+            dlouhodobého zpracování, rizik, zdrojů a doporučení ke sběru.
+          </p>
+          <div class="hero-actions">
+            <a class="detail-btn" href="./plants/">Galerie rostlin</a>
+          </div>
+        </div>
+        <div class="hero-stats" id="summary-stats"></div>
+      </header>
+
+      <main class="layout">
+        <section class="filters-panel">
+          <div class="filters-header">
+            <h2>Filtry</h2>
+            <button id="reset-btn" class="ghost-btn" type="button">Reset</button>
+          </div>
+
+          <label class="field">
+            <span>Hledat</span>
+            <input id="q" type="search" placeholder="např. sirup, lípa, sušení, žalud..." />
+          </label>
+
+          <div class="grid-two">
+            <label class="field">
+              <span>Doména</span>
+              <select id="domena">
+                <option value="">Vše</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Min. důkaznost</span>
+              <select id="evidence_min">
+                <option value="">Bez limitu</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="grid-two">
+            <label class="field">
+              <span>Kategorie části</span>
+              <select id="part_category">
+                <option value="">Vše</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Kategorie použití</span>
+              <select id="subdomain_category">
+                <option value="">Vše</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="grid-two">
+            <label class="field">
+              <span>Metoda zpracování</span>
+              <select id="processing_method">
+                <option value="">Vše</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Měsíc sběru</span>
+              <select id="month">
+                <option value="">Libovolný</option>
+              </select>
+            </label>
+          </div>
+
+          <p id="seasonal-note" class="context-note"></p>
+
+          <label class="field">
+            <span>Limit</span>
+            <select id="limit">
+              <option value="24">24</option>
+              <option value="60" selected>60</option>
+              <option value="120">120</option>
+              <option value="200">200</option>
+            </select>
+          </label>
+
+          <div class="checks">
+            <label class="check check-highlight">
+              <input id="seasonal" type="checkbox" />
+              <span>Výchozí sezónní okno kolem dneška</span>
+            </label>
+            <label class="check">
+              <input id="trvanlive" type="checkbox" />
+              <span>Jen trvanlivé položky</span>
+            </label>
+            <label class="check">
+              <input id="jadro" type="checkbox" />
+              <span>Jen praktické jádro</span>
+            </label>
+          </div>
+        </section>
+
+        <section class="results-panel">
+          <div class="results-toolbar">
+            <div>
+              <p class="eyebrow">Výsledky</p>
+              <h2 id="results-title">Načítání</h2>
+            </div>
+            <p class="toolbar-note">
+              Otevři detail použití nebo celé rostliny na samostatné stránce.
+            </p>
+          </div>
+
+          <div id="results" class="results-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="result-card-template">
+      <article class="result-card">
+        <div class="card-topline"></div>
+        <div class="result-card-media">
+          <img class="result-card-image" alt="" loading="lazy" hidden />
+          <div class="result-card-placeholder">
+            <div class="result-card-placeholder-inner">
+              <strong>Bez fotky</strong>
+              <span>Primární fotka rostliny zatím není přiřazená.</span>
+            </div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-head">
+            <div>
+              <p class="card-id"></p>
+              <h3 class="card-title"></h3>
+              <p class="card-subtitle"></p>
+            </div>
+            <div class="card-badges"></div>
+          </div>
+          <div class="meta-grid"></div>
+          <p class="card-effect"></p>
+          <div class="card-actions">
+            <a class="detail-btn" href="./">Použití</a>
+            <a class="plant-btn" href="./">Rostlina</a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script>window.CATALOG_BASE = ".";</script>
+    <script src="./static/site-common.js" defer></script>
+    <script src="./static/site-index.js" defer></script>
+  </body>
+</html>

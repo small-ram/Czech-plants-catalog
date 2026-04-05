@@ -1,0 +1,121 @@
+{
+  "use_id": "r071",
+  "plant_id": "plant_prunus_domestica",
+  "raw_record_id": "R071",
+  "cesky_nazev_display": "slivoň švestka / slíva",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "fermentované zpracování / ocet / kvašený základ",
+  "poddomena_kategorie": "ocet",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "sady, zahrady",
+  "obdobi_ziskani_text": "VIII–X",
+  "mesic_od": 8,
+  "mesic_do": 10,
+  "fenologicka_faze": "zralý až přezrálý plod",
+  "zpusob_pripravy": "kvašení přebytků, ovocný ocet, tekuté základy pro další zpracování",
+  "cilovy_efekt": "uchování nadúrody a kyselé kuchyňské využití",
+  "chutovy_profil": "sladký, plný, lehce tříslovitý",
+  "vonny_profil": "ovocný až jemně vinný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nedostatečná hygiena zvyšuje riziko zkažení; přezrálé plody mohou být kontaminované.",
+  "kontraindikace_interakce": "U alkoholických produktů běžná omezení; jinak bez typických interakcí.",
+  "legalita_poznamka_cr": "Jen z legálně získaných plodů; preferovat vlastní stromy.",
+  "dukaznost_typ": "historická praxe zpracování ovoce",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Kvašení / fermentace · Naložení do octa / ocet",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralý až přezrálý plod; v datech je pro něj vedené období VIII–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Zařazeno jako tradiční způsob využití přebytků.",
+  "vedecky_nazev_hlavni": "Prunus domestica",
+  "cesky_nazev_hlavni": "slivoň švestka / slíva",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_prunus_domestica",
+      "alias": "slivoň švestka / slíva",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_prunus_domestica",
+      "alias": "slivoň / švestka domácí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_prunus_domestica",
+      "alias": "Prunus domestica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "ocet",
+      "label": "Naložení do octa / ocet",
+      "group_label": "fermentace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fruits_Prunus_domestica.jpg",
+      "alt": "slivoň švestka / slíva",
+      "caption": "Wikimedia Commons: Prunus domestica",
+      "credit": "YAMAMAYA",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fruits_Prunus_domestica.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fruits_Prunus_domestica.jpg",
+  "primary_photo_alt": "slivoň švestka / slíva",
+  "primary_photo_credit": "YAMAMAYA",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fruits_Prunus_domestica.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

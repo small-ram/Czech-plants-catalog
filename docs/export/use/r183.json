@@ -1,0 +1,107 @@
+{
+  "use_id": "r183",
+  "plant_id": "plant_humulus_lupulus_l",
+  "raw_record_id": "R183",
+  "cesky_nazev_display": "chmel otáčivý",
+  "cast_rostliny_text": "samičí šištice",
+  "cast_rostliny_kategorie": "semena_a_orisky",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "vůně",
+  "domena_slug": "vune",
+  "poddomena_text": "sušené šištice do polštářku",
+  "poddomena_kategorie": "vune_a_vykurovani",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "křoviny, lesní lemy, břehy, ploty, staré sady",
+  "obdobi_ziskani_text": "VIII–IX",
+  "mesic_od": 8,
+  "mesic_do": 9,
+  "fenologicka_faze": "zralé aromatické šištice",
+  "zpusob_pripravy": "Šištice jemně usušit a vložit do plátěného sáčku nebo polštářku.",
+  "cilovy_efekt": "Dlouhodobější bylinná vůně do interiéru a tradiční uklidňující doplněk.",
+  "chutovy_profil": "neaplikovatelné",
+  "vonny_profil": "pryskyřičně bylinný, chmelový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Při špatném usušení může plesnivět; vůně časem slábne.",
+  "kontraindikace_interakce": "Citlivé osoby mohou hůře tolerovat intenzivní aroma v těsné blízkosti.",
+  "legalita_poznamka_cr": "Běžný sběr z pěstovaných nebo dostupných planých rostlin.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj / tradiční evropská praxe",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralé aromatické šištice; v datech je pro něj vedené období VIII–IX. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobře usušené šištice vydrží několik měsíců až sezónu.",
+  "vedecky_nazev_hlavni": "Humulus lupulus L.",
+  "cesky_nazev_hlavni": "chmel otáčivý",
+  "status_v_cr_text": "původní/zdomácnělý, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Dobře usušené šištice vydrží několik měsíců až sezónu.",
+  "proc_je_v_jadru": "trvanlivé aromatické užití z velmi běžné liány",
+  "aliases": [
+    {
+      "plant_id": "plant_humulus_lupulus_l",
+      "alias": "chmel otáčivý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_humulus_lupulus_l",
+      "alias": "Humulus lupulus L.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S44",
+      "nazev": "PFAF: Humulus lupulus",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Humulus+lupulus",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro chmel; mladé výhonky, aroma a folk užití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopfen1.jpg",
+      "alt": "chmel otáčivý",
+      "caption": "Wikimedia Commons: Humulus lupulus L.",
+      "credit": "No machine-readable author provided. Hagen Graebner assumed (based on copyright claims).",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hopfen1.jpg",
+      "license": "CC BY-SA 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopfen1.jpg",
+  "primary_photo_alt": "chmel otáčivý",
+  "primary_photo_credit": "No machine-readable author provided. Hagen Graebner assumed (based on copyright claims).",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Hopfen1.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,130 @@
+{
+  "use_id": "r199",
+  "plant_id": "plant_cydonia_oblonga",
+  "raw_record_id": "R199",
+  "cesky_nazev_display": "kdouloň obecná",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "kdoulová marmeláda / membrillo",
+  "poddomena_kategorie": "ostatni_specialni",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "zahrady, staré sady, teplejší polohy",
+  "obdobi_ziskani_text": "X–XI",
+  "mesic_od": 10,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně vyzrálé aromatické plody",
+  "zpusob_pripravy": "Plody dlouze vařit na hustou marmeládu nebo tuhou pastu typu membrillo.",
+  "cilovy_efekt": "Výrazně trvanlivý způsob využití pektinově bohatých a syrově tvrdých plodů.",
+  "chutovy_profil": "výrazně aromatický, trpkosladký",
+  "vonny_profil": "intenzivně kdoulový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Syrové tvrdé plody nebývají vhodné; zpracování je pracnější.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí v běžném potravním užití.",
+  "legalita_poznamka_cr": "Pěstované stromy; sběr z vlastních nebo dostupných zahrad.",
+  "dukaznost_typ": "středoevropská kuchyňská praxe + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé aromatické plody; v datech je pro něj vedené období X–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "V husté zavařené formě vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Cydonia oblonga",
+  "cesky_nazev_hlavni": "kdoule obecná",
+  "status_v_cr_text": "pěstovaná, lokálně běžná",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": "zavařenina",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "V husté zavařené formě vydrží měsíce.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_cydonia_oblonga",
+      "alias": "kdoule obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_cydonia_oblonga",
+      "alias": "kdouloň obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_cydonia_oblonga",
+      "alias": "Cydonia oblonga",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S54",
+      "nazev": "PFAF: Cydonia oblonga",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Cydonia+oblonga",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro kdoule, želé a marmelády."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Quince%20flowers.jpg",
+      "alt": "kdoule obecná",
+      "caption": "Wikimedia Commons: Cydonia oblonga",
+      "credit": "Fir0002 at English Wikipedia",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quince_flowers.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Quince%20flowers.jpg",
+  "primary_photo_alt": "kdoule obecná",
+  "primary_photo_credit": "Fir0002 at English Wikipedia",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Quince_flowers.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

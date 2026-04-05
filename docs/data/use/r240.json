@@ -1,0 +1,107 @@
+{
+  "use_id": "r240",
+  "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+  "raw_record_id": "R240",
+  "cesky_nazev_display": "hloh obecný / jednosemenný",
+  "cast_rostliny_text": "mladé listy",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušené listy na nálev / čajovou náhražku",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "meze, křoviny, remízky, lesní lemy",
+  "obdobi_ziskani_text": "IV–V + sušení",
+  "mesic_od": 4,
+  "mesic_do": 5,
+  "fenologicka_faze": "mladé listy v době jarního růstu",
+  "zpusob_pripravy": "Mladé listy natrhat na jaře, usušit v tenké vrstvě a později používat do jednoduchého nálevu nebo čajových směsí.",
+  "cilovy_efekt": "Jemná bylinná čajová složka z jarních listů hlohu.",
+  "chutovy_profil": "jemná, lehce svíravá",
+  "vonny_profil": "slabě zelený",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Netrhat nadměrně celé větve; u skutečných srdečních obtíží nejde o samoléčbu.",
+  "kontraindikace_interakce": "Při bolesti na hrudi, dušnosti nebo otocích vždy lékař.",
+  "legalita_poznamka_cr": "Běžný nechráněný druh; sbírat jednotlivé listy a neničit keře.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy v době jarního růstu; v datech je pro něj vedené období IV–V + sušení. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Doplňuje dubnové použití hlohu i o trvanlivou formu.",
+  "vedecky_nazev_hlavni": "Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.",
+  "cesky_nazev_hlavni": "hloh obecný / jednosemenný",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení listů na čajovou směs",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "V suchu, temnu a dobře uzavřené nádobě.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+      "alias": "hloh obecný / jednosemenný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+      "alias": "Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S80",
+      "nazev": "PFAF: Crataegus monogyna",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Crataegus+monogyna",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro jedlé mladé výhonky hlohu a nálev ze sušených listů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20of%20Crataegus%20monogyna.jpg",
+      "alt": "Listy hlohu obecného",
+      "caption": "Wikimedia Commons: Crataegus monogyna leaves",
+      "credit": "Krzysztof Golik",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leaves_of_Crataegus_monogyna.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20of%20Crataegus%20monogyna.jpg",
+  "primary_photo_alt": "Listy hlohu obecného",
+  "primary_photo_credit": "Krzysztof Golik",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Leaves_of_Crataegus_monogyna.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

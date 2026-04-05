@@ -1,0 +1,107 @@
+{
+  "use_id": "r075",
+  "plant_id": "plant_ribes_nigrum",
+  "raw_record_id": "R075",
+  "cesky_nazev_display": "rybíz černý",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "nálev / tradiční bylinný přípravek",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady a plantáže; sběr z čistých, neošetřených keřů",
+  "obdobi_ziskani_text": "V–VII",
+  "mesic_od": 5,
+  "mesic_do": 7,
+  "fenologicka_faze": "plně vyvinutý zdravý list",
+  "zpusob_pripravy": "sušení listu na nálev; tradiční užití při drobných močových a kloubních obtížích",
+  "cilovy_efekt": "tradiční podpůrná fytoterapie",
+  "chutovy_profil": "lehce svíravý, zelený",
+  "vonny_profil": "slabě rybízový, zelený",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nezaměňovat plodové využití s léčivým listem; sbírat jen neošetřené listy.",
+  "kontraindikace_interakce": "Nepoužívat při stavech vyžadujících omezení příjmu tekutin; při přetrvávání potíží vyšetřit lékařem.",
+  "legalita_poznamka_cr": "Sběr z vlastních/povolených keřů; v praxi hlavně pěstované zdroje.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyvinutý zdravý list; v datech je pro něj vedené období V–VII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Ribes nigrum",
+  "cesky_nazev_hlavni": "rybíz černý",
+  "status_v_cr_text": "pěstovaný, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_ribes_nigrum",
+      "alias": "rybíz černý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_ribes_nigrum",
+      "alias": "Ribes nigrum",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S24",
+      "nazev": "EMA: Ribes nigrum folium monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ribes-nigrum-l-folium_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie listu rybízu černého."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_nigrum_a1.JPG",
+      "alt": "rybíz černý",
+      "caption": "Wikimedia Commons: Ribes nigrum",
+      "credit": "Jerzy Opioła",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_nigrum_a1.JPG",
+  "primary_photo_alt": "rybíz černý",
+  "primary_photo_credit": "Jerzy Opioła",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,107 @@
+{
+  "use_id": "r087",
+  "plant_id": "plant_allium_cepa",
+  "raw_record_id": "R087",
+  "cesky_nazev_display": "cibule kuchyňská",
+  "cast_rostliny_text": "cibule",
+  "cast_rostliny_kategorie": "podzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "cibulový sirup / tradiční domácí užití",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, domácí zásoby",
+  "obdobi_ziskani_text": "celoročně",
+  "mesic_od": 1,
+  "mesic_do": 12,
+  "fenologicka_faze": "vyzrálá cibule",
+  "zpusob_pripravy": "nakrájená cibule se nechá pustit šťávu se cukrem nebo medem",
+  "cilovy_efekt": "tradiční domácí podpůrné použití při kašli a nachlazení",
+  "chutovy_profil": "sladce štiplavý",
+  "vonny_profil": "výrazně cibulový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Domácí sirupy mají krátkou trvanlivost; nejde o sterilní přípravek.",
+  "kontraindikace_interakce": "Opatrnost u malých dětí podle použitého sladidla; nenahrazuje vyšetření při těžším průběhu.",
+  "legalita_poznamka_cr": "Bez právních omezení z pěstovaných zdrojů.",
+  "dukaznost_typ": "středoevropská etnobotanika",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálá cibule; v datech je pro něj vedené období celoročně. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Allium cepa",
+  "cesky_nazev_hlavni": "cibule kuchyňská",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_allium_cepa",
+      "alias": "cibule kuchyňská",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_allium_cepa",
+      "alias": "Allium cepa",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mixed_onions.jpg",
+      "alt": "cibule kuchyňská",
+      "caption": "Wikimedia Commons: Allium cepa",
+      "credit": "Colin",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mixed_onions.jpg",
+  "primary_photo_alt": "cibule kuchyňská",
+  "primary_photo_credit": "Colin",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

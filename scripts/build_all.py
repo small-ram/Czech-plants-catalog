@@ -131,6 +131,7 @@ def main() -> None:
     steps.append(run_step(root, "build_v7_canonical", [python, str(root / "scripts" / "build_v7_canonical.py")]))
     sqlite_step = run_step(root, "build_v7_sqlite", [python, str(root / "scripts" / "build_v7_sqlite.py")])
     steps.append(sqlite_step)
+    steps.append(run_step(root, "build_pages_site", [python, str(root / "scripts" / "build_pages_site.py")]))
 
     sqlite_path = extract_first_match(r"SQLite database written to:\s*(.+)", sqlite_step.stdout)
     smoke_output = None

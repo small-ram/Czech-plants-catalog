@@ -1,0 +1,119 @@
+{
+  "use_id": "r211",
+  "plant_id": "plant_berberis_vulgaris",
+  "raw_record_id": "R211",
+  "cesky_nazev_display": "dřišťál obecný",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sirup nebo želé z plodů",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "živé ploty, křoviny, zahrady, teplejší lokality",
+  "obdobi_ziskani_text": "IX–X",
+  "mesic_od": 9,
+  "mesic_do": 10,
+  "fenologicka_faze": "plně zralé plody",
+  "zpusob_pripravy": "Plody povařit na sirup nebo želé; dobře zavařit.",
+  "cilovy_efekt": "Převod velmi kyselých plodů do použitelné a skladovatelné formy.",
+  "chutovy_profil": "intenzivně kyselý, ovocný",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Silná kyselost; nutné dostatečné doslazení a správné zavaření.",
+  "kontraindikace_interakce": "Běžné potravní užití plodů je v pořádku, ale neplést s léčivým použitím kůry/kořenů.",
+  "legalita_poznamka_cr": "Sběr z běžných, čistých keřů.",
+  "dukaznost_typ": "botanický zdroj + kulinární praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 3,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody; v datech je pro něj vedené období IX–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Pro českou databázi cenné právě jako méně známý, ale dobře přenositelný keřový zdroj.",
+  "vedecky_nazev_hlavni": "Berberis vulgaris",
+  "cesky_nazev_hlavni": "dřišťál obecný",
+  "status_v_cr_text": "původní/pěstovaný, lokálně běžný",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sirup / želé",
+  "orientacni_trvanlivost_text": "6–12+ měsíců",
+  "poznamka_k_skladovani": "Po správném zavaření běžně drží mnoho měsíců.",
+  "proc_je_v_jadru": "kyselé plody převedené do bezpečné a použitelné formy",
+  "aliases": [
+    {
+      "plant_id": "plant_berberis_vulgaris",
+      "alias": "dřišťál obecný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_berberis_vulgaris",
+      "alias": "Berberis vulgaris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S71",
+      "nazev": "PFAF: Berberis vulgaris",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Berberis+vulgaris",
+      "source_family": "pfaf",
+      "poznamka": "Dřišťál – kyselé plody a další tradiční využití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Berberis%20vulgaris%20sl5.jpg",
+      "alt": "dřišťál obecný",
+      "caption": "Wikimedia Commons: Berberis vulgaris",
+      "credit": "Stefan.lefnaer",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Berberis_vulgaris_sl5.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Berberis%20vulgaris%20sl5.jpg",
+  "primary_photo_alt": "dřišťál obecný",
+  "primary_photo_credit": "Stefan.lefnaer",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Berberis_vulgaris_sl5.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

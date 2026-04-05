@@ -1,0 +1,122 @@
+{
+  "use_id": "r173",
+  "plant_id": "plant_ribes_nigrum",
+  "raw_record_id": "R173",
+  "cesky_nazev_display": "rybíz černý",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "černorybízový sirup",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, drobné ovocné výsadby",
+  "obdobi_ziskani_text": "VII–VIII",
+  "mesic_od": 7,
+  "mesic_do": 8,
+  "fenologicka_faze": "plně vyzrálé plody",
+  "zpusob_pripravy": "Plody svařit nebo lisovat na sirup a zavařit.",
+  "cilovy_efekt": "Velmi praktický dlouhodobý způsob uchování aromatických plodů.",
+  "chutovy_profil": "výrazně kyselý, černorybízový",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nedostatečně zavařený sirup může kvasit; vysoký obsah kyselin může dráždit citlivé osoby.",
+  "kontraindikace_interakce": "Bez zásadních interakcí v běžném potravním užití.",
+  "legalita_poznamka_cr": "Běžné domácí zpracování z čistých keřů.",
+  "dukaznost_typ": "středoevropská kuchyňská praxe + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody; v datech je pro něj vedené období VII–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Ve formě sirupu běžně vydrží mnoho měsíců.",
+  "vedecky_nazev_hlavni": "Ribes nigrum",
+  "cesky_nazev_hlavni": "rybíz černý",
+  "status_v_cr_text": "pěstovaný, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sirup / koncentrát",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Ve formě sirupu běžně vydrží mnoho měsíců.",
+  "proc_je_v_jadru": "velmi univerzální sirup s vysokou užitnou hodnotou",
+  "aliases": [
+    {
+      "plant_id": "plant_ribes_nigrum",
+      "alias": "rybíz černý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_ribes_nigrum",
+      "alias": "Ribes nigrum",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S63",
+      "nazev": "PFAF: Ribes nigrum",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Ribes+nigrum",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro rybíz černý; sirup, zavařeniny a listový čaj."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_nigrum_a1.JPG",
+      "alt": "rybíz černý",
+      "caption": "Wikimedia Commons: Ribes nigrum",
+      "credit": "Jerzy Opioła",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_nigrum_a1.JPG",
+  "primary_photo_alt": "rybíz černý",
+  "primary_photo_credit": "Jerzy Opioła",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

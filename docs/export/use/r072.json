@@ -1,0 +1,113 @@
+{
+  "use_id": "r072",
+  "plant_id": "plant_prunus_avium",
+  "raw_record_id": "R072",
+  "cesky_nazev_display": "třešeň obecná",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "čerstvé plody / sušení / kompot",
+  "poddomena_kategorie": "zavarenina",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, sady, aleje, okraje obcí",
+  "obdobi_ziskani_text": "VI–VII",
+  "mesic_od": 6,
+  "mesic_do": 7,
+  "fenologicka_faze": "zralý plod",
+  "zpusob_pripravy": "čerstvá konzumace, kompotování, sušení, pečení",
+  "cilovy_efekt": "časné letní ovoce s vysokou kulinární hodnotou",
+  "chutovy_profil": "sladký",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Červivost, ptáci a rychlé přezrávání; pecky nepožívat.",
+  "kontraindikace_interakce": "Běžná potravina; při velkém množství možné zažívací obtíže.",
+  "legalita_poznamka_cr": "Sběr podle vlastnictví stromu a přístupu.",
+  "dukaznost_typ": "středoevropská ovocnářská tradice",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení · Kompot",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VI–VII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Prunus avium",
+  "cesky_nazev_hlavni": "třešeň obecná",
+  "status_v_cr_text": "pěstovaná i zplaňující, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_prunus_avium",
+      "alias": "třešeň obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_prunus_avium",
+      "alias": "Prunus avium",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "kompot",
+      "label": "Kompot",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_avium_fruit.jpg",
+      "alt": "třešeň obecná",
+      "caption": "Wikimedia Commons: Prunus avium",
+      "credit": "MPF",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prunus_avium_fruit.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_avium_fruit.jpg",
+  "primary_photo_alt": "třešeň obecná",
+  "primary_photo_credit": "MPF",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Prunus_avium_fruit.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

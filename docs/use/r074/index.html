@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Detail</title>
+    <link rel="stylesheet" href="../../static/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <main class="detail-page-shell">
+        <header class="detail-page-header">
+          <div class="detail-page-nav">
+            <a class="back-link" href="../../">Katalog použití</a>
+            <a class="back-link secondary-link" href="../../plants/">Galerie rostlin</a>
+          </div>
+          <div class="detail-page-hero">
+            <div>
+              <p id="detail-page-eyebrow" class="eyebrow">Načítání</p>
+              <h1 id="detail-page-title">Načítání detailu</h1>
+              <p id="detail-page-subtitle" class="hero-text"></p>
+            </div>
+            <div id="detail-page-actions" class="hero-actions"></div>
+          </div>
+          <div id="detail-page-summary" class="hero-stats"></div>
+          <div id="detail-page-meta" class="detail-meta-strip"></div>
+        </header>
+
+        <div id="detail-page-content" class="detail-page-content">
+          <div class="empty-state">Načítání dat…</div>
+        </div>
+      </main>
+    </div>
+
+    <script>window.CATALOG_BASE = "../.."; window.CATALOG_DETAIL = {"kind": "use", "id": "r074"};</script>
+    <script src="../../static/site-common.js" defer></script>
+    <script src="../../static/site-detail.js" defer></script>
+  </body>
+</html>

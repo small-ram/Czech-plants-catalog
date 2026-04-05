@@ -1,0 +1,113 @@
+{
+  "use_id": "r095",
+  "plant_id": "plant_beta_vulgaris",
+  "raw_record_id": "R095",
+  "cesky_nazev_display": "řepa červená",
+  "cast_rostliny_text": "kořen",
+  "cast_rostliny_kategorie": "podzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "vařená / pečená / kvas",
+  "poddomena_kategorie": "ostatni_specialni",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, pole, sklepy ze sklizně",
+  "obdobi_ziskani_text": "VII–III",
+  "mesic_od": 7,
+  "mesic_do": 3,
+  "fenologicka_faze": "vyzrálý kořen",
+  "zpusob_pripravy": "vaření, pečení, nakládání, případně kvašený kvas",
+  "cilovy_efekt": "výživná kořenová zelenina s možností nápojového využití",
+  "chutovy_profil": "zemitě sladký",
+  "vonny_profil": "zemitý, řepný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Silně barví; při špatném skladování měkne a plesniví.",
+  "kontraindikace_interakce": "Běžná potravina; u citlivých osob může kvas nebo velké dávky nadýmat.",
+  "legalita_poznamka_cr": "Pěstovaný zdroj bez zvláštních omezení.",
+  "dukaznost_typ": "středoevropská kuchyňská praxe + globální analog",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Kvašení / fermentace · Nakládání",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálý kořen; v datech je pro něj vedené období VII–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Kvas je zařazen jako přenositelný středovýchodoevropský/ východoevropský nápojový přesah.",
+  "vedecky_nazev_hlavni": "Beta vulgaris",
+  "cesky_nazev_hlavni": "řepa červená",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_beta_vulgaris",
+      "alias": "řepa červená",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_beta_vulgaris",
+      "alias": "Beta vulgaris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "nakladani",
+      "label": "Nakládání",
+      "group_label": "pickles",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Beetseeds3d.jpg",
+      "alt": "řepa červená",
+      "caption": "Wikimedia Commons: Beta vulgaris",
+      "credit": "John Alan Elson",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Beetseeds3d.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Beetseeds3d.jpg",
+  "primary_photo_alt": "řepa červená",
+  "primary_photo_credit": "John Alan Elson",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Beetseeds3d.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,107 @@
+{
+  "use_id": "r094",
+  "plant_id": "plant_daucus_carota_subsp_sativus",
+  "raw_record_id": "R094",
+  "cesky_nazev_display": "mrkev obecná",
+  "cast_rostliny_text": "kořen",
+  "cast_rostliny_kategorie": "podzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "syrová / vařená / kvašená",
+  "poddomena_kategorie": "fermentace",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, pole, sklepy ze sklizně",
+  "obdobi_ziskani_text": "VI–III",
+  "mesic_od": 6,
+  "mesic_do": 3,
+  "fenologicka_faze": "vyzrálý kořen",
+  "zpusob_pripravy": "syrová, pečená, vařená, do polévek i fermentace",
+  "cilovy_efekt": "základní sladší kořenová zelenina",
+  "chutovy_profil": "jemně sladký",
+  "vonny_profil": "slabě kořenový, mrkvový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "U starých kořenů dřevnatění; u neznámých zdrojů rezidua z půdy.",
+  "kontraindikace_interakce": "Běžná potravina; při extrémně vysokém příjmu možné karotenové zabarvení kůže.",
+  "legalita_poznamka_cr": "Pěstovaný zdroj bez zvláštních omezení.",
+  "dukaznost_typ": "běžná kuchyňská a zahradní praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Kvašení / fermentace",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálý kořen; v datech je pro něj vedené období VI–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Daucus carota subsp. sativus",
+  "cesky_nazev_hlavni": "mrkev obecná",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_daucus_carota_subsp_sativus",
+      "alias": "mrkev obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_daucus_carota_subsp_sativus",
+      "alias": "Daucus carota subsp. sativus",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegetable-Carrot-Bundle-wStalks.jpg",
+      "alt": "mrkev obecná",
+      "caption": "Wikimedia Commons: Daucus carota subsp. sativus",
+      "credit": "Evan-Amos",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+      "license": "Public domain",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegetable-Carrot-Bundle-wStalks.jpg",
+  "primary_photo_alt": "mrkev obecná",
+  "primary_photo_credit": "Evan-Amos",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

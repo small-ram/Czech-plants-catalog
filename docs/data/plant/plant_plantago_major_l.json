@@ -1,0 +1,139 @@
+{
+  "plant_id": "plant_plantago_major_l",
+  "vedecky_nazev_hlavni": "Plantago major L.",
+  "vedecky_nazev_display": "Plantago major L.",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "jitrocel větší",
+  "status_v_cr_text": "původní/zdomácnělý, velmi běžný",
+  "status_puvodni": 1,
+  "status_zdomacnely": 1,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_pouziti": 3,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_plantago_major_l",
+      "alias": "jitrocel větší",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_plantago_major_l",
+      "alias": "Plantago major L.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r154",
+      "raw_record_id": "R154",
+      "domena": "pití",
+      "poddomena_text": "listový čaj",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "list",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "V–VIII",
+      "cilovy_efekt": "čaj pro krk a dýchací komfort v tradičním smyslu",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravý list; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r153",
+      "raw_record_id": "R153",
+      "domena": "léčba",
+      "poddomena_text": "folk zevní přiložení",
+      "poddomena_kategorie": "zevni_aplikace",
+      "cast_rostliny_text": "čerstvý list",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "IV–X",
+      "cilovy_efekt": "rychlá folk první pomoc",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvý list; v datech je pro něj vedené období IV–X. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r152",
+      "raw_record_id": "R152",
+      "domena": "potrava",
+      "poddomena_text": "listová zelenina po úpravě",
+      "poddomena_kategorie": "cerstva_potrava",
+      "cast_rostliny_text": "mladé listy",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "III–V",
+      "cilovy_efekt": "jarní zelenina z velmi běžného druhu",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy před vytaháním vláken; v datech je pro něj vedené období III–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S46",
+      "nazev": "PFAF: Plantago major",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Plantago+major",
+      "source_family": "pfaf",
+      "use_count": 3
+    },
+    {
+      "raw_source_id": "S18",
+      "nazev": "EMA: Plantago lanceolata folium assessment report / monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "source_family": "ema",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+      "alt": "jitrocel větší",
+      "caption": "Wikimedia Commons: Plantago major L.",
+      "credit": "Rasbak",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 3,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 2
+  }
+}

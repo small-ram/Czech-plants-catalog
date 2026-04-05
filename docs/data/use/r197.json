@@ -1,0 +1,119 @@
+{
+  "use_id": "r197",
+  "plant_id": "plant_rubus_fruticosus_agg",
+  "raw_record_id": "R197",
+  "cesky_nazev_display": "ostružiník křovitý",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "ostružinový sirup nebo želé",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "křoviny, paseky, náspy, okraje lesů, meze",
+  "obdobi_ziskani_text": "VIII–IX",
+  "mesic_od": 8,
+  "mesic_do": 9,
+  "fenologicka_faze": "plně vyzrálé plody",
+  "zpusob_pripravy": "Plody zavařit na sirup nebo želé; skladovat v dobře uzavřených sklenicích.",
+  "cilovy_efekt": "Trvanlivé využití velmi běžných letních plodů.",
+  "chutovy_profil": "sladkokyselý, ostružinový",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Přezrálé plody rychle kvasí; nutné čisté zpracování.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí v běžném užití.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých lokalit mimo silnice.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj / tradiční evropská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 3,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody; v datech je pro něj vedené období VIII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Zavařeniny vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Rubus fruticosus agg.",
+  "cesky_nazev_hlavni": "ostružiník křovitý",
+  "status_v_cr_text": "původní/zdomácnělý, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sirup / koncentrát",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Zavařeniny vydrží měsíce.",
+  "proc_je_v_jadru": "velmi běžná křovina s praktickým ovocným výstupem",
+  "aliases": [
+    {
+      "plant_id": "plant_rubus_fruticosus_agg",
+      "alias": "ostružiník křovitý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_rubus_fruticosus_agg",
+      "alias": "Rubus fruticosus agg.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S48",
+      "nazev": "PFAF: Rubus fruticosus",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro ostružiník; plody a listový čaj."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackberry_%28Rubus_fruticosus%29.jpg",
+      "alt": "ostružiník křovitý",
+      "caption": "Wikimedia Commons: Rubus fruticosus agg.",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackberry_%28Rubus_fruticosus%29.jpg",
+  "primary_photo_alt": "ostružiník křovitý",
+  "primary_photo_credit": "Ivar Leidus",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

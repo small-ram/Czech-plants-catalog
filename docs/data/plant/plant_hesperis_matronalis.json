@@ -1,0 +1,88 @@
+{
+  "plant_id": "plant_hesperis_matronalis",
+  "vedecky_nazev_hlavni": "Hesperis matronalis",
+  "vedecky_nazev_display": "Hesperis matronalis",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "večernice vonná",
+  "status_v_cr_text": "pěstovaná i zplaňující, lokálně běžná",
+  "status_puvodni": 0,
+  "status_zdomacnely": 0,
+  "status_pestovany": 1,
+  "status_zplanujici": 1,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_pouziti": 1,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_hesperis_matronalis",
+      "alias": "večernice vonná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_hesperis_matronalis",
+      "alias": "Hesperis matronalis",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r253",
+      "raw_record_id": "R253",
+      "domena": "potrava",
+      "poddomena_text": "listy a květy do salátu / jako ozdoba",
+      "poddomena_kategorie": "cerstva_potrava",
+      "cast_rostliny_text": "mladé listy a květy",
+      "cast_rostliny_kategorie": "kombinovana_cast",
+      "obdobi_ziskani_text": "IV–V",
+      "cilovy_efekt": "Velmi okrajová jarní brukvovitá rostlina na pomezí zahrad a zplaňujících míst.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy a první rozvíjející se květy; v datech je pro něj vedené období IV–V. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S92",
+      "nazev": "PFAF: Hesperis matronalis",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Hesperis+Matronalis",
+      "source_family": "pfaf",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweet_Rockets.png",
+      "alt": "večernice vonná",
+      "caption": "Wikimedia Commons: Hesperis matronalis",
+      "credit": "Huw Williams ( Huwmanbeing )",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sweet_Rockets.png",
+      "license": "Public domain",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 1,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 0,
+    "top_evidence_rank": 2
+  }
+}

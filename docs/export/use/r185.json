@@ -1,0 +1,113 @@
+{
+  "use_id": "r185",
+  "plant_id": "plant_achillea_millefolium",
+  "raw_record_id": "R185",
+  "cesky_nazev_display": "řebříček obecný",
+  "cast_rostliny_text": "nať",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "tinktura nebo sušená droga",
+  "poddomena_kategorie": "liker_macerat",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "louky, meze, úhory, okraje cest",
+  "obdobi_ziskani_text": "VI–VIII",
+  "mesic_od": 6,
+  "mesic_do": 8,
+  "fenologicka_faze": "na počátku kvetení",
+  "zpusob_pripravy": "Nať usušit pro čajové směsi nebo naložit do lihu jako tinkturu.",
+  "cilovy_efekt": "Převod sezónní natě na dlouhodobější léčivou zásobu.",
+  "chutovy_profil": "hořký, aromatický",
+  "vonny_profil": "bylinný, lehce kafrový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Asteraceae alergie; příliš vysoké dávky nejsou vhodné.",
+  "kontraindikace_interakce": "Opatrnost u citlivých osob a v těhotenství.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých luk.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení · Tinktura / alkoholová macerace",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: na počátku kvetení; v datech je pro něj vedené období VI–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Sušená droga i tinktura běžně vydrží déle než měsíc.",
+  "vedecky_nazev_hlavni": "Achillea millefolium",
+  "cesky_nazev_hlavni": "řebříček obecný",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Sušená droga i tinktura běžně vydrží déle než měsíc.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_achillea_millefolium",
+      "alias": "řebříček obecný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_achillea_millefolium",
+      "alias": "Achillea millefolium",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S09",
+      "nazev": "EMA: Millefolii herba monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-achillea-millefolium-l-herba_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie řebříčku."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "tinktura",
+      "label": "Tinktura / alkoholová macerace",
+      "group_label": "alkohol",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Achillea_millefolium_%28bright%29.jpg",
+      "alt": "řebříček obecný",
+      "caption": "Wikimedia Commons: Achillea millefolium",
+      "credit": "SAplants",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(bright).jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Achillea_millefolium_%28bright%29.jpg",
+  "primary_photo_alt": "řebříček obecný",
+  "primary_photo_credit": "SAplants",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(bright).jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

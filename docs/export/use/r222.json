@@ -1,0 +1,116 @@
+{
+  "use_id": "r222",
+  "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+  "raw_record_id": "R222",
+  "cesky_nazev_display": "hloh obecný / jednosemenný",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušené hložinky do čajových směsí",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "křoviny, živé ploty, meze, lesní okraje, pastviny",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně zralé červené plody",
+  "zpusob_pripravy": "Plody usušit a po malém množství přidávat do bylinných směsí nebo odvarů.",
+  "cilovy_efekt": "Dlouhodobá zásoba z extrémně běžného keře, který se často míjí bez povšimnutí.",
+  "chutovy_profil": "jemně moučný, ovocný",
+  "vonny_profil": "slabě ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Přezrálé plody se suší hůře; nutné dobré určení druhu.",
+  "kontraindikace_interakce": "U kardiálních potíží nejde o náhradu léčby; zde jde o tradiční potravně-nápojové použití.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých keřů.",
+  "dukaznost_typ": "EMA + botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé červené plody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Vhodné jako méně známý, ale velmi dostupný „hedgerow pantry“ záznam.",
+  "vedecky_nazev_hlavni": "Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.",
+  "cesky_nazev_hlavni": "hloh obecný / jednosemenný",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Suché plody do směsí drží dobře.",
+  "proc_je_v_jadru": "živý plot jako čajová zásoba",
+  "aliases": [
+    {
+      "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+      "alias": "hloh obecný / jednosemenný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+      "alias": "Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S32",
+      "nazev": "EMA: Crataegus spp. folium cum flore monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie hlohového listu s květem."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S53",
+      "nazev": "PFAF: Sorbus aucuparia",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Sorbus+aucuparia",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro jeřáb a jeho zavařeniny."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20of%20Crataegus%20monogyna.jpg",
+      "alt": "Listy hlohu obecného",
+      "caption": "Wikimedia Commons: Crataegus monogyna leaves",
+      "credit": "Krzysztof Golik",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leaves_of_Crataegus_monogyna.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20of%20Crataegus%20monogyna.jpg",
+  "primary_photo_alt": "Listy hlohu obecného",
+  "primary_photo_credit": "Krzysztof Golik",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Leaves_of_Crataegus_monogyna.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

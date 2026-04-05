@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_arctium_lappa_l",
+  "vedecky_nazev_hlavni": "Arctium lappa L.",
+  "vedecky_nazev_display": "Arctium lappa L.",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "lopuch větší",
+  "status_v_cr_text": "původní/zdomácnělý, běžný",
+  "status_puvodni": 1,
+  "status_zdomacnely": 1,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_arctium_lappa_l",
+      "alias": "lopuch větší",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_arctium_lappa_l",
+      "alias": "Arctium lappa L.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r134",
+      "raw_record_id": "R134",
+      "domena": "potrava",
+      "poddomena_text": "jarní zelenina",
+      "poddomena_kategorie": "cerstva_potrava",
+      "cast_rostliny_text": "řapíky a mladé stonky",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "IV–V",
+      "cilovy_efekt": "doplněk jarní zeleniny",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: časné jaro před hrubnutím; v datech je pro něj vedené období IV–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r133",
+      "raw_record_id": "R133",
+      "domena": "potrava",
+      "poddomena_text": "kořenová zelenina",
+      "poddomena_kategorie": "cerstva_potrava",
+      "cast_rostliny_text": "kořen 1. roku",
+      "cast_rostliny_kategorie": "podzemni_cast",
+      "obdobi_ziskani_text": "IX–III",
+      "cilovy_efekt": "kořenová zelenina a globální analog",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: první rok růžice bez květní lodyhy; v datech je pro něj vedené období IX–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S43",
+      "nazev": "PFAF: Arctium lappa",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Arctium+lappa",
+      "source_family": "pfaf",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ArctiumLappa1.jpg",
+      "alt": "lopuch větší",
+      "caption": "Wikimedia Commons: Arctium lappa L.",
+      "credit": "Christian Fischer",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ArctiumLappa1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 0,
+    "top_evidence_rank": 2
+  }
+}

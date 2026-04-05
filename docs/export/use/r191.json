@@ -1,0 +1,107 @@
+{
+  "use_id": "r191",
+  "plant_id": "plant_matricaria_recutita",
+  "raw_record_id": "R191",
+  "cesky_nazev_display": "heřmánek pravý",
+  "cast_rostliny_text": "květ",
+  "cast_rostliny_kategorie": "kvetni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušený květ na čaj",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "pole, úhory, zahrady, slunné okraje cest",
+  "obdobi_ziskani_text": "V–VIII",
+  "mesic_od": 5,
+  "mesic_do": 8,
+  "fenologicka_faze": "čerstvě otevřené úbory za sucha",
+  "zpusob_pripravy": "Úbory rychle usušit a skladovat v suchu a temnu.",
+  "cilovy_efekt": "Klasická dlouhodobá zásoba na nálevy a směsi.",
+  "chutovy_profil": "jemně hořký, květový",
+  "vonny_profil": "sladce bylinný, heřmánkový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Pomalé sušení snižuje kvalitu; citlivost u alergií na hvězdnicovité.",
+  "kontraindikace_interakce": "Při alergii na Asteraceae opatrnost.",
+  "legalita_poznamka_cr": "Běžné pěstování nebo sběr z čistých míst.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě otevřené úbory za sucha; v datech je pro něj vedené období V–VIII. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Usušený květ je standardně skladovatelný po měsíce.",
+  "vedecky_nazev_hlavni": "Matricaria recutita",
+  "cesky_nazev_hlavni": "heřmánek pravý",
+  "status_v_cr_text": "běžně pěstovaný, místy zplaňující",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Usušený květ je standardně skladovatelný po měsíce.",
+  "proc_je_v_jadru": "osvědčená čajová stálice",
+  "aliases": [
+    {
+      "plant_id": "plant_matricaria_recutita",
+      "alias": "heřmánek pravý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_matricaria_recutita",
+      "alias": "Matricaria recutita",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S15",
+      "nazev": "EMA: Matricaria recutita flos monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos-first-version_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie heřmánku pravého."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Matricaria_February_2008-1.jpg",
+      "alt": "heřmánek pravý",
+      "caption": "Wikimedia Commons: Matricaria recutita",
+      "credit": "Alvesgaspar",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Matricaria_February_2008-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Matricaria_February_2008-1.jpg",
+  "primary_photo_alt": "heřmánek pravý",
+  "primary_photo_credit": "Alvesgaspar",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Matricaria_February_2008-1.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

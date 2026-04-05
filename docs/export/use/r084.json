@@ -1,0 +1,113 @@
+{
+  "use_id": "r084",
+  "plant_id": "plant_vitis_vinifera",
+  "raw_record_id": "R084",
+  "cesky_nazev_display": "réva vinná",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "čerstvé hrozny / mošt / ocet",
+  "poddomena_kategorie": "ocet",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "vinice, pergoly, zahrady, jižní Morava a teplejší polohy",
+  "obdobi_ziskani_text": "VIII–X",
+  "mesic_od": 8,
+  "mesic_do": 10,
+  "fenologicka_faze": "zralý hrozen",
+  "zpusob_pripravy": "čerstvá konzumace, lisování na mošt, kvašení, ocet",
+  "cilovy_efekt": "ovoce i nápojový zdroj se silnou regionální tradicí",
+  "chutovy_profil": "sladký",
+  "vonny_profil": "ovocný až vinný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Vosy, plísně a postřiky; rychlé kažení po poranění.",
+  "kontraindikace_interakce": "Běžná potravina; u kvašených/alkoholických produktů samostatná omezení.",
+  "legalita_poznamka_cr": "Sběr podle vlastnictví a režimu vinice.",
+  "dukaznost_typ": "středoevropská ovocnářská tradice",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Kvašení / fermentace · Naložení do octa / ocet",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralý hrozen; v datech je pro něj vedené období VIII–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Vitis vinifera",
+  "cesky_nazev_hlavni": "réva vinná",
+  "status_v_cr_text": "pěstovaná, běžná v teplejších oblastech",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_vitis_vinifera",
+      "alias": "réva vinná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_vitis_vinifera",
+      "alias": "Vitis vinifera",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "ocet",
+      "label": "Naložení do octa / ocet",
+      "group_label": "fermentace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabernet_Sauvignon_Gaillac.jpg",
+      "alt": "réva vinná",
+      "caption": "Wikimedia Commons: Vitis vinifera",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cabernet_Sauvignon_Gaillac.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabernet_Sauvignon_Gaillac.jpg",
+  "primary_photo_alt": "réva vinná",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Cabernet_Sauvignon_Gaillac.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

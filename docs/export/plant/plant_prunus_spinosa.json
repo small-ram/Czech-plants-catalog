@@ -1,0 +1,161 @@
+{
+  "plant_id": "plant_prunus_spinosa",
+  "vedecky_nazev_hlavni": "Prunus spinosa",
+  "vedecky_nazev_display": "Prunus spinosa",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "trnka obecná",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 4,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_prunus_spinosa",
+      "alias": "trnka obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_prunus_spinosa",
+      "alias": "Prunus spinosa",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r225",
+      "raw_record_id": "R225",
+      "domena": "pití",
+      "poddomena_text": "trnkový likér",
+      "poddomena_kategorie": "liker_macerat",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "IX–XI",
+      "cilovy_efekt": "Jeden z nejpraktičtějších trvanlivých produktů z běžných českých křovin.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Tinktura / alkoholová macerace",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody ideálně po prvních mrazících nebo po zamražení; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "alkoholová macerace",
+      "orientacni_trvanlivost_text": "6–12+ měsíců"
+    },
+    {
+      "use_id": "r226",
+      "raw_record_id": "R226",
+      "domena": "pití",
+      "poddomena_text": "sušené trnky do čajových směsí",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "X–XI",
+      "cilovy_efekt": "Méně známá a velmi trvanlivá forma z běžně dostupných plodů.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralé plody po změknutí mrazem nebo po zmražení; v datech je pro něj vedené období X–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "3–12 měsíců"
+    },
+    {
+      "use_id": "r227",
+      "raw_record_id": "R227",
+      "domena": "potrava",
+      "poddomena_text": "nakládané nezralé trnky jako „olivy“",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "nezralý plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "VI–VII",
+      "cilovy_efekt": "Kuriózní, ale doložená a trvanlivá forma z běžného keře.",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Nakládání",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: tvrdé nezralé plody; v datech je pro něj vedené období VI–VII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "nakládání",
+      "orientacni_trvanlivost_text": "3–12 měsíců"
+    },
+    {
+      "use_id": "r064",
+      "raw_record_id": "R064",
+      "domena": "potrava a pití",
+      "poddomena_text": "povidla / marmeláda / likér",
+      "poddomena_kategorie": "liker_macerat",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "IX–XI",
+      "cilovy_efekt": "Výrazný podzimní plod pro zavařeniny a domácí likéry.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Zavaření / sterilace ve sklenici · Tinktura / alkoholová macerace · Cukrování / kandování / džem",
+      "processing_methods_count": 3,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: tmavé vyzrálé plody, často po prvních mrazech; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S72",
+      "nazev": "PFAF: Prunus spinosa",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+spinosa",
+      "source_family": "pfaf",
+      "use_count": 3
+    },
+    {
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+      "alt": "trnka obecná",
+      "caption": "Wikimedia Commons: Prunus spinosa",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 4,
+    "durable_use_count": 3,
+    "core_use_count": 1,
+    "processing_use_count": 4,
+    "top_evidence_rank": 4
+  }
+}

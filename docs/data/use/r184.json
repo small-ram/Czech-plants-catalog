@@ -1,0 +1,107 @@
+{
+  "use_id": "r184",
+  "plant_id": "plant_carum_carvi",
+  "raw_record_id": "R184",
+  "cesky_nazev_display": "kmín kořenný",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "sušené kmínové semeno jako koření",
+  "poddomena_kategorie": "koreni_dochucovadlo",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "louky, pole, pěstované porosty, sušší travnatá stanoviště",
+  "obdobi_ziskani_text": "VI–VIII",
+  "mesic_od": 6,
+  "mesic_do": 8,
+  "fenologicka_faze": "dozrávající nažky těsně před plným výdrolem",
+  "zpusob_pripravy": "Okolíky dosušit a vymlátit; semeno skladovat v suchu a temnu.",
+  "cilovy_efekt": "Jedna z nejpraktičtějších dlouhodobě skladovatelných aromatických drog v české kuchyni.",
+  "chutovy_profil": "kořenitý, teplý",
+  "vonny_profil": "kořenitý kmínový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Snadný výdrol při pozdní sklizni; vlhko snižuje aroma.",
+  "kontraindikace_interakce": "Ve vyšších dávkách nemusí sedět citlivému žaludku.",
+  "legalita_poznamka_cr": "Běžný sběr/pěstování.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: dozrávající nažky těsně před plným výdrolem; v datech je pro něj vedené období VI–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Usušené plody vydrží měsíce až déle.",
+  "vedecky_nazev_hlavni": "Carum carvi",
+  "cesky_nazev_hlavni": "kmín kořenný",
+  "status_v_cr_text": "původní až dlouhodobě pěstovaný, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Usušené plody vydrží měsíce až déle.",
+  "proc_je_v_jadru": "nejpraktičtější české koření vůbec",
+  "aliases": [
+    {
+      "plant_id": "plant_carum_carvi",
+      "alias": "kmín kořenný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_carum_carvi",
+      "alias": "Carum carvi",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S19",
+      "nazev": "EMA: Carum carvi fructus monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie kmínu kořenného."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brassica_rapa_chinensis_4610998.jpg",
+      "alt": "kmín kořenný",
+      "caption": "Wikimedia Commons: Carum carvi",
+      "credit": "Jon Sullivan",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brassica_rapa_chinensis_4610998.jpg",
+      "license": "CC BY 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Brassica_rapa_chinensis_4610998.jpg",
+  "primary_photo_alt": "kmín kořenný",
+  "primary_photo_credit": "Jon Sullivan",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Brassica_rapa_chinensis_4610998.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,107 @@
+{
+  "use_id": "r207",
+  "plant_id": "plant_artemisia_vulgaris",
+  "raw_record_id": "R207",
+  "cesky_nazev_display": "pelyněk černobýl",
+  "cast_rostliny_text": "nať",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "vůně",
+  "domena_slug": "vune",
+  "poddomena_text": "sušený vykuřovací svazeček / aromatická bylina",
+  "poddomena_kategorie": "vune_a_vykurovani",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "ruderály, okraje cest, náspy, příkopy, meze, úhory",
+  "obdobi_ziskani_text": "VII–IX",
+  "mesic_od": 7,
+  "mesic_do": 9,
+  "fenologicka_faze": "kvetoucí nebo těsně předkvětní nať",
+  "zpusob_pripravy": "Nať svázat a usušit; používat po malém množství jako aromatický dým.",
+  "cilovy_efekt": "Výrazná trvanlivá aromatická forma z velmi běžné byliny.",
+  "chutovy_profil": "neaplikovatelné",
+  "vonny_profil": "hořce bylinný, kořenitý, kouřový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Kouř může dráždit; sbírat jen čistou rostlinu mimo silnice.",
+  "kontraindikace_interakce": "Nevhodné pro astmatiky a citlivé osoby; v těhotenství raději nepoužívat léčebně.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých lokalit.",
+  "dukaznost_typ": "tradiční aromatická praxe + botanický zdroj",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: kvetoucí nebo těsně předkvětní nať; v datech je pro něj vedené období VII–IX. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Jedna z nejběžnějších „zapomenutých“ aromatických bylin českých ruderálů.",
+  "vedecky_nazev_hlavni": "Artemisia vulgaris",
+  "cesky_nazev_hlavni": "pelyněk černobýl",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušený svazeček",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Při suchém skladování drží dlouho.",
+  "proc_je_v_jadru": "běžný ruderál s překvapivě silnou aromatickou funkcí",
+  "aliases": [
+    {
+      "plant_id": "plant_artemisia_vulgaris",
+      "alias": "pelyněk černobýl",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_artemisia_vulgaris",
+      "alias": "Artemisia vulgaris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S68",
+      "nazev": "PFAF: Artemisia vulgaris",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Artemisia+vulgaris",
+      "source_family": "pfaf",
+      "poznamka": "Pelyněk černobýl – kulinární, aromatické a tradiční použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ArtemisiaVulgaris.jpg",
+      "alt": "pelyněk černobýl",
+      "caption": "Wikimedia Commons: Artemisia vulgaris",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ArtemisiaVulgaris.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/ArtemisiaVulgaris.jpg",
+  "primary_photo_alt": "pelyněk černobýl",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:ArtemisiaVulgaris.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

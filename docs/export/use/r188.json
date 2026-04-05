@@ -1,0 +1,107 @@
+{
+  "use_id": "r188",
+  "plant_id": "plant_thymus_serpyllum_agg",
+  "raw_record_id": "R188",
+  "cesky_nazev_display": "mateřídouška",
+  "cast_rostliny_text": "nať",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "sušená nať jako koření",
+  "poddomena_kategorie": "koreni_dochucovadlo",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "suché stráně, písčiny, meze, skalnatější trávníky",
+  "obdobi_ziskani_text": "VI–VIII",
+  "mesic_od": 6,
+  "mesic_do": 8,
+  "fenologicka_faze": "na počátku kvetení",
+  "zpusob_pripravy": "Nať seříznout, usušit a rozdrobit jako koření nebo čajovou složku.",
+  "cilovy_efekt": "Kompaktní a trvanlivá aromatická zásoba.",
+  "chutovy_profil": "kořenitý, teplý, lehce hořký",
+  "vonny_profil": "silně aromatický, tymiánový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Přesušení na přímém slunci snižuje aroma.",
+  "kontraindikace_interakce": "V běžných kulinárních dávkách bez významných problémů.",
+  "legalita_poznamka_cr": "Šetrný sběr z běžných suchých lokalit.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj / evropská tradice",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: na počátku kvetení; v datech je pro něj vedené období VI–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Sušená nať vydrží měsíce a je praktičtější než čerstvá.",
+  "vedecky_nazev_hlavni": "Thymus serpyllum agg.",
+  "cesky_nazev_hlavni": "mateřídouška",
+  "status_v_cr_text": "původní, běžná lokálně",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Sušená nať vydrží měsíce a je praktičtější než čerstvá.",
+  "proc_je_v_jadru": "výborné suché koření z běžných suchých stanovišť",
+  "aliases": [
+    {
+      "plant_id": "plant_thymus_serpyllum_agg",
+      "alias": "mateřídouška",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_thymus_serpyllum_agg",
+      "alias": "Thymus serpyllum agg.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S47",
+      "nazev": "PFAF: Thymus serpyllum",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Thymus+serpyllum",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro mateřídoušku."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thymus%20serpyllum%20honey%20bee.JPG",
+      "alt": "mateřídouška",
+      "caption": "Wikimedia Commons: Thymus serpyllum agg.",
+      "credit": "MurielBendel",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Thymus_serpyllum_honey_bee.JPG",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thymus%20serpyllum%20honey%20bee.JPG",
+  "primary_photo_alt": "mateřídouška",
+  "primary_photo_credit": "MurielBendel",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Thymus_serpyllum_honey_bee.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

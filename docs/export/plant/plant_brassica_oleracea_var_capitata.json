@@ -1,0 +1,117 @@
+{
+  "plant_id": "plant_brassica_oleracea_var_capitata",
+  "vedecky_nazev_hlavni": "Brassica oleracea var. capitata",
+  "vedecky_nazev_display": "Brassica oleracea var. capitata",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "zelí hlávkové",
+  "status_v_cr_text": "pěstované, velmi běžné",
+  "status_puvodni": 0,
+  "status_zdomacnely": 0,
+  "status_pestovany": 1,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_brassica_oleracea_var_capitata",
+      "alias": "zelí hlávkové",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_brassica_oleracea_var_capitata",
+      "alias": "Brassica oleracea var. capitata",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r093",
+      "raw_record_id": "R093",
+      "domena": "potrava a pití",
+      "poddomena_text": "kysané zelí / zelné šťávy",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "list / zkvašená hmota",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "IX–III",
+      "cilovy_efekt": "zimní konzervace, kyselá příloha, nápojový lák jako vedlejší produkt",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Kvašení / fermentace",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvá hlávka vhodná ke kvašení; v datech je pro něj vedené období IX–III. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r092",
+      "raw_record_id": "R092",
+      "domena": "potrava",
+      "poddomena_text": "syrové / vařené / dušené",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "list",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "VI–III",
+      "cilovy_efekt": "základní zelenina s dobrou skladovatelností",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálá hlávka; v datech je pro něj vedené období VI–III. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "use_count": 2
+    },
+    {
+      "raw_source_id": "S28",
+      "nazev": "The Turnip (Brassica rapa L. subsp. rapa) in Eastern Tyrol",
+      "url": "https://ethnobotanyjournal.org/index.php/era/article/download/138/123/502",
+      "source_family": "ethnobotanyjournal_org",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brassica_oleracea0.jpg",
+      "alt": "zelí hlávkové",
+      "caption": "Wikimedia Commons: Brassica oleracea var. capitata",
+      "credit": "MPF",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea0.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 4
+  }
+}

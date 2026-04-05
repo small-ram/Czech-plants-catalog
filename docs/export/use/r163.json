@@ -1,0 +1,113 @@
+{
+  "use_id": "r163",
+  "plant_id": "plant_sorbus_aucuparia",
+  "raw_record_id": "R163",
+  "cesky_nazev_display": "jeřáb ptačí",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "želé / rosol po tepelné úpravě",
+  "poddomena_kategorie": "zavarenina",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "horské a podhorské okraje lesů, meze, aleje, parky",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně vybarvené plody, často po mrazu nebo po přemrznutí v mrazáku",
+  "zpusob_pripravy": "Plody tepelně upravit a zavařit do želé nebo rosolu; často po změkčení mrazem.",
+  "cilovy_efekt": "Trvanlivé využití trpkých plodů v malém množství jako chuťově výrazné zavařeniny.",
+  "chutovy_profil": "trpký, kyselý, aromatický",
+  "vonny_profil": "ovocný, lehce hořkomandlový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Syrové větší množství nebývá vhodné; nutná úprava a rozumné dávkování.",
+  "kontraindikace_interakce": "Citlivé osoby mohou hůře snášet syrové plody; tepelná úprava je preferovaná.",
+  "legalita_poznamka_cr": "Běžný sběr mimo chráněné režimy.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj / tradiční evropská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvené plody, často po mrazu nebo po přemrznutí v mrazáku; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Ve formě želé jde o výrazně trvanlivější využití než čerstvý plod.",
+  "vedecky_nazev_hlavni": "Sorbus aucuparia",
+  "cesky_nazev_hlavni": "jeřáb ptačí",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "zavařenina",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Ve formě želé jde o výrazně trvanlivější využití než čerstvý plod.",
+  "proc_je_v_jadru": "běžný strom, ale málo známé velmi praktické želé",
+  "aliases": [
+    {
+      "plant_id": "plant_sorbus_aucuparia",
+      "alias": "jeřáb ptačí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_sorbus_aucuparia",
+      "alias": "Sorbus aucuparia",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S53",
+      "nazev": "PFAF: Sorbus aucuparia",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Sorbus+aucuparia",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro jeřáb a jeho zavařeniny."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rowan_tree_20081002b.jpg",
+      "alt": "jeřáb ptačí",
+      "caption": "Wikimedia Commons: Sorbus aucuparia",
+      "credit": "Eeno11",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rowan_tree_20081002b.jpg",
+  "primary_photo_alt": "jeřáb ptačí",
+  "primary_photo_credit": "Eeno11",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

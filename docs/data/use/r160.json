@@ -1,0 +1,124 @@
+{
+  "use_id": "r160",
+  "plant_id": "plant_prunus_domestica",
+  "raw_record_id": "R160",
+  "cesky_nazev_display": "slivoň / švestka domácí",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "sušené švestky",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "sady, zahrady, meze se starými stromy, podhůří",
+  "obdobi_ziskani_text": "VIII–X",
+  "mesic_od": 8,
+  "mesic_do": 10,
+  "fenologicka_faze": "plně vyzrálé plody s vyšší cukernatostí",
+  "zpusob_pripravy": "Vypeckované nebo celé plody pomalu usušit a dosušit do skladovatelného stavu.",
+  "cilovy_efekt": "Zimní zásoba ovoce, přímá svačina i přísada do jídel.",
+  "chutovy_profil": "sladký, koncentrovaný",
+  "vonny_profil": "švestkový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Při špatném dosušení plesniví; velmi sladké plody mohou být lepivé a kazivé.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí; ve větším množství mohou projímat.",
+  "legalita_poznamka_cr": "Běžné domácí zpracování.",
+  "dukaznost_typ": "středoevropská kuchyňská praxe + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody s vyšší cukernatostí; v datech je pro něj vedené období VIII–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Po správném usušení běžně vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Prunus domestica",
+  "cesky_nazev_hlavni": "slivoň švestka / slíva",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Po správném usušení běžně vydrží měsíce.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_prunus_domestica",
+      "alias": "slivoň švestka / slíva",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_prunus_domestica",
+      "alias": "slivoň / švestka domácí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_prunus_domestica",
+      "alias": "Prunus domestica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S51",
+      "nazev": "PFAF: Prunus domestica",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+domestica",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro slívy a švestky."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fruits_Prunus_domestica.jpg",
+      "alt": "slivoň švestka / slíva",
+      "caption": "Wikimedia Commons: Prunus domestica",
+      "credit": "YAMAMAYA",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fruits_Prunus_domestica.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fruits_Prunus_domestica.jpg",
+  "primary_photo_alt": "slivoň švestka / slíva",
+  "primary_photo_credit": "YAMAMAYA",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fruits_Prunus_domestica.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,107 @@
+{
+  "use_id": "r220",
+  "plant_id": "plant_urtica_dioica",
+  "raw_record_id": "R220",
+  "cesky_nazev_display": "kopřiva dvoudomá",
+  "cast_rostliny_text": "semeno",
+  "cast_rostliny_kategorie": "semena_a_orisky",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "sušená kopřivová semena jako zásobní přísada",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "ruderály, zahrady, křoviny, dusíkatá místa, okraje cest",
+  "obdobi_ziskani_text": "VIII–IX",
+  "mesic_od": 8,
+  "mesic_do": 9,
+  "fenologicka_faze": "zralá semena zejména ze samičích rostlin",
+  "zpusob_pripravy": "Semena dosušit a používat po malých dávkách do kaší, müsli nebo směsí.",
+  "cilovy_efekt": "Dlouhodobě skladovatelný a stále ještě poměrně málo využívaný výstup z velmi běžné rostliny.",
+  "chutovy_profil": "oříškový, travnatý",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Prach a drobné chloupky mohou dráždit při sklizni; snadné znečištění prachem.",
+  "kontraindikace_interakce": "Opatrnost u citlivých osob; nezačínat vysokými dávkami.",
+  "legalita_poznamka_cr": "Sbírat z čistých dusíkatých lokalit, ne u silnic.",
+  "dukaznost_typ": "botanický zdroj / moderní wild-food praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralá semena zejména ze samičích rostlin; v datech je pro něj vedené období VIII–IX. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobře usušené semeno vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Urtica dioica",
+  "cesky_nazev_hlavni": "kopřiva dvoudomá",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Semena po dosušení vydrží dobře, pokud nejsou vlhká.",
+  "proc_je_v_jadru": "silná „wild pantry“ přísada z plevele",
+  "aliases": [
+    {
+      "plant_id": "plant_urtica_dioica",
+      "alias": "kopřiva dvoudomá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_urtica_dioica",
+      "alias": "Urtica dioica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S60",
+      "nazev": "PFAF: Urtica dioica",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Urtica+dioica",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro kopřivu; sušení a zimní užití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Urtica%20dioica%20Plant.jpg",
+      "alt": "Kopřiva dvoudomá",
+      "caption": "Wikimedia Commons: Urtica dioica",
+      "credit": "Matildalove12",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Urtica_dioica_Plant.jpg",
+      "license": "",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Urtica%20dioica%20Plant.jpg",
+  "primary_photo_alt": "Kopřiva dvoudomá",
+  "primary_photo_credit": "Matildalove12",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Urtica_dioica_Plant.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

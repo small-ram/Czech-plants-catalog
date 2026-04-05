@@ -1,0 +1,132 @@
+{
+  "plant_id": "plant_artemisia_vulgaris",
+  "vedecky_nazev_hlavni": "Artemisia vulgaris",
+  "vedecky_nazev_display": "Artemisia vulgaris",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "pelyněk černobýl",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_pouziti": 3,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_artemisia_vulgaris",
+      "alias": "pelyněk černobýl",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_artemisia_vulgaris",
+      "alias": "Artemisia vulgaris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r207",
+      "raw_record_id": "R207",
+      "domena": "vůně",
+      "poddomena_text": "sušený vykuřovací svazeček / aromatická bylina",
+      "poddomena_kategorie": "vune_a_vykurovani",
+      "cast_rostliny_text": "nať",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "VII–IX",
+      "cilovy_efekt": "Výrazná trvanlivá aromatická forma z velmi běžné byliny.",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: kvetoucí nebo těsně předkvětní nať; v datech je pro něj vedené období VII–IX. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušený svazeček",
+      "orientacni_trvanlivost_text": "3–12 měsíců"
+    },
+    {
+      "use_id": "r209",
+      "raw_record_id": "R209",
+      "domena": "pití",
+      "poddomena_text": "hořký bylinný nálev",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "nať",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "VII–VIII",
+      "cilovy_efekt": "Dlouhodobá zásoba výrazně hořké byliny pro velmi střídmé užití.",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: na počátku kvetení; v datech je pro něj vedené období VII–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "3–12 měsíců"
+    },
+    {
+      "use_id": "r208",
+      "raw_record_id": "R208",
+      "domena": "potrava",
+      "poddomena_text": "sušená nať jako hořké koření k tučným jídlům",
+      "poddomena_kategorie": "koreni_dochucovadlo",
+      "cast_rostliny_text": "nať",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "VII–VIII",
+      "cilovy_efekt": "Zapomenutá, ale praktická hořká a aromatická zásoba.",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladší aromatická nať před plným vysemeněním; v datech je pro něj vedené období VII–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "3–12 měsíců"
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S68",
+      "nazev": "PFAF: Artemisia vulgaris",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Artemisia+vulgaris",
+      "source_family": "pfaf",
+      "use_count": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ArtemisiaVulgaris.jpg",
+      "alt": "pelyněk černobýl",
+      "caption": "Wikimedia Commons: Artemisia vulgaris",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ArtemisiaVulgaris.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 3,
+    "durable_use_count": 3,
+    "core_use_count": 1,
+    "processing_use_count": 3,
+    "top_evidence_rank": 3
+  }
+}

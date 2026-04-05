@@ -1,0 +1,113 @@
+{
+  "use_id": "r068",
+  "plant_id": "plant_pyrus_communis",
+  "raw_record_id": "R068",
+  "cesky_nazev_display": "hrušeň obecná",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "čerstvé plody / sušení / kompot",
+  "poddomena_kategorie": "zavarenina",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "sady, zahrady, staré vysokokmenné stromy, polní cesty",
+  "obdobi_ziskani_text": "VIII–X",
+  "mesic_od": 8,
+  "mesic_do": 10,
+  "fenologicka_faze": "zralý plod",
+  "zpusob_pripravy": "čerstvá konzumace, sušené hrušky, kompoty, pečení",
+  "cilovy_efekt": "výživa, sladká konzervace, tradiční podzimní ovoce",
+  "chutovy_profil": "sladký, měkký až máslový",
+  "vonny_profil": "jemně ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Přezrálé plody rychle kvasí a lákají hmyz; některé staré odrůdy jsou tvrdé až po odležení.",
+  "kontraindikace_interakce": "Běžná potravina; při průmyslovém ošetření pozor na zbytky postřiků.",
+  "legalita_poznamka_cr": "Sběr obdobně jako u jabloní podle vlastnictví a přístupu.",
+  "dukaznost_typ": "česká ovocnářská kontinuita + běžná kuchyňská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení · Kompot",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VIII–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobře doplňuje vrstvu tradičního sadového ovoce.",
+  "vedecky_nazev_hlavni": "Pyrus communis",
+  "cesky_nazev_hlavni": "hrušeň obecná",
+  "status_v_cr_text": "pěstovaná, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_pyrus_communis",
+      "alias": "hrušeň obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_pyrus_communis",
+      "alias": "Pyrus communis",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S27",
+      "nazev": "Occurrence and Records of Old Varieties of Pome Fruit in the Tišnov Region",
+      "url": "https://acta.mendelu.cz/pdfs/acu/2016/01/05.pdf",
+      "source_family": "acta_mendelu_cz",
+      "poznamka": "ČR; staré odrůdy jablek a hrušní, lokální kontinuita pěstování."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "kompot",
+      "label": "Kompot",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pears.jpg",
+      "alt": "hrušeň obecná",
+      "caption": "Wikimedia Commons: Pyrus communis",
+      "credit": "Keith Weller",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+      "license": "Public domain",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pears.jpg",
+  "primary_photo_alt": "hrušeň obecná",
+  "primary_photo_credit": "Keith Weller",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

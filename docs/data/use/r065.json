@@ -1,0 +1,107 @@
+{
+  "use_id": "r065",
+  "plant_id": "plant_corylus_avellana",
+  "raw_record_id": "R065",
+  "cesky_nazev_display": "líska obecná",
+  "cast_rostliny_text": "ořech",
+  "cast_rostliny_kategorie": "semena_a_orisky",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "čerstvý ořech / sušení / pasta / mléko",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "lesní okraje, křoviny, meze, zahrady",
+  "obdobi_ziskani_text": "VIII–X",
+  "mesic_od": 8,
+  "mesic_do": 10,
+  "fenologicka_faze": "zralé ořechy po opadávání nebo snadném uvolnění",
+  "zpusob_pripravy": "Sušit a skladovat v suchu; lze jíst celé nebo zpracovat.",
+  "cilovy_efekt": "Energeticky bohatý lesní plod s vysokou univerzalitou.",
+  "chutovy_profil": "oříškový, sladký",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Alergie na ořechy; plísně při špatném skladování.",
+  "kontraindikace_interakce": "Alergici musí vynechat.",
+  "legalita_poznamka_cr": "Běžně možné.",
+  "dukaznost_typ": "česká etnobotanika",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralé ořechy po opadávání nebo snadném uvolnění; v datech je pro něj vedené období VIII–X. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Jedna z nejpraktičtějších lesních potravních surovin.",
+  "vedecky_nazev_hlavni": "Corylus avellana",
+  "cesky_nazev_hlavni": "líska obecná",
+  "status_v_cr_text": "původní, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_corylus_avellana",
+      "alias": "líska obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_corylus_avellana",
+      "alias": "Corylus avellana",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Corylus_avellana.jpg",
+      "alt": "líska obecná",
+      "caption": "Wikimedia Commons: Corylus avellana",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Corylus_avellana.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Corylus_avellana.jpg",
+  "primary_photo_alt": "líska obecná",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Corylus_avellana.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

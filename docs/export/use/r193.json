@@ -1,0 +1,116 @@
+{
+  "use_id": "r193",
+  "plant_id": "plant_picea_abies",
+  "raw_record_id": "R193",
+  "cesky_nazev_display": "smrk ztepilý",
+  "cast_rostliny_text": "mladé výhonky",
+  "cast_rostliny_kategorie": "vyhonky_a_pupeny",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sirup z mladých výhonků",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "horské a podhorské smrčiny, výsadby, zahrady",
+  "obdobi_ziskani_text": "V–VI",
+  "mesic_od": 5,
+  "mesic_do": 6,
+  "fenologicka_faze": "mladé světlé výhonky",
+  "zpusob_pripravy": "Výhonky zpracovat do sirupu; skladovat v čistých lahvích nebo sklenicích.",
+  "cilovy_efekt": "Velmi rozšířená trvanlivá forma využití jarních smrkových výhonků.",
+  "chutovy_profil": "sladce pryskyřičný",
+  "vonny_profil": "lesní, smrkový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Snadné přehnané osbírání mladých stromků; sběr po dešti zhoršuje kvalitu.",
+  "kontraindikace_interakce": "Jde o tradiční domácí přípravek, ne oficiální léčbu.",
+  "legalita_poznamka_cr": "Sbírat střídmě, ideálně z vlastních nebo již kácených větví.",
+  "dukaznost_typ": "česká etnobotanika + globální analog",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sirup / koncentrát",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé světlé výhonky; v datech je pro něj vedené období V–VI. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Po zavaření vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Picea abies",
+  "cesky_nazev_hlavni": "smrk ztepilý",
+  "status_v_cr_text": "původní/pěstovaný, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sirup / koncentrát",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Po zavaření vydrží měsíce.",
+  "proc_je_v_jadru": "krátké jarní okno převedené do trvanlivé formy",
+  "aliases": [
+    {
+      "plant_id": "plant_picea_abies",
+      "alias": "smrk ztepilý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 6
+    },
+    {
+      "plant_id": "plant_picea_abies",
+      "alias": "Picea abies",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 6
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S21",
+      "nazev": "The Importance of Pine Species in the Ethnomedicine of Transylvania (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9506106/",
+      "source_family": "pmc",
+      "poznamka": "Karpaty; silný globální analog pro smrk, borovici a jedli, zejména mladé výhonky, šišky a sirupy."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S22",
+      "nazev": "Divergence of Ethnobotanical Knowledge of Slovenians (MDPI)",
+      "url": "https://www.mdpi.com/2223-7747/10/10/2087",
+      "source_family": "mdpi",
+      "poznamka": "Střední/JV Evropa; analog pro sirupy ze smrku a borovice a pro jedlé použití jitrocele."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Picea-abies-shoot.jpg",
+      "alt": "Mladý výhonek smrku ztepilého",
+      "caption": "Wikimedia Commons: Picea abies young shoot",
+      "credit": "Sten Porse",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Picea-abies-shoot.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Picea-abies-shoot.jpg",
+  "primary_photo_alt": "Mladý výhonek smrku ztepilého",
+  "primary_photo_credit": "Sten Porse",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Picea-abies-shoot.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

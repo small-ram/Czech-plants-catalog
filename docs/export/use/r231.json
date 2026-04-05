@@ -1,0 +1,116 @@
+{
+  "use_id": "r231",
+  "plant_id": "plant_geum_urbanum",
+  "raw_record_id": "R231",
+  "cesky_nazev_display": "kuklík městský",
+  "cast_rostliny_text": "kořen",
+  "cast_rostliny_kategorie": "podzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "vůně",
+  "domena_slug": "vune",
+  "poddomena_text": "usušený kořen do prádla a skříní",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "téměř zapomenuté",
+  "status_znalosti_slug": "temer_zapomenute",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "lesní lemy, stinné parky, cesty, křoviny",
+  "obdobi_ziskani_text": "III–V a IX–XI",
+  "mesic_od": 3,
+  "mesic_do": 11,
+  "fenologicka_faze": "čerstvě vykopaný aromatický kořen",
+  "zpusob_pripravy": "Kořen usušit a vložit do malých sáčků do skříní nebo prádla.",
+  "cilovy_efekt": "Trvanlivý aromatický a repelenční detail z téměř zapomenuté domácí praxe.",
+  "chutovy_profil": "neaplikovatelné",
+  "vonny_profil": "hřebíčkový, kořenitý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Vůně časem slábne; při vlhku může kořen zatuchnout.",
+  "kontraindikace_interakce": "Citlivé osoby mohou hůře tolerovat silné aroma v malém prostoru.",
+  "legalita_poznamka_cr": "Sbírat šetrně a jen malé množství.",
+  "dukaznost_typ": "tradiční domácí praxe",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě vykopaný aromatický kořen; v datech je pro něj vedené období III–V a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Přesně ten typ jednorázovějšího, ale hodnotného detailu, který se v moderních přehledech ztrácí.",
+  "vedecky_nazev_hlavni": "Geum urbanum",
+  "cesky_nazev_hlavni": "kuklík městský",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušený aromatický sáček",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Vůně drží měsíce, pak slábne.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_geum_urbanum",
+      "alias": "kuklík městský",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_geum_urbanum",
+      "alias": "Geum urbanum",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S75",
+      "nazev": "Practical Plants: Geum urbanum",
+      "url": "https://practicalplants.org/wiki/geum_urbanum/",
+      "source_family": "practicalplants_org",
+      "poznamka": "Doplňkový zdroj ke kuklíku, zejména aromatické a materiálové drobnosti."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S74",
+      "nazev": "PFAF: Geum urbanum",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Geum+urbanum",
+      "source_family": "pfaf",
+      "poznamka": "Kuklík městský – aromatický kořen, nápojové a kořenné použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29_Geum_urbanum_-_Habit.jpg",
+      "alt": "kuklík městský",
+      "caption": "Wikimedia Commons: Geum urbanum",
+      "credit": "Didier Descouens",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Geum_urbanum_-_Habit.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29_Geum_urbanum_-_Habit.jpg",
+  "primary_photo_alt": "kuklík městský",
+  "primary_photo_credit": "Didier Descouens",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Geum_urbanum_-_Habit.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

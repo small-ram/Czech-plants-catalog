@@ -1,0 +1,113 @@
+{
+  "use_id": "r223",
+  "plant_id": "plant_sorbus_aucuparia",
+  "raw_record_id": "R223",
+  "cesky_nazev_display": "jeřáb ptačí",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "jeřabinový likér / cordial",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "lesní okraje, horské a podhorské cesty, parky, aleje",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně zralé plody ideálně po mrazu nebo po zamražení",
+  "zpusob_pripravy": "Plody naložit do alkoholu nebo povařit na cordial; teplem či mrazem zjemnit trpkost.",
+  "cilovy_efekt": "Jedna z nejzajímavějších trvanlivých forem využití běžného horského a parkového stromu.",
+  "chutovy_profil": "kyselý, trpký, hořkosladký",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Syrové a ve velkém nejsou vhodné; nutná úprava.",
+  "kontraindikace_interakce": "Obsah alkoholu u likérů; jinak hlavní riziko je technologické.",
+  "legalita_poznamka_cr": "Běžný sběr z nechráněných stromů.",
+  "dukaznost_typ": "botanický zdroj + středoevropská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sirup / koncentrát · Tinktura / alkoholová macerace",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody ideálně po mrazu nebo po zamražení; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobrý příklad „svět použitelného jeřábu“, který se v běžných českých přehledech ztrácí.",
+  "vedecky_nazev_hlavni": "Sorbus aucuparia",
+  "cesky_nazev_hlavni": "jeřáb ptačí",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "alkoholová macerace",
+  "orientacni_trvanlivost_text": "6–12+ měsíců",
+  "poznamka_k_skladovani": "Likér nebo cordial je při správném uzávěru dlouhodobý.",
+  "proc_je_v_jadru": "výrazný podzimní stromový likér",
+  "aliases": [
+    {
+      "plant_id": "plant_sorbus_aucuparia",
+      "alias": "jeřáb ptačí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_sorbus_aucuparia",
+      "alias": "Sorbus aucuparia",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S53",
+      "nazev": "PFAF: Sorbus aucuparia",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Sorbus+aucuparia",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro jeřáb a jeho zavařeniny."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "tinktura",
+      "label": "Tinktura / alkoholová macerace",
+      "group_label": "alkohol",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rowan_tree_20081002b.jpg",
+      "alt": "jeřáb ptačí",
+      "caption": "Wikimedia Commons: Sorbus aucuparia",
+      "credit": "Eeno11",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rowan_tree_20081002b.jpg",
+  "primary_photo_alt": "jeřáb ptačí",
+  "primary_photo_credit": "Eeno11",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

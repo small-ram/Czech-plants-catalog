@@ -1,0 +1,125 @@
+{
+  "plant_id": "plant_cydonia_oblonga",
+  "vedecky_nazev_hlavni": "Cydonia oblonga",
+  "vedecky_nazev_display": "Cydonia oblonga",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "kdoule obecná",
+  "status_v_cr_text": "pěstovaná, lokálně běžná",
+  "status_puvodni": 0,
+  "status_zdomacnely": 0,
+  "status_pestovany": 1,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 2,
+  "aliases": [
+    {
+      "plant_id": "plant_cydonia_oblonga",
+      "alias": "kdoule obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_cydonia_oblonga",
+      "alias": "kdouloň obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_cydonia_oblonga",
+      "alias": "Cydonia oblonga",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r199",
+      "raw_record_id": "R199",
+      "domena": "potrava",
+      "poddomena_text": "kdoulová marmeláda / membrillo",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "X–XI",
+      "cilovy_efekt": "Výrazně trvanlivý způsob využití pektinově bohatých a syrově tvrdých plodů.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé aromatické plody; v datech je pro něj vedené období X–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "zavařenina",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r079",
+      "raw_record_id": "R079",
+      "domena": "potrava a pití",
+      "poddomena_text": "želé / marmeláda / sirup / pečení",
+      "poddomena_kategorie": "sirup_koncentrat",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "IX–XI",
+      "cilovy_efekt": "aromatická, silně voňavá surovina pro konzervaci",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+      "processing_methods_count": 3,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálý aromatický plod; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "use_count": 2
+    },
+    {
+      "raw_source_id": "S54",
+      "nazev": "PFAF: Cydonia oblonga",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Cydonia+oblonga",
+      "source_family": "pfaf",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Quince%20flowers.jpg",
+      "alt": "kdoule obecná",
+      "caption": "Wikimedia Commons: Cydonia oblonga",
+      "credit": "Fir0002 at English Wikipedia",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quince_flowers.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 1,
+    "core_use_count": 0,
+    "processing_use_count": 2,
+    "top_evidence_rank": 4
+  }
+}

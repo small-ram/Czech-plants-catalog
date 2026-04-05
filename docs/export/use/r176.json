@@ -1,0 +1,116 @@
+{
+  "use_id": "r176",
+  "plant_id": "plant_urtica_dioica",
+  "raw_record_id": "R176",
+  "cesky_nazev_display": "kopřiva dvoudomá",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušený list na čaj nebo zelený prášek",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "dusíkatá místa, zahrady, komposty, okraje cest, rumiště",
+  "obdobi_ziskani_text": "IV–VI",
+  "mesic_od": 4,
+  "mesic_do": 6,
+  "fenologicka_faze": "mladé vrcholy a listy před stárnutím",
+  "zpusob_pripravy": "Mladé listy usušit; část lze rozemlít na prášek, část ponechat na čaj.",
+  "cilovy_efekt": "Velmi praktická zimní zásoba z běžné jarní rostliny.",
+  "chutovy_profil": "zelený, travnatý",
+  "vonny_profil": "zelený",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Sbírat jen z čistých míst mimo komposty se znečištěním a psí výběhy.",
+  "kontraindikace_interakce": "U citlivých osob opatrnost při vyšší konzumaci; starší listy mohou dráždit.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých lokalit.",
+  "dukaznost_typ": "česká etnobotanika + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé vrcholy a listy před stárnutím; v datech je pro něj vedené období IV–VI. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Po usušení vydrží měsíce a umožňuje využít jarní nadbytek i v zimě.",
+  "vedecky_nazev_hlavni": "Urtica dioica",
+  "cesky_nazev_hlavni": "kopřiva dvoudomá",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Po usušení vydrží měsíce a umožňuje využít jarní nadbytek i v zimě.",
+  "proc_je_v_jadru": "jednoduchý způsob převodu jarní zeleniny do zásoby",
+  "aliases": [
+    {
+      "plant_id": "plant_urtica_dioica",
+      "alias": "kopřiva dvoudomá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_urtica_dioica",
+      "alias": "Urtica dioica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S60",
+      "nazev": "PFAF: Urtica dioica",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Urtica+dioica",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro kopřivu; sušení a zimní užití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Urtica%20dioica%20Plant.jpg",
+      "alt": "Kopřiva dvoudomá",
+      "caption": "Wikimedia Commons: Urtica dioica",
+      "credit": "Matildalove12",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Urtica_dioica_Plant.jpg",
+      "license": "",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Urtica%20dioica%20Plant.jpg",
+  "primary_photo_alt": "Kopřiva dvoudomá",
+  "primary_photo_credit": "Matildalove12",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Urtica_dioica_Plant.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

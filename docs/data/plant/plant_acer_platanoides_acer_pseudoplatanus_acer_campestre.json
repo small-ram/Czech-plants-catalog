@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
+  "vedecky_nazev_hlavni": "Acer platanoides / Acer pseudoplatanus / Acer campestre",
+  "vedecky_nazev_display": "Acer platanoides / Acer pseudoplatanus / Acer campestre",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "javor mléč / javor klen / javor babyka",
+  "status_v_cr_text": "původní, běžné",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
+      "alias": "javor mléč / javor klen / javor babyka",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
+      "alias": "Acer platanoides / Acer pseudoplatanus / Acer campestre",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r033",
+      "raw_record_id": "R033",
+      "domena": "pití",
+      "poddomena_text": "fermentovaný nápoj / sirup / ocet",
+      "poddomena_kategorie": "sirup_koncentrat",
+      "cast_rostliny_text": "míza",
+      "cast_rostliny_kategorie": "miza",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Trvanlivější jarní nápoj nebo sladidlo s regionálně vzdáleným, ale přenositelným modelem.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "globální analog",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sirup / koncentrát · Kvašení / fermentace · Naložení do octa / ocet",
+      "processing_methods_count": 3,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě získaná míza; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r032",
+      "raw_record_id": "R032",
+      "domena": "pití",
+      "poddomena_text": "čerstvá jarní míza",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "míza",
+      "cast_rostliny_kategorie": "miza",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Sezónní minerální nápoj; severovýchodoevropský analog použitelný i v ČR.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "globální analog",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: jarní tok mízy před plným olistěním; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S02",
+      "nazev": "Uses of tree saps in northern and eastern parts of Europe",
+      "url": "https://www.researchgate.net/publication/234004639_Uses_of_tree_saps_in_northern_and_eastern_parts_of_Europe",
+      "source_family": "researchgate",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Spitz-Ahorn%28mbo%29.jpg",
+      "alt": "javor mléč / javor klen / javor babyka",
+      "caption": "Wikimedia Commons: Acer platanoides / Acer pseudoplatanus / Acer campestre",
+      "credit": "Martin Bobka (= Martin120 )",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Spitz-Ahorn(mbo).jpg",
+      "license": "CC BY-SA 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 2
+  }
+}

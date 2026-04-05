@@ -1,0 +1,130 @@
+{
+  "use_id": "r165",
+  "plant_id": "plant_sorbus_domestica",
+  "raw_record_id": "R165",
+  "cesky_nazev_display": "oskeruše domácí",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "sušené plody",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "téměř zapomenuté",
+  "status_znalosti_slug": "temer_zapomenute",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "jižní Morava, staré sady, vinohrady, teplé svahy",
+  "obdobi_ziskani_text": "IX–X",
+  "mesic_od": 9,
+  "mesic_do": 10,
+  "fenologicka_faze": "plody po uleželosti nebo po dosušení",
+  "zpusob_pripravy": "Uleželé plody dosušit a používat podobně jako sušené švestky nebo do kompotů.",
+  "cilovy_efekt": "Velmi zapomenutá trvanlivá forma starého ovocného stromu.",
+  "chutovy_profil": "sladký, hruškovitý, lehce trpký",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Lokálně vzácná dřevina; nízká dostupnost plodů.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí.",
+  "legalita_poznamka_cr": "Preferovat vlastní/pěstované zdroje; nepustošit lokální stromy.",
+  "dukaznost_typ": "přehledový odborný zdroj k zapomenutému ovoci + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení · Kompot",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plody po uleželosti nebo po dosušení; v datech je pro něj vedené období IX–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Po usušení jde o zimní zásobu na více měsíců.",
+  "vedecky_nazev_hlavni": "Sorbus domestica",
+  "cesky_nazev_hlavni": "oskeruše",
+  "status_v_cr_text": "původní i pěstovaná, velmi lokální",
+  "status_cetnost_reprezentativni": "neurceno",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Po usušení jde o zimní zásobu na více měsíců.",
+  "proc_je_v_jadru": "živý plot + výrazná dlouhodobá chuťová zásoba",
+  "aliases": [
+    {
+      "plant_id": "plant_sorbus_domestica",
+      "alias": "oskeruše",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_sorbus_domestica",
+      "alias": "oskeruše domácí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_sorbus_domestica",
+      "alias": "Sorbus domestica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S26",
+      "nazev": "Oskeruše – zapomenutý ovocný strom Evropy II",
+      "url": "https://ziva.avcr.cz/files/ziva/pdf/oskeruse-zapomenuty-ovocny-strom-evropy-ii.pdf",
+      "source_family": "ziva_avcr_cz",
+      "poznamka": "ČR; přehled k oskeruši, jejímu rozšíření a tradičnímu využití."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S62",
+      "nazev": "PFAF: Sorbus domestica",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Sorbus+domestica",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro oskeruši a sušení plodů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "kompot",
+      "label": "Kompot",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+      "alt": "oskeruše",
+      "caption": "Wikimedia Commons: Sorbus domestica",
+      "credit": "BotBln",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+  "primary_photo_alt": "oskeruše",
+  "primary_photo_credit": "BotBln",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

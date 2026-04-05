@@ -1,0 +1,107 @@
+{
+  "use_id": "r168",
+  "plant_id": "plant_sambucus_nigra",
+  "raw_record_id": "R168",
+  "cesky_nazev_display": "bez černý",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušené bezinky do odvaru nebo čajové směsi",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "křoviny, okraje cest, remízky, ruderály, ploty",
+  "obdobi_ziskani_text": "VIII–IX",
+  "mesic_od": 8,
+  "mesic_do": 9,
+  "fenologicka_faze": "plně vyzrálé plody po odstopkování",
+  "zpusob_pripravy": "Plody dosušit a používat v malém množství do odvarů, směsí a zimních nápojů.",
+  "cilovy_efekt": "Kompaktní dlouhodobá zásoba bezinek bez nutnosti zavařování.",
+  "chutovy_profil": "tmavě ovocný, lehce svíravý",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nedostatečně usušené plody plesniví; nutná jen zralá surovina.",
+  "kontraindikace_interakce": "Nepoužívat syrové nezralé plody.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých míst.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj / tradiční evropská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody po odstopkování; v datech je pro něj vedené období VIII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobře usušené plody vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Sambucus nigra",
+  "cesky_nazev_hlavni": "bez černý",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Dobře usušené plody vydrží měsíce.",
+  "proc_je_v_jadru": "silně aromatická a dobře skladovatelná čajová droga",
+  "aliases": [
+    {
+      "plant_id": "plant_sambucus_nigra",
+      "alias": "bez černý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 8
+    },
+    {
+      "plant_id": "plant_sambucus_nigra",
+      "alias": "Sambucus nigra",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 8
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S59",
+      "nazev": "PFAF: Sambucus nigra",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Sambucus+nigra",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro bez černý; sušený květ a zpracované plody."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambucus_nigra_004.jpg",
+      "alt": "bez černý",
+      "caption": "Wikimedia Commons: Sambucus nigra",
+      "credit": "Willow",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambucus_nigra_004.jpg",
+  "primary_photo_alt": "bez černý",
+  "primary_photo_credit": "Willow",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

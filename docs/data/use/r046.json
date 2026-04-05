@@ -1,0 +1,125 @@
+{
+  "use_id": "r046",
+  "plant_id": "plant_rubus_idaeus",
+  "raw_record_id": "R046",
+  "cesky_nazev_display": "maliník obecný",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "čerstvé plody / sirup / džem",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "lesní paseky, okraje lesů, křoviny, zahrady",
+  "obdobi_ziskani_text": "VI–VIII",
+  "mesic_od": 6,
+  "mesic_do": 8,
+  "fenologicka_faze": "plně zralé plody",
+  "zpusob_pripravy": "Jíst čerstvé nebo zpracovat na sirup, džem či ocet.",
+  "cilovy_efekt": "Výživný plod, surovina pro nápoje i konzervaci.",
+  "chutovy_profil": "sladkokyselý, ovocný",
+  "vonny_profil": "ovocně malinový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Rychle podléhá zkáze; kontaminace plísní při přezrání.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí v potravním množství.",
+  "legalita_poznamka_cr": "Běžný sběr mimo chráněné lokality a cizí pozemky.",
+  "dukaznost_typ": "česká etnobotanika",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Naložení do octa / ocet · Cukrování / kandování / džem",
+  "processing_methods_count": 4,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody; v datech je pro něj vedené období VI–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Prakticky velmi vysoká hodnota.",
+  "vedecky_nazev_hlavni": "Rubus idaeus",
+  "cesky_nazev_hlavni": "maliník obecný",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_rubus_idaeus",
+      "alias": "maliník obecný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_rubus_idaeus",
+      "alias": "Rubus idaeus",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "ocet",
+      "label": "Naložení do octa / ocet",
+      "group_label": "fermentace",
+      "method_order": 3
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 4
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+      "alt": "maliník obecný",
+      "caption": "Wikimedia Commons: Rubus idaeus",
+      "credit": "Kollányi Gábor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+  "primary_photo_alt": "maliník obecný",
+  "primary_photo_credit": "Kollányi Gábor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

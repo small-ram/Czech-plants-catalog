@@ -1,0 +1,116 @@
+{
+  "use_id": "r013",
+  "plant_id": "plant_juniperus_communis",
+  "raw_record_id": "R013",
+  "cesky_nazev_display": "jalovec obecný",
+  "cast_rostliny_text": "pseudoplod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "destilát / likér",
+  "poddomena_kategorie": "liker_macerat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "suché stráně, pastviny, vřesoviště; prakticky častěji pěstované či kupované plody",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "zralé pseudoplody",
+  "zpusob_pripravy": "Historicky a kulinárně důležité aroma pro destiláty a likéry.",
+  "cilovy_efekt": "Aromatika a chuťový základ nápoje.",
+  "chutovy_profil": "pryskyřičný, hořkosladký",
+  "vonny_profil": "borovicově pryskyřičný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nezaměňovat s doporučením vysoké konzumace alkoholu.",
+  "kontraindikace_interakce": "Při zdravotních omezeních souvisejících s alkoholem nevhodné.",
+  "legalita_poznamka_cr": "Sbírání ve volné krajině jen opatrně a legálně.",
+  "dukaznost_typ": "česká etnobotanika + EMA",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Tinktura / alkoholová macerace",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralé pseudoplody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Databázově vhodné jako samostatný nápojový řádek.",
+  "vedecky_nazev_hlavni": "Juniperus communis",
+  "cesky_nazev_hlavni": "jalovec obecný",
+  "status_v_cr_text": "původní, lokálně vzácnější",
+  "status_cetnost_reprezentativni": "vzacnejsi",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_juniperus_communis",
+      "alias": "jalovec obecný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_juniperus_communis",
+      "alias": "Juniperus communis",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S05",
+      "nazev": "EMA: Juniperi pseudofructus monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-juniperus-communis-l-pseudofructus_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie jalovcových pseudoplodů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "tinktura",
+      "label": "Tinktura / alkoholová macerace",
+      "group_label": "alkohol",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeneverbes.jpg",
+      "alt": "jalovec obecný",
+      "caption": "Wikimedia Commons: Juniperus communis",
+      "credit": "Rasbak at Dutch Wikipedia",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeneverbes.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeneverbes.jpg",
+  "primary_photo_alt": "jalovec obecný",
+  "primary_photo_credit": "Rasbak at Dutch Wikipedia",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Jeneverbes.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

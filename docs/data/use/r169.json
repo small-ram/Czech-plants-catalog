@@ -1,0 +1,116 @@
+{
+  "use_id": "r169",
+  "plant_id": "plant_vaccinium_myrtillus",
+  "raw_record_id": "R169",
+  "cesky_nazev_display": "borůvka černá",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "sušené borůvky",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "acidofilní lesy, paseky, vřesoviště, horské a podhorské lesy",
+  "obdobi_ziskani_text": "VII–IX",
+  "mesic_od": 7,
+  "mesic_do": 9,
+  "fenologicka_faze": "plně vyzrálé plody",
+  "zpusob_pripravy": "Plody usušit do stavu podobného drobným rozinkám; skladovat v suchu.",
+  "cilovy_efekt": "Lehká trvanlivá zásoba do kaší, pečení a cestovní stravy.",
+  "chutovy_profil": "sladkokyselý, borůvkový",
+  "vonny_profil": "slabě ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Snadno se kazí při nedostatečném usušení; znečištěné plody obtížně schnou.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí.",
+  "legalita_poznamka_cr": "Běžný sběr mimo chráněné a znečištěné lokality.",
+  "dukaznost_typ": "česká etnobotanika + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody; v datech je pro něj vedené období VII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Po dobrém usušení vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Vaccinium myrtillus",
+  "cesky_nazev_hlavni": "borůvka černá",
+  "status_v_cr_text": "původní, běžná lokálně až hojně",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Po dobrém usušení vydrží měsíce.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_vaccinium_myrtillus",
+      "alias": "borůvka černá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_vaccinium_myrtillus",
+      "alias": "Vaccinium myrtillus",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S58",
+      "nazev": "PFAF: Vaccinium myrtillus",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Vaccinium+myrtillus",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro borůvku; sušení a zavařeniny."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/203_Vaccinum_myrtillus_L.jpg",
+      "alt": "borůvka černá",
+      "caption": "Wikimedia Commons: Vaccinium myrtillus",
+      "credit": "Amédée Masclef",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:203_Vaccinum_myrtillus_L.jpg",
+      "license": "Public domain",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/203_Vaccinum_myrtillus_L.jpg",
+  "primary_photo_alt": "borůvka černá",
+  "primary_photo_credit": "Amédée Masclef",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:203_Vaccinum_myrtillus_L.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

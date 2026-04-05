@@ -1,0 +1,128 @@
+{
+  "use_id": "r198",
+  "plant_id": "plant_rosa_canina",
+  "raw_record_id": "R198",
+  "cesky_nazev_display": "růže šípková",
+  "cast_rostliny_text": "šípek",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "šípkový sirup / džem",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "meze, křoviny, okraje cest, remízky",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně vybarvené šípky",
+  "zpusob_pripravy": "Plody po očištění zavařit na sirup nebo džem.",
+  "cilovy_efekt": "Velmi tradiční způsob uchování šípků v koncentrované podobě.",
+  "chutovy_profil": "kyselkavý, ovocný",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Pracné odstranění chloupků; nedbalé čištění zhoršuje kvalitu.",
+  "kontraindikace_interakce": "U citlivých osob mohou vadit koncentrované kyseliny.",
+  "legalita_poznamka_cr": "Běžný sběr čistých plodů.",
+  "dukaznost_typ": "česká etnobotanika + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 3,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvené šípky; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Po zavaření vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Rosa canina",
+  "cesky_nazev_hlavni": "růže šípková",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sirup / koncentrát",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Po zavaření vydrží měsíce.",
+  "proc_je_v_jadru": "jedna z nejlepších českých podzimních zásob",
+  "aliases": [
+    {
+      "plant_id": "plant_rosa_canina",
+      "alias": "růže šípková",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_rosa_canina",
+      "alias": "Rosa canina",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S52",
+      "nazev": "PFAF: Rosa canina",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Rosa+canina",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro šípky, sirupy, džemy a čaje."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Divlja_ruza_cvijet_270508.jpg",
+      "alt": "růže šípková",
+      "caption": "Wikimedia Commons: Rosa canina",
+      "credit": "Roberta F.",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Divlja_ruza_cvijet_270508.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Divlja_ruza_cvijet_270508.jpg",
+  "primary_photo_alt": "růže šípková",
+  "primary_photo_credit": "Roberta F.",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Divlja_ruza_cvijet_270508.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

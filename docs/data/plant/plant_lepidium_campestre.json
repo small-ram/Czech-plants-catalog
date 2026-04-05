@@ -1,0 +1,88 @@
+{
+  "plant_id": "plant_lepidium_campestre",
+  "vedecky_nazev_hlavni": "Lepidium campestre",
+  "vedecky_nazev_display": "Lepidium campestre",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "řeřicha rolničková",
+  "status_v_cr_text": "původní, běžná lokálně",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_pouziti": 1,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_lepidium_campestre",
+      "alias": "řeřicha rolničková",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_lepidium_campestre",
+      "alias": "Lepidium campestre",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r255",
+      "raw_record_id": "R255",
+      "domena": "potrava",
+      "poddomena_text": "časná peprná brukvovitá zeleň",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "mladé listy, výhony a šešulky",
+      "cast_rostliny_kategorie": "kombinovana_cast",
+      "obdobi_ziskani_text": "IV–V",
+      "cilovy_efekt": "Další velmi okrajová dubnová brukvovitá položka pro peprnější kuchyni.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: časné listy a mladé výhony; později i jemné šešulky; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S94",
+      "nazev": "PFAF: Lepidium campestre",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Lepidium+campestre",
+      "source_family": "pfaf",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lepidium_campestre2_W.jpg",
+      "alt": "řeřicha rolničková",
+      "caption": "Wikimedia Commons: Lepidium campestre",
+      "credit": "Fornax",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lepidium_campestre2_W.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 1,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 0,
+    "top_evidence_rank": 2
+  }
+}

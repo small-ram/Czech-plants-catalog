@@ -1,0 +1,139 @@
+{
+  "plant_id": "plant_juglans_regia",
+  "vedecky_nazev_hlavni": "Juglans regia",
+  "vedecky_nazev_display": "Juglans regia",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "ořešák královský",
+  "status_v_cr_text": "pěstovaný, místy zplaňující, běžný",
+  "status_puvodni": 0,
+  "status_zdomacnely": 0,
+  "status_pestovany": 1,
+  "status_zplanujici": 1,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 3,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_juglans_regia",
+      "alias": "ořešák královský",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_juglans_regia",
+      "alias": "Juglans regia",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r201",
+      "raw_record_id": "R201",
+      "domena": "potrava",
+      "poddomena_text": "sušené ořechy ve skořápce nebo vyloupané",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "semeno / jádro",
+      "cast_rostliny_kategorie": "semena_a_orisky",
+      "obdobi_ziskani_text": "IX–X",
+      "cilovy_efekt": "Vysoce praktická dlouhodobá zásoba tuku, chuti a energie.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení · Skladování v chladu",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé ořechy po otevření zeleného oplodí; v datech je pro něj vedené období IX–X. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení / skladování v chladu",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r203",
+      "raw_record_id": "R203",
+      "domena": "fytoterapie",
+      "poddomena_text": "sušený list pro zevní oplachy a koupele",
+      "poddomena_kategorie": "zevni_aplikace",
+      "cast_rostliny_text": "list",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "VI–VIII",
+      "cilovy_efekt": "Dlouhodobě skladovatelná zevní droga.",
+      "dukaznost_skore": "A",
+      "dukaznost_rank": 5,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravé plně vyvinuté listy; v datech je pro něj vedené období VI–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "3–12 měsíců"
+    },
+    {
+      "use_id": "r202",
+      "raw_record_id": "R202",
+      "domena": "pití",
+      "poddomena_text": "zelenovlašský likér / ořechovka",
+      "poddomena_kategorie": "liker_macerat",
+      "cast_rostliny_text": "nezralý plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "VI",
+      "cilovy_efekt": "Převod krátkého červnového okna do výrazně trvanlivého digestivního nápoje.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Tinktura / alkoholová macerace",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé zelené ořechy před tvrdnutím skořápky; v datech je pro něj vedené období VI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "alkoholová macerace",
+      "orientacni_trvanlivost_text": "6–12+ měsíců"
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S66",
+      "nazev": "PFAF: Juglans regia",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Juglans+regia",
+      "source_family": "pfaf",
+      "use_count": 2
+    },
+    {
+      "raw_source_id": "S67",
+      "nazev": "EMA: Juglandis folium monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-juglans-regia-l-folium_en.pdf",
+      "source_family": "ema",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Noyer_centenaire_en_automne.JPG",
+      "alt": "ořešák královský",
+      "caption": "Wikimedia Commons: Juglans regia",
+      "credit": "Thesupermat",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 3,
+    "durable_use_count": 3,
+    "core_use_count": 3,
+    "processing_use_count": 3,
+    "top_evidence_rank": 5
+  }
+}

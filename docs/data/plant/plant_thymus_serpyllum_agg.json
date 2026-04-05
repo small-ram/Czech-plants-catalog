@@ -1,0 +1,161 @@
+{
+  "plant_id": "plant_thymus_serpyllum_agg",
+  "vedecky_nazev_hlavni": "Thymus serpyllum agg.",
+  "vedecky_nazev_display": "Thymus serpyllum agg.",
+  "taxon_rank": "group",
+  "je_agregat_nebo_spp": 1,
+  "cesky_nazev_hlavni": "mateřídouška",
+  "status_v_cr_text": "původní, běžná lokálně",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_pouziti": 4,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_thymus_serpyllum_agg",
+      "alias": "mateřídouška",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_thymus_serpyllum_agg",
+      "alias": "Thymus serpyllum agg.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r188",
+      "raw_record_id": "R188",
+      "domena": "potrava",
+      "poddomena_text": "sušená nať jako koření",
+      "poddomena_kategorie": "koreni_dochucovadlo",
+      "cast_rostliny_text": "nať",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "VI–VIII",
+      "cilovy_efekt": "Kompaktní a trvanlivá aromatická zásoba.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: na počátku kvetení; v datech je pro něj vedené období VI–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r144",
+      "raw_record_id": "R144",
+      "domena": "pití",
+      "poddomena_text": "aromatický čaj",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "nať",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "V–VIII",
+      "cilovy_efekt": "aromatický nápoj a domácí čajová bylina",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: na začátku květu; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r145",
+      "raw_record_id": "R145",
+      "domena": "potrava",
+      "poddomena_text": "koření",
+      "poddomena_kategorie": "koreni_dochucovadlo",
+      "cast_rostliny_text": "nať",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "V–VIII",
+      "cilovy_efekt": "aromatizace jídla",
+      "dukaznost_skore": "C",
+      "dukaznost_rank": 3,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: kvetoucí vrcholky; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r146",
+      "raw_record_id": "R146",
+      "domena": "fytoterapie",
+      "poddomena_text": "čaj při nachlazení",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "nať",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "V–VIII",
+      "cilovy_efekt": "kašel a nachlazení v tradičním smyslu",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: kvetoucí nať; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S47",
+      "nazev": "PFAF: Thymus serpyllum",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Thymus+serpyllum",
+      "source_family": "pfaf",
+      "use_count": 4
+    },
+    {
+      "raw_source_id": "S06",
+      "nazev": "EMA: Thymi herba/oleum monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-thymus-vulgaris-l-thymus-zygis-l-herba_en.pdf",
+      "source_family": "ema",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thymus%20serpyllum%20honey%20bee.JPG",
+      "alt": "mateřídouška",
+      "caption": "Wikimedia Commons: Thymus serpyllum agg.",
+      "credit": "MurielBendel",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Thymus_serpyllum_honey_bee.JPG",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 4,
+    "durable_use_count": 1,
+    "core_use_count": 1,
+    "processing_use_count": 1,
+    "top_evidence_rank": 4
+  }
+}

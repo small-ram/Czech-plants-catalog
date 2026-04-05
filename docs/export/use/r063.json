@@ -1,0 +1,125 @@
+{
+  "use_id": "r063",
+  "plant_id": "plant_sorbus_aucuparia",
+  "raw_record_id": "R063",
+  "cesky_nazev_display": "jeřáb ptačí",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "želé / povidla / likér po úpravě",
+  "poddomena_kategorie": "liker_macerat",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "horské a podhorské okraje lesů, meze, aleje, parky",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně vybarvené plody, často po přemrznutí nebo po tepelné úpravě",
+  "zpusob_pripravy": "Plody zpracovat vařením, přemrznutím nebo sušením; syrové jsou trpké a méně vhodné.",
+  "cilovy_efekt": "Silně aromatický podzimní plod pro konzervaci a nápoje.",
+  "chutovy_profil": "trpký, hořkosladký, ovocný",
+  "vonny_profil": "slabě hořkomandlový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Syrové ve větším množství dráždivé; nutná úprava.",
+  "kontraindikace_interakce": "Hlavní limit je správná úprava a chuťová výraznost.",
+  "legalita_poznamka_cr": "Běžně možné.",
+  "dukaznost_typ": "česká etnobotanika",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení · Zavaření / sterilace ve sklenici · Tinktura / alkoholová macerace · Cukrování / kandování / džem",
+  "processing_methods_count": 4,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvené plody, často po přemrznutí nebo po tepelné úpravě; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Klasická, ale dnes už méně běžná česká podzimní surovina.",
+  "vedecky_nazev_hlavni": "Sorbus aucuparia",
+  "cesky_nazev_hlavni": "jeřáb ptačí",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_sorbus_aucuparia",
+      "alias": "jeřáb ptačí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_sorbus_aucuparia",
+      "alias": "Sorbus aucuparia",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "tinktura",
+      "label": "Tinktura / alkoholová macerace",
+      "group_label": "alkohol",
+      "method_order": 3
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 4
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rowan_tree_20081002b.jpg",
+      "alt": "jeřáb ptačí",
+      "caption": "Wikimedia Commons: Sorbus aucuparia",
+      "credit": "Eeno11",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rowan_tree_20081002b.jpg",
+  "primary_photo_alt": "jeřáb ptačí",
+  "primary_photo_credit": "Eeno11",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

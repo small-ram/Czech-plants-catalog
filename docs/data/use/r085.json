@@ -1,0 +1,107 @@
+{
+  "use_id": "r085",
+  "plant_id": "plant_vitis_vinifera",
+  "raw_record_id": "R085",
+  "cesky_nazev_display": "réva vinná",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "nakládané vinné listy / globální analog",
+  "poddomena_kategorie": "ostatni_specialni",
+  "status_znalosti": "globální analog",
+  "status_znalosti_slug": "globalni_analog",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "vinice, pergoly, zahrady; sběr z neošetřených mladých listů",
+  "obdobi_ziskani_text": "V–VI",
+  "mesic_od": 5,
+  "mesic_do": 6,
+  "fenologicka_faze": "mladý pružný list",
+  "zpusob_pripravy": "nakládání do soli nebo láku, plnění listů",
+  "cilovy_efekt": "rozšíření jedlé části rostliny nad rámec běžné české praxe",
+  "chutovy_profil": "jemně kyselý, zelený",
+  "vonny_profil": "slabý zelený",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Sbírat jen neošetřené listy; staré listy jsou tuhé.",
+  "kontraindikace_interakce": "Nevhodné z intenzivně chemicky ošetřených vinic.",
+  "legalita_poznamka_cr": "Jen z vlastních nebo jasně povolených, neošetřených zdrojů.",
+  "dukaznost_typ": "globální etnobotanický analog",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Nakládání",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladý pružný list; v datech je pro něj vedené období V–VI. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Zařazeno právě kvůli přenositelné světové znalosti aplikovatelné v ČR.",
+  "vedecky_nazev_hlavni": "Vitis vinifera",
+  "cesky_nazev_hlavni": "réva vinná",
+  "status_v_cr_text": "pěstovaná, běžná v teplejších oblastech",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_vitis_vinifera",
+      "alias": "réva vinná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_vitis_vinifera",
+      "alias": "Vitis vinifera",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "nakladani",
+      "label": "Nakládání",
+      "group_label": "pickles",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabernet_Sauvignon_Gaillac.jpg",
+      "alt": "réva vinná",
+      "caption": "Wikimedia Commons: Vitis vinifera",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cabernet_Sauvignon_Gaillac.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabernet_Sauvignon_Gaillac.jpg",
+  "primary_photo_alt": "réva vinná",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Cabernet_Sauvignon_Gaillac.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

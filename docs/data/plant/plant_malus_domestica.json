@@ -1,0 +1,161 @@
+{
+  "plant_id": "plant_malus_domestica",
+  "vedecky_nazev_hlavni": "Malus domestica",
+  "vedecky_nazev_display": "Malus domestica",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "jabloň domácí",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_puvodni": 0,
+  "status_zdomacnely": 0,
+  "status_pestovany": 1,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_pouziti": 4,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_malus_domestica",
+      "alias": "jabloň domácí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_malus_domestica",
+      "alias": "Malus domestica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r156",
+      "raw_record_id": "R156",
+      "domena": "pití",
+      "poddomena_text": "jablečný ocet / cider vinegar",
+      "poddomena_kategorie": "ocet",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "IX–XI",
+      "cilovy_efekt": "Trvanlivé kyselé dochucovadlo a nápojový základ pro další ředění.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Skladování v chladu · Kvašení / fermentace · Naložení do octa / ocet",
+      "processing_methods_count": 3,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralé plody nebo mošt; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "ocet / octové kvašení",
+      "orientacni_trvanlivost_text": "6–12+ měsíců"
+    },
+    {
+      "use_id": "r155",
+      "raw_record_id": "R155",
+      "domena": "potrava",
+      "poddomena_text": "křížaly / sušené plátky",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "IX–XI",
+      "cilovy_efekt": "Lehká zásoba ovoce na zimu, svačina a přídavek do kaší či čajových směsí.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé skladovací plody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "3–12 měsíců"
+    },
+    {
+      "use_id": "r067",
+      "raw_record_id": "R067",
+      "domena": "pití",
+      "poddomena_text": "mošt / cider / ocet",
+      "poddomena_kategorie": "ocet",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "IX–XI",
+      "cilovy_efekt": "nápojový zdroj, uchování úrody, kyselé kuchyňské použití",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Kvašení / fermentace · Naložení do octa / ocet",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralý plod; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r066",
+      "raw_record_id": "R066",
+      "domena": "potrava a pití",
+      "poddomena_text": "čerstvé plody / mošt / sušení / pečení",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "VIII–XI",
+      "cilovy_efekt": "výživa, skladovatelný podzimní zdroj, široká kuchyňská použitelnost",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VIII–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S27",
+      "nazev": "Occurrence and Records of Old Varieties of Pome Fruit in the Tišnov Region",
+      "url": "https://acta.mendelu.cz/pdfs/acu/2016/01/05.pdf",
+      "source_family": "acta_mendelu_cz",
+      "use_count": 4
+    },
+    {
+      "raw_source_id": "S49",
+      "nazev": "PFAF: Malus domestica",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Malus+domestica",
+      "source_family": "pfaf",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_lady_and_cross_section.jpg",
+      "alt": "jabloň domácí",
+      "caption": "Wikimedia Commons: Malus domestica",
+      "credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+      "license": "GFDL 1.2",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 4,
+    "durable_use_count": 2,
+    "core_use_count": 2,
+    "processing_use_count": 4,
+    "top_evidence_rank": 4
+  }
+}

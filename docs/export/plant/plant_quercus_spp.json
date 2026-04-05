@@ -1,0 +1,95 @@
+{
+  "plant_id": "plant_quercus_spp",
+  "vedecky_nazev_hlavni": "Quercus spp.",
+  "vedecky_nazev_display": "Quercus spp.",
+  "taxon_rank": "group",
+  "je_agregat_nebo_spp": 1,
+  "cesky_nazev_hlavni": "dub",
+  "status_v_cr_text": "původní, běžný",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 1,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_quercus_spp",
+      "alias": "dub",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_quercus_spp",
+      "alias": "Quercus spp.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r027",
+      "raw_record_id": "R027",
+      "domena": "palivo",
+      "poddomena_text": "tvrdé palivové dřevo",
+      "poddomena_kategorie": "palivo",
+      "cast_rostliny_text": "dřevo",
+      "cast_rostliny_kategorie": "drevnata_cast",
+      "obdobi_ziskani_text": "IX–II + sušení",
+      "cilovy_efekt": "Dlouhé sálání a vysoká praktická topná hodnota.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: dobře vyschlé dřevo; v datech je pro něj vedené období IX–II + sušení. Dřevnatý materiál ber jen suchý a zdravý; nepoškozuj hlavní kmen ani nosné větve. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S12",
+      "nazev": "Forest Research: Wood as fuel",
+      "url": "https://cdn.forestresearch.gov.uk/2022/02/fr-bec-wood-as-fuel_v2.pdf",
+      "source_family": "cdn_forestresearch_gov_uk",
+      "use_count": 1
+    },
+    {
+      "raw_source_id": "S13",
+      "nazev": "NMSU: Firewood Facts",
+      "url": "https://pubs.nmsu.edu/_g/G601/",
+      "source_family": "pubs_nmsu_edu",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2013-05-04_17_18_04_Stunted_white_oak_saplings_beneath_the_large_white_oak_near_the_tributary_to_the_West_Branch_Shabakunk_Creek_between_Walton_and_Farrell_Avenues.jpg",
+      "alt": "dub",
+      "caption": "Wikimedia Commons: Quercus spp.",
+      "credit": "Famartin",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2013-05-04_17_18_04_Stunted_white_oak_saplings_beneath_the_large_white_oak_near_the_tributary_to_the_West_Branch_Shabakunk_Creek_between_Walton_and_Farrell_Avenues.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 1,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 0,
+    "top_evidence_rank": 4
+  }
+}

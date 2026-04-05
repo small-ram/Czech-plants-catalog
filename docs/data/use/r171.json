@@ -1,0 +1,116 @@
+{
+  "use_id": "r171",
+  "plant_id": "plant_rubus_idaeus",
+  "raw_record_id": "R171",
+  "cesky_nazev_display": "maliník obecný",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušený list maliníku",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "lesní paseky, okraje lesů, křoviny, zahrady",
+  "obdobi_ziskani_text": "V–VIII",
+  "mesic_od": 5,
+  "mesic_do": 8,
+  "fenologicka_faze": "zdravé listy před plným vyzráním plodů",
+  "zpusob_pripravy": "Listy usušit a používat samostatně nebo ve směsích.",
+  "cilovy_efekt": "Trvanlivý listový čaj s mírně svíravým profilem.",
+  "chutovy_profil": "jemně tříslovitý, travnatý",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Staré nebo napadené listy dávají horší kvalitu; sbírat z čistých míst.",
+  "kontraindikace_interakce": "V těhotenství je vhodná opatrnost a držet se běžných čajových množství.",
+  "legalita_poznamka_cr": "Běžný sběr z neošetřených porostů.",
+  "dukaznost_typ": "EMA shrnutí + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravé listy před plným vyzráním plodů; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Po usušení jde o standardní zásobu na měsíce.",
+  "vedecky_nazev_hlavni": "Rubus idaeus",
+  "cesky_nazev_hlavni": "maliník obecný",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Po usušení jde o standardní zásobu na měsíce.",
+  "proc_je_v_jadru": "lesní plod s mimořádně dobrou skladovatelností po usušení",
+  "aliases": [
+    {
+      "plant_id": "plant_rubus_idaeus",
+      "alias": "maliník obecný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_rubus_idaeus",
+      "alias": "Rubus idaeus",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S20",
+      "nazev": "EMA: Rubi idaei folium summary",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/rubi-idaei-folium",
+      "source_family": "ema",
+      "poznamka": "Oficiální shrnutí k maliníkovému listu."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S57",
+      "nazev": "PFAF: Rubus idaeus",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Rubus+idaeus",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro maliník a listový čaj."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+      "alt": "maliník obecný",
+      "caption": "Wikimedia Commons: Rubus idaeus",
+      "credit": "Kollányi Gábor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+  "primary_photo_alt": "maliník obecný",
+  "primary_photo_credit": "Kollányi Gábor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

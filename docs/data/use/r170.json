@@ -1,0 +1,107 @@
+{
+  "use_id": "r170",
+  "plant_id": "plant_fragaria_vesca",
+  "raw_record_id": "R170",
+  "cesky_nazev_display": "jahodník obecný",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušený list na bylinný čaj",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "světlé lesy, paseky, meze, stráně, zahrady",
+  "obdobi_ziskani_text": "V–VIII",
+  "mesic_od": 5,
+  "mesic_do": 8,
+  "fenologicka_faze": "zdravé mladší listy před nebo během kvetení",
+  "zpusob_pripravy": "Listy usušit v tenké vrstvě a skladovat v suchu.",
+  "cilovy_efekt": "Jemný listový čaj jako vedlejší využití běžné lesní rostliny.",
+  "chutovy_profil": "jemně trávový, tříslovitý",
+  "vonny_profil": "slabý zelený",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Sbírat jen zdravé listy bez plísní a znečištění.",
+  "kontraindikace_interakce": "Bez významných interakcí známých v běžném použití.",
+  "legalita_poznamka_cr": "Střídmý sběr z čistých porostů.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravé mladší listy před nebo během kvetení; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Správně usušený list vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Fragaria vesca",
+  "cesky_nazev_hlavni": "jahodník obecný",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Správně usušený list vydrží měsíce.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_fragaria_vesca",
+      "alias": "jahodník obecný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_fragaria_vesca",
+      "alias": "Fragaria vesca",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S56",
+      "nazev": "PFAF: Fragaria vesca",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Fragaria+vesca",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro jahodník obecný včetně listového čaje."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/103_Fragaria_vesca_L.jpg",
+      "alt": "jahodník obecný",
+      "caption": "Wikimedia Commons: Fragaria vesca",
+      "credit": "Amédée Masclef",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:103_Fragaria_vesca_L.jpg",
+      "license": "Public domain",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/103_Fragaria_vesca_L.jpg",
+  "primary_photo_alt": "jahodník obecný",
+  "primary_photo_credit": "Amédée Masclef",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:103_Fragaria_vesca_L.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

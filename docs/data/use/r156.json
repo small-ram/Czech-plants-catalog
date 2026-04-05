@@ -1,0 +1,128 @@
+{
+  "use_id": "r156",
+  "plant_id": "plant_malus_domestica",
+  "raw_record_id": "R156",
+  "cesky_nazev_display": "jabloň domácí",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "jablečný ocet / cider vinegar",
+  "poddomena_kategorie": "ocet",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "sady, zahrady, staré aleje, vesnické zahrady",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "zralé plody nebo mošt",
+  "zpusob_pripravy": "Mošt nebo jablečný základ nechat prokvasit a dokyselit na ocet; skladovat v lahvích v chladu a temnu.",
+  "cilovy_efekt": "Trvanlivé kyselé dochucovadlo a nápojový základ pro další ředění.",
+  "chutovy_profil": "kyselý, ovocný",
+  "vonny_profil": "slabě ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Riziko kontaminace při špatné hygieně výroby; neplést s nehotovým kvašením.",
+  "kontraindikace_interakce": "U citlivých osob může dráždit žaludek či zuby.",
+  "legalita_poznamka_cr": "Běžné domácí zpracování z legálně získaných plodů.",
+  "dukaznost_typ": "středoevropská ovocnářská tradice + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Skladování v chladu · Kvašení / fermentace · Naložení do octa / ocet",
+  "processing_methods_count": 3,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralé plody nebo mošt; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Správně vedený ocet je bezpečně skladovatelný déle než měsíc, obvykle řadu měsíců.",
+  "vedecky_nazev_hlavni": "Malus domestica",
+  "cesky_nazev_hlavni": "jabloň domácí",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "ocet / octové kvašení",
+  "orientacni_trvanlivost_text": "6–12+ měsíců",
+  "poznamka_k_skladovani": "Správně vedený ocet je bezpečně skladovatelný déle než měsíc, obvykle řadu měsíců.",
+  "proc_je_v_jadru": "nejpraktičtější domácí ocet z běžného ovoce",
+  "aliases": [
+    {
+      "plant_id": "plant_malus_domestica",
+      "alias": "jabloň domácí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_malus_domestica",
+      "alias": "Malus domestica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S27",
+      "nazev": "Occurrence and Records of Old Varieties of Pome Fruit in the Tišnov Region",
+      "url": "https://acta.mendelu.cz/pdfs/acu/2016/01/05.pdf",
+      "source_family": "acta_mendelu_cz",
+      "poznamka": "ČR; staré odrůdy jablek a hrušní, lokální kontinuita pěstování."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S49",
+      "nazev": "PFAF: Malus domestica",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Malus+domestica",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro jablka; použít hlavně pro potravní a skladovací formy."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "chlazene_skladovani",
+      "label": "Skladování v chladu",
+      "group_label": "chlad",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "ocet",
+      "label": "Naložení do octa / ocet",
+      "group_label": "fermentace",
+      "method_order": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_lady_and_cross_section.jpg",
+      "alt": "jabloň domácí",
+      "caption": "Wikimedia Commons: Malus domestica",
+      "credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+      "license": "GFDL 1.2",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_lady_and_cross_section.jpg",
+  "primary_photo_alt": "jabloň domácí",
+  "primary_photo_credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

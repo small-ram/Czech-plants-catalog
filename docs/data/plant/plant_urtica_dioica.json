@@ -1,0 +1,161 @@
+{
+  "plant_id": "plant_urtica_dioica",
+  "vedecky_nazev_hlavni": "Urtica dioica",
+  "vedecky_nazev_display": "Urtica dioica",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "kopřiva dvoudomá",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_pouziti": 4,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_urtica_dioica",
+      "alias": "kopřiva dvoudomá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_urtica_dioica",
+      "alias": "Urtica dioica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r220",
+      "raw_record_id": "R220",
+      "domena": "potrava",
+      "poddomena_text": "sušená kopřivová semena jako zásobní přísada",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "semeno",
+      "cast_rostliny_kategorie": "semena_a_orisky",
+      "obdobi_ziskani_text": "VIII–IX",
+      "cilovy_efekt": "Dlouhodobě skladovatelný a stále ještě poměrně málo využívaný výstup z velmi běžné rostliny.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralá semena zejména ze samičích rostlin; v datech je pro něj vedené období VIII–IX. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r221",
+      "raw_record_id": "R221",
+      "domena": "potrava",
+      "poddomena_text": "sušený kopřivový prášek do zásoby",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "list",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "III–V",
+      "cilovy_efekt": "Kompaktní dlouhodobá zásoba minerálně bohaté jarní zeleniny.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé zdravé listy před plným kvetením; v datech je pro něj vedené období III–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení + mletí",
+      "orientacni_trvanlivost_text": "3–9 měsíců"
+    },
+    {
+      "use_id": "r176",
+      "raw_record_id": "R176",
+      "domena": "pití",
+      "poddomena_text": "sušený list na čaj nebo zelený prášek",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "list",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "IV–VI",
+      "cilovy_efekt": "Velmi praktická zimní zásoba z běžné jarní rostliny.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé vrcholy a listy před stárnutím; v datech je pro něj vedené období IV–VI. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r019",
+      "raw_record_id": "R019",
+      "domena": "potrava",
+      "poddomena_text": "jarní zelenina / polévka / špenát",
+      "poddomena_kategorie": "cerstva_potrava",
+      "cast_rostliny_text": "mladé listy a vrcholy",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "III–V",
+      "cilovy_efekt": "Výživa, minerální a chuťový jarní zdroj.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé vrcholy před hrubnutím; v datech je pro něj vedené období III–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S60",
+      "nazev": "PFAF: Urtica dioica",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Urtica+dioica",
+      "source_family": "pfaf",
+      "use_count": 3
+    },
+    {
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Urtica%20dioica%20Plant.jpg",
+      "alt": "Kopřiva dvoudomá",
+      "caption": "Wikimedia Commons: Urtica dioica",
+      "credit": "Matildalove12",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Urtica_dioica_Plant.jpg",
+      "license": "",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 4,
+    "durable_use_count": 3,
+    "core_use_count": 3,
+    "processing_use_count": 3,
+    "top_evidence_rank": 4
+  }
+}

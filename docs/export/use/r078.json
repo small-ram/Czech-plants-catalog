@@ -1,0 +1,119 @@
+{
+  "use_id": "r078",
+  "plant_id": "plant_hippophae_rhamnoides",
+  "raw_record_id": "R078",
+  "cesky_nazev_display": "rakytník řešetlákový",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "šťáva / pyré / sirup",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, remízky, lehčí půdy, slunná stanoviště",
+  "obdobi_ziskani_text": "VIII–X",
+  "mesic_od": 8,
+  "mesic_do": 10,
+  "fenologicka_faze": "plně vybarvený plod",
+  "zpusob_pripravy": "lisování na šťávu, pyré, sirupy, želé",
+  "cilovy_efekt": "intenzivní kyselá surovina pro nápoje a zpracování",
+  "chutovy_profil": "výrazně kyselý, pryskyřičně citrusový",
+  "vonny_profil": "silně ovocný až citrusový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Trnitý sběr; silná kyselost a velmi rychlé mačkání plodů.",
+  "kontraindikace_interakce": "U citlivého žaludku opatrně kvůli kyselosti; jinak převážně potravní použití.",
+  "legalita_poznamka_cr": "Sběr obvykle z pěstovaných zdrojů; v krajině ověřit vlastnictví.",
+  "dukaznost_typ": "středoevropská pěstitelská a kuchyňská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 3,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvený plod; v datech je pro něj vedené období VIII–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Hippophae rhamnoides",
+  "cesky_nazev_hlavni": "rakytník řešetlákový",
+  "status_v_cr_text": "pěstovaný i zdomácnělý, lokálně běžný",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_hippophae_rhamnoides",
+      "alias": "rakytník řešetlákový",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_hippophae_rhamnoides",
+      "alias": "Hippophae rhamnoides",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippophae_rhamnoides-01_%28xndr%29.JPG",
+      "alt": "rakytník řešetlákový",
+      "caption": "Wikimedia Commons: Hippophae rhamnoides",
+      "credit": "No machine-readable author provided. Svdmolen assumed (based on copyright claims).",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides-01_(xndr).JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippophae_rhamnoides-01_%28xndr%29.JPG",
+  "primary_photo_alt": "rakytník řešetlákový",
+  "primary_photo_credit": "No machine-readable author provided. Svdmolen assumed (based on copyright claims).",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides-01_(xndr).JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

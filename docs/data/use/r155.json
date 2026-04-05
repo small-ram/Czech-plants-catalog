@@ -1,0 +1,116 @@
+{
+  "use_id": "r155",
+  "plant_id": "plant_malus_domestica",
+  "raw_record_id": "R155",
+  "cesky_nazev_display": "jabloň domácí",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "křížaly / sušené plátky",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "sady, zahrady, staré aleje, vesnické zahrady",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně vyzrálé skladovací plody",
+  "zpusob_pripravy": "Nakrájet na plátky a usušit v mírném teple nebo na vzdušném místě; po dosušení skladovat v suchu.",
+  "cilovy_efekt": "Lehká zásoba ovoce na zimu, svačina a přídavek do kaší či čajových směsí.",
+  "chutovy_profil": "sladce ovocný, koncentrovaný",
+  "vonny_profil": "slabě jablečný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nedostatečné dosušení vede k plesnivění; poškozené plody nevyužívat.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí; sledovat případnou intoleranci sušeného ovoce.",
+  "legalita_poznamka_cr": "Sběr z vlastních nebo legálně dostupných sadů.",
+  "dukaznost_typ": "středoevropská ovocnářská tradice + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé skladovací plody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Při správném usušení běžně vydrží mnoho měsíců.",
+  "vedecky_nazev_hlavni": "Malus domestica",
+  "cesky_nazev_hlavni": "jabloň domácí",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Při správném usušení běžně vydrží mnoho měsíců.",
+  "proc_je_v_jadru": "velmi běžná sušená zimní zásoba z českých sadů",
+  "aliases": [
+    {
+      "plant_id": "plant_malus_domestica",
+      "alias": "jabloň domácí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_malus_domestica",
+      "alias": "Malus domestica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S27",
+      "nazev": "Occurrence and Records of Old Varieties of Pome Fruit in the Tišnov Region",
+      "url": "https://acta.mendelu.cz/pdfs/acu/2016/01/05.pdf",
+      "source_family": "acta_mendelu_cz",
+      "poznamka": "ČR; staré odrůdy jablek a hrušní, lokální kontinuita pěstování."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S49",
+      "nazev": "PFAF: Malus domestica",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Malus+domestica",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro jablka; použít hlavně pro potravní a skladovací formy."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_lady_and_cross_section.jpg",
+      "alt": "jabloň domácí",
+      "caption": "Wikimedia Commons: Malus domestica",
+      "credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+      "license": "GFDL 1.2",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_lady_and_cross_section.jpg",
+  "primary_photo_alt": "jabloň domácí",
+  "primary_photo_credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,107 @@
+{
+  "use_id": "r020",
+  "plant_id": "plant_fagus_sylvatica",
+  "raw_record_id": "R020",
+  "cesky_nazev_display": "buk lesní",
+  "cast_rostliny_text": "bukvice",
+  "cast_rostliny_kategorie": "semena_a_orisky",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "oříšek / olej",
+  "poddomena_kategorie": "olej",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "bučiny, podhorské a horské listnaté lesy",
+  "obdobi_ziskani_text": "IX–X",
+  "mesic_od": 9,
+  "mesic_do": 10,
+  "fenologicka_faze": "plně zralé bukvice",
+  "zpusob_pripravy": "Historicky jedeny syrové i sušené; možné i lisování oleje, v praxi spíše malé množství a po úpravě.",
+  "cilovy_efekt": "Sezónní oříškový zdroj.",
+  "chutovy_profil": "oříškový, lehce máslový",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Ve větším množství syrové nevhodné; lepší tepelná úprava.",
+  "kontraindikace_interakce": "Opatrnost u citlivého trávení.",
+  "legalita_poznamka_cr": "Sbírat běžně lze, ale ne v chráněných režimech s omezením.",
+  "dukaznost_typ": "česká etnobotanika",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé bukvice; v datech je pro něj vedené období IX–X. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Typická položka „známé, ale dnes málo prakticky využívané“.",
+  "vedecky_nazev_hlavni": "Fagus sylvatica",
+  "cesky_nazev_hlavni": "buk lesní",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_fagus_sylvatica",
+      "alias": "buk lesní",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 6
+    },
+    {
+      "plant_id": "plant_fagus_sylvatica",
+      "alias": "Fagus sylvatica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 6
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fagus%20sylvatica%20leaves.jpg",
+      "alt": "Listy buku lesního",
+      "caption": "Wikimedia Commons: Fagus sylvatica leaves",
+      "credit": "Nicolas Weghaupt",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_leaves.jpg",
+      "license": "",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fagus%20sylvatica%20leaves.jpg",
+  "primary_photo_alt": "Listy buku lesního",
+  "primary_photo_credit": "Nicolas Weghaupt",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_leaves.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

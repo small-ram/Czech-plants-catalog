@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_salix_spp",
+  "vedecky_nazev_hlavni": "Salix spp.",
+  "vedecky_nazev_display": "Salix spp.",
+  "taxon_rank": "group",
+  "je_agregat_nebo_spp": 1,
+  "cesky_nazev_hlavni": "vrba",
+  "status_v_cr_text": "původní, běžná",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_salix_spp",
+      "alias": "vrba",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_salix_spp",
+      "alias": "Salix spp.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r180",
+      "raw_record_id": "R180",
+      "domena": "fytoterapie",
+      "poddomena_text": "sušená kůra do zásoby na odvar",
+      "poddomena_kategorie": "suseni_skladovani",
+      "cast_rostliny_text": "kůra",
+      "cast_rostliny_kategorie": "drevnata_cast",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Převod sezónní suroviny na dlouhodobě použitelnou léčivou drogu.",
+      "dukaznost_skore": "A",
+      "dukaznost_rank": 5,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladší kůra z vhodných větví, pokud legálně a bez poškození; v datech je pro něj vedené období III–IV. Kůru neber dokola z kmene; šetrnější je odběr z menších větví nebo z materiálu určeného k řezu. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r018",
+      "raw_record_id": "R018",
+      "domena": "fytoterapie",
+      "poddomena_text": "odvar / extrakt",
+      "poddomena_kategorie": "odvar",
+      "cast_rostliny_text": "kůra",
+      "cast_rostliny_kategorie": "drevnata_cast",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Analgetický a febrifugní tradiční účel.",
+      "dukaznost_skore": "A",
+      "dukaznost_rank": 5,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: kůra z mladých větví; prakticky preferovat hotovou drogu; v datech je pro něj vedené období III–IV. Kůru neber dokola z kmene; šetrnější je odběr z menších větví nebo z materiálu určeného k řezu. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S04",
+      "nazev": "EMA: Salicis cortex monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-purpurea-l-salix-daphnoides-vill-salix-fragilis-l_en.pdf",
+      "source_family": "ema",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Salix_alba_Morton.jpg",
+      "alt": "vrba",
+      "caption": "Wikimedia Commons: Salix spp.",
+      "credit": "Bruce Marlin",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Salix_alba_Morton.jpg",
+      "license": "CC BY 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 1,
+    "core_use_count": 1,
+    "processing_use_count": 1,
+    "top_evidence_rank": 5
+  }
+}

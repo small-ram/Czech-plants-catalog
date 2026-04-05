@@ -1,0 +1,119 @@
+{
+  "use_id": "r021",
+  "plant_id": "plant_rosa_canina",
+  "raw_record_id": "R021",
+  "cesky_nazev_display": "růže šípková",
+  "cast_rostliny_text": "šípek + semena",
+  "cast_rostliny_kategorie": "kombinovana_cast",
+  "cast_rostliny_je_kombinovana": 1,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "čaj / džem / sirup / víno / náhražka kávy ze semen",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "meze, křoviny, okraje cest, remízky",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně zralé šípky po vybarvení",
+  "zpusob_pripravy": "Plody na čaje, džemy, sirupy; v etnobotanice i polévky/chutney/vína; semena jako náhražka kávy.",
+  "cilovy_efekt": "Vitamínový a chuťový zdroj; zajímavý „forgotten“ přesah přes semena.",
+  "chutovy_profil": "kyselkavý, ovocný",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Dráždivé chloupky uvnitř plodu; nutné dobře čistit.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí obvykle, ale pozor na nadměrnou kyselost u citlivých osob.",
+  "legalita_poznamka_cr": "Běžný sběr možný.",
+  "dukaznost_typ": "česká etnobotanika",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 3,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé šípky po vybarvení; v datech je pro něj vedené období IX–XI. Ber jen zdravý a čistý materiál, sběr rozlož mezi více rostlin a nepoškoď stanoviště víc, než je nutné. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Semenná kávová náhražka je právě ten méně známý detail.",
+  "vedecky_nazev_hlavni": "Rosa canina",
+  "cesky_nazev_hlavni": "růže šípková",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_rosa_canina",
+      "alias": "růže šípková",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_rosa_canina",
+      "alias": "Rosa canina",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 3
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Divlja_ruza_cvijet_270508.jpg",
+      "alt": "růže šípková",
+      "caption": "Wikimedia Commons: Rosa canina",
+      "credit": "Roberta F.",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Divlja_ruza_cvijet_270508.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Divlja_ruza_cvijet_270508.jpg",
+  "primary_photo_alt": "růže šípková",
+  "primary_photo_credit": "Roberta F.",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Divlja_ruza_cvijet_270508.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

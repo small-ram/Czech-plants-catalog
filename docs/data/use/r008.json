@@ -1,0 +1,134 @@
+{
+  "use_id": "r008",
+  "plant_id": "plant_sambucus_nigra",
+  "raw_record_id": "R008",
+  "cesky_nazev_display": "bez černý",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "šťáva / džem / víno / likér",
+  "poddomena_kategorie": "liker_macerat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "křoviny, ploty, remízky, vlhčí okraje cest",
+  "obdobi_ziskani_text": "VIII–IX",
+  "mesic_od": 8,
+  "mesic_do": 9,
+  "fenologicka_faze": "plně zralé černé plody",
+  "zpusob_pripravy": "Plody vařit nebo jinak tepelně zpracovat; používat do sirupů, džemů, vín a likérů.",
+  "cilovy_efekt": "Barva, chuť, skladovatelný produkt.",
+  "chutovy_profil": "tmavě ovocný, svíravý",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nezralé plody a jiné části rostliny jsou problematické; syrové nemusí sedět trávení.",
+  "kontraindikace_interakce": "Opatrnost u citlivého trávení.",
+  "legalita_poznamka_cr": "Sběr běžně možný.",
+  "dukaznost_typ": "etnobotanika + obecná bezpečnostní tradice",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici · Tinktura / alkoholová macerace · Cukrování / kandování / džem",
+  "processing_methods_count": 4,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé černé plody; v datech je pro něj vedené období VIII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "U bezu je důležité jasně rozlišit květ a plod.",
+  "vedecky_nazev_hlavni": "Sambucus nigra",
+  "cesky_nazev_hlavni": "bez černý",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_sambucus_nigra",
+      "alias": "bez černý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 8
+    },
+    {
+      "plant_id": "plant_sambucus_nigra",
+      "alias": "Sambucus nigra",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 8
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S08",
+      "nazev": "EMA: Sambuci flos monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie bezového květu."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "tinktura",
+      "label": "Tinktura / alkoholová macerace",
+      "group_label": "alkohol",
+      "method_order": 3
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 4
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambucus_nigra_004.jpg",
+      "alt": "bez černý",
+      "caption": "Wikimedia Commons: Sambucus nigra",
+      "credit": "Willow",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambucus_nigra_004.jpg",
+  "primary_photo_alt": "bez černý",
+  "primary_photo_credit": "Willow",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

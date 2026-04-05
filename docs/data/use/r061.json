@@ -1,0 +1,107 @@
+{
+  "use_id": "r061",
+  "plant_id": "plant_abies_alba",
+  "raw_record_id": "R061",
+  "cesky_nazev_display": "jedle bělokorá",
+  "cast_rostliny_text": "mladé výhonky",
+  "cast_rostliny_kategorie": "vyhonky_a_pupeny",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sirup / čaj",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "globální analog",
+  "status_znalosti_slug": "globalni_analog",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "podhorské a horské lesy, parky, zahrady",
+  "obdobi_ziskani_text": "IV–V",
+  "mesic_od": 4,
+  "mesic_do": 5,
+  "fenologicka_faze": "čerstvé světlé výhonky",
+  "zpusob_pripravy": "Ze svěžích jarních výhonků připravit sirup nebo nálev v malém množství.",
+  "cilovy_efekt": "Lesně aromatický sezónní nápoj.",
+  "chutovy_profil": "jemně pryskyřičný, citrusově jehličnatý",
+  "vonny_profil": "čistě jehličnatý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nízká dostupnost oproti smrku a borovici; nadměrný sběr poškozuje strom.",
+  "kontraindikace_interakce": "Opatrnost při sběru v přirozených porostech, preferovat pěstované stromy.",
+  "legalita_poznamka_cr": "Sbírat jen velmi střídmě a šetrně.",
+  "dukaznost_typ": "karpatská etnobotanika",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvé světlé výhonky; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Cenné právě svou menší známostí.",
+  "vedecky_nazev_hlavni": "Abies alba",
+  "cesky_nazev_hlavni": "jedle bělokorá",
+  "status_v_cr_text": "původní, lokálně běžná",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_abies_alba",
+      "alias": "jedle bělokorá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_abies_alba",
+      "alias": "Abies alba",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S21",
+      "nazev": "The Importance of Pine Species in the Ethnomedicine of Transylvania (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9506106/",
+      "source_family": "pmc",
+      "poznamka": "Karpaty; silný globální analog pro smrk, borovici a jedli, zejména mladé výhonky, šišky a sirupy."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Abies_alba_Wis%C5%82a_1.jpg",
+      "alt": "jedle bělokorá",
+      "caption": "Wikimedia Commons: Abies alba",
+      "credit": "Crusier",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Abies_alba_Wis%C5%82a_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Abies_alba_Wis%C5%82a_1.jpg",
+  "primary_photo_alt": "jedle bělokorá",
+  "primary_photo_credit": "Crusier",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Abies_alba_Wis%C5%82a_1.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

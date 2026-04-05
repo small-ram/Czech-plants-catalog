@@ -1,0 +1,107 @@
+{
+  "use_id": "r066",
+  "plant_id": "plant_malus_domestica",
+  "raw_record_id": "R066",
+  "cesky_nazev_display": "jabloň domácí",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "čerstvé plody / mošt / sušení / pečení",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "sady, zahrady, staré aleje, vesnické zahrady",
+  "obdobi_ziskani_text": "VIII–XI",
+  "mesic_od": 8,
+  "mesic_do": 11,
+  "fenologicka_faze": "zralý plod",
+  "zpusob_pripravy": "čerstvá konzumace, mošt, křížaly, pečení, pyré",
+  "cilovy_efekt": "výživa, skladovatelný podzimní zdroj, široká kuchyňská použitelnost",
+  "chutovy_profil": "sladký až sladkokyselý",
+  "vonny_profil": "ovocný, slabší až střední",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Jádřince a semena nekonzumovat ve větším množství; u spadlých plodů pozor na hnilobu a vosy.",
+  "kontraindikace_interakce": "U citlivých osob možné zažívací obtíže při vyšší kyselosti; jinak běžná potravina.",
+  "legalita_poznamka_cr": "Sběr jen z vlastních nebo volně přístupných stromů; pozor na postřiky.",
+  "dukaznost_typ": "česká ovocnářská kontinuita + běžná kuchyňská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VIII–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Doplňuje dosud podreprezentovanou vrstvu běžného českého ovoce.",
+  "vedecky_nazev_hlavni": "Malus domestica",
+  "cesky_nazev_hlavni": "jabloň domácí",
+  "status_v_cr_text": "pěstovaná, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_malus_domestica",
+      "alias": "jabloň domácí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_malus_domestica",
+      "alias": "Malus domestica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S27",
+      "nazev": "Occurrence and Records of Old Varieties of Pome Fruit in the Tišnov Region",
+      "url": "https://acta.mendelu.cz/pdfs/acu/2016/01/05.pdf",
+      "source_family": "acta_mendelu_cz",
+      "poznamka": "ČR; staré odrůdy jablek a hrušní, lokální kontinuita pěstování."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_lady_and_cross_section.jpg",
+      "alt": "jabloň domácí",
+      "caption": "Wikimedia Commons: Malus domestica",
+      "credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+      "license": "GFDL 1.2",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_lady_and_cross_section.jpg",
+  "primary_photo_alt": "jabloň domácí",
+  "primary_photo_credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

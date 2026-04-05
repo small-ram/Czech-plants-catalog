@@ -1,0 +1,122 @@
+{
+  "use_id": "r212",
+  "plant_id": "plant_quercus_robur_q_petraea",
+  "raw_record_id": "R212",
+  "cesky_nazev_display": "dub letní / dub zimní",
+  "cast_rostliny_text": "žalud",
+  "cast_rostliny_kategorie": "semena_a_orisky",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "usušené žaludy k pozdějšímu zpracování",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "téměř zapomenuté",
+  "status_znalosti_slug": "temer_zapomenute",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "doubravy, parky, aleje, remízky, lesní okraje",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "zralé žaludy bez červivosti",
+  "zpusob_pripravy": "Žaludy dosušit a uchovat v suchu jako zásobu pro pozdější vyluhování a další zpracování.",
+  "cilovy_efekt": "Praktický mezikrok mezi sběrem a pozdější pracnou úpravou.",
+  "chutovy_profil": "trpký, škrobnatý",
+  "vonny_profil": "slabý",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Červivost, plísně a vysoký obsah tříslovin bez následného vyluhování.",
+  "kontraindikace_interakce": "Bez řádného vyluhování nejsou vhodné k běžné konzumaci.",
+  "legalita_poznamka_cr": "Běžný sběr z nechráněných stromů, nepoškozovat dřeviny.",
+  "dukaznost_typ": "botanický zdroj + moderní potravní přehled",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení · Skladování v chladu",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralé žaludy bez červivosti; v datech je pro něj vedené období IX–XI. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Samotné usušení není konečný potravní produkt, ale velmi užitečný skladovací krok.",
+  "vedecky_nazev_hlavni": "Quercus robur / Q. petraea",
+  "cesky_nazev_hlavni": "dub letní / dub zimní",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení / mezisklad",
+  "orientacni_trvanlivost_text": "3–8 měsíců",
+  "poznamka_k_skladovani": "Usušené žaludy lze bezpečněji držet do dalšího zpracování.",
+  "proc_je_v_jadru": "praktický mezisklad před náročnějším zpracováním",
+  "aliases": [
+    {
+      "plant_id": "plant_quercus_robur_q_petraea",
+      "alias": "dub letní / dub zimní",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_quercus_robur_q_petraea",
+      "alias": "Quercus robur / Q. petraea",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S64",
+      "nazev": "PFAF: Quercus robur",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Quercus+robur",
+      "source_family": "pfaf",
+      "poznamka": "Žaludy, kávová náhražka a další tradiční použití dubu."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S78",
+      "nazev": "Acorns: From an Ancient Food to a Modern Sustainable Ingredient",
+      "url": "https://www.mdpi.com/2071-1050/16/22/9613",
+      "source_family": "mdpi",
+      "poznamka": "Moderní přehled o žaludech jako potravní surovině a o technologiích jejich zpracování."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "chlazene_skladovani",
+      "label": "Skladování v chladu",
+      "group_label": "chlad",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_petraea_06.jpg",
+      "alt": "dub letní / dub zimní",
+      "caption": "Wikimedia Commons: Quercus robur / Q. petraea",
+      "credit": "Willow",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quercus_petraea_06.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_petraea_06.jpg",
+  "primary_photo_alt": "dub letní / dub zimní",
+  "primary_photo_credit": "Willow",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Quercus_petraea_06.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

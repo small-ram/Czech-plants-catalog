@@ -1,0 +1,107 @@
+{
+  "use_id": "r202",
+  "plant_id": "plant_juglans_regia",
+  "raw_record_id": "R202",
+  "cesky_nazev_display": "ořešák královský",
+  "cast_rostliny_text": "nezralý plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "zelenovlašský likér / ořechovka",
+  "poddomena_kategorie": "liker_macerat",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, sady, vesnické zahrady",
+  "obdobi_ziskani_text": "VI",
+  "mesic_od": 6,
+  "mesic_do": 6,
+  "fenologicka_faze": "mladé zelené ořechy před tvrdnutím skořápky",
+  "zpusob_pripravy": "Nezralé plody naložit do alkoholu s cukrem a kořením; nechat macerovat a pak dlouhodobě skladovat.",
+  "cilovy_efekt": "Převod krátkého červnového okna do výrazně trvanlivého digestivního nápoje.",
+  "chutovy_profil": "kořenitý, hořkosladký, ořechový",
+  "vonny_profil": "kořenitě ořechový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Silně barví; příliš staré plody už špatně prostupují.",
+  "kontraindikace_interakce": "Obsah alkoholu; nevhodné pro děti a při některých léčivech.",
+  "legalita_poznamka_cr": "Sběr z pěstovaných stromů; plody sbírat střídmě.",
+  "dukaznost_typ": "středoevropská kuchyňská praxe + botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Tinktura / alkoholová macerace",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé zelené ořechy před tvrdnutím skořápky; v datech je pro něj vedené období VI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Typický příklad dlouhodobě skladovatelného „výletového“ stromového produktu.",
+  "vedecky_nazev_hlavni": "Juglans regia",
+  "cesky_nazev_hlavni": "ořešák královský",
+  "status_v_cr_text": "pěstovaný, místy zplaňující, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "alkoholová macerace",
+  "orientacni_trvanlivost_text": "6–12+ měsíců",
+  "poznamka_k_skladovani": "Dobře filtrovaný a uzavřený likér běžně vydrží dlouho.",
+  "proc_je_v_jadru": "krátké červnové okno převedené do dlouhé trvanlivosti",
+  "aliases": [
+    {
+      "plant_id": "plant_juglans_regia",
+      "alias": "ořešák královský",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_juglans_regia",
+      "alias": "Juglans regia",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S66",
+      "nazev": "PFAF: Juglans regia",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Juglans+regia",
+      "source_family": "pfaf",
+      "poznamka": "Ořešák – potravní a tradiční léčebná použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "tinktura",
+      "label": "Tinktura / alkoholová macerace",
+      "group_label": "alkohol",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Noyer_centenaire_en_automne.JPG",
+      "alt": "ořešák královský",
+      "caption": "Wikimedia Commons: Juglans regia",
+      "credit": "Thesupermat",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Noyer_centenaire_en_automne.JPG",
+  "primary_photo_alt": "ořešák královský",
+  "primary_photo_credit": "Thesupermat",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

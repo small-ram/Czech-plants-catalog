@@ -1,0 +1,107 @@
+{
+  "use_id": "r100",
+  "plant_id": "plant_helianthus_tuberosus",
+  "raw_record_id": "R100",
+  "cesky_nazev_display": "topinambur hlíznatý",
+  "cast_rostliny_text": "hlíza",
+  "cast_rostliny_kategorie": "podzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "pražená náhražka kávy / globální analog",
+  "poddomena_kategorie": "kavova_nahrada",
+  "status_znalosti": "globální analog",
+  "status_znalosti_slug": "globalni_analog",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "zahrady, záhony, zdomácnělé porosty",
+  "obdobi_ziskani_text": "X–III",
+  "mesic_od": 10,
+  "mesic_do": 3,
+  "fenologicka_faze": "vyzrálá hlíza",
+  "zpusob_pripravy": "sušení a pražení plátků na bezkofeinovou náhražku kávy",
+  "cilovy_efekt": "rozšíření využití hlíz nad rámec běžné kuchyně",
+  "chutovy_profil": "praženě nasládlý",
+  "vonny_profil": "slabě karamelový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Pražení vyžaduje trpělivost; chuť je proměnlivá a ne vždy stabilní.",
+  "kontraindikace_interakce": "Může být hůře tolerován při větších dávkách; jinak potravní analog.",
+  "legalita_poznamka_cr": "Pěstovaný zdroj bez zvláštních omezení.",
+  "dukaznost_typ": "globální etnobotanický analog",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálá hlíza; v datech je pro něj vedené období X–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Zařazeno jako méně známá, ale prakticky realizovatelná větev.",
+  "vedecky_nazev_hlavni": "Helianthus tuberosus",
+  "cesky_nazev_hlavni": "topinambur hlíznatý",
+  "status_v_cr_text": "pěstovaný i zplaňující, lokálně běžný",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_helianthus_tuberosus",
+      "alias": "topinambur hlíznatý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_helianthus_tuberosus",
+      "alias": "Helianthus tuberosus",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S29",
+      "nazev": "Jerusalem Artichoke as a Strategic Crop for Solving Food Security Problems",
+      "url": "https://www.mdpi.com/2073-4395/12/2/465",
+      "source_family": "mdpi",
+      "poznamka": "Přehled topinamburu; temperátní klima, potravní a vedlejší využití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunroot_top.jpg",
+      "alt": "topinambur hlíznatý",
+      "caption": "Wikimedia Commons: Helianthus tuberosus",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sunroot_top.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunroot_top.jpg",
+  "primary_photo_alt": "topinambur hlíznatý",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sunroot_top.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

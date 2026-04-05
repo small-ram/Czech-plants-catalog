@@ -1,0 +1,116 @@
+{
+  "use_id": "r093",
+  "plant_id": "plant_brassica_oleracea_var_capitata",
+  "raw_record_id": "R093",
+  "cesky_nazev_display": "zelí hlávkové",
+  "cast_rostliny_text": "list / zkvašená hmota",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "kysané zelí / zelné šťávy",
+  "poddomena_kategorie": "ostatni_specialni",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, pole, domácí sklepy a zpracování",
+  "obdobi_ziskani_text": "IX–III",
+  "mesic_od": 9,
+  "mesic_do": 3,
+  "fenologicka_faze": "čerstvá hlávka vhodná ke kvašení",
+  "zpusob_pripravy": "krájení, solení a mléčné kvašení; využití i láku/šťávy",
+  "cilovy_efekt": "zimní konzervace, kyselá příloha, nápojový lák jako vedlejší produkt",
+  "chutovy_profil": "kyselý, svěží",
+  "vonny_profil": "kyselkavě zelný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Vyžaduje čisté kvašení; špatně vedené kvašení vede ke zkáze.",
+  "kontraindikace_interakce": "Vyšší obsah soli; u citlivých osob opatrnost s velmi kyselým lákem.",
+  "legalita_poznamka_cr": "Běžné domácí zpracování bez právních omezení.",
+  "dukaznost_typ": "středoevropská kuchyňská praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Kvašení / fermentace",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvá hlávka vhodná ke kvašení; v datech je pro něj vedené období IX–III. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Fermentovaná vrstva zeleniny byla v předchozí verzi slabá.",
+  "vedecky_nazev_hlavni": "Brassica oleracea var. capitata",
+  "cesky_nazev_hlavni": "zelí hlávkové",
+  "status_v_cr_text": "pěstované, velmi běžné",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_brassica_oleracea_var_capitata",
+      "alias": "zelí hlávkové",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_brassica_oleracea_var_capitata",
+      "alias": "Brassica oleracea var. capitata",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S28",
+      "nazev": "The Turnip (Brassica rapa L. subsp. rapa) in Eastern Tyrol",
+      "url": "https://ethnobotanyjournal.org/index.php/era/article/download/138/123/502",
+      "source_family": "ethnobotanyjournal_org",
+      "poznamka": "Středoevropský/Alpský analog pro vodnici a fermentované použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brassica_oleracea0.jpg",
+      "alt": "zelí hlávkové",
+      "caption": "Wikimedia Commons: Brassica oleracea var. capitata",
+      "credit": "MPF",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea0.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Brassica_oleracea0.jpg",
+  "primary_photo_alt": "zelí hlávkové",
+  "primary_photo_credit": "MPF",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea0.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

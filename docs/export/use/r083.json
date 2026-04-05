@@ -1,0 +1,125 @@
+{
+  "use_id": "r083",
+  "plant_id": "plant_fragaria_ananassa",
+  "raw_record_id": "R083",
+  "cesky_nazev_display": "jahodník zahradní",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "čerstvé plody / džem / sirup",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, pole, samozásobitelské záhony",
+  "obdobi_ziskani_text": "V–VII",
+  "mesic_od": 5,
+  "mesic_do": 7,
+  "fenologicka_faze": "zralý plod",
+  "zpusob_pripravy": "čerstvá konzumace, džem, sirup, mražení",
+  "cilovy_efekt": "časné letní ovoce, široká kuchyňská využitelnost",
+  "chutovy_profil": "sladký až sladkokyselý",
+  "vonny_profil": "intenzivně jahodový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Velmi rychlá kazivost; vysoké riziko pesticidních reziduí u neznámých zdrojů.",
+  "kontraindikace_interakce": "Alergie u citlivých osob; jinak běžná potravina.",
+  "legalita_poznamka_cr": "Sběr prakticky jen z pěstovaných zdrojů.",
+  "dukaznost_typ": "běžná kuchyňská a zahradní praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Mražení · Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 4,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období V–VII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Fragaria × ananassa",
+  "cesky_nazev_hlavni": "jahodník zahradní",
+  "status_v_cr_text": "pěstovaný, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_fragaria_ananassa",
+      "alias": "jahodník zahradní",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_fragaria_ananassa",
+      "alias": "Fragaria × ananassa",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "mrazeni",
+      "label": "Mražení",
+      "group_label": "chlad",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 3
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 4
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg",
+      "alt": "jahodník zahradní",
+      "caption": "Wikimedia Commons: Fragaria × ananassa",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg",
+  "primary_photo_alt": "jahodník zahradní",
+  "primary_photo_credit": "Ivar Leidus",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,107 @@
+{
+  "use_id": "r225",
+  "plant_id": "plant_prunus_spinosa",
+  "raw_record_id": "R225",
+  "cesky_nazev_display": "trnka obecná",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "trnkový likér",
+  "poddomena_kategorie": "liker_macerat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "živé ploty, meze, okraje polí, křoviny, náspy",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plně zralé plody ideálně po prvních mrazících nebo po zamražení",
+  "zpusob_pripravy": "Plody naložit do alkoholu s cukrem; nechat vyluhovat a dlouhodobě skladovat.",
+  "cilovy_efekt": "Jeden z nejpraktičtějších trvanlivých produktů z běžných českých křovin.",
+  "chutovy_profil": "trpkosladký, ovocný, mandlový v pozadí",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Příliš nezralé plody jsou velmi svíravé; pecky nenechávat rozbité.",
+  "kontraindikace_interakce": "Obsah alkoholu; jinak potravní užití po maceraci je tradiční.",
+  "legalita_poznamka_cr": "Běžný sběr čistých plodů z nechráněných keřů.",
+  "dukaznost_typ": "botanický zdroj + evropská tradiční praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Tinktura / alkoholová macerace",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody ideálně po prvních mrazících nebo po zamražení; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Klasická forma, ale do tohoto workbooku dobře zapadá jako „výletově dostupný“ likér.",
+  "vedecky_nazev_hlavni": "Prunus spinosa",
+  "cesky_nazev_hlavni": "trnka obecná",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "alkoholová macerace",
+  "orientacni_trvanlivost_text": "6–12+ měsíců",
+  "poznamka_k_skladovani": "Tradičně skladováno dlouhé měsíce.",
+  "proc_je_v_jadru": "křovinná klasika s dlouhou skladovatelností",
+  "aliases": [
+    {
+      "plant_id": "plant_prunus_spinosa",
+      "alias": "trnka obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_prunus_spinosa",
+      "alias": "Prunus spinosa",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S72",
+      "nazev": "PFAF: Prunus spinosa",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+spinosa",
+      "source_family": "pfaf",
+      "poznamka": "Trnka – likéry, zavařeniny, čajové a okrajové kulinární použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "tinktura",
+      "label": "Tinktura / alkoholová macerace",
+      "group_label": "alkohol",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+      "alt": "trnka obecná",
+      "caption": "Wikimedia Commons: Prunus spinosa",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+  "primary_photo_alt": "trnka obecná",
+  "primary_photo_credit": "Wikimedia contributor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

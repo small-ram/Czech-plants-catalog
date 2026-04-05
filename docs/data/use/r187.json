@@ -1,0 +1,115 @@
+{
+  "use_id": "r187",
+  "plant_id": "plant_malva_sylvestris_l_malva_neglecta_wallr",
+  "raw_record_id": "R187",
+  "cesky_nazev_display": "sléz / sléz přehlížený",
+  "cast_rostliny_text": "list a květ",
+  "cast_rostliny_kategorie": "kombinovana_cast",
+  "cast_rostliny_je_kombinovana": 1,
+  "domena": "léčba",
+  "domena_slug": "lecba",
+  "poddomena_text": "sušená slézová droga",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "vesnické okraje, cesty, dvory, ruderály, zahrady",
+  "obdobi_ziskani_text": "V–IX",
+  "mesic_od": 5,
+  "mesic_do": 9,
+  "fenologicka_faze": "zdravé listy a květy",
+  "zpusob_pripravy": "Listy a květy usušit pro pozdější slizovitý nálev nebo macerát.",
+  "cilovy_efekt": "Dlouhodoběji skladovatelná jemná slizovitá droga.",
+  "chutovy_profil": "jemný, slizovitý",
+  "vonny_profil": "slabý bylinný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Při špatném sušení ztrácí kvalitu; sbírat jen čistý materiál.",
+  "kontraindikace_interakce": "U vážnějších nebo déletrvajících stavů nestačí domácí léčba.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých míst.",
+  "dukaznost_typ": "EMA assessment report",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravé listy a květy; v datech je pro něj vedené období V–IX. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobře usušená droga vydrží měsíce.",
+  "vedecky_nazev_hlavni": "Malva sylvestris L. / Malva neglecta Wallr.",
+  "cesky_nazev_hlavni": "sléz lesní / sléz přehlížený",
+  "status_v_cr_text": "původní/zdomácnělý, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Dobře usušená droga vydrží měsíce.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_malva_sylvestris_l_malva_neglecta_wallr",
+      "alias": "sléz lesní / sléz přehlížený",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_malva_sylvestris_l_malva_neglecta_wallr",
+      "alias": "sléz / sléz přehlížený",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_malva_sylvestris_l_malva_neglecta_wallr",
+      "alias": "Malva sylvestris L. / Malva neglecta Wallr.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S34",
+      "nazev": "EMA: Malva sylvestris / M. neglecta folium assessment report",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-malva-sylvestris-l-andor-malva-neglecta-wallr-folium-and-malva-sylvestris-l-flos-first-version_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální podklad pro slézový list a květ."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallow_January_2008-1.jpg",
+      "alt": "sléz lesní / sléz přehlížený",
+      "caption": "Wikimedia Commons: Malva sylvestris L. / Malva neglecta Wallr.",
+      "credit": "Alvesgaspar",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mallow_January_2008-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallow_January_2008-1.jpg",
+  "primary_photo_alt": "sléz lesní / sléz přehlížený",
+  "primary_photo_credit": "Alvesgaspar",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Mallow_January_2008-1.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

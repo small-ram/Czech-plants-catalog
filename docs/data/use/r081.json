@@ -1,0 +1,121 @@
+{
+  "use_id": "r081",
+  "plant_id": "plant_sorbus_domestica",
+  "raw_record_id": "R081",
+  "cesky_nazev_display": "oskeruše",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "plody po uleželosti / mošt / povidla",
+  "poddomena_kategorie": "zavarenina",
+  "status_znalosti": "téměř zapomenuté",
+  "status_znalosti_slug": "temer_zapomenute",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "jižní Morava, staré sady, vinohrady, teplé svahy",
+  "obdobi_ziskani_text": "IX–XI",
+  "mesic_od": 9,
+  "mesic_do": 11,
+  "fenologicka_faze": "plod po změknutí nebo odležení",
+  "zpusob_pripravy": "plody se nechávají dojít, pak se jedí, lisují nebo vaří na husté výrobky",
+  "cilovy_efekt": "vysoce tradiční, dnes znovu objevované moravské ovoce",
+  "chutovy_profil": "zpočátku trpký, po odležení sladký a moučnatější",
+  "vonny_profil": "ovocný, medový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Nezralé plody jsou tříslovité a nepříjemné; druh je lokální a výnos není vysoký.",
+  "kontraindikace_interakce": "Běžně potravní; hlavní omezení je dostupnost a správná zralost.",
+  "legalita_poznamka_cr": "Ve volné krajině ověřit lokalitu a vlastnictví; nepoškozovat vzácné stromy.",
+  "dukaznost_typ": "český odborně-popularizační zdroj + tradiční regionální praxe",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plod po změknutí nebo odležení; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Sorbus domestica",
+  "cesky_nazev_hlavni": "oskeruše",
+  "status_v_cr_text": "původní i pěstovaná, velmi lokální",
+  "status_cetnost_reprezentativni": "neurceno",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_sorbus_domestica",
+      "alias": "oskeruše",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_sorbus_domestica",
+      "alias": "oskeruše domácí",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_sorbus_domestica",
+      "alias": "Sorbus domestica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S26",
+      "nazev": "Oskeruše – zapomenutý ovocný strom Evropy II",
+      "url": "https://ziva.avcr.cz/files/ziva/pdf/oskeruse-zapomenuty-ovocny-strom-evropy-ii.pdf",
+      "source_family": "ziva_avcr_cz",
+      "poznamka": "ČR; přehled k oskeruši, jejímu rozšíření a tradičnímu využití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+      "alt": "oskeruše",
+      "caption": "Wikimedia Commons: Sorbus domestica",
+      "credit": "BotBln",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+  "primary_photo_alt": "oskeruše",
+  "primary_photo_credit": "BotBln",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,107 @@
+{
+  "use_id": "r006",
+  "plant_id": "plant_sambucus_nigra",
+  "raw_record_id": "R006",
+  "cesky_nazev_display": "bez černý",
+  "cast_rostliny_text": "květ",
+  "cast_rostliny_kategorie": "kvetni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "nálev",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "křoviny, okraje cest, remízky, ruderály, ploty",
+  "obdobi_ziskani_text": "V–VI",
+  "mesic_od": 5,
+  "mesic_do": 6,
+  "fenologicka_faze": "plné kvetení",
+  "zpusob_pripravy": "Sušený nebo čerstvý květ jako nálev krátkodobě při začátku nachlazení.",
+  "cilovy_efekt": "Tradiční úleva při časných příznacích nachlazení.",
+  "chutovy_profil": "jemný",
+  "vonny_profil": "květový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Neřeší komplikované nebo déletrvající infekty.",
+  "kontraindikace_interakce": "Pro dospělé a dospívající; při zhoršení stavu vyšetřit lékařem.",
+  "legalita_poznamka_cr": "Sběr obvykle legální mimo chráněné režimy.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plné kvetení; v datech je pro něj vedené období V–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Fytoterapeutický záznam oddělen od sirupu.",
+  "vedecky_nazev_hlavni": "Sambucus nigra",
+  "cesky_nazev_hlavni": "bez černý",
+  "status_v_cr_text": "původní, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_sambucus_nigra",
+      "alias": "bez černý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 8
+    },
+    {
+      "plant_id": "plant_sambucus_nigra",
+      "alias": "Sambucus nigra",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 8
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S08",
+      "nazev": "EMA: Sambuci flos monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie bezového květu."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambucus_nigra_004.jpg",
+      "alt": "bez černý",
+      "caption": "Wikimedia Commons: Sambucus nigra",
+      "credit": "Willow",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambucus_nigra_004.jpg",
+  "primary_photo_alt": "bez černý",
+  "primary_photo_credit": "Willow",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

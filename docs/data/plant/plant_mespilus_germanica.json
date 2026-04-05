@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_mespilus_germanica",
+  "vedecky_nazev_hlavni": "Mespilus germanica",
+  "vedecky_nazev_display": "Mespilus germanica",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "mišpule obecná",
+  "status_v_cr_text": "pěstovaná, vzácnější",
+  "status_puvodni": 0,
+  "status_zdomacnely": 0,
+  "status_pestovany": 1,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "vzacnejsi",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_mespilus_germanica",
+      "alias": "mišpule obecná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_mespilus_germanica",
+      "alias": "Mespilus germanica",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r164",
+      "raw_record_id": "R164",
+      "domena": "potrava",
+      "poddomena_text": "uleželé plody do sklepa / bletting",
+      "poddomena_kategorie": "zavarenina",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "X–XI",
+      "cilovy_efekt": "Neobvyklý způsob přirozeného „zrání ve skladu“, který prodlužuje využitelnost plodů.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 1,
+      "processing_methods_text": "Zavaření / sterilace ve sklenici",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plody po sklizni před úplným změknutím; v datech je pro něj vedené období X–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "zavařenina",
+      "orientacni_trvanlivost_text": "6–12 měsíců"
+    },
+    {
+      "use_id": "r080",
+      "raw_record_id": "R080",
+      "domena": "potrava a pití",
+      "poddomena_text": "uleželé plody / želé / pyré",
+      "poddomena_kategorie": "zavarenina",
+      "cast_rostliny_text": "plod",
+      "cast_rostliny_kategorie": "plodova_cast",
+      "obdobi_ziskani_text": "X–XI",
+      "cilovy_efekt": "zapomenuté ovoce s vysokou gastronomickou a historickou hodnotou",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Zavaření / sterilace ve sklenici · Cukrování / kandování / džem",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plod po přejití chladem nebo odležení; v datech je pro něj vedené období X–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S25",
+      "nazev": "Medlar — A Comprehensive and Integrative Review (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8622783/",
+      "source_family": "pmc",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Medlar_pomes_and_leaves.jpg",
+      "alt": "mišpule obecná",
+      "caption": "Wikimedia Commons: Mespilus germanica",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Medlar_pomes_and_leaves.jpg",
+      "license": "CC BY-SA 2.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 1,
+    "core_use_count": 1,
+    "processing_use_count": 2,
+    "top_evidence_rank": 4
+  }
+}

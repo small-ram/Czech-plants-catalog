@@ -1,0 +1,168 @@
+{
+  "plant_id": "plant_betula_pendula_betula_pubescens",
+  "vedecky_nazev_hlavni": "Betula pendula / Betula pubescens",
+  "vedecky_nazev_display": "Betula pendula / Betula pubescens",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "bříza bělokorá / pýřitá",
+  "status_v_cr_text": "původní, běžná",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 4,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_betula_pendula_betula_pubescens",
+      "alias": "bříza bělokorá / pýřitá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_betula_pendula_betula_pubescens",
+      "alias": "Betula pendula / Betula pubescens",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r178",
+      "raw_record_id": "R178",
+      "domena": "pití",
+      "poddomena_text": "březový ocet",
+      "poddomena_kategorie": "ocet",
+      "cast_rostliny_text": "míza",
+      "cast_rostliny_kategorie": "miza",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Způsob, jak velmi krátce dostupnou mízu převést do dlouhodobější formy.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Kvašení / fermentace · Naložení do octa / ocet",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: silný jarní tok mízy; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.",
+      "forma_uchovani_text": "ocet / octové kvašení",
+      "orientacni_trvanlivost_text": "6–12+ měsíců"
+    },
+    {
+      "use_id": "r010",
+      "raw_record_id": "R010",
+      "domena": "pití",
+      "poddomena_text": "fermentovaný nápoj / sirup / ocet",
+      "poddomena_kategorie": "sirup_koncentrat",
+      "cast_rostliny_text": "míza",
+      "cast_rostliny_kategorie": "miza",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Rozšíření repertoáru nad rámec české tradice.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "globální analog",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sirup / koncentrát · Kvašení / fermentace · Naložení do octa / ocet",
+      "processing_methods_count": 3,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: jarní odběr mízy; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r011",
+      "raw_record_id": "R011",
+      "domena": "fytoterapie",
+      "poddomena_text": "nálev",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "list",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "V–VI",
+      "cilovy_efekt": "Tradiční močopudný/bylinný účel.",
+      "dukaznost_skore": "A",
+      "dukaznost_rank": 5,
+      "status_znalosti": "mainstream",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé až plně vyvinuté listy; v datech je pro něj vedené období V–VI. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r009",
+      "raw_record_id": "R009",
+      "domena": "pití",
+      "poddomena_text": "čerstvá jarní míza",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "míza",
+      "cast_rostliny_kategorie": "miza",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Hydratace a sezónní chuťový zdroj.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: silné jarní proudění mízy před plným olistěním; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S02",
+      "nazev": "Uses of tree saps in northern and eastern parts of Europe",
+      "url": "https://www.researchgate.net/publication/234004639_Uses_of_tree_saps_in_northern_and_eastern_parts_of_Europe",
+      "source_family": "researchgate",
+      "use_count": 3
+    },
+    {
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "use_count": 1
+    },
+    {
+      "raw_source_id": "S07",
+      "nazev": "EMA: Betulae folium monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+      "source_family": "ema",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Betula_pendula_Finland.jpg",
+      "alt": "bříza bělokorá / pýřitá",
+      "caption": "Wikimedia Commons: Betula pendula / Betula pubescens",
+      "credit": "Percita at Flickr",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
+      "license": "CC BY-SA 2.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 4,
+    "durable_use_count": 1,
+    "core_use_count": 0,
+    "processing_use_count": 2,
+    "top_evidence_rank": 5
+  }
+}

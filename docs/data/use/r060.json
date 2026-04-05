@@ -1,0 +1,107 @@
+{
+  "use_id": "r060",
+  "plant_id": "plant_pinus_sylvestris",
+  "raw_record_id": "R060",
+  "cesky_nazev_display": "borovice lesní",
+  "cast_rostliny_text": "pupeny / mladé výhonky",
+  "cast_rostliny_kategorie": "vyhonky_a_pupeny",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "sirup / nálev / tradiční domácí užití",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "globální analog",
+  "status_znalosti_slug": "globalni_analog",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "borové lesy, suché stráně, parky",
+  "obdobi_ziskani_text": "IV–V",
+  "mesic_od": 4,
+  "mesic_do": 5,
+  "fenologicka_faze": "jarní pupeny a výhonky",
+  "zpusob_pripravy": "Tradiční domácí použití v sirupech a nálevech při respiračních potížích.",
+  "cilovy_efekt": "Podpůrné použití při kašli, bronchitidě a nachlazení v karpatských tradicích.",
+  "chutovy_profil": "pryskyřičný",
+  "vonny_profil": "silně lesní",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Silně tradiční, nikoli standardizovaná česká monografie; možné dráždění při přehnané koncentraci.",
+  "kontraindikace_interakce": "U přetrvávajících obtíží nutná standardní medicína; opatrnost u malých dětí.",
+  "legalita_poznamka_cr": "Globální/krajový analog, ne český mainstream.",
+  "dukaznost_typ": "karpatská etnobotanika",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: jarní pupeny a výhonky; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Dobrá položka pro „přenositelné zapomenuté znalosti“.",
+  "vedecky_nazev_hlavni": "Pinus sylvestris",
+  "cesky_nazev_hlavni": "borovice lesní",
+  "status_v_cr_text": "původní, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_pinus_sylvestris",
+      "alias": "borovice lesní",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    },
+    {
+      "plant_id": "plant_pinus_sylvestris",
+      "alias": "Pinus sylvestris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 4
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S21",
+      "nazev": "The Importance of Pine Species in the Ethnomedicine of Transylvania (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9506106/",
+      "source_family": "pmc",
+      "poznamka": "Karpaty; silný globální analog pro smrk, borovici a jedli, zejména mladé výhonky, šišky a sirupy."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skuleskogen_pine.jpg",
+      "alt": "borovice lesní",
+      "caption": "Wikimedia Commons: Pinus sylvestris",
+      "credit": "Mickaël Delcey ( Silverkey )",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Skuleskogen_pine.jpg",
+  "primary_photo_alt": "borovice lesní",
+  "primary_photo_credit": "Mickaël Delcey ( Silverkey )",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

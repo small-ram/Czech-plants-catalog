@@ -1,0 +1,107 @@
+{
+  "use_id": "r089",
+  "plant_id": "plant_allium_sativum",
+  "raw_record_id": "R089",
+  "cesky_nazev_display": "česnek setý",
+  "cast_rostliny_text": "stroužek",
+  "cast_rostliny_kategorie": "podzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "fytoterapie",
+  "domena_slug": "fytoterapie",
+  "poddomena_text": "tradiční domácí užití / macerát / sirup",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "domácí zásoby z pěstování nebo nákupu",
+  "obdobi_ziskani_text": "celoročně",
+  "mesic_od": 1,
+  "mesic_do": 12,
+  "fenologicka_faze": "vyzrálý stroužek",
+  "zpusob_pripravy": "syrové malé dávky, macerát v medu či oleji, domácí sirupové formy",
+  "cilovy_efekt": "tradiční podpůrné domácí použití při respiračních a zimních potížích",
+  "chutovy_profil": "ostře štiplavý",
+  "vonny_profil": "silně česnekový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Syrový koncentrovaný česnek může dráždit žaludek i kůži.",
+  "kontraindikace_interakce": "Opatrnost s antikoagulancii a před operacemi; nejde o standardizovanou léčbu.",
+  "legalita_poznamka_cr": "Bez právních omezení.",
+  "dukaznost_typ": "středoevropská etnobotanika + obecná bezpečnostní tradice",
+  "dukaznost_skore": "C",
+  "dukaznost_rank": 3,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sirup / koncentrát",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálý stroužek; v datech je pro něj vedené období celoročně. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": null,
+  "vedecky_nazev_hlavni": "Allium sativum",
+  "cesky_nazev_hlavni": "česnek setý",
+  "status_v_cr_text": "pěstovaný, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_allium_sativum",
+      "alias": "česnek setý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_allium_sativum",
+      "alias": "Allium sativum",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Garlic%20bulbs%20and%20cloves.jpg",
+      "alt": "česnek setý",
+      "caption": "Wikimedia Commons: Allium sativum",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Garlic%20bulbs%20and%20cloves.jpg",
+  "primary_photo_alt": "česnek setý",
+  "primary_photo_credit": "Ivar Leidus",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -1,0 +1,131 @@
+{
+  "use_id": "r049",
+  "plant_id": "plant_vaccinium_myrtillus",
+  "raw_record_id": "R049",
+  "cesky_nazev_display": "borůvka černá",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "čerstvé plody / sušení / sirup / kompot",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "acidofilní lesy, paseky, vřesoviště, horské a podhorské lesy",
+  "obdobi_ziskani_text": "VII–IX",
+  "mesic_od": 7,
+  "mesic_do": 9,
+  "fenologicka_faze": "plně zralé plody",
+  "zpusob_pripravy": "Jíst čerstvé nebo zpracovat na sirup, kompot, džem či sušený plod.",
+  "cilovy_efekt": "Výživný lesní plod s vysokou praktickou hodnotou.",
+  "chutovy_profil": "sladkokyselý, lesní",
+  "vonny_profil": "ovocně lesní",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Snadné znečištění od zeminy a plísní; pozor na záměnu s okrasnými kultivary u zahrad.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí v běžném množství.",
+  "legalita_poznamka_cr": "Běžný sběr v souladu s místními pravidly.",
+  "dukaznost_typ": "česká etnobotanika",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení · Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem · Kompot",
+  "processing_methods_count": 5,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody; v datech je pro něj vedené období VII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Stabilní český lesní standard.",
+  "vedecky_nazev_hlavni": "Vaccinium myrtillus",
+  "cesky_nazev_hlavni": "borůvka černá",
+  "status_v_cr_text": "původní, běžná lokálně až hojně",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_vaccinium_myrtillus",
+      "alias": "borůvka černá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_vaccinium_myrtillus",
+      "alias": "Vaccinium myrtillus",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S01",
+      "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+      "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+      "source_family": "researchgate",
+      "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 2
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 3
+    },
+    {
+      "processing_method_id": "cukrovani",
+      "label": "Cukrování / kandování / džem",
+      "group_label": "sladke_konzervace",
+      "method_order": 4
+    },
+    {
+      "processing_method_id": "kompot",
+      "label": "Kompot",
+      "group_label": "tepelna_konzervace",
+      "method_order": 5
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/203_Vaccinum_myrtillus_L.jpg",
+      "alt": "borůvka černá",
+      "caption": "Wikimedia Commons: Vaccinium myrtillus",
+      "credit": "Amédée Masclef",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:203_Vaccinum_myrtillus_L.jpg",
+      "license": "Public domain",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/203_Vaccinum_myrtillus_L.jpg",
+  "primary_photo_alt": "borůvka černá",
+  "primary_photo_credit": "Amédée Masclef",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:203_Vaccinum_myrtillus_L.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

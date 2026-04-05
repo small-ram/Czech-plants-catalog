@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Přesměrování</title>
+    <script>
+      (function () {
+        const parts = window.location.pathname.split("/").filter(Boolean);
+        const knownRoots = new Set(["plant", "use", "plants", "static", "data", "export"]);
+        const repoBase = parts.length && !knownRoots.has(parts[0]) ? `/${parts[0]}` : "";
+        const route = repoBase ? parts.slice(1) : parts;
+
+        if (route[0] === "plant" && route[1]) {
+          window.location.replace(`${repoBase}/plant/${encodeURIComponent(decodeURIComponent(route[1]))}/`);
+          return;
+        }
+        if (route[0] === "use" && route[1]) {
+          window.location.replace(`${repoBase}/use/${encodeURIComponent(decodeURIComponent(route[1]))}/`);
+          return;
+        }
+        if (route[0] === "plants") {
+          window.location.replace(`${repoBase}/plants/`);
+          return;
+        }
+        window.location.replace(`${repoBase || ""}/`);
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

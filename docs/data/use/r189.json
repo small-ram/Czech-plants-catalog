@@ -1,0 +1,107 @@
+{
+  "use_id": "r189",
+  "plant_id": "plant_melissa_officinalis",
+  "raw_record_id": "R189",
+  "cesky_nazev_display": "meduňka lékařská",
+  "cast_rostliny_text": "list",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušený list na čaj a aromatické sáčky",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "zahrady, bylinkové záhony, občas okolí sídel",
+  "obdobi_ziskani_text": "V–VIII",
+  "mesic_od": 5,
+  "mesic_do": 8,
+  "fenologicka_faze": "list před plným kvetením",
+  "zpusob_pripravy": "List rychle usušit; část použít do čajů, část do aromatických sáčků.",
+  "cilovy_efekt": "Spojuje dlouhodobě skladovatelný nápojový i aromatický materiál.",
+  "chutovy_profil": "jemně citronový, bylinný",
+  "vonny_profil": "citronově bylinný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Pomalé sušení výrazně snižuje aroma.",
+  "kontraindikace_interakce": "Při déletrvajících obtížích nejde o náhradu lékaře.",
+  "legalita_poznamka_cr": "Běžné pěstování a sběr.",
+  "dukaznost_typ": "EMA monografie",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: list před plným kvetením; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Kvalitně usušený list vydrží měsíce, i když vůně časem slábne.",
+  "vedecky_nazev_hlavni": "Melissa officinalis",
+  "cesky_nazev_hlavni": "meduňka lékařská",
+  "status_v_cr_text": "běžně pěstovaná, místy zplaňující",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Kvalitně usušený list vydrží měsíce, i když vůně časem slábne.",
+  "proc_je_v_jadru": "kombinuje čaj i vůni v jediné surovině",
+  "aliases": [
+    {
+      "plant_id": "plant_melissa_officinalis",
+      "alias": "meduňka lékařská",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    },
+    {
+      "plant_id": "plant_melissa_officinalis",
+      "alias": "Melissa officinalis",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S16",
+      "nazev": "EMA: Melissa officinalis folium monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-melissa-officinalis-l-folium_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie meduňky lékařské."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lemon_balm_plant.jpg",
+      "alt": "meduňka lékařská",
+      "caption": "Wikimedia Commons: Melissa officinalis",
+      "credit": "Amitchell125",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lemon_balm_plant.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lemon_balm_plant.jpg",
+  "primary_photo_alt": "meduňka lékařská",
+  "primary_photo_credit": "Amitchell125",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Lemon_balm_plant.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

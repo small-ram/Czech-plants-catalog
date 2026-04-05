@@ -1,0 +1,115 @@
+{
+  "use_id": "r182",
+  "plant_id": "plant_galium_odoratum",
+  "raw_record_id": "R182",
+  "cesky_nazev_display": "svízel vonný / mařinka vonná",
+  "cast_rostliny_text": "sušená nať",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "vůně",
+  "domena_slug": "vune",
+  "poddomena_text": "aromatický sáček / potpourri",
+  "poddomena_kategorie": "vune_a_vykurovani",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "stinné listnaté lesy, humózní půdy, bučiny",
+  "obdobi_ziskani_text": "IV–V",
+  "mesic_od": 4,
+  "mesic_do": 5,
+  "fenologicka_faze": "nať těsně před nebo na počátku kvetení",
+  "zpusob_pripravy": "Nať nechat lehce zavadnout a usušit; poté plnit do sáčků či směsí.",
+  "cilovy_efekt": "Dlouhodobá pokojová a šatní vůně s kumarinovým profilem.",
+  "chutovy_profil": "neaplikovatelné",
+  "vonny_profil": "sladce senový, kumarinový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Příliš velké množství ve vnitřním užití není vhodné; pro vůni stačí malé dávky.",
+  "kontraindikace_interakce": "Držet spíše aromatické než potravní dávkování.",
+  "legalita_poznamka_cr": "Šetrný sběr z běžných porostů, ne z chráněných lokalit.",
+  "dukaznost_typ": "historické aromatické použití",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: nať těsně před nebo na počátku kvetení; v datech je pro něj vedené období IV–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Usušená nať vydrží měsíce a vůně se po sušení často zvýrazní.",
+  "vedecky_nazev_hlavni": "Galium odoratum",
+  "cesky_nazev_hlavni": "mařinka vonná",
+  "status_v_cr_text": "původní, lokálně běžná",
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Usušená nať vydrží měsíce a vůně se po sušení často zvýrazní.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_galium_odoratum",
+      "alias": "mařinka vonná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_galium_odoratum",
+      "alias": "svízel vonný / mařinka vonná",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_galium_odoratum",
+      "alias": "Galium odoratum",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 3
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S11",
+      "nazev": "Galium odoratum – A modern herbal",
+      "url": "https://www.botanical.com/botanical/mgmh/w/wodruf07.html",
+      "source_family": "www_botanical_com",
+      "poznamka": "Historické a praktické aromatické použití mařinky vonné; nižší důkaznost."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Waldmeister%28Mai%29.JPG",
+      "alt": "mařinka vonná",
+      "caption": "Wikimedia Commons: Galium odoratum",
+      "credit": "Hajotthu 13:34, 11. Mai 2009 (CEST)",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Waldmeister(Mai).JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Waldmeister%28Mai%29.JPG",
+  "primary_photo_alt": "mařinka vonná",
+  "primary_photo_credit": "Hajotthu 13:34, 11. Mai 2009 (CEST)",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Waldmeister(Mai).JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

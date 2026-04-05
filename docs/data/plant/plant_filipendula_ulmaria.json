@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_filipendula_ulmaria",
+  "vedecky_nazev_hlavni": "Filipendula ulmaria",
+  "vedecky_nazev_display": "Filipendula ulmaria",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "tužebník jilmový",
+  "status_v_cr_text": "původní, běžný lokálně",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_filipendula_ulmaria",
+      "alias": "tužebník jilmový",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_filipendula_ulmaria",
+      "alias": "Filipendula ulmaria",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r055",
+      "raw_record_id": "R055",
+      "domena": "pití",
+      "poddomena_text": "aromatický nálev / čaj",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "květ",
+      "cast_rostliny_kategorie": "kvetni_cast",
+      "obdobi_ziskani_text": "VI–VIII",
+      "cilovy_efekt": "Aromatický nápoj s medově mandlovým profilem.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: rozvinuté vonné laty; v datech je pro něj vedené období VI–VIII. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    },
+    {
+      "use_id": "r056",
+      "raw_record_id": "R056",
+      "domena": "fytoterapie",
+      "poddomena_text": "nálev / tradiční bylinný přípravek",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "květ",
+      "cast_rostliny_kategorie": "kvetni_cast",
+      "obdobi_ziskani_text": "VI–VIII",
+      "cilovy_efekt": "Tradičně v oblasti nachlazení, bolesti a zánětu, s oporou v evropské monografii.",
+      "dukaznost_skore": "B",
+      "dukaznost_rank": 4,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plné kvetení; v datech je pro něj vedené období VI–VIII. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S23",
+      "nazev": "EMA: Filipendulae ulmariae flos page",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/filipendulae-ulmariae-flos",
+      "source_family": "ema",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20140715Filipendula_ulmaria.jpg",
+      "alt": "tužebník jilmový",
+      "caption": "Wikimedia Commons: Filipendula ulmaria",
+      "credit": "AnRo0002",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:20140715Filipendula_ulmaria.jpg",
+      "license": "CC0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 0,
+    "top_evidence_rank": 4
+  }
+}

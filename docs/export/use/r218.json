@@ -1,0 +1,124 @@
+{
+  "use_id": "r218",
+  "plant_id": "plant_taraxacum_officinale_agg",
+  "raw_record_id": "R218",
+  "cesky_nazev_display": "pampeliška lékařská",
+  "cast_rostliny_text": "kořen",
+  "cast_rostliny_kategorie": "podzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušený kořen do zásoby pro pozdější pražení",
+  "poddomena_kategorie": "suseni_skladovani",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "louky, trávníky, meze, sady, okraje cest",
+  "obdobi_ziskani_text": "III–IV a IX–XI",
+  "mesic_od": 3,
+  "mesic_do": 11,
+  "fenologicka_faze": "silnější kořeny před kvetením nebo po zatažení natě",
+  "zpusob_pripravy": "Kořen nakrájet, usušit a skladovat; pražit až těsně před mletím nebo průběžně.",
+  "cilovy_efekt": "Velmi praktická spížní surovina z extrémně běžné rostliny.",
+  "chutovy_profil": "po pražení kávově hořký, zemní",
+  "vonny_profil": "po pražení jemně kávový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Kořeny z městských psích a postřikovaných ploch nejsou vhodné.",
+  "kontraindikace_interakce": "Při potížích se žlučníkem opatrnost; potravně jde o běžnou náhražku kávy.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých ploch.",
+  "dukaznost_typ": "EMA + botanický zdroj",
+  "dukaznost_skore": "A",
+  "dukaznost_rank": 5,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: silnější kořeny před kvetením nebo po zatažení natě; v datech je pro něj vedené období III–IV a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Odlišeno od okamžité přípravy kávy – zde jde přímo o skladovanou meziformu.",
+  "vedecky_nazev_hlavni": "Taraxacum officinale agg.",
+  "cesky_nazev_hlavni": "pampeliška lékařská",
+  "status_v_cr_text": "původní, velmi běžná",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 2,
+  "forma_uchovani_text": "sušení",
+  "orientacni_trvanlivost_text": "6–12 měsíců",
+  "poznamka_k_skladovani": "Kořen je po dosušení velmi dobře skladovatelný.",
+  "proc_je_v_jadru": "velmi dostupný kořenový pantry produkt",
+  "aliases": [
+    {
+      "plant_id": "plant_taraxacum_officinale_agg",
+      "alias": "pampeliška lékařská",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 6
+    },
+    {
+      "plant_id": "plant_taraxacum_officinale_agg",
+      "alias": "pampeliška / smetanka",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 0,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_taraxacum_officinale_agg",
+      "alias": "Taraxacum officinale agg.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 7
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S31",
+      "nazev": "EMA: Taraxaci radix cum herba monograph",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-taraxacum-officinale-weber-ex-wigg-radix-cum-herba_en.pdf",
+      "source_family": "ema",
+      "poznamka": "Oficiální monografie pampeliškového kořene s natí."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S61",
+      "nazev": "PFAF: Taraxacum officinale",
+      "url": "https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro pampelišku a pražený kořen."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/T.%20officinale.jpg",
+      "alt": "Pampeliška lékařská",
+      "caption": "Wikimedia Commons: Taraxacum officinale",
+      "credit": "Enbéká",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
+      "license": "",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/T.%20officinale.jpg",
+  "primary_photo_alt": "Pampeliška lékařská",
+  "primary_photo_credit": "Enbéká",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

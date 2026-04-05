@@ -1,0 +1,107 @@
+{
+  "use_id": "r143",
+  "plant_id": "plant_rubus_fruticosus_agg",
+  "raw_record_id": "R143",
+  "cesky_nazev_display": "ostružiník křovitý",
+  "cast_rostliny_text": "listy",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "listový čaj",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "méně známé",
+  "status_znalosti_slug": "mene_zname",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "křoviny, paseky, lesní lemy",
+  "obdobi_ziskani_text": "V–VIII",
+  "mesic_od": 5,
+  "mesic_do": 8,
+  "fenologicka_faze": "zdravé mladší listy",
+  "zpusob_pripravy": "Sušené listy na jednoduchý bylinný čaj nebo do směsí.",
+  "cilovy_efekt": "svíravý čaj",
+  "chutovy_profil": "trpká",
+  "vonny_profil": "slabě zelená",
+  "palivovy_potencial_text": "neaplikovateln?",
+  "hlavni_rizika": "trpkost; jen zdravé neplesnivé listy",
+  "kontraindikace_interakce": null,
+  "legalita_poznamka_cr": "běžný nechráněný druh",
+  "dukaznost_typ": "kurátorovaný botanický zdroj",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: zdravé mladší listy; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "V českém prostoru méně známé než plody, ale praktické.",
+  "vedecky_nazev_hlavni": "Rubus fruticosus agg.",
+  "cesky_nazev_hlavni": "ostružiník křovitý",
+  "status_v_cr_text": "původní/zdomácnělý, velmi běžný",
+  "status_cetnost_reprezentativni": "velmi_bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_rubus_fruticosus_agg",
+      "alias": "ostružiník křovitý",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_rubus_fruticosus_agg",
+      "alias": "Rubus fruticosus agg.",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S48",
+      "nazev": "PFAF: Rubus fruticosus",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro ostružiník; plody a listový čaj."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackberry_%28Rubus_fruticosus%29.jpg",
+      "alt": "ostružiník křovitý",
+      "caption": "Wikimedia Commons: Rubus fruticosus agg.",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackberry_%28Rubus_fruticosus%29.jpg",
+  "primary_photo_alt": "ostružiník křovitý",
+  "primary_photo_credit": "Ivar Leidus",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

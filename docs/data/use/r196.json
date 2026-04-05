@@ -1,0 +1,122 @@
+{
+  "use_id": "r196",
+  "plant_id": "plant_rubus_idaeus",
+  "raw_record_id": "R196",
+  "cesky_nazev_display": "maliník obecný",
+  "cast_rostliny_text": "plod",
+  "cast_rostliny_kategorie": "plodova_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "potrava a pití",
+  "domena_slug": "potrava_a_piti",
+  "poddomena_text": "malinový sirup",
+  "poddomena_kategorie": "sirup_koncentrat",
+  "status_znalosti": "mainstream",
+  "status_znalosti_slug": "mainstream",
+  "aplikovatelnost_v_cr": "vysoká",
+  "aplikovatelnost_slug": "vysoka",
+  "typicke_lokality_text": "lesní paseky, okraje lesů, křoviny, zahrady",
+  "obdobi_ziskani_text": "VII–VIII",
+  "mesic_od": 7,
+  "mesic_do": 8,
+  "fenologicka_faze": "plně vyzrálé plody",
+  "zpusob_pripravy": "Plody lisovat nebo povařit na sirup a zavařit.",
+  "cilovy_efekt": "Praktický a aromatický způsob uchování měkkých plodů.",
+  "chutovy_profil": "sladký, malinový",
+  "vonny_profil": "ovocný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Měkké plody se rychle kazí; nutné rychlé zpracování.",
+  "kontraindikace_interakce": "Bez zvláštních interakcí v běžném potravním užití.",
+  "legalita_poznamka_cr": "Běžný sběr z čistých porostů.",
+  "dukaznost_typ": "středoevropská kuchyňská praxe + kurátorovaný botanický zdroj",
+  "dukaznost_skore": "B",
+  "dukaznost_rank": 4,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 1,
+  "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody; v datech je pro něj vedené období VII–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Sirup vydrží měsíce a dobře zužitkuje přebytky úrody.",
+  "vedecky_nazev_hlavni": "Rubus idaeus",
+  "cesky_nazev_hlavni": "maliník obecný",
+  "status_v_cr_text": "původní, běžný",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sirup / koncentrát",
+  "orientacni_trvanlivost_text": "3–12 měsíců",
+  "poznamka_k_skladovani": "Sirup vydrží měsíce a dobře zužitkuje přebytky úrody.",
+  "proc_je_v_jadru": "měkký plod přeměněný na dlouho držící sirup",
+  "aliases": [
+    {
+      "plant_id": "plant_rubus_idaeus",
+      "alias": "maliník obecný",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    },
+    {
+      "plant_id": "plant_rubus_idaeus",
+      "alias": "Rubus idaeus",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 5
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S30",
+      "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+      "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+      "source_family": "researchgate",
+      "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S57",
+      "nazev": "PFAF: Rubus idaeus",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Rubus+idaeus",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný botanický zdroj pro maliník a listový čaj."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "sirup",
+      "label": "Sirup / koncentrát",
+      "group_label": "sladke_konzervace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "zavareni",
+      "label": "Zavaření / sterilace ve sklenici",
+      "group_label": "tepelna_konzervace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+      "alt": "maliník obecný",
+      "caption": "Wikimedia Commons: Rubus idaeus",
+      "credit": "Kollányi Gábor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+  "primary_photo_alt": "maliník obecný",
+  "primary_photo_credit": "Kollányi Gábor",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}
