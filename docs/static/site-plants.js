@@ -1,10 +1,14 @@
 const C = window.CatalogSite;
 
+const DEFAULT_SORT = "recommend";
+
 const state = {
   q: "",
+  knowledge_status: "",
   seasonal: true,
   trvanlive: false,
   jadro: false,
+  sort: DEFAULT_SORT,
   limit: "48",
 };
 
@@ -42,10 +46,70 @@ function pluralizePlants(count) {
 function parseInitialState() {
   const params = new URLSearchParams(window.location.search);
   state.q = params.get("q") || "";
+  state.knowledge_status = params.get("knowledge_status") || "";
   state.seasonal = params.has("seasonal") ? params.get("seasonal") === "1" : true;
   state.trvanlive = params.get("trvanlive") === "1";
   state.jadro = params.get("jadro") === "1";
+  state.sort = params.get("sort") || DEFAULT_SORT;
   state.limit = params.get("limit") || state.limit;
+}
+
+function ensureEnhancements() {
+  const searchField = els.q?.closest(".field");
+  if (searchField && !document.getElementById("plants-help")) {
+    const note = document.createElement("p");
+    note.id = "plants-help";
+    note.className = "helper-note";
+    note.textContent =
+      "Tip: použij hledání pro rod i české jméno, nebo filtr Jak známé, když chceš vyzobat spíš méně známé a téměř zapomenuté druhy.";
+    searchField.after(note);
+  }
+
+  if (els.seasonalNote && !document.getElementById("plants-knowledge-status")) {
+    const field = document.createElement("label");
+    field.className = "field";
+    field.innerHTML = `
+      <span>Jak známé</span>
+      <select id="plants-knowledge-status">
+        <option value="">Vše</option>
+      </select>
+    `;
+    els.seasonalNote.before(field);
+    els.knowledgeStatus = document.getElementById("plants-knowledge-status");
+  }
+
+  const toolbar = document.querySelector(".results-toolbar");
+  if (toolbar && !document.getElementById("plants-sort")) {
+    const controls = document.createElement("div");
+    controls.className = "toolbar-controls";
+    controls.innerHTML = `
+      <label class="field field-inline toolbar-field">
+        <span>Řazení</span>
+        <select id="plants-sort">
+          <option value="recommend">Doporučené</option>
+          <option value="most_uses">Nejvíc použití</option>
+          <option value="alphabetical">Abecedně</option>
+          <option value="evidence">Nejvyšší důkaznost</option>
+          <option value="hidden_gems">Méně známé nahoře</option>
+        </select>
+      </label>
+    `;
+    toolbar.appendChild(controls);
+    els.sort = document.getElementById("plants-sort");
+  }
+
+  if (toolbar && !document.getElementById("plants-context-block")) {
+    const context = document.createElement("section");
+    context.id = "plants-context-block";
+    context.className = "results-context-block";
+    context.innerHTML = `
+      <p id="plants-context" class="results-context-text"></p>
+      <div id="plants-active-filters" class="active-filters"></div>
+    `;
+    toolbar.after(context);
+    els.resultsContext = document.getElementById("plants-context");
+    els.activeFilters = document.getElementById("plants-active-filters");
+  }
 }
 
 function syncControls() {
@@ -54,14 +118,18 @@ function syncControls() {
   els.trvanlive.checked = state.trvanlive;
   els.jadro.checked = state.jadro;
   els.limit.value = state.limit;
+  if (els.sort) els.sort.value = state.sort;
+  if (els.knowledgeStatus) els.knowledgeStatus.value = state.knowledge_status;
 }
 
 function buildSearchParams() {
   const params = new URLSearchParams();
   if (state.q) params.set("q", state.q);
+  if (state.knowledge_status) params.set("knowledge_status", state.knowledge_status);
   if (state.seasonal) params.set("seasonal", "1");
   if (state.trvanlive) params.set("trvanlive", "1");
   if (state.jadro) params.set("jadro", "1");
+  if (state.sort !== DEFAULT_SORT) params.set("sort", state.sort);
   if (state.limit) params.set("limit", state.limit);
   return params;
 }
@@ -102,9 +170,14 @@ function renderSeasonalNote() {
 function renderBadges(result) {
   const badges = [];
   if (result.durable_use_count) badges.push(`<span class="badge">Trvanlivé ${result.durable_use_count}</span>`);
-  if (result.core_use_count) badges.push(`<span class="badge core">Jádro ${result.core_use_count}</span>`);
+  if (result.core_use_count) badges.push(`<span class="badge core">Praktické jádro ${result.core_use_count}</span>`);
   if (result.processing_use_count) badges.push(`<span class="badge">Zpracování ${result.processing_use_count}</span>`);
-  if (result.photos?.length) badges.push(`<span class="badge">Media ${result.photos.length}</span>`);
+  if (result.photos?.length) badges.push(`<span class="badge subtle">Fotky ${result.photos.length}</span>`);
+  if (result.hidden_gem_rank > 1) {
+    badges.push(
+      `<span class="badge subtle">${C.escapeHtml(result.hidden_gem_rank >= 4 ? "Téměř zapomenuté stopy" : "Méně známé stopy")}</span>`
+    );
+  }
   return badges.join("");
 }
 
@@ -130,7 +203,9 @@ function renderPlantCard(result) {
   const profileLink = fragment.querySelector(".plant-profile-link");
   const exportLink = fragment.querySelector(".plant-export-link");
   profileLink.href = C.siteUrl(`plant/${encodeURIComponent(result.plant_id)}/`);
+  profileLink.textContent = "Otevřít profil";
   exportLink.href = C.siteUrl(`export/plant/${encodeURIComponent(result.plant_id)}.md`);
+  exportLink.textContent = "Stáhnout MD";
 
   if (result.primary_photo) {
     image.src = C.assetUrl(result.primary_photo);
@@ -146,7 +221,10 @@ function renderPlantCard(result) {
 function renderResults(results) {
   els.results.innerHTML = "";
   if (!results.length) {
-    els.results.innerHTML = '<div class="empty-state">Tomu neodpovídá žádná rostlina. Zkus obecnější hledání nebo vypnout některý filtr.</div>';
+    const hint = state.q
+      ? `Zkus obecnější hledání místo „${C.escapeHtml(state.q)}“ nebo vypni některý filtr.`
+      : "Zkus vypnout sezónní režim nebo ubrat některé omezení.";
+    els.results.innerHTML = `<div class="empty-state">Tomu neodpovídá žádná rostlina. ${hint}</div>`;
     return;
   }
   results.forEach((result) => {
@@ -162,6 +240,7 @@ function relevantUses() {
     if (state.seasonal && !seasonalWindow.months.some((month) => C.monthMatches(use, month))) return false;
     if (state.trvanlive && !C.normalizeBooleanish(use.je_trvanlive_1m_plus)) return false;
     if (state.jadro && !C.normalizeBooleanish(use.je_v_jadru_bezne_1m_plus)) return false;
+    if (state.knowledge_status && use.status_znalosti !== state.knowledge_status) return false;
 
     if (!query) return true;
     const plant = plantsById.get(use.plant_id);
@@ -183,6 +262,7 @@ function aggregatePlants() {
         core_use_count: 0,
         processing_use_count: 0,
         top_evidence_rank: 0,
+        hidden_gem_rank: 0,
       });
     }
 
@@ -192,40 +272,121 @@ function aggregatePlants() {
     if (C.normalizeBooleanish(use.je_v_jadru_bezne_1m_plus)) aggregate.core_use_count += 1;
     if (Number(use.processing_methods_count || 0) > 0 || use.forma_uchovani_text) aggregate.processing_use_count += 1;
     aggregate.top_evidence_rank = Math.max(aggregate.top_evidence_rank, Number(use.dukaznost_rank || 0));
+    aggregate.hidden_gem_rank = Math.max(aggregate.hidden_gem_rank, C.knowledgeRank(use.status_znalosti));
   });
 
-  return Array.from(aggregates.values())
-    .sort((a, b) => {
-      if (b.core_use_count !== a.core_use_count) return b.core_use_count - a.core_use_count;
-      if (b.durable_use_count !== a.durable_use_count) return b.durable_use_count - a.durable_use_count;
-      if (b.processing_use_count !== a.processing_use_count) return b.processing_use_count - a.processing_use_count;
-      if (b.top_evidence_rank !== a.top_evidence_rank) return b.top_evidence_rank - a.top_evidence_rank;
-      return a.cesky_nazev_hlavni.localeCompare(b.cesky_nazev_hlavni, "cs");
-    });
+  return Array.from(aggregates.values());
+}
+
+function sortPlants(results) {
+  const items = results.slice();
+  switch (state.sort) {
+    case "most_uses":
+      return items.sort((a, b) => b.use_count - a.use_count || a.cesky_nazev_hlavni.localeCompare(b.cesky_nazev_hlavni, "cs"));
+    case "alphabetical":
+      return items.sort((a, b) => a.cesky_nazev_hlavni.localeCompare(b.cesky_nazev_hlavni, "cs"));
+    case "evidence":
+      return items.sort((a, b) => b.top_evidence_rank - a.top_evidence_rank || b.use_count - a.use_count);
+    case "hidden_gems":
+      return items.sort((a, b) => {
+        if (b.hidden_gem_rank !== a.hidden_gem_rank) return b.hidden_gem_rank - a.hidden_gem_rank;
+        if (b.top_evidence_rank !== a.top_evidence_rank) return b.top_evidence_rank - a.top_evidence_rank;
+        return a.cesky_nazev_hlavni.localeCompare(b.cesky_nazev_hlavni, "cs");
+      });
+    default:
+      return items.sort((a, b) => {
+        if (b.core_use_count !== a.core_use_count) return b.core_use_count - a.core_use_count;
+        if (b.durable_use_count !== a.durable_use_count) return b.durable_use_count - a.durable_use_count;
+        if (b.processing_use_count !== a.processing_use_count) return b.processing_use_count - a.processing_use_count;
+        if (b.top_evidence_rank !== a.top_evidence_rank) return b.top_evidence_rank - a.top_evidence_rank;
+        return a.cesky_nazev_hlavni.localeCompare(b.cesky_nazev_hlavni, "cs");
+      });
+  }
+}
+
+function filterChip(label, value, key) {
+  return `
+    <button class="filter-chip" type="button" data-filter-key="${C.escapeHtml(key)}">
+      <span class="filter-chip-label">${C.escapeHtml(label)}:</span>
+      <span>${C.escapeHtml(value)}</span>
+      <span class="filter-chip-remove" aria-hidden="true">×</span>
+    </button>
+  `;
+}
+
+function renderActiveFilters(totalCount, displayedCount) {
+  const chips = [];
+  const seasonalWindow = C.seasonalWindowPayload();
+
+  if (state.q) chips.push(filterChip("Hledání", state.q, "q"));
+  if (state.seasonal) chips.push(filterChip("Sezóna", seasonalWindow.label, "seasonal"));
+  if (state.knowledge_status) chips.push(filterChip("Jak známé", state.knowledge_status, "knowledge_status"));
+  if (state.trvanlive) chips.push(filterChip("Prakticky", "Jen s trvanlivým použitím", "trvanlive"));
+  if (state.jadro) chips.push(filterChip("Prakticky", "Jen s položkou v jádru", "jadro"));
+
+  if (els.resultsContext) {
+    els.resultsContext.textContent =
+      displayedCount < totalCount
+        ? `Zobrazeno ${displayedCount} z ${totalCount} rostlin kvůli limitu.`
+        : `${totalCount} rostlin podle aktuálních filtrů.`;
+  }
+
+  if (els.activeFilters) {
+    els.activeFilters.innerHTML = chips.length
+      ? chips.join("")
+      : '<div class="results-context-empty">Výchozí režim: doporučené řazení a bez dalších omezení kromě případného sezónního okna.</div>';
+  }
+}
+
+function clearFilter(key) {
+  switch (key) {
+    case "q":
+      state.q = "";
+      break;
+    case "seasonal":
+      state.seasonal = false;
+      break;
+    case "knowledge_status":
+      state.knowledge_status = "";
+      break;
+    case "trvanlive":
+      state.trvanlive = false;
+      break;
+    case "jadro":
+      state.jadro = false;
+      break;
+    default:
+      break;
+  }
 }
 
 function syncState() {
   state.q = els.q.value.trim();
+  state.knowledge_status = els.knowledgeStatus ? els.knowledgeStatus.value : "";
   state.seasonal = els.seasonal.checked;
   state.trvanlive = els.trvanlive.checked;
   state.jadro = els.jadro.checked;
+  state.sort = els.sort ? els.sort.value : DEFAULT_SORT;
   state.limit = els.limit.value;
   renderSeasonalNote();
 }
 
 function search() {
-  const filtered = aggregatePlants();
+  const filtered = sortPlants(aggregatePlants());
   const limited = filtered.slice(0, Number(state.limit || 48));
   syncUrl();
   els.resultsTitle.textContent = pluralizePlants(filtered.length);
+  renderActiveFilters(filtered.length, limited.length);
   renderResults(limited);
 }
 
 function resetFilters() {
   state.q = "";
+  state.knowledge_status = "";
   state.seasonal = true;
   state.trvanlive = false;
   state.jadro = false;
+  state.sort = DEFAULT_SORT;
   state.limit = "48";
   syncControls();
   renderSeasonalNote();
@@ -234,10 +395,17 @@ function resetFilters() {
 
 async function init() {
   parseInitialState();
+  ensureEnhancements();
   bundle = await C.loadBundle();
   plantsById = new Map((bundle.plants || []).map((plant) => [plant.plant_id, plant]));
 
   renderSummary(bundle.summary);
+  populateSelect(
+    els.knowledgeStatus,
+    Array.from(new Set((bundle.uses || []).map((use) => use.status_znalosti).filter(Boolean))).sort(
+      (a, b) => C.knowledgeRank(b) - C.knowledgeRank(a)
+    )
+  );
   syncControls();
   renderSeasonalNote();
 
@@ -246,10 +414,12 @@ async function init() {
     search();
   });
 
-  [els.q, els.trvanlive, els.jadro, els.limit].forEach((element) => {
-    const eventName = element.tagName === "INPUT" && element.type === "search" ? "input" : "change";
-    element.addEventListener(eventName, runSearch);
-  });
+  [els.q, els.knowledgeStatus, els.trvanlive, els.jadro, els.limit, els.sort]
+    .filter(Boolean)
+    .forEach((element) => {
+      const eventName = element.tagName === "INPUT" && element.type === "search" ? "input" : "change";
+      element.addEventListener(eventName, runSearch);
+    });
 
   els.seasonal.addEventListener("change", () => {
     syncState();
@@ -257,7 +427,27 @@ async function init() {
   });
 
   els.resetBtn.addEventListener("click", resetFilters);
+  if (els.activeFilters) {
+    els.activeFilters.addEventListener("click", (event) => {
+      const chip = event.target.closest("[data-filter-key]");
+      if (!chip) return;
+      clearFilter(chip.dataset.filterKey);
+      syncControls();
+      search();
+    });
+  }
+
   search();
+}
+
+function populateSelect(select, items) {
+  if (!select || !Array.isArray(items)) return;
+  items.forEach((item) => {
+    const option = document.createElement("option");
+    option.value = item;
+    option.textContent = item;
+    select.appendChild(option);
+  });
 }
 
 init().catch((error) => {

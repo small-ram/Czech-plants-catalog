@@ -37,6 +37,21 @@
     auto_cover: "Auto-cover",
   };
 
+  const EVIDENCE_LABELS = {
+    A: "A · nejsilnější opora",
+    B: "B · silná opora",
+    C: "C · střední opora",
+    D: "D · slabší opora",
+    E: "E · ojedinělá zmínka",
+  };
+
+  const KNOWLEDGE_SORT = {
+    "téměř zapomenuté": 4,
+    "méně známé": 3,
+    "globální analog": 2,
+    mainstream: 1,
+  };
+
   let bundlePromise = null;
 
   function basePath() {
@@ -153,6 +168,18 @@
       .replace(/\b\w/g, (char) => char.toUpperCase());
   }
 
+  function evidenceLabel(score) {
+    return EVIDENCE_LABELS[score] || score || "";
+  }
+
+  function monthLabel(month) {
+    return MONTH_LABELS[Number(month)] || String(month || "");
+  }
+
+  function knowledgeRank(status) {
+    return KNOWLEDGE_SORT[String(status || "").trim()] || 0;
+  }
+
   function renderMeta(values) {
     return (values || [])
       .filter(Boolean)
@@ -224,8 +251,10 @@
     MONTH_LABELS,
     MONTH_LABELS_GENITIVE,
     assetUrl,
+    evidenceLabel,
     escapeHtml,
     fetchJson,
+    knowledgeRank,
     labelize,
     loadBundle,
     loadPlantDetail,
@@ -235,6 +264,7 @@
     monthMatches,
     normalizeBooleanish,
     rankThreshold,
+    monthLabel,
     renderMeta,
     renderPhotoBlock,
     seasonalWindowPayload,
