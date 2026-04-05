@@ -45,11 +45,85 @@
     E: "E · ojedinělá zmínka",
   };
 
+  const RAW_DOMAIN_LABELS = {
+    potrava: "Jídlo",
+    pití: "Pití",
+    "potrava a pití": "Jídlo i pití",
+    fytoterapie: "Léčivé",
+    léčba: "Léčivé",
+    palivo: "Palivo",
+    vůně: "Vůně",
+  };
+
+  const DOMAIN_GROUPS = [
+    {
+      value: "food",
+      label: "Jídlo",
+      help: "Zahrnuje i hybridní záznamy jídlo + pití.",
+      raw: ["potrava", "potrava a pití"],
+    },
+    {
+      value: "drink",
+      label: "Pití",
+      help: "Zahrnuje i hybridní záznamy jídlo + pití.",
+      raw: ["pití", "potrava a pití"],
+    },
+    {
+      value: "healing",
+      label: "Léčivé",
+      help: "Spojuje fytoterapii i léčbu.",
+      raw: ["fytoterapie", "léčba"],
+    },
+    {
+      value: "fuel",
+      label: "Palivo",
+      raw: ["palivo"],
+    },
+    {
+      value: "scent",
+      label: "Vůně",
+      raw: ["vůně"],
+    },
+  ];
+
+  const PART_CATEGORY_LABELS = {
+    drevnata_cast: "Dřevnatá část",
+    kombinovana_cast: "Kombinovaná část",
+    kvetni_cast: "Květy",
+    listova_nadzemni_cast: "Listy a nať",
+    miza: "Míza",
+    ostatni: "Ostatní",
+    plodova_cast: "Plody",
+    podzemni_cast: "Kořen / podzemní část",
+    semena_a_orisky: "Semena a oříšky",
+    vyhonky_a_pupeny: "Výhonky a pupeny",
+  };
+
+  const SUBDOMAIN_CATEGORY_LABELS = {
+    caj_nalev: "Čaj / nálev",
+    cerstva_potrava: "Čerstvé jídlo",
+    fermentace: "Fermentace",
+    kavova_nahrada: "Kávová náhražka",
+    koreni_dochucovadlo: "Koření / dochucení",
+    liker_macerat: "Likér / macerát",
+    mouka_skrob: "Mouka / škrob",
+    ocet: "Ocet",
+    odvar: "Odvar",
+    olej: "Olej",
+    ostatni_specialni: "Ostatní speciální",
+    palivo: "Palivo",
+    sirup_koncentrat: "Sirup / koncentrát",
+    suseni_skladovani: "Sušení a skladování",
+    vune_a_vykurovani: "Vůně a vykuřování",
+    zavarenina: "Zavařenina / sladké uchování",
+    zevni_aplikace: "Zevní použití",
+  };
+
   const KNOWLEDGE_LABELS = {
     mainstream: "běžně známé",
     "méně známé": "méně známé",
     "téměř zapomenuté": "téměř zapomenuté",
-    "globální analog": "zahraniční paralela",
+    "globální analog": "známé hlavně v zahraničí",
   };
 
   const KNOWLEDGE_SORT = {
@@ -60,6 +134,7 @@
   };
 
   let bundlePromise = null;
+  const domainGroupMap = new Map(DOMAIN_GROUPS.map((group) => [group.value, group]));
 
   function basePath() {
     return window.CATALOG_BASE || ".";
@@ -179,6 +254,35 @@
     return EVIDENCE_LABELS[score] || score || "";
   }
 
+  function domainLabel(rawDomain) {
+    return RAW_DOMAIN_LABELS[String(rawDomain || "").trim()] || rawDomain || "";
+  }
+
+  function domainGroupOptions() {
+    return DOMAIN_GROUPS.map((group) => ({
+      value: group.value,
+      label: group.label,
+      help: group.help || "",
+    }));
+  }
+
+  function domainGroupLabel(groupValue) {
+    return domainGroupMap.get(groupValue)?.label || groupValue || "";
+  }
+
+  function domainGroupIdsFromValue(value) {
+    const clean = String(value || "").trim();
+    if (!clean) return [];
+    if (domainGroupMap.has(clean)) return [clean];
+    return DOMAIN_GROUPS.filter((group) => group.raw.includes(clean)).map((group) => group.value);
+  }
+
+  function domainGroupMatches(rawDomain, groupValue) {
+    const group = domainGroupMap.get(String(groupValue || "").trim());
+    if (!group) return false;
+    return group.raw.includes(String(rawDomain || "").trim());
+  }
+
   function monthLabel(month) {
     return MONTH_LABELS[Number(month)] || String(month || "");
   }
@@ -190,6 +294,16 @@
   function knowledgeLabel(status) {
     const raw = String(status || "").trim();
     return KNOWLEDGE_LABELS[raw] || raw;
+  }
+
+  function partCategoryLabel(value) {
+    const raw = String(value || "").trim();
+    return PART_CATEGORY_LABELS[raw] || labelize(raw);
+  }
+
+  function subdomainCategoryLabel(value) {
+    const raw = String(value || "").trim();
+    return SUBDOMAIN_CATEGORY_LABELS[raw] || labelize(raw);
   }
 
   function renderMeta(values) {
@@ -263,6 +377,11 @@
     MONTH_LABELS,
     MONTH_LABELS_GENITIVE,
     assetUrl,
+    domainGroupIdsFromValue,
+    domainGroupLabel,
+    domainGroupMatches,
+    domainGroupOptions,
+    domainLabel,
     evidenceLabel,
     escapeHtml,
     fetchJson,
@@ -276,11 +395,13 @@
     mediaKindLabel,
     monthMatches,
     normalizeBooleanish,
+    partCategoryLabel,
     rankThreshold,
     monthLabel,
     renderMeta,
     renderPhotoBlock,
     seasonalWindowPayload,
     siteUrl,
+    subdomainCategoryLabel,
   };
 })();

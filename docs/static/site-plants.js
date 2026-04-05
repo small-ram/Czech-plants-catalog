@@ -4,7 +4,7 @@ const DEFAULT_SORT = "recommend";
 
 const state = {
   q: "",
-  knowledge_status: "",
+  knowledge_statuses: [],
   seasonal: true,
   trvanlive: false,
   jadro: false,
@@ -22,6 +22,7 @@ const els = {
   template: document.getElementById("plant-card-template"),
   resetBtn: document.getElementById("plants-reset-btn"),
   q: document.getElementById("plants-q"),
+  knowledgeGroups: document.getElementById("plants-knowledge-status-groups"),
   seasonal: document.getElementById("plants-seasonal"),
   seasonalNote: document.getElementById("plants-seasonal-note"),
   trvanlive: document.getElementById("plants-trvanlive"),
@@ -43,10 +44,14 @@ function pluralizePlants(count) {
   return `${count} rostlin`;
 }
 
+function uniqueValues(values) {
+  return Array.from(new Set((values || []).filter(Boolean)));
+}
+
 function parseInitialState() {
   const params = new URLSearchParams(window.location.search);
   state.q = params.get("q") || "";
-  state.knowledge_status = params.get("knowledge_status") || "";
+  state.knowledge_statuses = uniqueValues(params.getAll("knowledge_status").filter(Boolean));
   state.seasonal = params.has("seasonal") ? params.get("seasonal") === "1" : true;
   state.trvanlive = params.get("trvanlive") === "1";
   state.jadro = params.get("jadro") === "1";
@@ -61,21 +66,8 @@ function ensureEnhancements() {
     note.id = "plants-help";
     note.className = "helper-note";
     note.textContent =
-      "Tip: použij hledání pro rod i české jméno, nebo filtr Jak známé, když chceš vyzobat spíš méně známé a téměř zapomenuté druhy.";
+      "Tip: použij hledání pro rod i české jméno a kombinuj ho s více stavy rozšířenosti, když chceš procházet méně známé nebo téměř zapomenuté druhy.";
     searchField.after(note);
-  }
-
-  if (els.seasonalNote && !document.getElementById("plants-knowledge-status")) {
-    const field = document.createElement("label");
-    field.className = "field";
-    field.innerHTML = `
-      <span>Jak známé</span>
-      <select id="plants-knowledge-status">
-        <option value="">Vše</option>
-      </select>
-    `;
-    els.seasonalNote.before(field);
-    els.knowledgeStatus = document.getElementById("plants-knowledge-status");
   }
 
   const toolbar = document.querySelector(".results-toolbar");
@@ -112,6 +104,42 @@ function ensureEnhancements() {
   }
 }
 
+function toggleArrayValue(values, target) {
+  const current = uniqueValues(values);
+  if (current.includes(target)) {
+    return current.filter((value) => value !== target);
+  }
+  return [...current, target];
+}
+
+function knowledgeOptions() {
+  return uniqueValues((bundle?.uses || []).map((use) => use.status_znalosti))
+    .sort((a, b) => C.knowledgeRank(b) - C.knowledgeRank(a))
+    .map((value) => ({ value, label: C.knowledgeLabel(value) }));
+}
+
+function multiOptionButton(option, selectedValues) {
+  const isActive = selectedValues.includes(option.value);
+  return `
+    <button
+      class="multi-option${isActive ? " active" : ""}"
+      type="button"
+      data-filter-key="knowledge_statuses"
+      data-filter-value="${C.escapeHtml(option.value)}"
+      aria-pressed="${isActive ? "true" : "false"}"
+    >
+      <span class="multi-option-label">${C.escapeHtml(option.label)}</span>
+    </button>
+  `;
+}
+
+function renderKnowledgeGroup() {
+  if (!bundle || !els.knowledgeGroups) return;
+  els.knowledgeGroups.innerHTML = knowledgeOptions()
+    .map((option) => multiOptionButton(option, state.knowledge_statuses))
+    .join("");
+}
+
 function syncControls() {
   els.q.value = state.q;
   els.seasonal.checked = state.seasonal;
@@ -119,13 +147,13 @@ function syncControls() {
   els.jadro.checked = state.jadro;
   els.limit.value = state.limit;
   if (els.sort) els.sort.value = state.sort;
-  if (els.knowledgeStatus) els.knowledgeStatus.value = state.knowledge_status;
+  renderKnowledgeGroup();
 }
 
 function buildSearchParams() {
   const params = new URLSearchParams();
   if (state.q) params.set("q", state.q);
-  if (state.knowledge_status) params.set("knowledge_status", state.knowledge_status);
+  state.knowledge_statuses.forEach((value) => params.append("knowledge_status", value));
   if (state.seasonal) params.set("seasonal", "1");
   if (state.trvanlive) params.set("trvanlive", "1");
   if (state.jadro) params.set("jadro", "1");
@@ -146,7 +174,7 @@ function renderSummary(summary) {
     ["Rostliny", summary.counts.plants],
     ["Použití", summary.counts.uses],
     ["Trvanlivé formy", summary.counts.durable_forms],
-    ["Praktické jádro", summary.counts.core_items],
+    ["Doporučený základ", summary.counts.core_items],
   ];
 
   cards.forEach(([label, value]) => {
@@ -170,12 +198,14 @@ function renderSeasonalNote() {
 function renderBadges(result) {
   const badges = [];
   if (result.durable_use_count) badges.push(`<span class="badge">Trvanlivé ${result.durable_use_count}</span>`);
-  if (result.core_use_count) badges.push(`<span class="badge core">Praktické jádro ${result.core_use_count}</span>`);
+  if (result.core_use_count) badges.push(`<span class="badge core">Doporučený základ ${result.core_use_count}</span>`);
   if (result.processing_use_count) badges.push(`<span class="badge">Zpracování ${result.processing_use_count}</span>`);
   if (result.photos?.length) badges.push(`<span class="badge subtle">Fotky ${result.photos.length}</span>`);
   if (result.hidden_gem_rank > 1) {
     badges.push(
-      `<span class="badge subtle">${C.escapeHtml(result.hidden_gem_rank >= 4 ? "Téměř zapomenuté stopy" : "Méně známé stopy")}</span>`
+      `<span class="badge subtle">${C.escapeHtml(
+        result.hidden_gem_rank >= 4 ? "Téměř zapomenuté stopy" : "Méně známé stopy"
+      )}</span>`
     );
   }
   return badges.join("");
@@ -191,8 +221,8 @@ function renderPlantCard(result) {
   fragment.querySelector(".card-subtitle").textContent = result.vedecky_nazev_hlavni;
   fragment.querySelector(".card-badges").innerHTML = renderBadges(result);
   fragment.querySelector(".meta-grid").innerHTML = C.renderMeta([
-    result.status_cetnost_reprezentativni,
-    result.top_evidence_rank ? `Top důkaznost ${result.top_evidence_rank}` : "",
+    result.status_cetnost_reprezentativni ? C.knowledgeLabel(result.status_cetnost_reprezentativni) : "",
+    result.top_evidence_rank ? `Top opora ${result.top_evidence_rank}` : "",
     `${result.pocet_ceskych_aliasu} českých aliasů`,
   ]);
   fragment.querySelector(".plant-card-status").textContent =
@@ -242,7 +272,7 @@ function relevantUses() {
     if (state.seasonal && !seasonalWindow.months.some((month) => C.monthMatches(use, month))) return false;
     if (state.trvanlive && !C.normalizeBooleanish(use.je_trvanlive_1m_plus)) return false;
     if (state.jadro && !C.normalizeBooleanish(use.je_v_jadru_bezne_1m_plus)) return false;
-    if (state.knowledge_status && use.status_znalosti !== state.knowledge_status) return false;
+    if (state.knowledge_statuses.length && !state.knowledge_statuses.includes(use.status_znalosti)) return false;
 
     if (!query) return true;
     const plant = plantsById.get(use.plant_id);
@@ -306,9 +336,14 @@ function sortPlants(results) {
   }
 }
 
-function filterChip(label, value, key) {
+function filterChip(label, value, key, filterValue = "") {
   return `
-    <button class="filter-chip" type="button" data-filter-key="${C.escapeHtml(key)}">
+    <button
+      class="filter-chip"
+      type="button"
+      data-filter-key="${C.escapeHtml(key)}"
+      data-filter-value="${C.escapeHtml(filterValue)}"
+    >
       <span class="filter-chip-label">${C.escapeHtml(label)}:</span>
       <span>${C.escapeHtml(value)}</span>
       <span class="filter-chip-remove" aria-hidden="true">×</span>
@@ -321,10 +356,12 @@ function renderActiveFilters(totalCount, displayedCount) {
   const seasonalWindow = C.seasonalWindowPayload();
 
   if (state.q) chips.push(filterChip("Hledání", state.q, "q"));
+  state.knowledge_statuses.forEach((value) => {
+    chips.push(filterChip("Jak rozšířené", C.knowledgeLabel(value), "knowledge_statuses", value));
+  });
   if (state.seasonal) chips.push(filterChip("Sezóna", seasonalWindow.label, "seasonal"));
-  if (state.knowledge_status) chips.push(filterChip("Jak známé", C.knowledgeLabel(state.knowledge_status), "knowledge_status"));
   if (state.trvanlive) chips.push(filterChip("Prakticky", "Jen s trvanlivým použitím", "trvanlive"));
-  if (state.jadro) chips.push(filterChip("Prakticky", "Jen s položkou v jádru", "jadro"));
+  if (state.jadro) chips.push(filterChip("Prakticky", "Jen s položkou v doporučeném základu", "jadro"));
 
   if (els.resultsContext) {
     els.resultsContext.textContent =
@@ -340,7 +377,7 @@ function renderActiveFilters(totalCount, displayedCount) {
   }
 }
 
-function clearFilter(key) {
+function clearFilter(key, value) {
   switch (key) {
     case "q":
       state.q = "";
@@ -348,8 +385,8 @@ function clearFilter(key) {
     case "seasonal":
       state.seasonal = false;
       break;
-    case "knowledge_status":
-      state.knowledge_status = "";
+    case "knowledge_statuses":
+      state.knowledge_statuses = state.knowledge_statuses.filter((item) => item !== value);
       break;
     case "trvanlive":
       state.trvanlive = false;
@@ -364,7 +401,6 @@ function clearFilter(key) {
 
 function syncState() {
   state.q = els.q.value.trim();
-  state.knowledge_status = els.knowledgeStatus ? els.knowledgeStatus.value : "";
   state.seasonal = els.seasonal.checked;
   state.trvanlive = els.trvanlive.checked;
   state.jadro = els.jadro.checked;
@@ -384,7 +420,7 @@ function search() {
 
 function resetFilters() {
   state.q = "";
-  state.knowledge_status = "";
+  state.knowledge_statuses = [];
   state.seasonal = true;
   state.trvanlive = false;
   state.jadro = false;
@@ -395,6 +431,18 @@ function resetFilters() {
   search();
 }
 
+function bindKnowledgeGroup() {
+  if (!els.knowledgeGroups) return;
+  els.knowledgeGroups.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-filter-key]");
+    if (!button) return;
+    const value = button.dataset.filterValue;
+    state.knowledge_statuses = toggleArrayValue(state.knowledge_statuses, value);
+    syncControls();
+    search();
+  });
+}
+
 async function init() {
   parseInitialState();
   ensureEnhancements();
@@ -402,13 +450,6 @@ async function init() {
   plantsById = new Map((bundle.plants || []).map((plant) => [plant.plant_id, plant]));
 
   renderSummary(bundle.summary);
-  populateSelect(
-    els.knowledgeStatus,
-    Array.from(new Set((bundle.uses || []).map((use) => use.status_znalosti).filter(Boolean)))
-      .sort((a, b) => C.knowledgeRank(b) - C.knowledgeRank(a))
-      .map((value) => ({ value, label: C.knowledgeLabel(value) })),
-    { valueKey: "value", labelKey: "label" }
-  );
   syncControls();
   renderSeasonalNote();
 
@@ -417,7 +458,7 @@ async function init() {
     search();
   });
 
-  [els.q, els.knowledgeStatus, els.trvanlive, els.jadro, els.limit, els.sort]
+  [els.q, els.trvanlive, els.jadro, els.limit, els.sort]
     .filter(Boolean)
     .forEach((element) => {
       const eventName = element.tagName === "INPUT" && element.type === "search" ? "input" : "change";
@@ -429,33 +470,20 @@ async function init() {
     search();
   });
 
+  bindKnowledgeGroup();
+
   els.resetBtn.addEventListener("click", resetFilters);
   if (els.activeFilters) {
     els.activeFilters.addEventListener("click", (event) => {
       const chip = event.target.closest("[data-filter-key]");
       if (!chip) return;
-      clearFilter(chip.dataset.filterKey);
+      clearFilter(chip.dataset.filterKey, chip.dataset.filterValue);
       syncControls();
       search();
     });
   }
 
   search();
-}
-
-function populateSelect(select, items, { valueKey = null, labelKey = null } = {}) {
-  if (!select || !Array.isArray(items)) return;
-  items.forEach((item) => {
-    const option = document.createElement("option");
-    if (typeof item === "object") {
-      option.value = item[valueKey];
-      option.textContent = item[labelKey];
-    } else {
-      option.value = item;
-      option.textContent = item;
-    }
-    select.appendChild(option);
-  });
 }
 
 init().catch((error) => {

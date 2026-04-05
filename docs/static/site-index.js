@@ -4,12 +4,12 @@ const DEFAULT_SORT = "recommend";
 
 const state = {
   q: "",
-  domena: "",
+  domain_groups: [],
   evidence_min: "",
-  part_category: "",
-  subdomain_category: "",
-  processing_method: "",
-  knowledge_status: "",
+  part_categories: [],
+  subdomain_categories: [],
+  processing_methods: [],
+  knowledge_statuses: [],
   month: "",
   seasonal: true,
   trvanlive: false,
@@ -27,11 +27,12 @@ const els = {
   template: document.getElementById("result-card-template"),
   resetBtn: document.getElementById("reset-btn"),
   q: document.getElementById("q"),
-  domena: document.getElementById("domena"),
   evidenceMin: document.getElementById("evidence_min"),
-  partCategory: document.getElementById("part_category"),
-  subdomainCategory: document.getElementById("subdomain_category"),
-  processingMethod: document.getElementById("processing_method"),
+  domainGroups: document.getElementById("domain-groups"),
+  knowledgeGroups: document.getElementById("knowledge-status-groups"),
+  partGroups: document.getElementById("part-category-groups"),
+  subdomainGroups: document.getElementById("subdomain-category-groups"),
+  processingGroups: document.getElementById("processing-method-groups"),
   month: document.getElementById("month"),
   seasonal: document.getElementById("seasonal"),
   seasonalNote: document.getElementById("seasonal-note"),
@@ -54,15 +55,34 @@ function pluralizeResults(count) {
   return `${count} výsledků`;
 }
 
+function parseMultiParam(params, key) {
+  const values = params.getAll(key).filter(Boolean);
+  if (values.length) return values;
+  const single = params.get(key);
+  return single ? [single] : [];
+}
+
+function uniqueValues(values) {
+  return Array.from(new Set((values || []).filter(Boolean)));
+}
+
+function toggleArrayValue(values, target) {
+  const current = uniqueValues(values);
+  if (current.includes(target)) {
+    return current.filter((value) => value !== target);
+  }
+  return [...current, target];
+}
+
 function parseInitialState() {
   const params = new URLSearchParams(window.location.search);
   state.q = params.get("q") || "";
-  state.domena = params.get("domena") || "";
+  state.domain_groups = uniqueValues(parseMultiParam(params, "domena").flatMap((value) => C.domainGroupIdsFromValue(value)));
   state.evidence_min = params.get("evidence_min") || "";
-  state.part_category = params.get("part_category") || "";
-  state.subdomain_category = params.get("subdomain_category") || "";
-  state.processing_method = params.get("processing_method") || "";
-  state.knowledge_status = params.get("knowledge_status") || "";
+  state.part_categories = uniqueValues(parseMultiParam(params, "part_category"));
+  state.subdomain_categories = uniqueValues(parseMultiParam(params, "subdomain_category"));
+  state.processing_methods = uniqueValues(parseMultiParam(params, "processing_method"));
+  state.knowledge_statuses = uniqueValues(parseMultiParam(params, "knowledge_status"));
   state.month = params.get("month") || "";
   state.sort = params.get("sort") || DEFAULT_SORT;
   const hasSeasonal = params.has("seasonal");
@@ -80,21 +100,8 @@ function ensureEnhancements() {
     note.id = "filters-help";
     note.className = "helper-note";
     note.textContent =
-      "Tip: zkus hledat podle výsledku i procesu, třeba „sirup“, „pupeny“, „žaludová mouka“ nebo přepni filtr Jak známé na méně známé či téměř zapomenuté.";
+      "Tip: zkus hledat podle výsledku i procesu, třeba „sirup“, „pupeny“, „žaludová mouka“, a pak jemně kombinuj více filtrů najednou.";
     searchField.after(note);
-  }
-
-  if (els.seasonalNote && !document.getElementById("knowledge_status")) {
-    const field = document.createElement("label");
-    field.className = "field";
-    field.innerHTML = `
-      <span>Jak známé</span>
-      <select id="knowledge_status">
-        <option value="">Vše</option>
-      </select>
-    `;
-    els.seasonalNote.before(field);
-    els.knowledgeStatus = document.getElementById("knowledge_status");
   }
 
   const toolbar = document.querySelector(".results-toolbar");
@@ -130,14 +137,74 @@ function ensureEnhancements() {
   }
 }
 
+function multiOptionButton(option, selectedValues, key) {
+  const isActive = selectedValues.includes(option.value);
+  const help = option.help ? `<span class="multi-option-help">${C.escapeHtml(option.help)}</span>` : "";
+  return `
+    <button
+      class="multi-option${isActive ? " active" : ""}"
+      type="button"
+      data-filter-key="${C.escapeHtml(key)}"
+      data-filter-value="${C.escapeHtml(option.value)}"
+      aria-pressed="${isActive ? "true" : "false"}"
+    >
+      <span class="multi-option-label">${C.escapeHtml(option.label)}</span>
+      ${help}
+    </button>
+  `;
+}
+
+function knowledgeOptions() {
+  return uniqueValues((bundle?.uses || []).map((use) => use.status_znalosti))
+    .sort((a, b) => C.knowledgeRank(b) - C.knowledgeRank(a))
+    .map((value) => ({ value, label: C.knowledgeLabel(value) }));
+}
+
+function renderMultiGroups() {
+  if (!bundle) return;
+
+  if (els.domainGroups) {
+    els.domainGroups.innerHTML = C.domainGroupOptions()
+      .map((option) => multiOptionButton(option, state.domain_groups, "domain_groups"))
+      .join("");
+  }
+
+  if (els.knowledgeGroups) {
+    els.knowledgeGroups.innerHTML = knowledgeOptions()
+      .map((option) => multiOptionButton(option, state.knowledge_statuses, "knowledge_statuses"))
+      .join("");
+  }
+
+  if (els.partGroups) {
+    els.partGroups.innerHTML = (bundle.options.part_categories || [])
+      .map((value) =>
+        multiOptionButton({ value, label: C.partCategoryLabel(value) }, state.part_categories, "part_categories")
+      )
+      .join("");
+  }
+
+  if (els.subdomainGroups) {
+    els.subdomainGroups.innerHTML = (bundle.options.subdomain_categories || [])
+      .map((value) =>
+        multiOptionButton(
+          { value, label: C.subdomainCategoryLabel(value) },
+          state.subdomain_categories,
+          "subdomain_categories"
+        )
+      )
+      .join("");
+  }
+
+  if (els.processingGroups) {
+    els.processingGroups.innerHTML = (bundle.options.processing_methods || [])
+      .map((option) => multiOptionButton(option, state.processing_methods, "processing_methods"))
+      .join("");
+  }
+}
+
 function syncControls() {
   els.q.value = state.q;
-  els.domena.value = state.domena;
   els.evidenceMin.value = state.evidence_min;
-  if (els.knowledgeStatus) els.knowledgeStatus.value = state.knowledge_status;
-  els.partCategory.value = state.part_category;
-  els.subdomainCategory.value = state.subdomain_category;
-  els.processingMethod.value = state.processing_method;
   els.month.value = state.month;
   els.month.disabled = state.seasonal;
   els.seasonal.checked = state.seasonal;
@@ -145,19 +212,28 @@ function syncControls() {
   els.jadro.checked = state.jadro;
   els.limit.value = state.limit;
   if (els.sort) els.sort.value = state.sort;
+  renderMultiGroups();
+}
+
+function appendMulti(params, key, values) {
+  uniqueValues(values).forEach((value) => params.append(key, value));
 }
 
 function buildSearchParams() {
   const params = new URLSearchParams();
-  Object.entries(state).forEach(([key, value]) => {
-    if (key === "month" && state.seasonal) return;
-    if (key === "sort" && value === DEFAULT_SORT) return;
-    if (typeof value === "boolean") {
-      if (value) params.set(key, "1");
-      return;
-    }
-    if (value) params.set(key, value);
-  });
+  if (state.q) params.set("q", state.q);
+  appendMulti(params, "domena", state.domain_groups);
+  if (state.evidence_min) params.set("evidence_min", state.evidence_min);
+  appendMulti(params, "part_category", state.part_categories);
+  appendMulti(params, "subdomain_category", state.subdomain_categories);
+  appendMulti(params, "processing_method", state.processing_methods);
+  appendMulti(params, "knowledge_status", state.knowledge_statuses);
+  if (!state.seasonal && state.month) params.set("month", state.month);
+  if (state.seasonal) params.set("seasonal", "1");
+  if (state.trvanlive) params.set("trvanlive", "1");
+  if (state.jadro) params.set("jadro", "1");
+  if (state.sort !== DEFAULT_SORT) params.set("sort", state.sort);
+  if (state.limit) params.set("limit", state.limit);
   return params;
 }
 
@@ -168,7 +244,7 @@ function syncUrl() {
 }
 
 function populateSelect(select, items, { valueKey = null, labelKey = null } = {}) {
-  if (!Array.isArray(items)) return;
+  if (!select || !Array.isArray(items)) return;
   items.forEach((item) => {
     const option = document.createElement("option");
     if (typeof item === "object") {
@@ -188,7 +264,7 @@ function renderSummary(summary) {
     ["Rostliny", summary.counts.plants],
     ["Použití", summary.counts.uses],
     ["Trvanlivé formy", summary.counts.durable_forms],
-    ["Praktické jádro", summary.counts.core_items],
+    ["Doporučený základ", summary.counts.core_items],
   ];
 
   cards.forEach(([label, value]) => {
@@ -216,11 +292,15 @@ function renderSeasonalNote() {
 
 function renderBadges(result) {
   const badges = [];
-  badges.push(`<span class="badge">${C.escapeHtml(result.domena)}</span>`);
+  badges.push(`<span class="badge">${C.escapeHtml(C.domainLabel(result.domena))}</span>`);
   badges.push(`<span class="badge">${C.escapeHtml(C.evidenceLabel(result.dukaznost_skore))}</span>`);
-  if (result.status_znalosti) badges.push(`<span class="badge subtle">${C.escapeHtml(C.knowledgeLabel(result.status_znalosti))}</span>`);
+  if (result.status_znalosti) {
+    badges.push(`<span class="badge subtle">${C.escapeHtml(C.knowledgeLabel(result.status_znalosti))}</span>`);
+  }
   if (C.normalizeBooleanish(result.je_trvanlive_1m_plus)) badges.push('<span class="badge">Trvanlivé</span>');
-  if (C.normalizeBooleanish(result.je_v_jadru_bezne_1m_plus)) badges.push('<span class="badge core">Praktické jádro</span>');
+  if (C.normalizeBooleanish(result.je_v_jadru_bezne_1m_plus)) {
+    badges.push('<span class="badge core">Doporučený základ</span>');
+  }
   return badges.join("");
 }
 
@@ -283,11 +363,16 @@ function filterUses() {
 
   return (bundle.uses || []).filter((use) => {
     if (query && !(use.search_text || "").includes(query)) return false;
-    if (state.domena && use.domena !== state.domena) return false;
-    if (state.part_category && use.cast_rostliny_kategorie !== state.part_category) return false;
-    if (state.subdomain_category && use.poddomena_kategorie !== state.subdomain_category) return false;
-    if (state.processing_method && !(use.processing_method_ids || []).includes(state.processing_method)) return false;
-    if (state.knowledge_status && use.status_znalosti !== state.knowledge_status) return false;
+    if (state.domain_groups.length && !state.domain_groups.some((group) => C.domainGroupMatches(use.domena, group))) {
+      return false;
+    }
+    if (state.part_categories.length && !state.part_categories.includes(use.cast_rostliny_kategorie)) return false;
+    if (state.subdomain_categories.length && !state.subdomain_categories.includes(use.poddomena_kategorie)) return false;
+    if (state.processing_methods.length) {
+      const processingIds = use.processing_method_ids || [];
+      if (!state.processing_methods.some((value) => processingIds.includes(value))) return false;
+    }
+    if (state.knowledge_statuses.length && !state.knowledge_statuses.includes(use.status_znalosti)) return false;
     if (state.trvanlive && !C.normalizeBooleanish(use.je_trvanlive_1m_plus)) return false;
     if (state.jadro && !C.normalizeBooleanish(use.je_v_jadru_bezne_1m_plus)) return false;
 
@@ -340,9 +425,14 @@ function sortUses(results) {
   }
 }
 
-function filterChip(label, value, key) {
+function filterChip(label, value, key, filterValue = "") {
   return `
-    <button class="filter-chip" type="button" data-filter-key="${C.escapeHtml(key)}">
+    <button
+      class="filter-chip"
+      type="button"
+      data-filter-key="${C.escapeHtml(key)}"
+      data-filter-value="${C.escapeHtml(filterValue)}"
+    >
       <span class="filter-chip-label">${C.escapeHtml(label)}:</span>
       <span>${C.escapeHtml(value)}</span>
       <span class="filter-chip-remove" aria-hidden="true">×</span>
@@ -356,18 +446,26 @@ function renderActiveFilters(totalCount, displayedCount) {
   const processingMap = new Map((bundle.options.processing_methods || []).map((item) => [item.value, item.label]));
 
   if (state.q) chips.push(filterChip("Hledání", state.q, "q"));
+  state.domain_groups.forEach((value) => {
+    chips.push(filterChip("Typ použití", C.domainGroupLabel(value), "domain_groups", value));
+  });
+  if (state.evidence_min) chips.push(filterChip("Min. důkaznost", C.evidenceLabel(state.evidence_min), "evidence_min"));
+  state.part_categories.forEach((value) => {
+    chips.push(filterChip("Sbíraná část", C.partCategoryLabel(value), "part_categories", value));
+  });
+  state.subdomain_categories.forEach((value) => {
+    chips.push(filterChip("Způsob použití", C.subdomainCategoryLabel(value), "subdomain_categories", value));
+  });
+  state.processing_methods.forEach((value) => {
+    chips.push(filterChip("Zpracování", processingMap.get(value) || value, "processing_methods", value));
+  });
+  state.knowledge_statuses.forEach((value) => {
+    chips.push(filterChip("Jak rozšířené", C.knowledgeLabel(value), "knowledge_statuses", value));
+  });
   if (state.seasonal) chips.push(filterChip("Sezóna", seasonalWindow.label, "seasonal"));
   if (!state.seasonal && state.month) chips.push(filterChip("Měsíc", C.monthLabel(state.month), "month"));
-  if (state.domena) chips.push(filterChip("Doména", state.domena, "domena"));
-  if (state.evidence_min) chips.push(filterChip("Min. důkaznost", C.evidenceLabel(state.evidence_min), "evidence_min"));
-  if (state.knowledge_status) chips.push(filterChip("Jak známé", C.knowledgeLabel(state.knowledge_status), "knowledge_status"));
-  if (state.part_category) chips.push(filterChip("Část", C.labelize(state.part_category), "part_category"));
-  if (state.subdomain_category) chips.push(filterChip("Použití", C.labelize(state.subdomain_category), "subdomain_category"));
-  if (state.processing_method) {
-    chips.push(filterChip("Zpracování", processingMap.get(state.processing_method) || state.processing_method, "processing_method"));
-  }
   if (state.trvanlive) chips.push(filterChip("Prakticky", "Jen trvanlivé", "trvanlive"));
-  if (state.jadro) chips.push(filterChip("Prakticky", "Jen jádro", "jadro"));
+  if (state.jadro) chips.push(filterChip("Prakticky", "Jen doporučený základ", "jadro"));
 
   if (els.resultsContext) {
     els.resultsContext.textContent =
@@ -383,34 +481,34 @@ function renderActiveFilters(totalCount, displayedCount) {
   }
 }
 
-function clearFilter(key) {
+function clearFilter(key, value) {
   switch (key) {
     case "q":
       state.q = "";
+      break;
+    case "domain_groups":
+      state.domain_groups = state.domain_groups.filter((item) => item !== value);
+      break;
+    case "evidence_min":
+      state.evidence_min = "";
+      break;
+    case "part_categories":
+      state.part_categories = state.part_categories.filter((item) => item !== value);
+      break;
+    case "subdomain_categories":
+      state.subdomain_categories = state.subdomain_categories.filter((item) => item !== value);
+      break;
+    case "processing_methods":
+      state.processing_methods = state.processing_methods.filter((item) => item !== value);
+      break;
+    case "knowledge_statuses":
+      state.knowledge_statuses = state.knowledge_statuses.filter((item) => item !== value);
       break;
     case "seasonal":
       state.seasonal = false;
       break;
     case "month":
       state.month = "";
-      break;
-    case "domena":
-      state.domena = "";
-      break;
-    case "evidence_min":
-      state.evidence_min = "";
-      break;
-    case "knowledge_status":
-      state.knowledge_status = "";
-      break;
-    case "part_category":
-      state.part_category = "";
-      break;
-    case "subdomain_category":
-      state.subdomain_category = "";
-      break;
-    case "processing_method":
-      state.processing_method = "";
       break;
     case "trvanlive":
       state.trvanlive = false;
@@ -425,12 +523,7 @@ function clearFilter(key) {
 
 function syncState() {
   state.q = els.q.value.trim();
-  state.domena = els.domena.value;
   state.evidence_min = els.evidenceMin.value;
-  state.knowledge_status = els.knowledgeStatus ? els.knowledgeStatus.value : "";
-  state.part_category = els.partCategory.value;
-  state.subdomain_category = els.subdomainCategory.value;
-  state.processing_method = els.processingMethod.value;
   state.seasonal = els.seasonal.checked;
   state.month = state.seasonal ? "" : els.month.value;
   state.trvanlive = els.trvanlive.checked;
@@ -451,12 +544,12 @@ function search() {
 
 function resetFilters() {
   state.q = "";
-  state.domena = "";
+  state.domain_groups = [];
   state.evidence_min = "";
-  state.knowledge_status = "";
-  state.part_category = "";
-  state.subdomain_category = "";
-  state.processing_method = "";
+  state.part_categories = [];
+  state.subdomain_categories = [];
+  state.processing_methods = [];
+  state.knowledge_statuses = [];
   state.month = "";
   state.seasonal = true;
   state.trvanlive = false;
@@ -468,37 +561,27 @@ function resetFilters() {
   search();
 }
 
+function bindMultiGroup(container, key) {
+  if (!container) return;
+  container.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-filter-key]");
+    if (!button) return;
+    const value = button.dataset.filterValue;
+    state[key] = toggleArrayValue(state[key], value);
+    syncControls();
+    search();
+  });
+}
+
 async function init() {
   parseInitialState();
   ensureEnhancements();
   bundle = await C.loadBundle();
   renderSummary(bundle.summary);
 
-  populateSelect(els.domena, bundle.options.domains || []);
   populateSelect(
     els.evidenceMin,
     (bundle.options.evidence_scores || []).map((value) => ({ value, label: C.evidenceLabel(value) })),
-    { valueKey: "value", labelKey: "label" }
-  );
-  populateSelect(
-    els.partCategory,
-    (bundle.options.part_categories || []).map((value) => ({ value, label: C.labelize(value) })),
-    { valueKey: "value", labelKey: "label" }
-  );
-  populateSelect(
-    els.subdomainCategory,
-    (bundle.options.subdomain_categories || []).map((value) => ({ value, label: C.labelize(value) })),
-    { valueKey: "value", labelKey: "label" }
-  );
-  populateSelect(els.processingMethod, bundle.options.processing_methods || [], {
-    valueKey: "value",
-    labelKey: "label",
-  });
-  populateSelect(
-    els.knowledgeStatus,
-    Array.from(new Set((bundle.uses || []).map((use) => use.status_znalosti).filter(Boolean)))
-      .sort((a, b) => C.knowledgeRank(b) - C.knowledgeRank(a))
-      .map((value) => ({ value, label: C.knowledgeLabel(value) })),
     { valueKey: "value", labelKey: "label" }
   );
   populateSelect(els.month, bundle.options.months || [], { valueKey: "value", labelKey: "label" });
@@ -511,20 +594,7 @@ async function init() {
     search();
   });
 
-  [
-    els.q,
-    els.domena,
-    els.evidenceMin,
-    els.knowledgeStatus,
-    els.partCategory,
-    els.subdomainCategory,
-    els.processingMethod,
-    els.month,
-    els.trvanlive,
-    els.jadro,
-    els.limit,
-    els.sort,
-  ]
+  [els.q, els.evidenceMin, els.month, els.trvanlive, els.jadro, els.limit, els.sort]
     .filter(Boolean)
     .forEach((element) => {
       const eventName = element.tagName === "INPUT" && element.type === "search" ? "input" : "change";
@@ -542,12 +612,18 @@ async function init() {
     search();
   });
 
+  bindMultiGroup(els.domainGroups, "domain_groups");
+  bindMultiGroup(els.knowledgeGroups, "knowledge_statuses");
+  bindMultiGroup(els.partGroups, "part_categories");
+  bindMultiGroup(els.subdomainGroups, "subdomain_categories");
+  bindMultiGroup(els.processingGroups, "processing_methods");
+
   els.resetBtn.addEventListener("click", resetFilters);
   if (els.activeFilters) {
     els.activeFilters.addEventListener("click", (event) => {
       const chip = event.target.closest("[data-filter-key]");
       if (!chip) return;
-      clearFilter(chip.dataset.filterKey);
+      clearFilter(chip.dataset.filterKey, chip.dataset.filterValue);
       syncControls();
       search();
     });

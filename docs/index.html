@@ -35,53 +35,45 @@
             <input id="q" type="search" placeholder="např. sirup, lípa, sušení, žalud..." />
           </label>
 
-          <div class="grid-two">
-            <label class="field">
-              <span>Doména</span>
-              <select id="domena">
-                <option value="">Vše</option>
-              </select>
-            </label>
+          <label class="field">
+            <span>Min. důkaznost</span>
+            <select id="evidence_min">
+              <option value="">Bez limitu</option>
+            </select>
+          </label>
 
-            <label class="field">
-              <span>Min. důkaznost</span>
-              <select id="evidence_min">
-                <option value="">Bez limitu</option>
-              </select>
-            </label>
-          </div>
+          <section class="field">
+            <span>Typ použití</span>
+            <div id="domain-groups" class="multi-filter"></div>
+            <p class="field-help">Jídlo a pití zahrnují i hybridní záznamy. Léčivé spojuje fytoterapii i léčbu.</p>
+          </section>
 
-          <div class="grid-two">
-            <label class="field">
-              <span>Kategorie části</span>
-              <select id="part_category">
-                <option value="">Vše</option>
-              </select>
-            </label>
+          <section class="field">
+            <span>Jak rozšířené</span>
+            <div id="knowledge-status-groups" class="multi-filter"></div>
+          </section>
 
-            <label class="field">
-              <span>Kategorie použití</span>
-              <select id="subdomain_category">
-                <option value="">Vše</option>
-              </select>
-            </label>
-          </div>
+          <section class="field">
+            <span>Sbíraná část</span>
+            <div id="part-category-groups" class="multi-filter multi-filter-compact"></div>
+          </section>
 
-          <div class="grid-two">
-            <label class="field">
-              <span>Metoda zpracování</span>
-              <select id="processing_method">
-                <option value="">Vše</option>
-              </select>
-            </label>
+          <section class="field">
+            <span>Způsob použití</span>
+            <div id="subdomain-category-groups" class="multi-filter multi-filter-compact"></div>
+          </section>
 
-            <label class="field">
-              <span>Měsíc sběru</span>
-              <select id="month">
-                <option value="">Libovolný</option>
-              </select>
-            </label>
-          </div>
+          <section class="field">
+            <span>Dlouhodobé zpracování</span>
+            <div id="processing-method-groups" class="multi-filter multi-filter-compact"></div>
+          </section>
+
+          <label class="field">
+            <span>Měsíc sběru</span>
+            <select id="month">
+              <option value="">Libovolný</option>
+            </select>
+          </label>
 
           <p id="seasonal-note" class="context-note"></p>
 
@@ -106,9 +98,10 @@
             </label>
             <label class="check">
               <input id="jadro" type="checkbox" />
-              <span>Jen praktické jádro</span>
+              <span>Jen doporučený základ</span>
             </label>
           </div>
+          <p class="field-help">Doporučený základ = ručně vybraný shortlist nejpraktičtějších a běžně použitelných položek.</p>
         </section>
 
         <section class="results-panel">

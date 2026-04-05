@@ -82,7 +82,7 @@ function renderUsePage(detail) {
     title: detail.cesky_nazev_hlavni,
     subtitle: detail.vedecky_nazev_hlavni,
     summaryHtml: `
-      <div class="stat-card"><strong>${C.escapeHtml(detail.domena)}</strong><span>Doména</span></div>
+      <div class="stat-card"><strong>${C.escapeHtml(C.domainLabel(detail.domena))}</strong><span>Typ použití</span></div>
       <div class="stat-card"><strong>${C.escapeHtml(C.evidenceLabel(detail.dukaznost_skore))}</strong><span>Důkaznost</span></div>
       <div class="stat-card"><strong>${C.escapeHtml(detail.obdobi_ziskani_text || "?")}</strong><span>Období</span></div>
     `,
@@ -137,7 +137,7 @@ function renderUsePage(detail) {
         <div>
           <p><a class="inline-link-btn" href="${C.siteUrl(`plant/${encodeURIComponent(detail.plant_id)}/`)}">Otevřít profil celé rostliny</a></p>
           <div class="detail-meta">
-            <span class="badge">${C.escapeHtml(detail.domena)}</span>
+            <span class="badge">${C.escapeHtml(C.domainLabel(detail.domena))}</span>
             <span class="badge">${C.escapeHtml(C.evidenceLabel(detail.dukaznost_skore))}</span>
             <span class="meta-pill">${C.escapeHtml(detail.aplikovatelnost_v_cr || "neuvedeno")}</span>
           </div>
@@ -176,7 +176,7 @@ function renderUsePage(detail) {
                 <p><strong>Forma:</strong> ${C.escapeHtml(detail.forma_uchovani_text)}</p>
                 <p><strong>Interval:</strong> ${C.escapeHtml(detail.orientacni_trvanlivost_text || "neuvedeno")}</p>
                 <p><strong>Skladování:</strong> ${C.escapeHtml(detail.poznamka_k_skladovani || "neuvedeno")}</p>
-                ${detail.proc_je_v_jadru ? `<p><strong>Proč v jádru:</strong> ${C.escapeHtml(detail.proc_je_v_jadru)}</p>` : ""}
+                ${detail.proc_je_v_jadru ? `<p><strong>Proč v doporučeném základu:</strong> ${C.escapeHtml(detail.proc_je_v_jadru)}</p>` : ""}
               `
             )
           : ""
@@ -217,7 +217,7 @@ function renderPlantPage(detail) {
           <div class="use-item-head">
             <div>
               <p class="use-item-title">${C.escapeHtml(use.raw_record_id)} · ${C.escapeHtml(use.poddomena_text)}</p>
-              <p class="use-item-sub">${C.escapeHtml(use.domena)} · ${C.escapeHtml(use.cast_rostliny_text)} · ${C.escapeHtml(use.obdobi_ziskani_text || "bez období")}</p>
+              <p class="use-item-sub">${C.escapeHtml(C.domainLabel(use.domena))} · ${C.escapeHtml(use.cast_rostliny_text)} · ${C.escapeHtml(use.obdobi_ziskani_text || "bez období")}</p>
             </div>
             <a class="inline-link-btn" href="${C.siteUrl(`use/${encodeURIComponent(use.use_id)}/`)}">Detail použití</a>
           </div>
@@ -229,7 +229,7 @@ function renderPlantPage(detail) {
               use.processing_methods_text,
               use.forma_uchovani_text,
               use.orientacni_trvanlivost_text,
-              use.je_v_jadru_bezne_1m_plus ? "Praktické jádro" : "",
+              use.je_v_jadru_bezne_1m_plus ? "Doporučený základ" : "",
             ])}
           </div>
           <p class="use-item-sub">${C.escapeHtml(use.cilovy_efekt || "Bez popisu cílového efektu.")}</p>
@@ -246,7 +246,7 @@ function renderPlantPage(detail) {
     summaryHtml: `
       <div class="stat-card"><strong>${C.escapeHtml(detail.stats.use_count)}</strong><span>Použití</span></div>
       <div class="stat-card"><strong>${C.escapeHtml(detail.stats.durable_use_count)}</strong><span>Trvanlivá</span></div>
-      <div class="stat-card"><strong>${C.escapeHtml(detail.stats.core_use_count)}</strong><span>V jádru</span></div>
+      <div class="stat-card"><strong>${C.escapeHtml(detail.stats.core_use_count)}</strong><span>Doporučený základ</span></div>
     `,
     metaHtml: C.renderMeta([
       detail.status_v_cr_text,
@@ -271,7 +271,7 @@ function renderPlantPage(detail) {
             <span class="badge">${C.escapeHtml(detail.stats.use_count)} použití</span>
             <span class="meta-pill">${C.escapeHtml(detail.status_v_cr_text || "bez statusu")}</span>
             <span class="meta-pill">${C.escapeHtml(detail.stats.durable_use_count)} trvanlivých</span>
-            <span class="meta-pill">${C.escapeHtml(detail.stats.core_use_count)} v jádru</span>
+            <span class="meta-pill">${C.escapeHtml(detail.stats.core_use_count)} v doporučeném základu</span>
             <span class="meta-pill">${C.escapeHtml(detail.stats.processing_use_count)} se zpracováním</span>
           </div>
         </div>
