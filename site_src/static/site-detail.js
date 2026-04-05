@@ -176,7 +176,7 @@ function renderUsePage(detail) {
                 <p><strong>Forma:</strong> ${C.escapeHtml(detail.forma_uchovani_text)}</p>
                 <p><strong>Interval:</strong> ${C.escapeHtml(detail.orientacni_trvanlivost_text || "neuvedeno")}</p>
                 <p><strong>Skladování:</strong> ${C.escapeHtml(detail.poznamka_k_skladovani || "neuvedeno")}</p>
-                ${detail.proc_je_v_jadru ? `<p><strong>Proč v doporučeném základu:</strong> ${C.escapeHtml(detail.proc_je_v_jadru)}</p>` : ""}
+                ${detail.proc_je_v_jadru ? `<p><strong>Proč v doporučeném výběru:</strong> ${C.escapeHtml(detail.proc_je_v_jadru)}</p>` : ""}
               `
             )
           : ""
@@ -229,7 +229,7 @@ function renderPlantPage(detail) {
               use.processing_methods_text,
               use.forma_uchovani_text,
               use.orientacni_trvanlivost_text,
-              use.je_v_jadru_bezne_1m_plus ? "Doporučený základ" : "",
+              use.je_v_jadru_bezne_1m_plus ? "Doporučený výběr" : "",
             ])}
           </div>
           <p class="use-item-sub">${C.escapeHtml(use.cilovy_efekt || "Bez popisu cílového efektu.")}</p>
@@ -246,7 +246,7 @@ function renderPlantPage(detail) {
     summaryHtml: `
       <div class="stat-card"><strong>${C.escapeHtml(detail.stats.use_count)}</strong><span>Použití</span></div>
       <div class="stat-card"><strong>${C.escapeHtml(detail.stats.durable_use_count)}</strong><span>Trvanlivá</span></div>
-      <div class="stat-card"><strong>${C.escapeHtml(detail.stats.core_use_count)}</strong><span>Doporučený základ</span></div>
+      <div class="stat-card"><strong>${C.escapeHtml(detail.stats.core_use_count)}</strong><span>Doporučený výběr</span></div>
     `,
     metaHtml: C.renderMeta([
       detail.status_v_cr_text,
@@ -271,7 +271,7 @@ function renderPlantPage(detail) {
             <span class="badge">${C.escapeHtml(detail.stats.use_count)} použití</span>
             <span class="meta-pill">${C.escapeHtml(detail.status_v_cr_text || "bez statusu")}</span>
             <span class="meta-pill">${C.escapeHtml(detail.stats.durable_use_count)} trvanlivých</span>
-            <span class="meta-pill">${C.escapeHtml(detail.stats.core_use_count)} v doporučeném základu</span>
+            <span class="meta-pill">${C.escapeHtml(detail.stats.core_use_count)} v doporučeném výběru</span>
             <span class="meta-pill">${C.escapeHtml(detail.stats.processing_use_count)} se zpracováním</span>
           </div>
         </div>

@@ -174,7 +174,7 @@ function renderSummary(summary) {
     ["Rostliny", summary.counts.plants],
     ["Použití", summary.counts.uses],
     ["Trvanlivé formy", summary.counts.durable_forms],
-    ["Doporučený základ", summary.counts.core_items],
+    ["Doporučený výběr", summary.counts.core_items],
   ];
 
   cards.forEach(([label, value]) => {
@@ -198,7 +198,7 @@ function renderSeasonalNote() {
 function renderBadges(result) {
   const badges = [];
   if (result.durable_use_count) badges.push(`<span class="badge">Trvanlivé ${result.durable_use_count}</span>`);
-  if (result.core_use_count) badges.push(`<span class="badge core">Doporučený základ ${result.core_use_count}</span>`);
+  if (result.core_use_count) badges.push(`<span class="badge core">Doporučený výběr ${result.core_use_count}</span>`);
   if (result.processing_use_count) badges.push(`<span class="badge">Zpracování ${result.processing_use_count}</span>`);
   if (result.photos?.length) badges.push(`<span class="badge subtle">Fotky ${result.photos.length}</span>`);
   if (result.hidden_gem_rank > 1) {
@@ -361,7 +361,7 @@ function renderActiveFilters(totalCount, displayedCount) {
   });
   if (state.seasonal) chips.push(filterChip("Sezóna", seasonalWindow.label, "seasonal"));
   if (state.trvanlive) chips.push(filterChip("Prakticky", "Jen s trvanlivým použitím", "trvanlive"));
-  if (state.jadro) chips.push(filterChip("Prakticky", "Jen s položkou v doporučeném základu", "jadro"));
+  if (state.jadro) chips.push(filterChip("Prakticky", "Jen s položkou v doporučeném výběru", "jadro"));
 
   if (els.resultsContext) {
     els.resultsContext.textContent =

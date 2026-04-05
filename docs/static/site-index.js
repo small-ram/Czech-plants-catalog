@@ -264,7 +264,7 @@ function renderSummary(summary) {
     ["Rostliny", summary.counts.plants],
     ["Použití", summary.counts.uses],
     ["Trvanlivé formy", summary.counts.durable_forms],
-    ["Doporučený základ", summary.counts.core_items],
+    ["Doporučený výběr", summary.counts.core_items],
   ];
 
   cards.forEach(([label, value]) => {
@@ -299,7 +299,7 @@ function renderBadges(result) {
   }
   if (C.normalizeBooleanish(result.je_trvanlive_1m_plus)) badges.push('<span class="badge">Trvanlivé</span>');
   if (C.normalizeBooleanish(result.je_v_jadru_bezne_1m_plus)) {
-    badges.push('<span class="badge core">Doporučený základ</span>');
+    badges.push('<span class="badge core">Doporučený výběr</span>');
   }
   return badges.join("");
 }
@@ -465,7 +465,7 @@ function renderActiveFilters(totalCount, displayedCount) {
   if (state.seasonal) chips.push(filterChip("Sezóna", seasonalWindow.label, "seasonal"));
   if (!state.seasonal && state.month) chips.push(filterChip("Měsíc", C.monthLabel(state.month), "month"));
   if (state.trvanlive) chips.push(filterChip("Prakticky", "Jen trvanlivé", "trvanlive"));
-  if (state.jadro) chips.push(filterChip("Prakticky", "Jen doporučený základ", "jadro"));
+  if (state.jadro) chips.push(filterChip("Prakticky", "Jen doporučený výběr", "jadro"));
 
   if (els.resultsContext) {
     els.resultsContext.textContent =

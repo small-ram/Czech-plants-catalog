@@ -491,10 +491,9 @@ def root_index_html() -> str:
       <header class="hero">
         <div class="hero-copy">
           <p class="eyebrow">Veřejný katalog nad statickými daty</p>
-          <h1>České rostliny jako prohledávatelná znalostní báze</h1>
+          <h1>České rostliny jako praktický katalog</h1>
           <p class="hero-text">
-            Vyhledávání nad kurátorovaným datasetem použití, trvanlivých forem,
-            dlouhodobého zpracování, rizik, zdrojů a doporučení ke sběru.
+            Hledání v kurátorovaném datasetu použití, zpracování, sběru, rizik a zdrojů.
           </p>
           <div class="hero-actions">
             <a class="detail-btn" href="./plants/">Galerie rostlin</a>
@@ -525,7 +524,6 @@ def root_index_html() -> str:
           <section class="field">
             <span>Typ použití</span>
             <div id="domain-groups" class="multi-filter"></div>
-            <p class="field-help">Jídlo a pití zahrnují i hybridní záznamy. Léčivé spojuje fytoterapii i léčbu.</p>
           </section>
 
           <section class="field">
@@ -578,10 +576,9 @@ def root_index_html() -> str:
             </label>
             <label class="check">
               <input id="jadro" type="checkbox" />
-              <span>Jen doporučený základ</span>
+              <span>Jen doporučený výběr</span>
             </label>
           </div>
-          <p class="field-help">Doporučený základ = ručně vybraný shortlist nejpraktičtějších a běžně použitelných položek.</p>
         </section>
 
         <section class="results-panel">
@@ -653,9 +650,9 @@ def plants_index_html() -> str:
       <header class="hero">
         <div class="hero-copy">
           <p class="eyebrow">Rostliny</p>
-          <h1>Galerie rostlin jako vstup do celého katalogu</h1>
+          <h1>Galerie rostlin</h1>
           <p class="hero-text">
-            Procházení po profilech rostlin, jejich četnosti použití, trvanlivosti a síle evidenční opory.
+            Rychlé procházení profilů rostlin, jejich četnosti použití, trvanlivosti a síly opory.
           </p>
           <div class="hero-actions">
             <a class="detail-btn" href="../">Katalog použití</a>
@@ -704,10 +701,9 @@ def plants_index_html() -> str:
             </label>
             <label class="check">
               <input id="plants-jadro" type="checkbox" />
-              <span>Jen rostliny s položkou v doporučeném základu</span>
+              <span>Jen rostliny s položkou v doporučeném výběru</span>
             </label>
           </div>
-          <p class="field-help">Doporučený základ = ručně vybraný shortlist nejpraktičtějších a běžně použitelných položek.</p>
         </section>
 
         <section class="results-panel">
@@ -762,7 +758,7 @@ def plants_index_html() -> str:
             </div>
             <div class="plant-stat">
               <strong class="plant-stat-value plant-core-count"></strong>
-              <span>v základu</span>
+              <span>ve výběru</span>
             </div>
           </div>
 
