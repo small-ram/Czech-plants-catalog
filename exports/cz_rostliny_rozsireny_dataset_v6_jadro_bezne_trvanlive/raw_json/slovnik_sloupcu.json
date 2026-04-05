@@ -1,0 +1,130 @@
+[
+  {
+    "Nazev_sloupce": "record_id",
+    "Vyklad": "Unikátní ID záznamu v listu Starter_dataset."
+  },
+  {
+    "Nazev_sloupce": "vedecky_nazev",
+    "Vyklad": "Latinský název druhu; pokud je to praktické, může jít o skupinu druhů (např. Tilia spp., Salix spp.)."
+  },
+  {
+    "Nazev_sloupce": "cesky_nazev",
+    "Vyklad": "Hlavní český název."
+  },
+  {
+    "Nazev_sloupce": "status_v_CR",
+    "Vyklad": "Původní / zdomácnělý / běžně pěstovaný / invazní apod."
+  },
+  {
+    "Nazev_sloupce": "cast_rostliny",
+    "Vyklad": "Konkrétní část použitá v daném záznamu."
+  },
+  {
+    "Nazev_sloupce": "domena",
+    "Vyklad": "Hlavní doména: potrava, pití, léčba, fytoterapie, vůně, palivo."
+  },
+  {
+    "Nazev_sloupce": "poddomena",
+    "Vyklad": "Jemnější rozlišení použití (např. nálev, sirup, koření, podpal, kadidlo)."
+  },
+  {
+    "Nazev_sloupce": "status_znalosti",
+    "Vyklad": "Jak známé je dané použití v dnešním českém kontextu."
+  },
+  {
+    "Nazev_sloupce": "aplikovatelnost_v_CR",
+    "Vyklad": "Vysoká / střední / nízká. Jak snadno lze poznatek přenést na podmínky ČR."
+  },
+  {
+    "Nazev_sloupce": "typicke_lokality_v_CR",
+    "Vyklad": "Praktické lokality a biotopy, kde daný zdroj v ČR typicky hledat."
+  },
+  {
+    "Nazev_sloupce": "obdobi_ziskani",
+    "Vyklad": "Hrubé okno získání v měsících nebo sezónách."
+  },
+  {
+    "Nazev_sloupce": "fenologicka_faze",
+    "Vyklad": "Přesnější biologické okno sběru, je-li důležité."
+  },
+  {
+    "Nazev_sloupce": "zpusob_pripravy_nebo_vyuziti",
+    "Vyklad": "Stručný, ale praktický popis zpracování nebo použití."
+  },
+  {
+    "Nazev_sloupce": "cilovy_efekt",
+    "Vyklad": "Proč se používá: chuť, výživa, tradiční léčebný účel, vůně prostoru, topný efekt apod."
+  },
+  {
+    "Nazev_sloupce": "chutovy_profil",
+    "Vyklad": "Hrubý senzorický profil pro jídlo a pití."
+  },
+  {
+    "Nazev_sloupce": "vonny_profil",
+    "Vyklad": "Hrubý aromatický profil pro vůně a někdy i nápoje."
+  },
+  {
+    "Nazev_sloupce": "palivovy_potencial",
+    "Vyklad": "Praktická poznámka k palivu; u nepalivových řádků prázdné nebo neaplikovatelné."
+  },
+  {
+    "Nazev_sloupce": "hlavni_rizika",
+    "Vyklad": "Hlavní bezpečnostní rizika a limity."
+  },
+  {
+    "Nazev_sloupce": "kontraindikace_interakce",
+    "Vyklad": "Lékové interakce, specifické kontraindikace, případně palivová nebo aromatická omezení."
+  },
+  {
+    "Nazev_sloupce": "legalita_poznamka_CR",
+    "Vyklad": "Praktická legální poznámka pro ČR."
+  },
+  {
+    "Nazev_sloupce": "dukaznost_typ",
+    "Vyklad": "Typ opory: EMA, etnobotanika, historický zdroj, globální analog, technický zdroj pro palivo apod."
+  },
+  {
+    "Nazev_sloupce": "dukaznost_skore",
+    "Vyklad": "Kurátorské skóre A–E."
+  },
+  {
+    "Nazev_sloupce": "zdroj_id_1",
+    "Vyklad": "Primární zdroj ID z listu Zdroje."
+  },
+  {
+    "Nazev_sloupce": "zdroj_id_2",
+    "Vyklad": "Doplňkový zdroj ID z listu Zdroje."
+  },
+  {
+    "Nazev_sloupce": "poznamka",
+    "Vyklad": "Doplňující informace, omezení nebo kurátorský komentář."
+  },
+  {
+    "Nazev_sloupce": "zdroj_id",
+    "Vyklad": "Unik?tn? ID zdroje v listu Zdroje."
+  },
+  {
+    "Nazev_sloupce": "nazev",
+    "Vyklad": "N?zev zdroje, publikace nebo referen?n? str?nky."
+  },
+  {
+    "Nazev_sloupce": "url",
+    "Vyklad": "Webov? adresa nebo p??m? odkaz na zdroj."
+  },
+  {
+    "Nazev_sloupce": "forma_uchovani",
+    "Vyklad": "Hlavn? forma, v n?? je polo?ka uchov?na pro del?? skladov?n?."
+  },
+  {
+    "Nazev_sloupce": "orientacni_trvanlivost",
+    "Vyklad": "Orienta?n? doba pou?itelnosti p?i spr?vn?m uchov?n?."
+  },
+  {
+    "Nazev_sloupce": "poznamka_k_skladovani",
+    "Vyklad": "Praktick? pozn?mka ke skladov?n? a podm?nk?m trvanlivosti."
+  },
+  {
+    "Nazev_sloupce": "proc_je_v_jadru",
+    "Vyklad": "Stru?n? zd?vodn?n?, pro? byla polo?ka za?azena do praktick?ho j?dra."
+  }
+]

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Růže šípková</title>
+  <desc id="desc">Ilustrativní cover s květem a šípky pro profil růže šípkové.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7e6db"/>
+      <stop offset="55%" stop-color="#efc4ac"/>
+      <stop offset="100%" stop-color="#d48767"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#462118" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1032" cy="155" r="178" fill="#faefe7" opacity="0.65"/>
+  <circle cx="148" cy="786" r="228" fill="#edc8b4" opacity="0.4"/>
+  <g filter="url(#shadow)">
+    <path d="M320 786 C432 610 550 462 684 212" fill="none" stroke="#5b6f47" stroke-width="18" stroke-linecap="round"/>
+    <path d="M520 520 C634 458 738 470 840 546" fill="none" stroke="#5b6f47" stroke-width="12" stroke-linecap="round"/>
+    <path d="M480 392 C390 330 298 330 208 392" fill="none" stroke="#5b6f47" stroke-width="12" stroke-linecap="round"/>
+    <g fill="#f6c6cf">
+      <path d="M690 166 C748 100 840 124 850 218 C790 252 716 238 690 166 Z"/>
+      <path d="M820 182 C894 156 944 220 912 292 C842 292 794 238 820 182 Z"/>
+      <path d="M754 246 C812 286 782 380 700 384 C646 324 678 254 754 246 Z"/>
+      <path d="M646 214 C654 136 742 106 804 154 C804 230 728 278 646 214 Z"/>
+      <circle cx="768" cy="236" r="30" fill="#e6b13a"/>
+    </g>
+    <g fill="#c95d43">
+      <ellipse cx="244" cy="420" rx="44" ry="58"/><ellipse cx="334" cy="456" rx="42" ry="56"/><ellipse cx="882" cy="576" rx="40" ry="54"/><ellipse cx="952" cy="616" rx="42" ry="56"/>
+    </g>
+  </g>
+  <g fill="#281713">
+    <text x="82" y="682" font-family="Georgia, 'Palatino Linotype', serif" font-size="92">růže šípková</text>
+    <text x="88" y="754" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="34" letter-spacing="4">ROSA CANINA</text>
+  </g>
+</svg>

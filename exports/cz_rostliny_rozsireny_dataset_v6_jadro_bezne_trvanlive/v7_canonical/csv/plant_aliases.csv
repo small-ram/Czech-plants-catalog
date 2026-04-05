@@ -1,0 +1,218 @@
+﻿alias_id,plant_id,alias,jazyk,typ_aliasu,je_preferovany,pocet_vyskytu
+plant_abies_alba_cz_1,plant_abies_alba,jedle bělokorá,cs,cesky_nazev,True,3
+plant_abies_alba_la_1,plant_abies_alba,Abies alba,la,vedecky_nazev,True,3
+plant_acer_platanoides_acer_pseudoplatanus_acer_campestre_cz_1,plant_acer_platanoides_acer_pseudoplatanus_acer_campestre,javor mléč / javor klen / javor babyka,cs,cesky_nazev,True,2
+plant_acer_platanoides_acer_pseudoplatanus_acer_campestre_la_1,plant_acer_platanoides_acer_pseudoplatanus_acer_campestre,Acer platanoides / Acer pseudoplatanus / Acer campestre,la,vedecky_nazev,True,2
+plant_achillea_millefolium_cz_1,plant_achillea_millefolium,řebříček obecný,cs,cesky_nazev,True,2
+plant_achillea_millefolium_la_1,plant_achillea_millefolium,Achillea millefolium,la,vedecky_nazev,True,2
+plant_aegopodium_podagraria_cz_1,plant_aegopodium_podagraria,bršlice kozí noha,cs,cesky_nazev,True,1
+plant_aegopodium_podagraria_la_1,plant_aegopodium_podagraria,Aegopodium podagraria,la,vedecky_nazev,True,1
+plant_alliaria_petiolata_m_bieb_cavara_grande_cz_1,plant_alliaria_petiolata_m_bieb_cavara_grande,česnáček lékařský,cs,cesky_nazev,True,2
+plant_alliaria_petiolata_m_bieb_cavara_grande_la_1,plant_alliaria_petiolata_m_bieb_cavara_grande,Alliaria petiolata (M.Bieb.) Cavara & Grande,la,vedecky_nazev,True,2
+plant_allium_cepa_cz_1,plant_allium_cepa,cibule kuchyňská,cs,cesky_nazev,True,2
+plant_allium_cepa_la_1,plant_allium_cepa,Allium cepa,la,vedecky_nazev,True,2
+plant_allium_sativum_cz_1,plant_allium_sativum,česnek setý,cs,cesky_nazev,True,2
+plant_allium_sativum_la_1,plant_allium_sativum,Allium sativum,la,vedecky_nazev,True,2
+plant_allium_schoenoprasum_cz_1,plant_allium_schoenoprasum,pažitka pobřežní,cs,cesky_nazev,True,1
+plant_allium_schoenoprasum_la_1,plant_allium_schoenoprasum,Allium schoenoprasum,la,vedecky_nazev,True,1
+plant_allium_ursinum_cz_1,plant_allium_ursinum,česnek medvědí,cs,cesky_nazev,True,1
+plant_allium_ursinum_la_1,plant_allium_ursinum,Allium ursinum,la,vedecky_nazev,True,1
+plant_anthriscus_sylvestris_cz_1,plant_anthriscus_sylvestris,kerblík lesní,cs,cesky_nazev,True,1
+plant_anthriscus_sylvestris_la_1,plant_anthriscus_sylvestris,Anthriscus sylvestris,la,vedecky_nazev,True,1
+plant_apium_graveolens_var_rapaceum_cz_1,plant_apium_graveolens_var_rapaceum,celer bulvový,cs,cesky_nazev,True,1
+plant_apium_graveolens_var_rapaceum_la_1,plant_apium_graveolens_var_rapaceum,Apium graveolens var. rapaceum,la,vedecky_nazev,True,1
+plant_arctium_lappa_l_cz_1,plant_arctium_lappa_l,lopuch větší,cs,cesky_nazev,True,2
+plant_arctium_lappa_l_la_1,plant_arctium_lappa_l,Arctium lappa L.,la,vedecky_nazev,True,2
+plant_armoracia_rusticana_cz_1,plant_armoracia_rusticana,křen selský,cs,cesky_nazev,True,2
+plant_armoracia_rusticana_la_1,plant_armoracia_rusticana,Armoracia rusticana,la,vedecky_nazev,True,2
+plant_artemisia_vulgaris_cz_1,plant_artemisia_vulgaris,pelyněk černobýl,cs,cesky_nazev,True,3
+plant_artemisia_vulgaris_la_1,plant_artemisia_vulgaris,Artemisia vulgaris,la,vedecky_nazev,True,3
+plant_barbarea_vulgaris_cz_1,plant_barbarea_vulgaris,barborka obecná,cs,cesky_nazev,True,1
+plant_barbarea_vulgaris_la_1,plant_barbarea_vulgaris,Barbarea vulgaris,la,vedecky_nazev,True,1
+plant_bellis_perennis_l_cz_1,plant_bellis_perennis_l,sedmikráska chudobka,cs,cesky_nazev,True,2
+plant_bellis_perennis_l_la_1,plant_bellis_perennis_l,Bellis perennis L.,la,vedecky_nazev,True,2
+plant_berberis_vulgaris_cz_1,plant_berberis_vulgaris,dřišťál obecný,cs,cesky_nazev,True,2
+plant_berberis_vulgaris_la_1,plant_berberis_vulgaris,Berberis vulgaris,la,vedecky_nazev,True,2
+plant_beta_vulgaris_cz_1,plant_beta_vulgaris,řepa červená,cs,cesky_nazev,True,1
+plant_beta_vulgaris_la_1,plant_beta_vulgaris,Beta vulgaris,la,vedecky_nazev,True,1
+plant_betula_pendula_cz_1,plant_betula_pendula,bříza bělokorá,cs,cesky_nazev,True,2
+plant_betula_pendula_la_1,plant_betula_pendula,Betula pendula,la,vedecky_nazev,True,2
+plant_betula_pendula_betula_pubescens_cz_1,plant_betula_pendula_betula_pubescens,bříza bělokorá / pýřitá,cs,cesky_nazev,True,4
+plant_betula_pendula_betula_pubescens_la_1,plant_betula_pendula_betula_pubescens,Betula pendula / Betula pubescens,la,vedecky_nazev,True,4
+plant_brassica_oleracea_var_capitata_cz_1,plant_brassica_oleracea_var_capitata,zelí hlávkové,cs,cesky_nazev,True,2
+plant_brassica_oleracea_var_capitata_la_1,plant_brassica_oleracea_var_capitata,Brassica oleracea var. capitata,la,vedecky_nazev,True,2
+plant_brassica_rapa_subsp_rapa_cz_1,plant_brassica_rapa_subsp_rapa,vodnice / tuřín,cs,cesky_nazev,True,2
+plant_brassica_rapa_subsp_rapa_la_1,plant_brassica_rapa_subsp_rapa,Brassica rapa subsp. rapa,la,vedecky_nazev,True,2
+plant_bunias_orientalis_cz_1,plant_bunias_orientalis,rukevník východní,cs,cesky_nazev,True,1
+plant_bunias_orientalis_la_1,plant_bunias_orientalis,Bunias orientalis,la,vedecky_nazev,True,1
+plant_campanula_rapunculoides_cz_1,plant_campanula_rapunculoides,zvonek řepkovitý,cs,cesky_nazev,True,1
+plant_campanula_rapunculoides_la_1,plant_campanula_rapunculoides,Campanula rapunculoides,la,vedecky_nazev,True,1
+plant_campanula_trachelium_cz_1,plant_campanula_trachelium,zvonek kopřivolistý,cs,cesky_nazev,True,1
+plant_campanula_trachelium_la_1,plant_campanula_trachelium,Campanula trachelium,la,vedecky_nazev,True,1
+plant_capsella_bursa_pastoris_l_medik_cz_1,plant_capsella_bursa_pastoris_l_medik,kokoška pastuší tobolka,cs,cesky_nazev,True,3
+plant_capsella_bursa_pastoris_l_medik_la_1,plant_capsella_bursa_pastoris_l_medik,Capsella bursa-pastoris (L.) Medik.,la,vedecky_nazev,True,3
+plant_cardamine_hirsuta_cz_1,plant_cardamine_hirsuta,řeřišničník chlupatý,cs,cesky_nazev,True,1
+plant_cardamine_hirsuta_la_1,plant_cardamine_hirsuta,Cardamine hirsuta,la,vedecky_nazev,True,1
+plant_cardamine_pratensis_cz_1,plant_cardamine_pratensis,řeřišnice luční,cs,cesky_nazev,True,1
+plant_cardamine_pratensis_la_1,plant_cardamine_pratensis,Cardamine pratensis,la,vedecky_nazev,True,1
+plant_carum_carvi_cz_1,plant_carum_carvi,kmín kořenný,cs,cesky_nazev,True,3
+plant_carum_carvi_la_1,plant_carum_carvi,Carum carvi,la,vedecky_nazev,True,3
+plant_chenopodium_album_l_cz_1,plant_chenopodium_album_l,merlík bílý,cs,cesky_nazev,True,2
+plant_chenopodium_album_l_la_1,plant_chenopodium_album_l,Chenopodium album L.,la,vedecky_nazev,True,2
+plant_cichorium_intybus_cz_1,plant_cichorium_intybus,čekanka obecná,cs,cesky_nazev,True,1
+plant_cichorium_intybus_la_1,plant_cichorium_intybus,Cichorium intybus,la,vedecky_nazev,True,1
+plant_corylus_avellana_cz_1,plant_corylus_avellana,líska obecná,cs,cesky_nazev,True,3
+plant_corylus_avellana_la_1,plant_corylus_avellana,Corylus avellana,la,vedecky_nazev,True,3
+plant_crataegus_monogyna_jacq_c_laevigata_poir_dc_cz_1,plant_crataegus_monogyna_jacq_c_laevigata_poir_dc,hloh obecný / jednosemenný,cs,cesky_nazev,True,5
+plant_crataegus_monogyna_jacq_c_laevigata_poir_dc_la_1,plant_crataegus_monogyna_jacq_c_laevigata_poir_dc,Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.,la,vedecky_nazev,True,5
+plant_cucumis_sativus_cz_1,plant_cucumis_sativus,okurka setá,cs,cesky_nazev,True,1
+plant_cucumis_sativus_la_1,plant_cucumis_sativus,Cucumis sativus,la,vedecky_nazev,True,1
+plant_cucurbita_pepo_cz_1,plant_cucurbita_pepo,dýně obecná,cs,cesky_nazev,True,1
+plant_cucurbita_pepo_la_1,plant_cucurbita_pepo,Cucurbita pepo,la,vedecky_nazev,True,1
+plant_cydonia_oblonga_cz_1,plant_cydonia_oblonga,kdoule obecná,cs,cesky_nazev,True,1
+plant_cydonia_oblonga_cz_2,plant_cydonia_oblonga,kdouloň obecná,cs,cesky_nazev,False,1
+plant_cydonia_oblonga_la_1,plant_cydonia_oblonga,Cydonia oblonga,la,vedecky_nazev,True,2
+plant_daucus_carota_subsp_sativus_cz_1,plant_daucus_carota_subsp_sativus,mrkev obecná,cs,cesky_nazev,True,1
+plant_daucus_carota_subsp_sativus_la_1,plant_daucus_carota_subsp_sativus,Daucus carota subsp. sativus,la,vedecky_nazev,True,1
+plant_fagus_sylvatica_cz_1,plant_fagus_sylvatica,buk lesní,cs,cesky_nazev,True,6
+plant_fagus_sylvatica_la_1,plant_fagus_sylvatica,Fagus sylvatica,la,vedecky_nazev,True,6
+plant_filipendula_ulmaria_cz_1,plant_filipendula_ulmaria,tužebník jilmový,cs,cesky_nazev,True,2
+plant_filipendula_ulmaria_la_1,plant_filipendula_ulmaria,Filipendula ulmaria,la,vedecky_nazev,True,2
+plant_fragaria_vesca_cz_1,plant_fragaria_vesca,jahodník obecný,cs,cesky_nazev,True,4
+plant_fragaria_vesca_la_1,plant_fragaria_vesca,Fragaria vesca,la,vedecky_nazev,True,4
+plant_fragaria_ananassa_cz_1,plant_fragaria_ananassa,jahodník zahradní,cs,cesky_nazev,True,1
+plant_fragaria_ananassa_la_1,plant_fragaria_ananassa,Fragaria × ananassa,la,vedecky_nazev,True,1
+plant_galium_aparine_cz_1,plant_galium_aparine,svízel přítula,cs,cesky_nazev,True,1
+plant_galium_aparine_la_1,plant_galium_aparine,Galium aparine,la,vedecky_nazev,True,1
+plant_galium_odoratum_cz_1,plant_galium_odoratum,mařinka vonná,cs,cesky_nazev,True,2
+plant_galium_odoratum_cz_2,plant_galium_odoratum,svízel vonný / mařinka vonná,cs,cesky_nazev,False,1
+plant_galium_odoratum_la_1,plant_galium_odoratum,Galium odoratum,la,vedecky_nazev,True,3
+plant_geum_urbanum_cz_1,plant_geum_urbanum,kuklík městský,cs,cesky_nazev,True,3
+plant_geum_urbanum_la_1,plant_geum_urbanum,Geum urbanum,la,vedecky_nazev,True,3
+plant_glechoma_hederacea_l_cz_1,plant_glechoma_hederacea_l,popenec břečťanolistý,cs,cesky_nazev,True,3
+plant_glechoma_hederacea_l_la_1,plant_glechoma_hederacea_l,Glechoma hederacea L.,la,vedecky_nazev,True,3
+plant_helianthus_tuberosus_cz_1,plant_helianthus_tuberosus,topinambur hlíznatý,cs,cesky_nazev,True,2
+plant_helianthus_tuberosus_la_1,plant_helianthus_tuberosus,Helianthus tuberosus,la,vedecky_nazev,True,2
+plant_hesperis_matronalis_cz_1,plant_hesperis_matronalis,večernice vonná,cs,cesky_nazev,True,1
+plant_hesperis_matronalis_la_1,plant_hesperis_matronalis,Hesperis matronalis,la,vedecky_nazev,True,1
+plant_hippophae_rhamnoides_cz_1,plant_hippophae_rhamnoides,rakytník řešetlákový,cs,cesky_nazev,True,1
+plant_hippophae_rhamnoides_la_1,plant_hippophae_rhamnoides,Hippophae rhamnoides,la,vedecky_nazev,True,1
+plant_humulus_lupulus_l_cz_1,plant_humulus_lupulus_l,chmel otáčivý,cs,cesky_nazev,True,4
+plant_humulus_lupulus_l_la_1,plant_humulus_lupulus_l,Humulus lupulus L.,la,vedecky_nazev,True,4
+plant_juglans_regia_cz_1,plant_juglans_regia,ořešák královský,cs,cesky_nazev,True,3
+plant_juglans_regia_la_1,plant_juglans_regia,Juglans regia,la,vedecky_nazev,True,3
+plant_juniperus_communis_cz_1,plant_juniperus_communis,jalovec obecný,cs,cesky_nazev,True,5
+plant_juniperus_communis_la_1,plant_juniperus_communis,Juniperus communis,la,vedecky_nazev,True,5
+plant_lamium_album_l_cz_1,plant_lamium_album_l,hluchavka bílá,cs,cesky_nazev,True,3
+plant_lamium_album_l_la_1,plant_lamium_album_l,Lamium album L.,la,vedecky_nazev,True,3
+plant_lamium_purpureum_l_cz_1,plant_lamium_purpureum_l,hluchavka nachová,cs,cesky_nazev,True,1
+plant_lamium_purpureum_l_la_1,plant_lamium_purpureum_l,Lamium purpureum L.,la,vedecky_nazev,True,1
+plant_lapsana_communis_cz_1,plant_lapsana_communis,kapustka obecná,cs,cesky_nazev,True,1
+plant_lapsana_communis_la_1,plant_lapsana_communis,Lapsana communis,la,vedecky_nazev,True,1
+plant_lepidium_campestre_cz_1,plant_lepidium_campestre,řeřicha rolničková,cs,cesky_nazev,True,1
+plant_lepidium_campestre_la_1,plant_lepidium_campestre,Lepidium campestre,la,vedecky_nazev,True,1
+plant_malus_domestica_cz_1,plant_malus_domestica,jabloň domácí,cs,cesky_nazev,True,4
+plant_malus_domestica_la_1,plant_malus_domestica,Malus domestica,la,vedecky_nazev,True,4
+plant_malva_sylvestris_l_malva_neglecta_wallr_cz_1,plant_malva_sylvestris_l_malva_neglecta_wallr,sléz lesní / sléz přehlížený,cs,cesky_nazev,True,3
+plant_malva_sylvestris_l_malva_neglecta_wallr_cz_2,plant_malva_sylvestris_l_malva_neglecta_wallr,sléz / sléz přehlížený,cs,cesky_nazev,False,1
+plant_malva_sylvestris_l_malva_neglecta_wallr_la_1,plant_malva_sylvestris_l_malva_neglecta_wallr,Malva sylvestris L. / Malva neglecta Wallr.,la,vedecky_nazev,True,4
+plant_matricaria_recutita_cz_1,plant_matricaria_recutita,heřmánek pravý,cs,cesky_nazev,True,4
+plant_matricaria_recutita_la_1,plant_matricaria_recutita,Matricaria recutita,la,vedecky_nazev,True,4
+plant_melissa_officinalis_cz_1,plant_melissa_officinalis,meduňka lékařská,cs,cesky_nazev,True,3
+plant_melissa_officinalis_la_1,plant_melissa_officinalis,Melissa officinalis,la,vedecky_nazev,True,3
+plant_mentha_x_piperita_cz_1,plant_mentha_x_piperita,máta peprná,cs,cesky_nazev,True,3
+plant_mentha_x_piperita_la_1,plant_mentha_x_piperita,Mentha x piperita,la,vedecky_nazev,True,3
+plant_mespilus_germanica_cz_1,plant_mespilus_germanica,mišpule obecná,cs,cesky_nazev,True,2
+plant_mespilus_germanica_la_1,plant_mespilus_germanica,Mespilus germanica,la,vedecky_nazev,True,2
+plant_morus_alba_morus_nigra_cz_1,plant_morus_alba_morus_nigra,moruše bílá / černá,cs,cesky_nazev,True,1
+plant_morus_alba_morus_nigra_la_1,plant_morus_alba_morus_nigra,Morus alba / Morus nigra,la,vedecky_nazev,True,1
+plant_origanum_vulgare_cz_1,plant_origanum_vulgare,dobromysl obecná,cs,cesky_nazev,True,3
+plant_origanum_vulgare_la_1,plant_origanum_vulgare,Origanum vulgare,la,vedecky_nazev,True,3
+plant_oxalis_acetosella_l_cz_1,plant_oxalis_acetosella_l,šťavel zaječí,cs,cesky_nazev,True,2
+plant_oxalis_acetosella_l_la_1,plant_oxalis_acetosella_l,Oxalis acetosella L.,la,vedecky_nazev,True,2
+plant_pastinaca_sativa_cz_1,plant_pastinaca_sativa,pastinák setý,cs,cesky_nazev,True,1
+plant_pastinaca_sativa_la_1,plant_pastinaca_sativa,Pastinaca sativa,la,vedecky_nazev,True,1
+plant_petroselinum_crispum_cz_1,plant_petroselinum_crispum,petržel kořenová / naťová,cs,cesky_nazev,True,1
+plant_petroselinum_crispum_la_1,plant_petroselinum_crispum,Petroselinum crispum,la,vedecky_nazev,True,1
+plant_picea_abies_cz_1,plant_picea_abies,smrk ztepilý,cs,cesky_nazev,True,6
+plant_picea_abies_la_1,plant_picea_abies,Picea abies,la,vedecky_nazev,True,6
+plant_pinus_sylvestris_cz_1,plant_pinus_sylvestris,borovice lesní,cs,cesky_nazev,True,4
+plant_pinus_sylvestris_la_1,plant_pinus_sylvestris,Pinus sylvestris,la,vedecky_nazev,True,4
+plant_plantago_lanceolata_cz_1,plant_plantago_lanceolata,jitrocel kopinatý,cs,cesky_nazev,True,4
+plant_plantago_lanceolata_la_1,plant_plantago_lanceolata,Plantago lanceolata,la,vedecky_nazev,True,4
+plant_plantago_major_l_cz_1,plant_plantago_major_l,jitrocel větší,cs,cesky_nazev,True,3
+plant_plantago_major_l_la_1,plant_plantago_major_l,Plantago major L.,la,vedecky_nazev,True,3
+plant_portulaca_oleracea_cz_1,plant_portulaca_oleracea,šrucha zelná,cs,cesky_nazev,True,1
+plant_portulaca_oleracea_la_1,plant_portulaca_oleracea,Portulaca oleracea,la,vedecky_nazev,True,1
+plant_prunus_avium_cz_1,plant_prunus_avium,třešeň obecná,cs,cesky_nazev,True,1
+plant_prunus_avium_la_1,plant_prunus_avium,Prunus avium,la,vedecky_nazev,True,1
+plant_prunus_cerasus_cz_1,plant_prunus_cerasus,višeň obecná,cs,cesky_nazev,True,1
+plant_prunus_cerasus_la_1,plant_prunus_cerasus,Prunus cerasus,la,vedecky_nazev,True,1
+plant_prunus_domestica_cz_1,plant_prunus_domestica,slivoň / švestka domácí,cs,cesky_nazev,False,2
+plant_prunus_domestica_cz_2,plant_prunus_domestica,slivoň švestka / slíva,cs,cesky_nazev,True,2
+plant_prunus_domestica_la_1,plant_prunus_domestica,Prunus domestica,la,vedecky_nazev,True,4
+plant_prunus_spinosa_cz_1,plant_prunus_spinosa,trnka obecná,cs,cesky_nazev,True,4
+plant_prunus_spinosa_la_1,plant_prunus_spinosa,Prunus spinosa,la,vedecky_nazev,True,4
+plant_pulmonaria_officinalis_cz_1,plant_pulmonaria_officinalis,plicník lékařský,cs,cesky_nazev,True,1
+plant_pulmonaria_officinalis_la_1,plant_pulmonaria_officinalis,Pulmonaria officinalis,la,vedecky_nazev,True,1
+plant_pyrus_communis_cz_1,plant_pyrus_communis,hrušeň obecná,cs,cesky_nazev,True,4
+plant_pyrus_communis_la_1,plant_pyrus_communis,Pyrus communis,la,vedecky_nazev,True,4
+plant_quercus_robur_q_petraea_cz_1,plant_quercus_robur_q_petraea,dub letní / dub zimní,cs,cesky_nazev,True,3
+plant_quercus_robur_q_petraea_la_1,plant_quercus_robur_q_petraea,Quercus robur / Q. petraea,la,vedecky_nazev,True,3
+plant_quercus_robur_q_petraea_q_pubescens_cz_1,plant_quercus_robur_q_petraea_q_pubescens,dub,cs,cesky_nazev,True,2
+plant_quercus_robur_q_petraea_q_pubescens_la_1,plant_quercus_robur_q_petraea_q_pubescens,Quercus robur / Q. petraea / Q. pubescens,la,vedecky_nazev,True,2
+plant_quercus_spp_cz_1,plant_quercus_spp,dub,cs,cesky_nazev,True,1
+plant_quercus_spp_la_1,plant_quercus_spp,Quercus spp.,la,vedecky_nazev,True,1
+plant_rheum_rhabarbarum_cz_1,plant_rheum_rhabarbarum,reveň kadeřavá,cs,cesky_nazev,True,1
+plant_rheum_rhabarbarum_la_1,plant_rheum_rhabarbarum,Rheum rhabarbarum,la,vedecky_nazev,True,1
+plant_ribes_nigrum_cz_1,plant_ribes_nigrum,rybíz černý,cs,cesky_nazev,True,3
+plant_ribes_nigrum_la_1,plant_ribes_nigrum,Ribes nigrum,la,vedecky_nazev,True,3
+plant_ribes_rubrum_cz_1,plant_ribes_rubrum,rybíz červený,cs,cesky_nazev,False,1
+plant_ribes_rubrum_cz_2,plant_ribes_rubrum,rybíz červený / bílý,cs,cesky_nazev,True,1
+plant_ribes_rubrum_la_1,plant_ribes_rubrum,Ribes rubrum,la,vedecky_nazev,True,2
+plant_ribes_uva_crispa_cz_1,plant_ribes_uva_crispa,angrešt,cs,cesky_nazev,True,1
+plant_ribes_uva_crispa_la_1,plant_ribes_uva_crispa,Ribes uva-crispa,la,vedecky_nazev,True,1
+plant_rosa_canina_cz_1,plant_rosa_canina,růže šípková,cs,cesky_nazev,True,5
+plant_rosa_canina_la_1,plant_rosa_canina,Rosa canina,la,vedecky_nazev,True,5
+plant_rubus_fruticosus_agg_cz_1,plant_rubus_fruticosus_agg,ostružiník křovitý,cs,cesky_nazev,True,5
+plant_rubus_fruticosus_agg_la_1,plant_rubus_fruticosus_agg,Rubus fruticosus agg.,la,vedecky_nazev,True,5
+plant_rubus_idaeus_cz_1,plant_rubus_idaeus,maliník obecný,cs,cesky_nazev,True,5
+plant_rubus_idaeus_la_1,plant_rubus_idaeus,Rubus idaeus,la,vedecky_nazev,True,5
+plant_rumex_acetosa_cz_1,plant_rumex_acetosa,šťovík kyselý,cs,cesky_nazev,True,1
+plant_rumex_acetosa_la_1,plant_rumex_acetosa,Rumex acetosa,la,vedecky_nazev,True,1
+plant_salix_spp_cz_1,plant_salix_spp,vrba,cs,cesky_nazev,True,2
+plant_salix_spp_la_1,plant_salix_spp,Salix spp.,la,vedecky_nazev,True,2
+plant_sambucus_nigra_cz_1,plant_sambucus_nigra,bez černý,cs,cesky_nazev,True,8
+plant_sambucus_nigra_la_1,plant_sambucus_nigra,Sambucus nigra,la,vedecky_nazev,True,8
+plant_sorbus_aucuparia_cz_1,plant_sorbus_aucuparia,jeřáb ptačí,cs,cesky_nazev,True,4
+plant_sorbus_aucuparia_la_1,plant_sorbus_aucuparia,Sorbus aucuparia,la,vedecky_nazev,True,4
+plant_sorbus_domestica_cz_1,plant_sorbus_domestica,oskeruše,cs,cesky_nazev,True,1
+plant_sorbus_domestica_cz_2,plant_sorbus_domestica,oskeruše domácí,cs,cesky_nazev,False,1
+plant_sorbus_domestica_la_1,plant_sorbus_domestica,Sorbus domestica,la,vedecky_nazev,True,2
+plant_stellaria_media_l_vill_cz_1,plant_stellaria_media_l_vill,ptačinec žabinec,cs,cesky_nazev,True,2
+plant_stellaria_media_l_vill_la_1,plant_stellaria_media_l_vill,Stellaria media (L.) Vill.,la,vedecky_nazev,True,2
+plant_taraxacum_officinale_agg_cz_1,plant_taraxacum_officinale_agg,pampeliška lékařská,cs,cesky_nazev,True,6
+plant_taraxacum_officinale_agg_cz_2,plant_taraxacum_officinale_agg,pampeliška / smetanka,cs,cesky_nazev,False,1
+plant_taraxacum_officinale_agg_la_1,plant_taraxacum_officinale_agg,Taraxacum officinale agg.,la,vedecky_nazev,True,7
+plant_thymus_serpyllum_agg_cz_1,plant_thymus_serpyllum_agg,mateřídouška,cs,cesky_nazev,True,4
+plant_thymus_serpyllum_agg_la_1,plant_thymus_serpyllum_agg,Thymus serpyllum agg.,la,vedecky_nazev,True,4
+plant_thymus_vulgaris_cz_1,plant_thymus_vulgaris,tymián obecný,cs,cesky_nazev,True,1
+plant_thymus_vulgaris_la_1,plant_thymus_vulgaris,Thymus vulgaris,la,vedecky_nazev,True,1
+plant_tilia_cordata_tilia_platyphyllos_cz_1,plant_tilia_cordata_tilia_platyphyllos,lípa srdčitá / lípa velkolistá,cs,cesky_nazev,True,4
+plant_tilia_cordata_tilia_platyphyllos_la_1,plant_tilia_cordata_tilia_platyphyllos,Tilia cordata / Tilia platyphyllos,la,vedecky_nazev,True,4
+plant_tilia_spp_cz_1,plant_tilia_spp,lípa,cs,cesky_nazev,True,2
+plant_tilia_spp_la_1,plant_tilia_spp,Tilia spp.,la,vedecky_nazev,True,2
+plant_ulmus_glabra_cz_1,plant_ulmus_glabra,jilm horský,cs,cesky_nazev,True,1
+plant_ulmus_glabra_la_1,plant_ulmus_glabra,Ulmus glabra,la,vedecky_nazev,True,1
+plant_urtica_dioica_cz_1,plant_urtica_dioica,kopřiva dvoudomá,cs,cesky_nazev,True,4
+plant_urtica_dioica_la_1,plant_urtica_dioica,Urtica dioica,la,vedecky_nazev,True,4
+plant_vaccinium_myrtillus_cz_1,plant_vaccinium_myrtillus,borůvka černá,cs,cesky_nazev,True,3
+plant_vaccinium_myrtillus_la_1,plant_vaccinium_myrtillus,Vaccinium myrtillus,la,vedecky_nazev,True,3
+plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l_cz_1,plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l,divizna,cs,cesky_nazev,True,3
+plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l_la_1,plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l,Verbascum densiflorum Bertol. / V. thapsus L. / V. phlomoides L.,la,vedecky_nazev,True,3
+plant_veronica_beccabunga_cz_1,plant_veronica_beccabunga,rozrazil potoční,cs,cesky_nazev,True,1
+plant_veronica_beccabunga_la_1,plant_veronica_beccabunga,Veronica beccabunga,la,vedecky_nazev,True,1
+plant_viola_odorata_l_cz_1,plant_viola_odorata_l,violka vonná,cs,cesky_nazev,True,3
+plant_viola_odorata_l_la_1,plant_viola_odorata_l,Viola odorata L.,la,vedecky_nazev,True,3
+plant_vitis_vinifera_cz_1,plant_vitis_vinifera,réva vinná,cs,cesky_nazev,True,2
+plant_vitis_vinifera_la_1,plant_vitis_vinifera,Vitis vinifera,la,vedecky_nazev,True,2

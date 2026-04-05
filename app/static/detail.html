@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Detail rostliny</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="detail-page-shell">
+      <div class="detail-page-header">
+        <div class="back-links">
+          <a class="back-link" href="/">← Katalog použití</a>
+          <a class="back-link secondary-link" href="/plants">Galerie rostlin</a>
+        </div>
+        <div class="detail-page-header-right">
+          <div id="detail-page-actions" class="detail-page-actions"></div>
+          <div id="detail-page-meta" class="detail-page-meta"></div>
+        </div>
+      </div>
+
+      <section class="detail-page-hero">
+        <div>
+          <p id="detail-page-eyebrow" class="eyebrow">Načítání</p>
+          <h1 id="detail-page-title" class="detail-page-title">Načítání detailu</h1>
+          <p id="detail-page-subtitle" class="detail-page-subtitle"></p>
+        </div>
+        <div id="detail-page-summary" class="detail-page-summary"></div>
+      </section>
+
+      <section id="detail-page-content" class="detail-page-content">
+        <div class="empty-state">Načítání dat…</div>
+      </section>
+    </main>
+
+    <script src="/static/detail.js" defer></script>
+  </body>
+</html>

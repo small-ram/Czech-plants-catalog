@@ -1,0 +1,1955 @@
+[
+  {
+    "alias_id": "plant_abies_alba_cz_1",
+    "plant_id": "plant_abies_alba",
+    "alias": "jedle bělokorá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_abies_alba_la_1",
+    "plant_id": "plant_abies_alba",
+    "alias": "Abies alba",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre_cz_1",
+    "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
+    "alias": "javor mléč / javor klen / javor babyka",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre_la_1",
+    "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
+    "alias": "Acer platanoides / Acer pseudoplatanus / Acer campestre",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_achillea_millefolium_cz_1",
+    "plant_id": "plant_achillea_millefolium",
+    "alias": "řebříček obecný",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_achillea_millefolium_la_1",
+    "plant_id": "plant_achillea_millefolium",
+    "alias": "Achillea millefolium",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_aegopodium_podagraria_cz_1",
+    "plant_id": "plant_aegopodium_podagraria",
+    "alias": "bršlice kozí noha",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_aegopodium_podagraria_la_1",
+    "plant_id": "plant_aegopodium_podagraria",
+    "alias": "Aegopodium podagraria",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_alliaria_petiolata_m_bieb_cavara_grande_cz_1",
+    "plant_id": "plant_alliaria_petiolata_m_bieb_cavara_grande",
+    "alias": "česnáček lékařský",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_alliaria_petiolata_m_bieb_cavara_grande_la_1",
+    "plant_id": "plant_alliaria_petiolata_m_bieb_cavara_grande",
+    "alias": "Alliaria petiolata (M.Bieb.) Cavara & Grande",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_allium_cepa_cz_1",
+    "plant_id": "plant_allium_cepa",
+    "alias": "cibule kuchyňská",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_allium_cepa_la_1",
+    "plant_id": "plant_allium_cepa",
+    "alias": "Allium cepa",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_allium_sativum_cz_1",
+    "plant_id": "plant_allium_sativum",
+    "alias": "česnek setý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_allium_sativum_la_1",
+    "plant_id": "plant_allium_sativum",
+    "alias": "Allium sativum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_allium_schoenoprasum_cz_1",
+    "plant_id": "plant_allium_schoenoprasum",
+    "alias": "pažitka pobřežní",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_allium_schoenoprasum_la_1",
+    "plant_id": "plant_allium_schoenoprasum",
+    "alias": "Allium schoenoprasum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_allium_ursinum_cz_1",
+    "plant_id": "plant_allium_ursinum",
+    "alias": "česnek medvědí",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_allium_ursinum_la_1",
+    "plant_id": "plant_allium_ursinum",
+    "alias": "Allium ursinum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_anthriscus_sylvestris_cz_1",
+    "plant_id": "plant_anthriscus_sylvestris",
+    "alias": "kerblík lesní",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_anthriscus_sylvestris_la_1",
+    "plant_id": "plant_anthriscus_sylvestris",
+    "alias": "Anthriscus sylvestris",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_apium_graveolens_var_rapaceum_cz_1",
+    "plant_id": "plant_apium_graveolens_var_rapaceum",
+    "alias": "celer bulvový",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_apium_graveolens_var_rapaceum_la_1",
+    "plant_id": "plant_apium_graveolens_var_rapaceum",
+    "alias": "Apium graveolens var. rapaceum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_arctium_lappa_l_cz_1",
+    "plant_id": "plant_arctium_lappa_l",
+    "alias": "lopuch větší",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_arctium_lappa_l_la_1",
+    "plant_id": "plant_arctium_lappa_l",
+    "alias": "Arctium lappa L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_armoracia_rusticana_cz_1",
+    "plant_id": "plant_armoracia_rusticana",
+    "alias": "křen selský",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_armoracia_rusticana_la_1",
+    "plant_id": "plant_armoracia_rusticana",
+    "alias": "Armoracia rusticana",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_artemisia_vulgaris_cz_1",
+    "plant_id": "plant_artemisia_vulgaris",
+    "alias": "pelyněk černobýl",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_artemisia_vulgaris_la_1",
+    "plant_id": "plant_artemisia_vulgaris",
+    "alias": "Artemisia vulgaris",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_barbarea_vulgaris_cz_1",
+    "plant_id": "plant_barbarea_vulgaris",
+    "alias": "barborka obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_barbarea_vulgaris_la_1",
+    "plant_id": "plant_barbarea_vulgaris",
+    "alias": "Barbarea vulgaris",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_bellis_perennis_l_cz_1",
+    "plant_id": "plant_bellis_perennis_l",
+    "alias": "sedmikráska chudobka",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_bellis_perennis_l_la_1",
+    "plant_id": "plant_bellis_perennis_l",
+    "alias": "Bellis perennis L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_berberis_vulgaris_cz_1",
+    "plant_id": "plant_berberis_vulgaris",
+    "alias": "dřišťál obecný",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_berberis_vulgaris_la_1",
+    "plant_id": "plant_berberis_vulgaris",
+    "alias": "Berberis vulgaris",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_beta_vulgaris_cz_1",
+    "plant_id": "plant_beta_vulgaris",
+    "alias": "řepa červená",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_beta_vulgaris_la_1",
+    "plant_id": "plant_beta_vulgaris",
+    "alias": "Beta vulgaris",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_betula_pendula_cz_1",
+    "plant_id": "plant_betula_pendula",
+    "alias": "bříza bělokorá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_betula_pendula_la_1",
+    "plant_id": "plant_betula_pendula",
+    "alias": "Betula pendula",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_betula_pendula_betula_pubescens_cz_1",
+    "plant_id": "plant_betula_pendula_betula_pubescens",
+    "alias": "bříza bělokorá / pýřitá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_betula_pendula_betula_pubescens_la_1",
+    "plant_id": "plant_betula_pendula_betula_pubescens",
+    "alias": "Betula pendula / Betula pubescens",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_brassica_oleracea_var_capitata_cz_1",
+    "plant_id": "plant_brassica_oleracea_var_capitata",
+    "alias": "zelí hlávkové",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_brassica_oleracea_var_capitata_la_1",
+    "plant_id": "plant_brassica_oleracea_var_capitata",
+    "alias": "Brassica oleracea var. capitata",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_brassica_rapa_subsp_rapa_cz_1",
+    "plant_id": "plant_brassica_rapa_subsp_rapa",
+    "alias": "vodnice / tuřín",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_brassica_rapa_subsp_rapa_la_1",
+    "plant_id": "plant_brassica_rapa_subsp_rapa",
+    "alias": "Brassica rapa subsp. rapa",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_bunias_orientalis_cz_1",
+    "plant_id": "plant_bunias_orientalis",
+    "alias": "rukevník východní",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_bunias_orientalis_la_1",
+    "plant_id": "plant_bunias_orientalis",
+    "alias": "Bunias orientalis",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_campanula_rapunculoides_cz_1",
+    "plant_id": "plant_campanula_rapunculoides",
+    "alias": "zvonek řepkovitý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_campanula_rapunculoides_la_1",
+    "plant_id": "plant_campanula_rapunculoides",
+    "alias": "Campanula rapunculoides",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_campanula_trachelium_cz_1",
+    "plant_id": "plant_campanula_trachelium",
+    "alias": "zvonek kopřivolistý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_campanula_trachelium_la_1",
+    "plant_id": "plant_campanula_trachelium",
+    "alias": "Campanula trachelium",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_capsella_bursa_pastoris_l_medik_cz_1",
+    "plant_id": "plant_capsella_bursa_pastoris_l_medik",
+    "alias": "kokoška pastuší tobolka",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_capsella_bursa_pastoris_l_medik_la_1",
+    "plant_id": "plant_capsella_bursa_pastoris_l_medik",
+    "alias": "Capsella bursa-pastoris (L.) Medik.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_cardamine_hirsuta_cz_1",
+    "plant_id": "plant_cardamine_hirsuta",
+    "alias": "řeřišničník chlupatý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cardamine_hirsuta_la_1",
+    "plant_id": "plant_cardamine_hirsuta",
+    "alias": "Cardamine hirsuta",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cardamine_pratensis_cz_1",
+    "plant_id": "plant_cardamine_pratensis",
+    "alias": "řeřišnice luční",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cardamine_pratensis_la_1",
+    "plant_id": "plant_cardamine_pratensis",
+    "alias": "Cardamine pratensis",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_carum_carvi_cz_1",
+    "plant_id": "plant_carum_carvi",
+    "alias": "kmín kořenný",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_carum_carvi_la_1",
+    "plant_id": "plant_carum_carvi",
+    "alias": "Carum carvi",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_chenopodium_album_l_cz_1",
+    "plant_id": "plant_chenopodium_album_l",
+    "alias": "merlík bílý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_chenopodium_album_l_la_1",
+    "plant_id": "plant_chenopodium_album_l",
+    "alias": "Chenopodium album L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_cichorium_intybus_cz_1",
+    "plant_id": "plant_cichorium_intybus",
+    "alias": "čekanka obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cichorium_intybus_la_1",
+    "plant_id": "plant_cichorium_intybus",
+    "alias": "Cichorium intybus",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_corylus_avellana_cz_1",
+    "plant_id": "plant_corylus_avellana",
+    "alias": "líska obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_corylus_avellana_la_1",
+    "plant_id": "plant_corylus_avellana",
+    "alias": "Corylus avellana",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc_cz_1",
+    "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+    "alias": "hloh obecný / jednosemenný",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc_la_1",
+    "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
+    "alias": "Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_cucumis_sativus_cz_1",
+    "plant_id": "plant_cucumis_sativus",
+    "alias": "okurka setá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cucumis_sativus_la_1",
+    "plant_id": "plant_cucumis_sativus",
+    "alias": "Cucumis sativus",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cucurbita_pepo_cz_1",
+    "plant_id": "plant_cucurbita_pepo",
+    "alias": "dýně obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cucurbita_pepo_la_1",
+    "plant_id": "plant_cucurbita_pepo",
+    "alias": "Cucurbita pepo",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cydonia_oblonga_cz_1",
+    "plant_id": "plant_cydonia_oblonga",
+    "alias": "kdoule obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cydonia_oblonga_cz_2",
+    "plant_id": "plant_cydonia_oblonga",
+    "alias": "kdouloň obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": false,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_cydonia_oblonga_la_1",
+    "plant_id": "plant_cydonia_oblonga",
+    "alias": "Cydonia oblonga",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_daucus_carota_subsp_sativus_cz_1",
+    "plant_id": "plant_daucus_carota_subsp_sativus",
+    "alias": "mrkev obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_daucus_carota_subsp_sativus_la_1",
+    "plant_id": "plant_daucus_carota_subsp_sativus",
+    "alias": "Daucus carota subsp. sativus",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_fagus_sylvatica_cz_1",
+    "plant_id": "plant_fagus_sylvatica",
+    "alias": "buk lesní",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 6
+  },
+  {
+    "alias_id": "plant_fagus_sylvatica_la_1",
+    "plant_id": "plant_fagus_sylvatica",
+    "alias": "Fagus sylvatica",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 6
+  },
+  {
+    "alias_id": "plant_filipendula_ulmaria_cz_1",
+    "plant_id": "plant_filipendula_ulmaria",
+    "alias": "tužebník jilmový",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_filipendula_ulmaria_la_1",
+    "plant_id": "plant_filipendula_ulmaria",
+    "alias": "Filipendula ulmaria",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_fragaria_vesca_cz_1",
+    "plant_id": "plant_fragaria_vesca",
+    "alias": "jahodník obecný",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_fragaria_vesca_la_1",
+    "plant_id": "plant_fragaria_vesca",
+    "alias": "Fragaria vesca",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_fragaria_ananassa_cz_1",
+    "plant_id": "plant_fragaria_ananassa",
+    "alias": "jahodník zahradní",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_fragaria_ananassa_la_1",
+    "plant_id": "plant_fragaria_ananassa",
+    "alias": "Fragaria × ananassa",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_galium_aparine_cz_1",
+    "plant_id": "plant_galium_aparine",
+    "alias": "svízel přítula",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_galium_aparine_la_1",
+    "plant_id": "plant_galium_aparine",
+    "alias": "Galium aparine",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_galium_odoratum_cz_1",
+    "plant_id": "plant_galium_odoratum",
+    "alias": "mařinka vonná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_galium_odoratum_cz_2",
+    "plant_id": "plant_galium_odoratum",
+    "alias": "svízel vonný / mařinka vonná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": false,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_galium_odoratum_la_1",
+    "plant_id": "plant_galium_odoratum",
+    "alias": "Galium odoratum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_geum_urbanum_cz_1",
+    "plant_id": "plant_geum_urbanum",
+    "alias": "kuklík městský",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_geum_urbanum_la_1",
+    "plant_id": "plant_geum_urbanum",
+    "alias": "Geum urbanum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_glechoma_hederacea_l_cz_1",
+    "plant_id": "plant_glechoma_hederacea_l",
+    "alias": "popenec břečťanolistý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_glechoma_hederacea_l_la_1",
+    "plant_id": "plant_glechoma_hederacea_l",
+    "alias": "Glechoma hederacea L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_helianthus_tuberosus_cz_1",
+    "plant_id": "plant_helianthus_tuberosus",
+    "alias": "topinambur hlíznatý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_helianthus_tuberosus_la_1",
+    "plant_id": "plant_helianthus_tuberosus",
+    "alias": "Helianthus tuberosus",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_hesperis_matronalis_cz_1",
+    "plant_id": "plant_hesperis_matronalis",
+    "alias": "večernice vonná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_hesperis_matronalis_la_1",
+    "plant_id": "plant_hesperis_matronalis",
+    "alias": "Hesperis matronalis",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_hippophae_rhamnoides_cz_1",
+    "plant_id": "plant_hippophae_rhamnoides",
+    "alias": "rakytník řešetlákový",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_hippophae_rhamnoides_la_1",
+    "plant_id": "plant_hippophae_rhamnoides",
+    "alias": "Hippophae rhamnoides",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_humulus_lupulus_l_cz_1",
+    "plant_id": "plant_humulus_lupulus_l",
+    "alias": "chmel otáčivý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_humulus_lupulus_l_la_1",
+    "plant_id": "plant_humulus_lupulus_l",
+    "alias": "Humulus lupulus L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_juglans_regia_cz_1",
+    "plant_id": "plant_juglans_regia",
+    "alias": "ořešák královský",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_juglans_regia_la_1",
+    "plant_id": "plant_juglans_regia",
+    "alias": "Juglans regia",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_juniperus_communis_cz_1",
+    "plant_id": "plant_juniperus_communis",
+    "alias": "jalovec obecný",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_juniperus_communis_la_1",
+    "plant_id": "plant_juniperus_communis",
+    "alias": "Juniperus communis",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_lamium_album_l_cz_1",
+    "plant_id": "plant_lamium_album_l",
+    "alias": "hluchavka bílá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_lamium_album_l_la_1",
+    "plant_id": "plant_lamium_album_l",
+    "alias": "Lamium album L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_lamium_purpureum_l_cz_1",
+    "plant_id": "plant_lamium_purpureum_l",
+    "alias": "hluchavka nachová",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_lamium_purpureum_l_la_1",
+    "plant_id": "plant_lamium_purpureum_l",
+    "alias": "Lamium purpureum L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_lapsana_communis_cz_1",
+    "plant_id": "plant_lapsana_communis",
+    "alias": "kapustka obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_lapsana_communis_la_1",
+    "plant_id": "plant_lapsana_communis",
+    "alias": "Lapsana communis",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_lepidium_campestre_cz_1",
+    "plant_id": "plant_lepidium_campestre",
+    "alias": "řeřicha rolničková",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_lepidium_campestre_la_1",
+    "plant_id": "plant_lepidium_campestre",
+    "alias": "Lepidium campestre",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_malus_domestica_cz_1",
+    "plant_id": "plant_malus_domestica",
+    "alias": "jabloň domácí",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_malus_domestica_la_1",
+    "plant_id": "plant_malus_domestica",
+    "alias": "Malus domestica",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_malva_sylvestris_l_malva_neglecta_wallr_cz_1",
+    "plant_id": "plant_malva_sylvestris_l_malva_neglecta_wallr",
+    "alias": "sléz lesní / sléz přehlížený",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_malva_sylvestris_l_malva_neglecta_wallr_cz_2",
+    "plant_id": "plant_malva_sylvestris_l_malva_neglecta_wallr",
+    "alias": "sléz / sléz přehlížený",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": false,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_malva_sylvestris_l_malva_neglecta_wallr_la_1",
+    "plant_id": "plant_malva_sylvestris_l_malva_neglecta_wallr",
+    "alias": "Malva sylvestris L. / Malva neglecta Wallr.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_matricaria_recutita_cz_1",
+    "plant_id": "plant_matricaria_recutita",
+    "alias": "heřmánek pravý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_matricaria_recutita_la_1",
+    "plant_id": "plant_matricaria_recutita",
+    "alias": "Matricaria recutita",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_melissa_officinalis_cz_1",
+    "plant_id": "plant_melissa_officinalis",
+    "alias": "meduňka lékařská",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_melissa_officinalis_la_1",
+    "plant_id": "plant_melissa_officinalis",
+    "alias": "Melissa officinalis",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_mentha_x_piperita_cz_1",
+    "plant_id": "plant_mentha_x_piperita",
+    "alias": "máta peprná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_mentha_x_piperita_la_1",
+    "plant_id": "plant_mentha_x_piperita",
+    "alias": "Mentha x piperita",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_mespilus_germanica_cz_1",
+    "plant_id": "plant_mespilus_germanica",
+    "alias": "mišpule obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_mespilus_germanica_la_1",
+    "plant_id": "plant_mespilus_germanica",
+    "alias": "Mespilus germanica",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_morus_alba_morus_nigra_cz_1",
+    "plant_id": "plant_morus_alba_morus_nigra",
+    "alias": "moruše bílá / černá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_morus_alba_morus_nigra_la_1",
+    "plant_id": "plant_morus_alba_morus_nigra",
+    "alias": "Morus alba / Morus nigra",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_origanum_vulgare_cz_1",
+    "plant_id": "plant_origanum_vulgare",
+    "alias": "dobromysl obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_origanum_vulgare_la_1",
+    "plant_id": "plant_origanum_vulgare",
+    "alias": "Origanum vulgare",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_oxalis_acetosella_l_cz_1",
+    "plant_id": "plant_oxalis_acetosella_l",
+    "alias": "šťavel zaječí",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_oxalis_acetosella_l_la_1",
+    "plant_id": "plant_oxalis_acetosella_l",
+    "alias": "Oxalis acetosella L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_pastinaca_sativa_cz_1",
+    "plant_id": "plant_pastinaca_sativa",
+    "alias": "pastinák setý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_pastinaca_sativa_la_1",
+    "plant_id": "plant_pastinaca_sativa",
+    "alias": "Pastinaca sativa",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_petroselinum_crispum_cz_1",
+    "plant_id": "plant_petroselinum_crispum",
+    "alias": "petržel kořenová / naťová",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_petroselinum_crispum_la_1",
+    "plant_id": "plant_petroselinum_crispum",
+    "alias": "Petroselinum crispum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_picea_abies_cz_1",
+    "plant_id": "plant_picea_abies",
+    "alias": "smrk ztepilý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 6
+  },
+  {
+    "alias_id": "plant_picea_abies_la_1",
+    "plant_id": "plant_picea_abies",
+    "alias": "Picea abies",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 6
+  },
+  {
+    "alias_id": "plant_pinus_sylvestris_cz_1",
+    "plant_id": "plant_pinus_sylvestris",
+    "alias": "borovice lesní",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_pinus_sylvestris_la_1",
+    "plant_id": "plant_pinus_sylvestris",
+    "alias": "Pinus sylvestris",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_plantago_lanceolata_cz_1",
+    "plant_id": "plant_plantago_lanceolata",
+    "alias": "jitrocel kopinatý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_plantago_lanceolata_la_1",
+    "plant_id": "plant_plantago_lanceolata",
+    "alias": "Plantago lanceolata",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_plantago_major_l_cz_1",
+    "plant_id": "plant_plantago_major_l",
+    "alias": "jitrocel větší",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_plantago_major_l_la_1",
+    "plant_id": "plant_plantago_major_l",
+    "alias": "Plantago major L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_portulaca_oleracea_cz_1",
+    "plant_id": "plant_portulaca_oleracea",
+    "alias": "šrucha zelná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_portulaca_oleracea_la_1",
+    "plant_id": "plant_portulaca_oleracea",
+    "alias": "Portulaca oleracea",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_prunus_avium_cz_1",
+    "plant_id": "plant_prunus_avium",
+    "alias": "třešeň obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_prunus_avium_la_1",
+    "plant_id": "plant_prunus_avium",
+    "alias": "Prunus avium",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_prunus_cerasus_cz_1",
+    "plant_id": "plant_prunus_cerasus",
+    "alias": "višeň obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_prunus_cerasus_la_1",
+    "plant_id": "plant_prunus_cerasus",
+    "alias": "Prunus cerasus",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_prunus_domestica_cz_1",
+    "plant_id": "plant_prunus_domestica",
+    "alias": "slivoň / švestka domácí",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": false,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_prunus_domestica_cz_2",
+    "plant_id": "plant_prunus_domestica",
+    "alias": "slivoň švestka / slíva",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_prunus_domestica_la_1",
+    "plant_id": "plant_prunus_domestica",
+    "alias": "Prunus domestica",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_prunus_spinosa_cz_1",
+    "plant_id": "plant_prunus_spinosa",
+    "alias": "trnka obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_prunus_spinosa_la_1",
+    "plant_id": "plant_prunus_spinosa",
+    "alias": "Prunus spinosa",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_pulmonaria_officinalis_cz_1",
+    "plant_id": "plant_pulmonaria_officinalis",
+    "alias": "plicník lékařský",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_pulmonaria_officinalis_la_1",
+    "plant_id": "plant_pulmonaria_officinalis",
+    "alias": "Pulmonaria officinalis",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_pyrus_communis_cz_1",
+    "plant_id": "plant_pyrus_communis",
+    "alias": "hrušeň obecná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_pyrus_communis_la_1",
+    "plant_id": "plant_pyrus_communis",
+    "alias": "Pyrus communis",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_quercus_robur_q_petraea_cz_1",
+    "plant_id": "plant_quercus_robur_q_petraea",
+    "alias": "dub letní / dub zimní",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_quercus_robur_q_petraea_la_1",
+    "plant_id": "plant_quercus_robur_q_petraea",
+    "alias": "Quercus robur / Q. petraea",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_quercus_robur_q_petraea_q_pubescens_cz_1",
+    "plant_id": "plant_quercus_robur_q_petraea_q_pubescens",
+    "alias": "dub",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_quercus_robur_q_petraea_q_pubescens_la_1",
+    "plant_id": "plant_quercus_robur_q_petraea_q_pubescens",
+    "alias": "Quercus robur / Q. petraea / Q. pubescens",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_quercus_spp_cz_1",
+    "plant_id": "plant_quercus_spp",
+    "alias": "dub",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_quercus_spp_la_1",
+    "plant_id": "plant_quercus_spp",
+    "alias": "Quercus spp.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_rheum_rhabarbarum_cz_1",
+    "plant_id": "plant_rheum_rhabarbarum",
+    "alias": "reveň kadeřavá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_rheum_rhabarbarum_la_1",
+    "plant_id": "plant_rheum_rhabarbarum",
+    "alias": "Rheum rhabarbarum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_ribes_nigrum_cz_1",
+    "plant_id": "plant_ribes_nigrum",
+    "alias": "rybíz černý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_ribes_nigrum_la_1",
+    "plant_id": "plant_ribes_nigrum",
+    "alias": "Ribes nigrum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_ribes_rubrum_cz_1",
+    "plant_id": "plant_ribes_rubrum",
+    "alias": "rybíz červený",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": false,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_ribes_rubrum_cz_2",
+    "plant_id": "plant_ribes_rubrum",
+    "alias": "rybíz červený / bílý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_ribes_rubrum_la_1",
+    "plant_id": "plant_ribes_rubrum",
+    "alias": "Ribes rubrum",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_ribes_uva_crispa_cz_1",
+    "plant_id": "plant_ribes_uva_crispa",
+    "alias": "angrešt",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_ribes_uva_crispa_la_1",
+    "plant_id": "plant_ribes_uva_crispa",
+    "alias": "Ribes uva-crispa",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_rosa_canina_cz_1",
+    "plant_id": "plant_rosa_canina",
+    "alias": "růže šípková",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_rosa_canina_la_1",
+    "plant_id": "plant_rosa_canina",
+    "alias": "Rosa canina",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_rubus_fruticosus_agg_cz_1",
+    "plant_id": "plant_rubus_fruticosus_agg",
+    "alias": "ostružiník křovitý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_rubus_fruticosus_agg_la_1",
+    "plant_id": "plant_rubus_fruticosus_agg",
+    "alias": "Rubus fruticosus agg.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_rubus_idaeus_cz_1",
+    "plant_id": "plant_rubus_idaeus",
+    "alias": "maliník obecný",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_rubus_idaeus_la_1",
+    "plant_id": "plant_rubus_idaeus",
+    "alias": "Rubus idaeus",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 5
+  },
+  {
+    "alias_id": "plant_rumex_acetosa_cz_1",
+    "plant_id": "plant_rumex_acetosa",
+    "alias": "šťovík kyselý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_rumex_acetosa_la_1",
+    "plant_id": "plant_rumex_acetosa",
+    "alias": "Rumex acetosa",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_salix_spp_cz_1",
+    "plant_id": "plant_salix_spp",
+    "alias": "vrba",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_salix_spp_la_1",
+    "plant_id": "plant_salix_spp",
+    "alias": "Salix spp.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_sambucus_nigra_cz_1",
+    "plant_id": "plant_sambucus_nigra",
+    "alias": "bez černý",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 8
+  },
+  {
+    "alias_id": "plant_sambucus_nigra_la_1",
+    "plant_id": "plant_sambucus_nigra",
+    "alias": "Sambucus nigra",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 8
+  },
+  {
+    "alias_id": "plant_sorbus_aucuparia_cz_1",
+    "plant_id": "plant_sorbus_aucuparia",
+    "alias": "jeřáb ptačí",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_sorbus_aucuparia_la_1",
+    "plant_id": "plant_sorbus_aucuparia",
+    "alias": "Sorbus aucuparia",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_sorbus_domestica_cz_1",
+    "plant_id": "plant_sorbus_domestica",
+    "alias": "oskeruše",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_sorbus_domestica_cz_2",
+    "plant_id": "plant_sorbus_domestica",
+    "alias": "oskeruše domácí",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": false,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_sorbus_domestica_la_1",
+    "plant_id": "plant_sorbus_domestica",
+    "alias": "Sorbus domestica",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_stellaria_media_l_vill_cz_1",
+    "plant_id": "plant_stellaria_media_l_vill",
+    "alias": "ptačinec žabinec",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_stellaria_media_l_vill_la_1",
+    "plant_id": "plant_stellaria_media_l_vill",
+    "alias": "Stellaria media (L.) Vill.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_taraxacum_officinale_agg_cz_1",
+    "plant_id": "plant_taraxacum_officinale_agg",
+    "alias": "pampeliška lékařská",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 6
+  },
+  {
+    "alias_id": "plant_taraxacum_officinale_agg_cz_2",
+    "plant_id": "plant_taraxacum_officinale_agg",
+    "alias": "pampeliška / smetanka",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": false,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_taraxacum_officinale_agg_la_1",
+    "plant_id": "plant_taraxacum_officinale_agg",
+    "alias": "Taraxacum officinale agg.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 7
+  },
+  {
+    "alias_id": "plant_thymus_serpyllum_agg_cz_1",
+    "plant_id": "plant_thymus_serpyllum_agg",
+    "alias": "mateřídouška",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_thymus_serpyllum_agg_la_1",
+    "plant_id": "plant_thymus_serpyllum_agg",
+    "alias": "Thymus serpyllum agg.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_thymus_vulgaris_cz_1",
+    "plant_id": "plant_thymus_vulgaris",
+    "alias": "tymián obecný",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_thymus_vulgaris_la_1",
+    "plant_id": "plant_thymus_vulgaris",
+    "alias": "Thymus vulgaris",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_tilia_cordata_tilia_platyphyllos_cz_1",
+    "plant_id": "plant_tilia_cordata_tilia_platyphyllos",
+    "alias": "lípa srdčitá / lípa velkolistá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_tilia_cordata_tilia_platyphyllos_la_1",
+    "plant_id": "plant_tilia_cordata_tilia_platyphyllos",
+    "alias": "Tilia cordata / Tilia platyphyllos",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_tilia_spp_cz_1",
+    "plant_id": "plant_tilia_spp",
+    "alias": "lípa",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_tilia_spp_la_1",
+    "plant_id": "plant_tilia_spp",
+    "alias": "Tilia spp.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_ulmus_glabra_cz_1",
+    "plant_id": "plant_ulmus_glabra",
+    "alias": "jilm horský",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_ulmus_glabra_la_1",
+    "plant_id": "plant_ulmus_glabra",
+    "alias": "Ulmus glabra",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_urtica_dioica_cz_1",
+    "plant_id": "plant_urtica_dioica",
+    "alias": "kopřiva dvoudomá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_urtica_dioica_la_1",
+    "plant_id": "plant_urtica_dioica",
+    "alias": "Urtica dioica",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 4
+  },
+  {
+    "alias_id": "plant_vaccinium_myrtillus_cz_1",
+    "plant_id": "plant_vaccinium_myrtillus",
+    "alias": "borůvka černá",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_vaccinium_myrtillus_la_1",
+    "plant_id": "plant_vaccinium_myrtillus",
+    "alias": "Vaccinium myrtillus",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l_cz_1",
+    "plant_id": "plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l",
+    "alias": "divizna",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l_la_1",
+    "plant_id": "plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l",
+    "alias": "Verbascum densiflorum Bertol. / V. thapsus L. / V. phlomoides L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_veronica_beccabunga_cz_1",
+    "plant_id": "plant_veronica_beccabunga",
+    "alias": "rozrazil potoční",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_veronica_beccabunga_la_1",
+    "plant_id": "plant_veronica_beccabunga",
+    "alias": "Veronica beccabunga",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 1
+  },
+  {
+    "alias_id": "plant_viola_odorata_l_cz_1",
+    "plant_id": "plant_viola_odorata_l",
+    "alias": "violka vonná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_viola_odorata_l_la_1",
+    "plant_id": "plant_viola_odorata_l",
+    "alias": "Viola odorata L.",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 3
+  },
+  {
+    "alias_id": "plant_vitis_vinifera_cz_1",
+    "plant_id": "plant_vitis_vinifera",
+    "alias": "réva vinná",
+    "jazyk": "cs",
+    "typ_aliasu": "cesky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  },
+  {
+    "alias_id": "plant_vitis_vinifera_la_1",
+    "plant_id": "plant_vitis_vinifera",
+    "alias": "Vitis vinifera",
+    "jazyk": "la",
+    "typ_aliasu": "vedecky_nazev",
+    "je_preferovany": true,
+    "pocet_vyskytu": 2
+  }
+]

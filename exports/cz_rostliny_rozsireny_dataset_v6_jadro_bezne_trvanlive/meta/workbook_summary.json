@@ -1,0 +1,123 @@
+{
+  "workbook_file": "cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive.xlsx",
+  "output_dir": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive",
+  "sheet_summaries": {
+    "README": {
+      "sheet_name": "README",
+      "row_count": 14,
+      "column_count": 2
+    },
+    "Slovnik_sloupcu": {
+      "sheet_name": "Slovnik_sloupcu",
+      "row_count": 32,
+      "column_count": 2
+    },
+    "Starter_dataset": {
+      "sheet_name": "Starter_dataset",
+      "row_count": 256,
+      "column_count": 25
+    },
+    "Zdroje": {
+      "sheet_name": "Zdroje",
+      "row_count": 95,
+      "column_count": 4
+    },
+    "Trvanlive_1m_plus": {
+      "sheet_name": "Trvanlive_1m_plus",
+      "row_count": 86,
+      "column_count": 11
+    },
+    "Jadro_bezne_1m_plus": {
+      "sheet_name": "Jadro_bezne_1m_plus",
+      "row_count": 60,
+      "column_count": 11
+    }
+  },
+  "starter_dataset_stats": {
+    "row_count": 256,
+    "unique_scientific_names": 105,
+    "unique_czech_names": 111,
+    "domain_counts": {
+      "pití": 71,
+      "fytoterapie": 31,
+      "potrava": 95,
+      "potrava a pití": 32,
+      "vůně": 11,
+      "palivo": 7,
+      "léčba": 9
+    },
+    "knowledge_counts": {
+      "mainstream": 96,
+      "téměř zapomenuté": 48,
+      "méně známé": 99,
+      "globální analog": 13
+    },
+    "evidence_score_counts": {
+      "A": 41,
+      "B": 118,
+      "D": 51,
+      "C": 39,
+      "E": 7
+    }
+  },
+  "trvanlive_stats": {
+    "row_count": 86,
+    "storage_form_counts": {
+      "sušení": 44,
+      "ocet / octové kvašení": 2,
+      "kvašený nápoj": 1,
+      "zavařenina": 6,
+      "sirup / koncentrát": 8,
+      "suché skladování ve skořápce": 1,
+      "olej": 1,
+      "sušení / skladování v chladu": 1,
+      "alkoholová macerace": 3,
+      "sušené svazečky / sáčky": 1,
+      "sušený svazeček": 1,
+      "sirup / želé": 1,
+      "sušení / mezisklad": 1,
+      "sušená mouka": 1,
+      "pražení + suché skladování": 2,
+      "pražení + mletí": 1,
+      "lisovaný olej": 1,
+      "suché skladování troudu": 1,
+      "sirup / zavaření": 1,
+      "sušení + mletí": 2,
+      "nakládání": 1,
+      "sušený aromatický sáček": 1,
+      "tvrdá pryskyřice": 1,
+      "sušení listů na čajovou směs": 1,
+      "sušení nebo mražení nasekaných listů": 1,
+      "odpaření mízy na koncentrát / sirup": 1
+    }
+  },
+  "jadro_stats": {
+    "row_count": 60,
+    "storage_form_counts": {
+      "sušení": 32,
+      "ocet / octové kvašení": 1,
+      "zavařenina": 5,
+      "sirup / koncentrát": 6,
+      "suché skladování ve skořápce": 1,
+      "sušení / skladování v chladu": 1,
+      "alkoholová macerace": 3,
+      "sušený svazeček": 1,
+      "sirup / želé": 1,
+      "sušení / mezisklad": 1,
+      "sušená mouka": 1,
+      "pražení + suché skladování": 2,
+      "pražení + mletí": 1,
+      "suché skladování troudu": 1,
+      "sušení + mletí": 2,
+      "tvrdá pryskyřice": 1
+    }
+  },
+  "source_stats": {
+    "source_count": 95,
+    "referenced_source_count": 93,
+    "unused_source_ids": [
+      "S69",
+      "S77"
+    ]
+  }
+}

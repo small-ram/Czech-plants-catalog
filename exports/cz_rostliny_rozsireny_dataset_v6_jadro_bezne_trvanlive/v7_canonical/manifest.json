@@ -1,0 +1,18 @@
+{
+  "tables": [
+    "plants",
+    "plant_aliases",
+    "uses",
+    "durable_forms",
+    "sources",
+    "use_sources",
+    "use_processing_methods",
+    "vocab_part_categories",
+    "vocab_subdomain_categories",
+    "vocab_storage_categories",
+    "vocab_processing_methods"
+  ],
+  "csv_dir": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\v7_canonical\\csv",
+  "json_dir": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\v7_canonical\\json",
+  "summary_file": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\v7_canonical\\summary.json"
+}

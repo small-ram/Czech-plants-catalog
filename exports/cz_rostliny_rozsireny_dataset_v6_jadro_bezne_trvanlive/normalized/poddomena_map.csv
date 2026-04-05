@@ -1,0 +1,230 @@
+﻿original_value,count,suggested_value,confidence
+jarní zelenina,4,cerstva_potrava,medium
+nálev / čaj,4,caj_nalev,medium
+koření,3,koreni_dochucovadlo,medium
+listový čaj,3,caj_nalev,medium
+nálev / tradiční bylinný přípravek,3,caj_nalev,medium
+fermentovaný nápoj / sirup / ocet,2,sirup_koncentrat,medium
+jarní zelenina / polévka / špenát,2,cerstva_potrava,medium
+nálev,2,caj_nalev,medium
+nálev / bylinný přípravek,2,caj_nalev,medium
+nálev / extrakt,2,caj_nalev,medium
+rychlé teplo / podpal,2,palivo,medium
+sirup / nálev / tradiční domácí užití,2,caj_nalev,medium
+sirup / čaj,2,caj_nalev,medium
+sirup z mladých výhonků,2,sirup_koncentrat,medium
+sušená nať jako koření,2,koreni_dochucovadlo,medium
+tvrdé palivové dřevo,2,palivo,medium
+čerstvá jarní míza,2,ostatni_specialni,low
+čerstvé plody / sirup / džem,2,sirup_koncentrat,medium
+čerstvé plody / sirup / sušení,2,sirup_koncentrat,medium
+čerstvé plody / sušení / kompot,2,zavarenina,medium
+adstringentní droga,1,ostatni_specialni,low
+aromatický nálev / čaj,1,caj_nalev,medium
+aromatický nápoj / bylinné víno,1,vune_a_vykurovani,medium
+aromatický sáček / potpourri,1,vune_a_vykurovani,medium
+aromatický čaj,1,caj_nalev,medium
+bezinkový sirup / šťávový koncentrát,1,sirup_koncentrat,medium
+borůvkový džem / zavařenina,1,zavarenina,medium
+březová kůra jako troud a nouzový podpal,1,palivo,medium
+březový ocet,1,ocet,medium
+cibulový sirup / tradiční domácí užití,1,sirup_koncentrat,medium
+destilát / likér,1,liker_macerat,medium
+dužina / semena / pečení / polévka,1,cerstva_potrava,medium
+dětská svačina / kuriozita,1,cerstva_potrava,medium
+fermentace / středoevropský analog,1,fermentace,medium
+fermentované zpracování / ocet / kvašený základ,1,ocet,medium
+folk bylinné užití,1,ostatni_specialni,low
+folk bylinný čaj,1,caj_nalev,medium
+folk zevní přiložení,1,zevni_aplikace,medium
+folk čaj,1,caj_nalev,medium
+folk čaj / domácí užití,1,caj_nalev,medium
+folk čaj / obklad,1,caj_nalev,medium
+hořká droga / nálev / extrakt,1,caj_nalev,medium
+hořký bylinný nálev,1,caj_nalev,medium
+jablečný ocet / cider vinegar,1,ocet,medium
+jarní listy do směsí / krátce vařené,1,ostatni_specialni,low
+jarní míza / odpaření na sirup,1,sirup_koncentrat,medium
+jarní salát / potherb,1,cerstva_potrava,medium
+jarní zelenina / kuriozita,1,cerstva_potrava,medium
+jarní zelenina / pesto / pomazánka,1,cerstva_potrava,medium
+jedlé květy,1,ostatni_specialni,low
+jedlé květy / salát,1,cerstva_potrava,medium
+jeřabinový likér / cordial,1,sirup_koncentrat,medium
+kadidlo / vykuřování / aromatická pryskyřice,1,vune_a_vykurovani,medium
+kaše / příměs do mouky,1,ostatni_specialni,low
+kdoulová marmeláda / membrillo,1,ostatni_specialni,low
+kompot / pečení / sirup,1,sirup_koncentrat,medium
+koupel / napařování / aromatický polštářek,1,vune_a_vykurovani,medium
+kořenová zelenina,1,cerstva_potrava,medium
+kořenová zelenina / aromatická nať,1,vune_a_vykurovani,medium
+kořenová zelenina / vývar / salát,1,cerstva_potrava,medium
+koření / bylinná zelenina,1,koreni_dochucovadlo,medium
+koření / pesto / salát,1,koreni_dochucovadlo,medium
+koření / semenná přísada,1,koreni_dochucovadlo,medium
+koření / zelenina / fermentace,1,koreni_dochucovadlo,medium
+kořenící zelenina / čerstvý křen,1,koreni_dochucovadlo,medium
+květový čaj,1,caj_nalev,medium
+kysané zelí / zelné šťávy,1,ostatni_specialni,low
+kávová náhražka,1,kavova_nahrada,medium
+křížaly / sušené plátky,1,suseni_skladovani,medium
+letní salátová zelenina,1,cerstva_potrava,medium
+listová zelenina / kávová náhražka z kořene,1,kavova_nahrada,medium
+listová zelenina po úpravě,1,cerstva_potrava,medium
+listy a květy do jarního salátu,1,cerstva_potrava,medium
+listy a květy do salátu / jako ozdoba,1,cerstva_potrava,medium
+listy syrové / krátce povařené ve směsi,1,ostatni_specialni,low
+listy syrové / vařené jako jarní bylina,1,ostatni_specialni,low
+malinový sirup,1,sirup_koncentrat,medium
+mladé bukové listy do salátu,1,cerstva_potrava,medium
+mladé listy a lodyhy syrové / vařené,1,ostatni_specialni,low
+mladé listy a výhonky do salátu,1,cerstva_potrava,medium
+mladé listy a výhony syrové / vařené,1,ostatni_specialni,low
+mladé listy do salátu / na chléb,1,cerstva_potrava,medium
+mladé listy syrové / krátce tepelně upravené,1,ostatni_specialni,low
+mladé listy syrové / krátce vařené,1,ostatni_specialni,low
+mladé listy syrové / vařené,1,ostatni_specialni,low
+mošt / cider / ocet,1,ocet,medium
+mošt / perry / odvar ze sušených plodů,1,suseni_skladovani,medium
+nakládané nezralé trnky jako „olivy“,1,ostatni_specialni,low
+nakládané vinné listy / globální analog,1,ostatni_specialni,low
+náhražka kávy,1,kavova_nahrada,medium
+náhražka kávy ze semen,1,kavova_nahrada,medium
+nálev / digestivní čaj,1,caj_nalev,medium
+nálev / kloktadlo / obklad,1,caj_nalev,medium
+nálev / macerát / sirup,1,caj_nalev,medium
+nálev / obklad,1,caj_nalev,medium
+nálev / oromukózní infuze,1,caj_nalev,medium
+nálev / pivní aromatizace,1,caj_nalev,medium
+nálev / tradiční užití,1,caj_nalev,medium
+nálev při suchém kašli,1,caj_nalev,medium
+obklad / omývání / kožní použití,1,zevni_aplikace,medium
+odvar / extrakt,1,odvar,high
+olej z bukvic,1,olej,high
+olej z lískových ořechů,1,olej,high
+ostružinový sirup nebo želé,1,sirup_koncentrat,medium
+osvěžující kyselá nať,1,ostatni_specialni,low
+osvěžující nálev,1,caj_nalev,medium
+oříšek / olej,1,olej,high
+pampeliškový sirup / „med“,1,sirup_koncentrat,medium
+peprná příměs do salátu / na chléb,1,cerstva_potrava,medium
+peprné listy a výhony syrové / vařené,1,ostatni_specialni,low
+perry / hruškový kvašený nápoj,1,fermentace,medium
+pečený / polévka / pyré,1,cerstva_potrava,medium
+pečený / polévky / pyré,1,ostatni_specialni,low
+pivní hořčina / bylinný nálev,1,caj_nalev,medium
+plody po uleželosti / mošt / povidla,1,zavarenina,medium
+pochodeň / podpal,1,palivo,medium
+polštářek / aromatický sáček,1,vune_a_vykurovani,medium
+potherb / „špenát“,1,cerstva_potrava,medium
+potpourri / šatník / pokojová vůně,1,ostatni_specialni,low
+povidla,1,zavarenina,medium
+povidla / marmeláda / likér,1,liker_macerat,medium
+povidla / želé / sušený plod,1,zavarenina,medium
+pražená náhražka kávy / globální analog,1,kavova_nahrada,medium
+pražená semena jako kávová náhražka,1,kavova_nahrada,medium
+pražené bukvice jako kávová náhražka,1,kavova_nahrada,medium
+pražené bukvice jako zimní zásoba,1,ostatni_specialni,low
+pražený kořen jako náhražka kávy,1,kavova_nahrada,medium
+rybízové želé,1,zavarenina,medium
+rychle chytající palivo,1,ostatni_specialni,low
+salát / jarní zelenina,1,cerstva_potrava,medium
+salát / polévka / zelená omáčka,1,cerstva_potrava,medium
+salát / potherb,1,cerstva_potrava,medium
+sirup / kandování / aromatická dekorace,1,sirup_koncentrat,medium
+sirup / kompot / zavařeniny,1,sirup_koncentrat,medium
+sirup / limonáda / cordial,1,sirup_koncentrat,medium
+sirup / med / obklad,1,sirup_koncentrat,medium
+sirup / odvar / tradiční domácí užití,1,sirup_koncentrat,medium
+sirup / víno / sladký macerát,1,sirup_koncentrat,medium
+sirup / čaj / limonáda,1,caj_nalev,medium
+sirup nebo želé z plodů,1,sirup_koncentrat,medium
+sirup z pupenů nebo výhonků,1,sirup_koncentrat,medium
+skladované ořechy ve skořápce,1,ostatni_specialni,low
+slizovitá zelenina / zahušťovadlo,1,cerstva_potrava,medium
+slizovitý nálev,1,caj_nalev,medium
+smažené květenství / kosmatice,1,ostatni_specialni,low
+smrková pryskyřice jako kadidlo / vykuřovadlo,1,vune_a_vykurovani,medium
+sušená dubová kůra do zásoby,1,suseni_skladovani,medium
+sušená kopřivová semena jako zásobní přísada,1,suseni_skladovani,medium
+sušená kůra do zásoby na odvar,1,suseni_skladovani,medium
+sušená nať jako hořké koření k tučným jídlům,1,koreni_dochucovadlo,medium
+sušená nať na bylinný čaj,1,caj_nalev,medium
+sušená slézová droga,1,suseni_skladovani,medium
+sušené bezinky do odvaru nebo čajové směsi,1,caj_nalev,medium
+sušené bezinky do zimních směsí,1,suseni_skladovani,medium
+sušené borůvky,1,suseni_skladovani,medium
+sušené hložinky do čajových směsí,1,caj_nalev,medium
+sušené hrušky / křížaly,1,suseni_skladovani,medium
+sušené jalovčinky jako koření,1,koreni_dochucovadlo,medium
+sušené jeřabiny do čajových směsí,1,caj_nalev,medium
+sušené kmínové semeno jako koření,1,koreni_dochucovadlo,medium
+sušené listy na nálev / čajovou náhražku,1,caj_nalev,medium
+sušené ořechy ve skořápce nebo vyloupané,1,suseni_skladovani,medium
+sušené plody,1,suseni_skladovani,medium
+sušené plody jako kyselý dochucovač,1,koreni_dochucovadlo,medium
+sušené svazečky nebo aromatické sáčky,1,vune_a_vykurovani,medium
+sušené trnky do čajových směsí,1,caj_nalev,medium
+sušené šištice do polštářku,1,vune_a_vykurovani,medium
+sušené švestky,1,suseni_skladovani,medium
+sušené šípky na čaj,1,caj_nalev,medium
+sušený bezový květ na čaj,1,caj_nalev,medium
+sušený jahodníkový list na čaj,1,caj_nalev,medium
+sušený kopřivový prášek do zásoby,1,suseni_skladovani,medium
+sušený kořen do odvaru nebo svařených nápojů,1,suseni_skladovani,medium
+sušený kořen do zásoby pro pozdější pražení,1,suseni_skladovani,medium
+sušený kořen jako koření s hřebíčkovým tónem,1,koreni_dochucovadlo,medium
+sušený květ do čaje,1,caj_nalev,medium
+sušený květ na čaj,1,caj_nalev,medium
+sušený list do zimních čajových směsí,1,caj_nalev,medium
+sušený list do zásoby,1,suseni_skladovani,medium
+sušený list maliníku,1,suseni_skladovani,medium
+sušený list na bylinný čaj,1,caj_nalev,medium
+sušený list na čaj a aromatické sáčky,1,caj_nalev,medium
+sušený list na čaj nebo zelený prášek,1,caj_nalev,medium
+sušený list na čajové směsi,1,caj_nalev,medium
+sušený list ostružiníku,1,suseni_skladovani,medium
+sušený list pro zevní oplachy a koupele,1,zevni_aplikace,medium
+sušený vykuřovací svazeček / aromatická bylina,1,vune_a_vykurovani,medium
+sušený šípkový prášek,1,suseni_skladovani,medium
+syrová / kvašená / nakládaná,1,fermentace,medium
+syrová / vařená / kvašená,1,fermentace,medium
+syrová / vařená / základ kuchyně,1,ostatni_specialni,low
+syrové / vařené / dušené,1,ostatni_specialni,low
+syrový salát / jarní zelenina,1,cerstva_potrava,medium
+tinktura nebo sušená droga,1,liker_macerat,medium
+tradiční bylinný léčivý přípravek,1,ostatni_specialni,low
+tradiční domácí užití / macerát / sirup,1,sirup_koncentrat,medium
+trnkový likér,1,liker_macerat,medium
+uchování zvěřiny,1,ostatni_specialni,low
+uleželé plody / želé / pyré,1,zavarenina,medium
+uleželé plody do sklepa / bletting,1,zavarenina,medium
+usušené žaludy k pozdějšímu zpracování,1,suseni_skladovani,medium
+usušený kořen do prádla a skříní,1,suseni_skladovani,medium
+vařená / pečená / kaše,1,ostatni_specialni,low
+vařená / pečená / kvas,1,ostatni_specialni,low
+vonné sáčky / cukr / macerát,1,liker_macerat,medium
+zelenovlašský likér / ořechovka,1,liker_macerat,medium
+zevní obklad,1,zevni_aplikace,medium
+čaj / džem / sirup / víno / náhražka kávy ze semen,1,caj_nalev,medium
+čaj / lehká náhražka černého čaje,1,caj_nalev,medium
+čaj při nachlazení,1,caj_nalev,medium
+časná peprná brukvovitá zeleň,1,ostatni_specialni,low
+černorybízový sirup,1,sirup_koncentrat,medium
+čerstvá nať / sušení / mražení,1,suseni_skladovani,medium
+čerstvé hrozny / mošt / ocet,1,ocet,medium
+čerstvé ovoce / džem,1,zavarenina,medium
+čerstvé plody / džem / sirup,1,sirup_koncentrat,medium
+čerstvé plody / kompot / džem,1,zavarenina,medium
+čerstvé plody / mošt / sušení / pečení,1,suseni_skladovani,medium
+čerstvé plody / sušení / povidla,1,zavarenina,medium
+čerstvé plody / sušení / sirup / kompot,1,sirup_koncentrat,medium
+čerstvý ořech / sušení / pasta / mléko,1,suseni_skladovani,medium
+šípkový sirup / džem,1,sirup_koncentrat,medium
+šťáva / džem / víno / likér,1,liker_macerat,medium
+šťáva / pyré / sirup,1,sirup_koncentrat,medium
+žaludová mouka po vyluhování a dosušení,1,mouka_skrob,high
+želé / marmeláda / sirup / pečení,1,sirup_koncentrat,medium
+želé / povidla / likér po úpravě,1,liker_macerat,medium
+želé / rosol po tepelné úpravě,1,zavarenina,medium
+želé / sirup / džem,1,sirup_koncentrat,medium

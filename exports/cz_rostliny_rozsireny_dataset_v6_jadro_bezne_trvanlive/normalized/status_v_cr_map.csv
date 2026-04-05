@@ -1,0 +1,50 @@
+﻿original_value,count,status_contains_puvodni,status_contains_zdomacnely,status_contains_pestovany,status_contains_zplanujici,status_contains_invazni,status_cetnost
+"původní, běžný",34,True,False,False,False,False,bezny
+"původní, běžná",25,True,False,False,False,False,bezny
+"původní, velmi běžný",25,True,False,False,False,False,velmi_bezny
+"původní, velmi běžná",24,True,False,False,False,False,velmi_bezny
+"pěstovaná, velmi běžná",14,False,False,True,False,False,velmi_bezny
+"původní/zdomácnělý, běžný",10,True,True,False,False,False,bezny
+"původní/zdomácnělý, velmi běžný",10,True,True,False,False,False,velmi_bezny
+"původní, lokálně běžná",8,True,False,False,False,False,lokalne_bezny
+"pěstovaný, běžný",7,False,False,True,False,False,bezny
+"původní, běžná lokálně",7,True,False,False,False,False,lokalne_bezny
+"běžně pěstovaná, místy zplaňující",6,False,False,True,True,False,bezny
+"pěstovaná, běžná",6,False,False,True,False,False,bezny
+"původní/zdomácnělá, běžná",6,True,True,False,False,False,bezny
+"původní, lokálně vzácnější",5,True,False,False,False,False,vzacnejsi
+"běžně pěstovaný, místy zplaňující",4,False,False,True,True,False,bezny
+"původní/pěstovaný, velmi běžný",4,True,False,True,False,False,velmi_bezny
+"pěstovaná, lokálně běžná",3,False,False,True,False,False,lokalne_bezny
+"pěstovaný, místy zplaňující, běžný",3,False,False,True,True,False,bezny
+"pěstovaný, velmi běžný",3,False,False,True,False,False,velmi_bezny
+"původní až dlouhodobě pěstovaný, běžný",3,True,False,True,False,False,bezny
+"původní, běžná lokálně až hojně",3,True,False,False,False,False,lokalne_bezny
+"původní, běžné",3,True,False,False,False,False,bezny
+"původní/pěstovaná, lokálně běžná",3,True,False,True,False,False,lokalne_bezny
+"zdomácnělá, velmi běžná",3,False,True,False,False,False,velmi_bezny
+"pěstovaná, běžná v teplejších oblastech",2,False,False,True,False,False,bezny
+"pěstovaná, dnes spíše méně běžná",2,False,False,True,False,False,bezny
+"pěstovaná, vzácnější",2,False,False,True,False,False,vzacnejsi
+"pěstované, velmi běžné",2,False,False,True,False,False,velmi_bezny
+"pěstovaný i zplaňující, běžný",2,False,False,True,True,False,bezny
+"pěstovaný i zplaňující, lokálně běžný",2,False,False,True,True,False,lokalne_bezny
+původní,2,True,False,False,False,False,neurceno
+"původní i pěstovaná, velmi lokální",2,True,False,True,False,False,neurceno
+"původní, běžný lokálně",2,True,False,False,False,False,lokalne_bezny
+"původní, běžný v lesích",2,True,False,False,False,False,bezny
+"původní/pěstovaný, lokálně běžný",2,True,False,True,False,False,lokalne_bezny
+"zdomácnělý, velmi běžný",2,False,True,False,False,False,velmi_bezny
+"pěstovaná i zplaňující, běžná",1,False,False,True,True,False,bezny
+"pěstovaná i zplaňující, lokálně běžná",1,False,False,True,True,False,lokalne_bezny
+"pěstovaná, lokálně zplaňující",1,False,False,True,True,False,neurceno
+"pěstovaný i zdomácnělý, lokálně běžný",1,False,True,True,False,False,lokalne_bezny
+"pěstovaný, lokálně běžný",1,False,False,True,False,False,lokalne_bezny
+"původní i pěstovaná, běžná",1,True,False,True,False,False,bezny
+"původní, lokálně běžný",1,True,False,False,False,False,lokalne_bezny
+"původní, lokálně hojný",1,True,False,False,False,False,lokalne_hojny
+"původní, lokálně vzácnější i pěstovaná",1,True,False,True,False,False,vzacnejsi
+v ČR hlavně pěstovaný,1,False,False,True,False,False,neurceno
+"zdomácnělá, lokálně běžná",1,False,True,False,False,False,lokalne_bezny
+"zdomácnělá/původní, velmi běžná",1,True,True,False,False,False,velmi_bezny
+"zdomácnělý, lokálně běžný",1,False,True,False,False,False,lokalne_bezny

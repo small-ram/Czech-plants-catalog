@@ -1,0 +1,87 @@
+[
+  {
+    "subdomain_category_id": "caj_nalev",
+    "label": "caj nalev",
+    "row_count": 60
+  },
+  {
+    "subdomain_category_id": "ostatni_specialni",
+    "label": "ostatni specialni",
+    "row_count": 33
+  },
+  {
+    "subdomain_category_id": "sirup_koncentrat",
+    "label": "sirup koncentrat",
+    "row_count": 32
+  },
+  {
+    "subdomain_category_id": "cerstva_potrava",
+    "label": "cerstva potrava",
+    "row_count": 29
+  },
+  {
+    "subdomain_category_id": "suseni_skladovani",
+    "label": "suseni skladovani",
+    "row_count": 24
+  },
+  {
+    "subdomain_category_id": "koreni_dochucovadlo",
+    "label": "koreni dochucovadlo",
+    "row_count": 15
+  },
+  {
+    "subdomain_category_id": "zavarenina",
+    "label": "zavarenina",
+    "row_count": 13
+  },
+  {
+    "subdomain_category_id": "vune_a_vykurovani",
+    "label": "vune a vykurovani",
+    "row_count": 10
+  },
+  {
+    "subdomain_category_id": "liker_macerat",
+    "label": "liker macerat",
+    "row_count": 8
+  },
+  {
+    "subdomain_category_id": "kavova_nahrada",
+    "label": "kavova nahrada",
+    "row_count": 8
+  },
+  {
+    "subdomain_category_id": "palivo",
+    "label": "palivo",
+    "row_count": 6
+  },
+  {
+    "subdomain_category_id": "ocet",
+    "label": "ocet",
+    "row_count": 5
+  },
+  {
+    "subdomain_category_id": "zevni_aplikace",
+    "label": "zevni aplikace",
+    "row_count": 4
+  },
+  {
+    "subdomain_category_id": "fermentace",
+    "label": "fermentace",
+    "row_count": 4
+  },
+  {
+    "subdomain_category_id": "olej",
+    "label": "olej",
+    "row_count": 3
+  },
+  {
+    "subdomain_category_id": "odvar",
+    "label": "odvar",
+    "row_count": 1
+  },
+  {
+    "subdomain_category_id": "mouka_skrob",
+    "label": "mouka skrob",
+    "row_count": 1
+  }
+]

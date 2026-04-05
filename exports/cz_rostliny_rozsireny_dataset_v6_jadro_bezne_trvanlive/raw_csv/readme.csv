@@ -1,0 +1,15 @@
+﻿key,value
+Soubor,"Rozšířený dataset pro české byliny, stromy, ovoce a zeleninu se zaměřením na potravu a pití, léčbu/fytoterapii, vůně a palivo."
+Rozsah,"Nejde o úplný katalog české flóry. Je to kurátorovaný základ se směsí běžných, méně známých a téměř zapomenutých použití, nyní rozšířený i o samostatnou vrstvu trvanlivých forem (sušení, sirupy, octy, zavařeniny, tinktury a skladované suché drogy), plus několik světových analogů aplikovatelných na ČR."
+Jednotka záznamu,V listu Starter_dataset je 1 řádek = 1 konkrétní použití daného druhu nebo skupiny druhů.
+Status_znalosti,"mainstream = běžně známé; méně známé = reálně doložené, ale nepříliš známé; téměř zapomenuté = starší nebo regionální tradice; globální analog = použití dobře doložené jinde, přenos do ČR je plausibilní; izolovaný záznam = vzácná jednotlivá zmínka, nutné ruční ověření."
+Dukaznost_skore,"A = oficiální monografie / velmi silná opora; B = více nezávislých etnobotanických nebo historických zdrojů; C = slušně doložené tradiční použití, ale slabší formální opora; D = hlavně globální analog / plausibilní přenos; E = spekulativní nebo příliš izolované."
+Bezpečnost,"Fytoterapeutické řádky nejsou osobní zdravotní doporučení. Záznamy s vyšším rizikem, interakcemi nebo právní nejistotou mají upozornění v příslušných sloupcích."
+Právo a sběr v ČR,"Je třeba ověřit ochranu druhu, vlastnictví pozemku a lokální režim ochrany. U stromů a keřů je třeba vyhnout se poškozování dřevin; u kůry, mízy a pryskyřice preferovat neinvazivní sběr nebo pěstované/již získané suroviny."
+Doporučené rozšíření,"Další krok: pokračovat po tematických dávkách (např. čistě ovoce, čistě zelenina, jen stromy a keře, jen EMA léčivky) a přidat samostatný list pro synonymii a samostatný list pro čistě léčivé monografie."
+Počet záznamů,237
+Tematické rozšíření,"Tato verze přidává samostatnou dlouhodobě skladovatelnou vrstvu (1 měsíc a více): sušené ovoce, sirupy, octy, zavařeniny, sušené čaje a aromatické drogy, skladované ořechy, kůry do zásoby i jehličnaté sirupy. Nový list Trvanlive_1m_plus tyto přírůstky vyčleňuje pro rychlý filtr."
+Nový list,"Trvanlive_1m_plus = kurátorovaný výběr nově přidaných použití, u nichž je při správné přípravě a skladování realistická trvanlivost alespoň přibližně 1 měsíc."
+Metoda trvanlivosti,"Uvedené intervaly jsou orientační, počítají s hygienickou přípravou, dobrým dosušením a skladováním v suchu, chladu nebo temnu podle typu produktu."
+Další tematická vrstva,"Tato verze přidává „best next“ rozšíření: běžně potkatelné druhy a jejich trvanlivé domácí formy se silným praktickým přínosem (ořechy, sušené listy, kořeny, žaludy, aromatické kořeny, vykuřovací pryskyřice a další pantry produkty)."
+Nový list,Jadro_bezne_1m_plus = ručně kurátorovaný výběr nejpraktičtějších běžně dostupných a alespoň přibližně měsíčně trvanlivých položek napříč workbookem.

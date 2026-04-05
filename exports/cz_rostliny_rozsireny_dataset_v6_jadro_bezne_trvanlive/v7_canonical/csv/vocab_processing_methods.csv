@@ -1,0 +1,15 @@
+﻿processing_method_id,label,group_label,display_order
+suseni,Sušení,dehydratace,1
+mrazeni,Mražení,chlad,2
+chlazene_skladovani,Skladování v chladu,chlad,3
+sirup,Sirup / koncentrát,sladke_konzervace,4
+zavareni,Zavaření / sterilace ve sklenici,tepelna_konzervace,5
+pasterace,Pasterace,tepelna_konzervace,6
+sterilizace,Sterilizace,tepelna_konzervace,7
+kvaseni,Kvašení / fermentace,fermentace,8
+ocet,Naložení do octa / ocet,fermentace,9
+olej,Naložení do oleje / olej,tuk,10
+tinktura,Tinktura / alkoholová macerace,alkohol,11
+cukrovani,Cukrování / kandování / džem,sladke_konzervace,12
+kompot,Kompot,tepelna_konzervace,13
+nakladani,Nakládání,pickles,14

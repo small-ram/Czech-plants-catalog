@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+tmp/
+server_*stdout.txt
+server_*stderr.txt
+
+*.backup_*.xlsx
+
+exports/*/v7_canonical/*.rebuild*.sqlite
+exports/*/v7_canonical/*.pre_promote_*.sqlite
+exports/*/v7_canonical/*.test.sqlite

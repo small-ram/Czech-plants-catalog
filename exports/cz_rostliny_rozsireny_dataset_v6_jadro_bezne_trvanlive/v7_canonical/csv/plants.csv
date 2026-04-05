@@ -1,0 +1,106 @@
+﻿plant_id,vedecky_nazev_hlavni,vedecky_nazev_display,taxon_rank,je_agregat_nebo_spp,cesky_nazev_hlavni,status_v_cr_text,status_puvodni,status_zdomacnely,status_pestovany,status_zplanujici,status_invazni,status_cetnost_reprezentativni,pocet_pouziti,pocet_ceskych_aliasu
+plant_abies_alba,Abies alba,Abies alba,species_or_higher,False,jedle bělokorá,"původní, lokálně běžná",True,False,False,False,False,lokalne_bezny,3,1
+plant_acer_platanoides_acer_pseudoplatanus_acer_campestre,Acer platanoides / Acer pseudoplatanus / Acer campestre,Acer platanoides / Acer pseudoplatanus / Acer campestre,species_or_higher,False,javor mléč / javor klen / javor babyka,"původní, běžné",True,False,False,False,False,bezny,2,1
+plant_achillea_millefolium,Achillea millefolium,Achillea millefolium,species_or_higher,False,řebříček obecný,"původní, velmi běžný",True,False,False,False,False,velmi_bezny,2,1
+plant_aegopodium_podagraria,Aegopodium podagraria,Aegopodium podagraria,species_or_higher,False,bršlice kozí noha,"původní, velmi běžná",True,False,False,False,False,velmi_bezny,1,1
+plant_alliaria_petiolata_m_bieb_cavara_grande,Alliaria petiolata (M.Bieb.) Cavara & Grande,Alliaria petiolata (M.Bieb.) Cavara & Grande,species_or_higher,False,česnáček lékařský,"původní, běžný",True,False,False,False,False,bezny,2,1
+plant_allium_cepa,Allium cepa,Allium cepa,species_or_higher,False,cibule kuchyňská,"pěstovaná, velmi běžná",False,False,True,False,False,velmi_bezny,2,1
+plant_allium_sativum,Allium sativum,Allium sativum,species_or_higher,False,česnek setý,"pěstovaný, velmi běžný",False,False,True,False,False,velmi_bezny,2,1
+plant_allium_schoenoprasum,Allium schoenoprasum,Allium schoenoprasum,species_or_higher,False,pažitka pobřežní,"původní, lokálně vzácnější i pěstovaná",True,False,True,False,False,vzacnejsi,1,1
+plant_allium_ursinum,Allium ursinum,Allium ursinum,species_or_higher,False,česnek medvědí,"původní, lokálně hojný",True,False,False,False,False,lokalne_hojny,1,1
+plant_anthriscus_sylvestris,Anthriscus sylvestris,Anthriscus sylvestris,species_or_higher,False,kerblík lesní,"původní, velmi běžný",True,False,False,False,False,velmi_bezny,1,1
+plant_apium_graveolens_var_rapaceum,Apium graveolens var. rapaceum,Apium graveolens var. rapaceum,species_or_higher,False,celer bulvový,"pěstovaný, běžný",False,False,True,False,False,bezny,1,1
+plant_arctium_lappa_l,Arctium lappa L.,Arctium lappa L.,species_or_higher,False,lopuch větší,"původní/zdomácnělý, běžný",True,True,False,False,False,bezny,2,1
+plant_armoracia_rusticana,Armoracia rusticana,Armoracia rusticana,species_or_higher,False,křen selský,"pěstovaný i zplaňující, běžný",False,False,True,True,False,bezny,2,1
+plant_artemisia_vulgaris,Artemisia vulgaris,Artemisia vulgaris,species_or_higher,False,pelyněk černobýl,"původní, velmi běžný",True,False,False,False,False,velmi_bezny,3,1
+plant_barbarea_vulgaris,Barbarea vulgaris,Barbarea vulgaris,species_or_higher,False,barborka obecná,"původní, běžná",True,False,False,False,False,bezny,1,1
+plant_bellis_perennis_l,Bellis perennis L.,Bellis perennis L.,species_or_higher,False,sedmikráska chudobka,"původní, velmi běžná",True,False,False,False,False,velmi_bezny,2,1
+plant_berberis_vulgaris,Berberis vulgaris,Berberis vulgaris,species_or_higher,False,dřišťál obecný,"původní/pěstovaný, lokálně běžný",True,False,True,False,False,lokalne_bezny,2,1
+plant_beta_vulgaris,Beta vulgaris,Beta vulgaris,species_or_higher,False,řepa červená,"pěstovaná, velmi běžná",False,False,True,False,False,velmi_bezny,1,1
+plant_betula_pendula,Betula pendula,Betula pendula,species_or_higher,False,bříza bělokorá,"původní, běžná",True,False,False,False,False,bezny,2,1
+plant_betula_pendula_betula_pubescens,Betula pendula / Betula pubescens,Betula pendula / Betula pubescens,species_or_higher,False,bříza bělokorá / pýřitá,"původní, běžná",True,False,False,False,False,bezny,4,1
+plant_brassica_oleracea_var_capitata,Brassica oleracea var. capitata,Brassica oleracea var. capitata,species_or_higher,False,zelí hlávkové,"pěstované, velmi běžné",False,False,True,False,False,velmi_bezny,2,1
+plant_brassica_rapa_subsp_rapa,Brassica rapa subsp. rapa,Brassica rapa subsp. rapa,species_or_higher,False,vodnice / tuřín,"pěstovaná, dnes spíše méně běžná",False,False,True,False,False,bezny,2,1
+plant_bunias_orientalis,Bunias orientalis,Bunias orientalis,species_or_higher,False,rukevník východní,"zdomácnělý, lokálně běžný",False,True,False,False,False,lokalne_bezny,1,1
+plant_campanula_rapunculoides,Campanula rapunculoides,Campanula rapunculoides,species_or_higher,False,zvonek řepkovitý,"původní, běžná lokálně",True,False,False,False,False,lokalne_bezny,1,1
+plant_campanula_trachelium,Campanula trachelium,Campanula trachelium,species_or_higher,False,zvonek kopřivolistý,"původní, běžná lokálně",True,False,False,False,False,lokalne_bezny,1,1
+plant_capsella_bursa_pastoris_l_medik,Capsella bursa-pastoris (L.) Medik.,Capsella bursa-pastoris (L.) Medik.,species_or_higher,False,kokoška pastuší tobolka,"zdomácnělá, velmi běžná",False,True,False,False,False,velmi_bezny,3,1
+plant_cardamine_hirsuta,Cardamine hirsuta,Cardamine hirsuta,species_or_higher,False,řeřišničník chlupatý,"původní, velmi běžná",True,False,False,False,False,velmi_bezny,1,1
+plant_cardamine_pratensis,Cardamine pratensis,Cardamine pratensis,species_or_higher,False,řeřišnice luční,"původní, běžná",True,False,False,False,False,bezny,1,1
+plant_carum_carvi,Carum carvi,Carum carvi,species_or_higher,False,kmín kořenný,"původní až dlouhodobě pěstovaný, běžný",True,False,True,False,False,bezny,3,1
+plant_chenopodium_album_l,Chenopodium album L.,Chenopodium album L.,species_or_higher,False,merlík bílý,"zdomácnělý, velmi běžný",False,True,False,False,False,velmi_bezny,2,1
+plant_cichorium_intybus,Cichorium intybus,Cichorium intybus,species_or_higher,False,čekanka obecná,"původní i pěstovaná, běžná",True,False,True,False,False,bezny,1,1
+plant_corylus_avellana,Corylus avellana,Corylus avellana,species_or_higher,False,líska obecná,"původní, běžná",True,False,False,False,False,bezny,3,1
+plant_crataegus_monogyna_jacq_c_laevigata_poir_dc,Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.,Crataegus monogyna Jacq. / C. laevigata (Poir.) DC.,species_or_higher,False,hloh obecný / jednosemenný,"původní, běžný",True,False,False,False,False,bezny,5,1
+plant_cucumis_sativus,Cucumis sativus,Cucumis sativus,species_or_higher,False,okurka setá,"pěstovaná, velmi běžná",False,False,True,False,False,velmi_bezny,1,1
+plant_cucurbita_pepo,Cucurbita pepo,Cucurbita pepo,species_or_higher,False,dýně obecná,"pěstovaná, běžná",False,False,True,False,False,bezny,1,1
+plant_cydonia_oblonga,Cydonia oblonga,Cydonia oblonga,species_or_higher,False,kdoule obecná,"pěstovaná, lokálně běžná",False,False,True,False,False,lokalne_bezny,2,2
+plant_daucus_carota_subsp_sativus,Daucus carota subsp. sativus,Daucus carota subsp. sativus,species_or_higher,False,mrkev obecná,"pěstovaná, velmi běžná",False,False,True,False,False,velmi_bezny,1,1
+plant_fagus_sylvatica,Fagus sylvatica,Fagus sylvatica,species_or_higher,False,buk lesní,"původní, běžný",True,False,False,False,False,bezny,6,1
+plant_filipendula_ulmaria,Filipendula ulmaria,Filipendula ulmaria,species_or_higher,False,tužebník jilmový,"původní, běžný lokálně",True,False,False,False,False,lokalne_bezny,2,1
+plant_fragaria_vesca,Fragaria vesca,Fragaria vesca,species_or_higher,False,jahodník obecný,"původní, běžný",True,False,False,False,False,bezny,4,1
+plant_fragaria_ananassa,Fragaria × ananassa,Fragaria × ananassa,species_or_higher,False,jahodník zahradní,"pěstovaný, velmi běžný",False,False,True,False,False,velmi_bezny,1,1
+plant_galium_aparine,Galium aparine,Galium aparine,species_or_higher,False,svízel přítula,"původní, velmi běžný",True,False,False,False,False,velmi_bezny,1,1
+plant_galium_odoratum,Galium odoratum,Galium odoratum,species_or_higher,False,mařinka vonná,"původní, lokálně běžná",True,False,False,False,False,lokalne_bezny,3,2
+plant_geum_urbanum,Geum urbanum,Geum urbanum,species_or_higher,False,kuklík městský,"původní, velmi běžný",True,False,False,False,False,velmi_bezny,3,1
+plant_glechoma_hederacea_l,Glechoma hederacea L.,Glechoma hederacea L.,species_or_higher,False,popenec břečťanolistý,"původní, velmi běžný",True,False,False,False,False,velmi_bezny,3,1
+plant_helianthus_tuberosus,Helianthus tuberosus,Helianthus tuberosus,species_or_higher,False,topinambur hlíznatý,"pěstovaný i zplaňující, lokálně běžný",False,False,True,True,False,lokalne_bezny,2,1
+plant_hesperis_matronalis,Hesperis matronalis,Hesperis matronalis,species_or_higher,False,večernice vonná,"pěstovaná i zplaňující, lokálně běžná",False,False,True,True,False,lokalne_bezny,1,1
+plant_hippophae_rhamnoides,Hippophae rhamnoides,Hippophae rhamnoides,species_or_higher,False,rakytník řešetlákový,"pěstovaný i zdomácnělý, lokálně běžný",False,True,True,False,False,lokalne_bezny,1,1
+plant_humulus_lupulus_l,Humulus lupulus L.,Humulus lupulus L.,species_or_higher,False,chmel otáčivý,"původní/zdomácnělý, běžný",True,True,False,False,False,bezny,4,1
+plant_juglans_regia,Juglans regia,Juglans regia,species_or_higher,False,ořešák královský,"pěstovaný, místy zplaňující, běžný",False,False,True,True,False,bezny,3,1
+plant_juniperus_communis,Juniperus communis,Juniperus communis,species_or_higher,False,jalovec obecný,"původní, lokálně vzácnější",True,False,False,False,False,vzacnejsi,5,1
+plant_lamium_album_l,Lamium album L.,Lamium album L.,species_or_higher,False,hluchavka bílá,"původní, běžná",True,False,False,False,False,bezny,3,1
+plant_lamium_purpureum_l,Lamium purpureum L.,Lamium purpureum L.,species_or_higher,False,hluchavka nachová,"zdomácnělá/původní, velmi běžná",True,True,False,False,False,velmi_bezny,1,1
+plant_lapsana_communis,Lapsana communis,Lapsana communis,species_or_higher,False,kapustka obecná,"původní, velmi běžná",True,False,False,False,False,velmi_bezny,1,1
+plant_lepidium_campestre,Lepidium campestre,Lepidium campestre,species_or_higher,False,řeřicha rolničková,"původní, běžná lokálně",True,False,False,False,False,lokalne_bezny,1,1
+plant_malus_domestica,Malus domestica,Malus domestica,species_or_higher,False,jabloň domácí,"pěstovaná, velmi běžná",False,False,True,False,False,velmi_bezny,4,1
+plant_malva_sylvestris_l_malva_neglecta_wallr,Malva sylvestris L. / Malva neglecta Wallr.,Malva sylvestris L. / Malva neglecta Wallr.,species_or_higher,False,sléz lesní / sléz přehlížený,"původní/zdomácnělý, běžný",True,True,False,False,False,bezny,4,2
+plant_matricaria_recutita,Matricaria recutita,Matricaria recutita,species_or_higher,False,heřmánek pravý,"běžně pěstovaný, místy zplaňující",False,False,True,True,False,bezny,4,1
+plant_melissa_officinalis,Melissa officinalis,Melissa officinalis,species_or_higher,False,meduňka lékařská,"běžně pěstovaná, místy zplaňující",False,False,True,True,False,bezny,3,1
+plant_mentha_x_piperita,Mentha x piperita,Mentha x piperita,species_or_higher,False,máta peprná,"běžně pěstovaná, místy zplaňující",False,False,True,True,False,bezny,3,1
+plant_mespilus_germanica,Mespilus germanica,Mespilus germanica,species_or_higher,False,mišpule obecná,"pěstovaná, vzácnější",False,False,True,False,False,vzacnejsi,2,1
+plant_morus_alba_morus_nigra,Morus alba / Morus nigra,Morus alba / Morus nigra,species_or_higher,False,moruše bílá / černá,"pěstovaná, lokálně zplaňující",False,False,True,True,False,neurceno,1,1
+plant_origanum_vulgare,Origanum vulgare,Origanum vulgare,species_or_higher,False,dobromysl obecná,"původní/pěstovaná, lokálně běžná",True,False,True,False,False,lokalne_bezny,3,1
+plant_oxalis_acetosella_l,Oxalis acetosella L.,Oxalis acetosella L.,species_or_higher,False,šťavel zaječí,"původní, běžný v lesích",True,False,False,False,False,bezny,2,1
+plant_pastinaca_sativa,Pastinaca sativa,Pastinaca sativa,species_or_higher,False,pastinák setý,"pěstovaný, lokálně běžný",False,False,True,False,False,lokalne_bezny,1,1
+plant_petroselinum_crispum,Petroselinum crispum,Petroselinum crispum,species_or_higher,False,petržel kořenová / naťová,"pěstovaná, velmi běžná",False,False,True,False,False,velmi_bezny,1,1
+plant_picea_abies,Picea abies,Picea abies,species_or_higher,False,smrk ztepilý,"původní/pěstovaný, velmi běžný",True,False,True,False,False,velmi_bezny,6,1
+plant_pinus_sylvestris,Pinus sylvestris,Pinus sylvestris,species_or_higher,False,borovice lesní,"původní, běžná",True,False,False,False,False,bezny,4,1
+plant_plantago_lanceolata,Plantago lanceolata,Plantago lanceolata,species_or_higher,False,jitrocel kopinatý,"původní, velmi běžný",True,False,False,False,False,velmi_bezny,4,1
+plant_plantago_major_l,Plantago major L.,Plantago major L.,species_or_higher,False,jitrocel větší,"původní/zdomácnělý, velmi běžný",True,True,False,False,False,velmi_bezny,3,1
+plant_portulaca_oleracea,Portulaca oleracea,Portulaca oleracea,species_or_higher,False,šrucha zelná,"zdomácnělá, lokálně běžná",False,True,False,False,False,lokalne_bezny,1,1
+plant_prunus_avium,Prunus avium,Prunus avium,species_or_higher,False,třešeň obecná,"pěstovaná i zplaňující, běžná",False,False,True,True,False,bezny,1,1
+plant_prunus_cerasus,Prunus cerasus,Prunus cerasus,species_or_higher,False,višeň obecná,"pěstovaná, běžná",False,False,True,False,False,bezny,1,1
+plant_prunus_domestica,Prunus domestica,Prunus domestica,species_or_higher,False,slivoň švestka / slíva,"pěstovaná, velmi běžná",False,False,True,False,False,velmi_bezny,4,2
+plant_prunus_spinosa,Prunus spinosa,Prunus spinosa,species_or_higher,False,trnka obecná,"původní, velmi běžná",True,False,False,False,False,bezny,4,1
+plant_pulmonaria_officinalis,Pulmonaria officinalis,Pulmonaria officinalis,species_or_higher,False,plicník lékařský,"původní, lokálně běžná",True,False,False,False,False,lokalne_bezny,1,1
+plant_pyrus_communis,Pyrus communis,Pyrus communis,species_or_higher,False,hrušeň obecná,"pěstovaná, běžná",False,False,True,False,False,bezny,4,1
+plant_quercus_robur_q_petraea,Quercus robur / Q. petraea,Quercus robur / Q. petraea,species_or_higher,False,dub letní / dub zimní,"původní, běžný",True,False,False,False,False,bezny,3,1
+plant_quercus_robur_q_petraea_q_pubescens,Quercus robur / Q. petraea / Q. pubescens,Quercus robur / Q. petraea / Q. pubescens,species_or_higher,False,dub,původní,True,False,False,False,False,neurceno,2,1
+plant_quercus_spp,Quercus spp.,Quercus spp.,group,True,dub,"původní, běžný",True,False,False,False,False,bezny,1,1
+plant_rheum_rhabarbarum,Rheum rhabarbarum,Rheum rhabarbarum,species_or_higher,False,reveň kadeřavá,"pěstovaná, lokálně běžná",False,False,True,False,False,lokalne_bezny,1,1
+plant_ribes_nigrum,Ribes nigrum,Ribes nigrum,species_or_higher,False,rybíz černý,"pěstovaný, běžný",False,False,True,False,False,bezny,3,1
+plant_ribes_rubrum,Ribes rubrum,Ribes rubrum,species_or_higher,False,rybíz červený / bílý,"pěstovaný, běžný",False,False,True,False,False,bezny,2,2
+plant_ribes_uva_crispa,Ribes uva-crispa,Ribes uva-crispa,species_or_higher,False,angrešt,"pěstovaný, běžný",False,False,True,False,False,bezny,1,1
+plant_rosa_canina,Rosa canina,Rosa canina,species_or_higher,False,růže šípková,"původní, velmi běžná",True,False,False,False,False,velmi_bezny,5,1
+plant_rubus_fruticosus_agg,Rubus fruticosus agg.,Rubus fruticosus agg.,group,True,ostružiník křovitý,"původní/zdomácnělý, velmi běžný",True,True,False,False,False,velmi_bezny,5,1
+plant_rubus_idaeus,Rubus idaeus,Rubus idaeus,species_or_higher,False,maliník obecný,"původní, běžný",True,False,False,False,False,bezny,5,1
+plant_rumex_acetosa,Rumex acetosa,Rumex acetosa,species_or_higher,False,šťovík kyselý,"původní, běžný",True,False,False,False,False,bezny,1,1
+plant_salix_spp,Salix spp.,Salix spp.,group,True,vrba,"původní, běžná",True,False,False,False,False,bezny,2,1
+plant_sambucus_nigra,Sambucus nigra,Sambucus nigra,species_or_higher,False,bez černý,"původní, velmi běžný",True,False,False,False,False,velmi_bezny,8,1
+plant_sorbus_aucuparia,Sorbus aucuparia,Sorbus aucuparia,species_or_higher,False,jeřáb ptačí,"původní, běžný",True,False,False,False,False,bezny,4,1
+plant_sorbus_domestica,Sorbus domestica,Sorbus domestica,species_or_higher,False,oskeruše,"původní i pěstovaná, velmi lokální",True,False,True,False,False,neurceno,2,2
+plant_stellaria_media_l_vill,Stellaria media (L.) Vill.,Stellaria media (L.) Vill.,species_or_higher,False,ptačinec žabinec,"původní/zdomácnělý, velmi běžný",True,True,False,False,False,velmi_bezny,2,1
+plant_taraxacum_officinale_agg,Taraxacum officinale agg.,Taraxacum officinale agg.,group,True,pampeliška lékařská,"původní, velmi běžná",True,False,False,False,False,velmi_bezny,7,2
+plant_thymus_serpyllum_agg,Thymus serpyllum agg.,Thymus serpyllum agg.,group,True,mateřídouška,"původní, běžná lokálně",True,False,False,False,False,lokalne_bezny,4,1
+plant_thymus_vulgaris,Thymus vulgaris,Thymus vulgaris,species_or_higher,False,tymián obecný,v ČR hlavně pěstovaný,False,False,True,False,False,neurceno,1,1
+plant_tilia_cordata_tilia_platyphyllos,Tilia cordata / Tilia platyphyllos,Tilia cordata / Tilia platyphyllos,species_or_higher,False,lípa srdčitá / lípa velkolistá,"původní, běžná",True,False,False,False,False,bezny,4,1
+plant_tilia_spp,Tilia spp.,Tilia spp.,group,True,lípa,"původní, běžná",True,False,False,False,False,bezny,2,1
+plant_ulmus_glabra,Ulmus glabra,Ulmus glabra,species_or_higher,False,jilm horský,"původní, lokálně běžný",True,False,False,False,False,lokalne_bezny,1,1
+plant_urtica_dioica,Urtica dioica,Urtica dioica,species_or_higher,False,kopřiva dvoudomá,"původní, velmi běžná",True,False,False,False,False,velmi_bezny,4,1
+plant_vaccinium_myrtillus,Vaccinium myrtillus,Vaccinium myrtillus,species_or_higher,False,borůvka černá,"původní, běžná lokálně až hojně",True,False,False,False,False,lokalne_bezny,3,1
+plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l,Verbascum densiflorum Bertol. / V. thapsus L. / V. phlomoides L.,Verbascum densiflorum Bertol. / V. thapsus L. / V. phlomoides L.,species_or_higher,False,divizna,"původní/zdomácnělá, běžná",True,True,False,False,False,bezny,3,1
+plant_veronica_beccabunga,Veronica beccabunga,Veronica beccabunga,species_or_higher,False,rozrazil potoční,"původní, lokálně běžná",True,False,False,False,False,lokalne_bezny,1,1
+plant_viola_odorata_l,Viola odorata L.,Viola odorata L.,species_or_higher,False,violka vonná,"původní/zdomácnělá, běžná",True,True,False,False,False,bezny,3,1
+plant_vitis_vinifera,Vitis vinifera,Vitis vinifera,species_or_higher,False,réva vinná,"pěstovaná, běžná v teplejších oblastech",False,False,True,False,False,bezny,2,1

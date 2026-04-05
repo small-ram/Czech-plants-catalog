@@ -1,0 +1,3 @@
+﻿detail,field,issue_type,record_id,severity,sheet
+Source S69 exists in Zdroje but is not referenced from Starter_dataset.,zdroj_id,unused_source,S69,low,Zdroje
+Source S77 exists in Zdroje but is not referenced from Starter_dataset.,zdroj_id,unused_source,S77,low,Zdroje

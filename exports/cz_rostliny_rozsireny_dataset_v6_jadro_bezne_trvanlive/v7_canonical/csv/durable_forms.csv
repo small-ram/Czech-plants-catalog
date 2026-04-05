@@ -1,0 +1,87 @@
+﻿durable_id,use_id,raw_record_id,plant_display_name,forma_uchovani_text,forma_uchovani_kategorie,orientacni_trvanlivost_text,poznamka_k_skladovani,processing_methods_text,processing_methods_count,is_core_item,proc_je_v_jadru
+durable_r155,r155,R155,jabloň domácí,sušení,suseni,3–12 měsíců,Při správném usušení běžně vydrží mnoho měsíců.,Sušení,1,True,velmi běžná sušená zimní zásoba z českých sadů
+durable_r156,r156,R156,jabloň domácí,ocet / octové kvašení,ocet_octove_kvaseni,6–12+ měsíců,"Správně vedený ocet je bezpečně skladovatelný déle než měsíc, obvykle řadu měsíců.",Kvašení / fermentace · Naložení do octa / ocet,2,True,nejpraktičtější domácí ocet z běžného ovoce
+durable_r157,r157,R157,hrušeň obecná,sušení,suseni,3–12 měsíců,Po dosušení dobře skladovatelné po celé zimní období.,Sušení,1,True,tradiční a robustní zimní forma hrušek
+durable_r158,r158,R158,hrušeň obecná,kvašený nápoj,kvaseny_napoj,3–12 měsíců,Po dokvašení a správném uskladnění vydrží měsíce.,Kvašení / fermentace,1,False,
+durable_r159,r159,R159,slivoň / švestka domácí,zavařenina,zavarenina,6–12 měsíců,Při dobrém zavaření a skladování vydrží mnoho měsíců.,Zavaření / sterilace ve sklenici,1,True,kompaktn? a velmi trvanliv? forma ?vestek
+durable_r160,r160,R160,slivoň / švestka domácí,sušení,suseni,3–12 měsíců,Po správném usušení běžně vydrží měsíce.,Sušení,1,False,
+durable_r161,r161,R161,růže šípková,sušení,suseni,3–12 měsíců,Dobře usušené šípky patří mezi klasické zimní zásoby na mnoho měsíců.,Sušení,1,False,
+durable_r162,r162,R162,růže šípková,sušení,suseni,6–12 měsíců,Po usušení a opražení je směs skladovatelná řadu měsíců.,Sušení,1,False,
+durable_r163,r163,R163,jeřáb ptačí,zavařenina,zavarenina,6–12 měsíců,Ve formě želé jde o výrazně trvanlivější využití než čerstvý plod.,Zavaření / sterilace ve sklenici,1,True,"běžný strom, ale málo známé velmi praktické želé"
+durable_r164,r164,R164,mišpule obecná,zavařenina,zavarenina,6–12 měsíců,Při chladném uložení dává okno využití delší než měsíc.,Zavaření / sterilace ve sklenici,1,True,jedna z nejlepších „výletových“ kyselých zavařenin
+durable_r165,r165,R165,oskeruše domácí,sušení,suseni,3–12 měsíců,Po usušení jde o zimní zásobu na více měsíců.,Sušení,1,True,živý plot + výrazná dlouhodobá chuťová zásoba
+durable_r166,r166,R166,bez černý,sušení,suseni,6–12 měsíců,Správně usušený květ vydrží měsíce a je praktičtější než čerstvé květy.,Sušení,1,True,klasick? su?en? kv?tn? ?ajov? droga z velmi b??n?ho ke?e
+durable_r167,r167,R167,bez černý,sirup / koncentrát,sirup_koncentrat,3–12 měsíců,Ve formě sirupu vydrží obvykle mnoho měsíců.,Sirup / koncentrát,1,False,
+durable_r168,r168,R168,bez černý,sušení,suseni,3–12 měsíců,Dobře usušené plody vydrží měsíce.,Sušení,1,True,silně aromatická a dobře skladovatelná čajová droga
+durable_r169,r169,R169,borůvka černá,sušení,suseni,3–12 měsíců,Po dobrém usušení vydrží měsíce.,Sušení,1,False,
+durable_r170,r170,R170,jahodník obecný,sušení,suseni,6–12 měsíců,Správně usušený list vydrží měsíce.,Sušení,1,False,
+durable_r171,r171,R171,maliník obecný,sušení,suseni,6–12 měsíců,Po usušení jde o standardní zásobu na měsíce.,Sušení,1,True,lesní plod s mimořádně dobrou skladovatelností po usušení
+durable_r172,r172,R172,ostružiník křovitý,sušení,suseni,6–12 měsíců,Usušený list je dobře skladovatelný po měsíce.,Sušení,1,True,křovina a zároveň stabilní listová čajová zásoba
+durable_r173,r173,R173,rybíz černý,sirup / koncentrát,sirup_koncentrat,3–12 měsíců,Ve formě sirupu běžně vydrží mnoho měsíců.,Sirup / koncentrát,1,True,velmi univerzální sirup s vysokou užitnou hodnotou
+durable_r174,r174,R174,líska obecná,suché skladování ve skořápce,suche_skladovani_ve_skorapce,6–12+ měsíců,"Ve skořápce a v chladu vydrží výrazně déle než měsíc, často přes zimu.",,0,True,jeden z nejpraktičtějších skladovaných ořechů
+durable_r175,r175,R175,líska obecná,olej,olej,3–6 měsíců,"Dobře uložený olej vydrží měsíce, ale je citlivější než celé ořechy.",,0,False,
+durable_r176,r176,R176,kopřiva dvoudomá,sušení,suseni,6–12 měsíců,Po usušení vydrží měsíce a umožňuje využít jarní nadbytek i v zimě.,Sušení,1,True,jednoduchý způsob převodu jarní zeleniny do zásoby
+durable_r177,r177,R177,pampeliška / smetanka,sušení,suseni,3–12 měsíců,Po usušení a opražení vydrží směs měsíce.,Sušení,1,True,snadno dostupná kořenová náhražka kávy
+durable_r178,r178,R178,bříza bělokorá / pýřitá,ocet / octové kvašení,ocet_octove_kvaseni,6–12+ měsíců,Ocet je výrazně trvanlivější než čerstvá míza.,Kvašení / fermentace · Naložení do octa / ocet,2,False,
+durable_r179,r179,R179,jalovec obecný,sušení,suseni,3–12 měsíců,Sušené plody jsou typicky skladovatelné po mnoho měsíců.,Sušení,1,True,jedno z nejprakti?t?j??ch lesn?ch ko?en? do z?soby
+durable_r180,r180,R180,vrba,sušení,suseni,6–12 měsíců,Dobře usušená kůra je skladovatelná měsíce až déle.,Sušení,1,True,dob?e skladovateln? k?ra pro tradi?n? odvarov? pou?it?
+durable_r181,r181,R181,dub,sušení,suseni,6–12 měsíců,Usušená droga je skladovatelná déle než měsíc.,Sušení,1,True,silně praktická skladovatelná kůra pro domácí zásobu
+durable_r182,r182,R182,svízel vonný / mařinka vonná,sušení,suseni,6–12 měsíců,Usušená nať vydrží měsíce a vůně se po sušení často zvýrazní.,Sušení,1,False,
+durable_r183,r183,R183,chmel otáčivý,sušení,suseni,3–12 měsíců,Dobře usušené šištice vydrží několik měsíců až sezónu.,Sušení,1,True,trvanlivé aromatické užití z velmi běžné liány
+durable_r184,r184,R184,kmín kořenný,sušení,suseni,6–12 měsíců,Usušené plody vydrží měsíce až déle.,Sušení,1,True,nejpraktičtější české koření vůbec
+durable_r185,r185,R185,řebříček obecný,sušení,suseni,6–12 měsíců,Sušená droga i tinktura běžně vydrží déle než měsíc.,Sušení,1,False,
+durable_r186,r186,R186,divizna,sušení,suseni,6–12 měsíců,Správně usušený květ vydrží měsíce.,Sušení,1,True,klasická zimní květní droga
+durable_r187,r187,R187,sléz / sléz přehlížený,sušení,suseni,6–12 měsíců,Dobře usušená droga vydrží měsíce.,Sušení,1,False,
+durable_r188,r188,R188,mateřídouška,sušení,suseni,6–12 měsíců,Sušená nať vydrží měsíce a je praktičtější než čerstvá.,Sušení,1,True,výborné suché koření z běžných suchých stanovišť
+durable_r189,r189,R189,meduňka lékařská,sušení,suseni,6–12 měsíců,"Kvalitně usušený list vydrží měsíce, i když vůně časem slábne.",Sušení,1,True,kombinuje čaj i vůni v jediné surovině
+durable_r190,r190,R190,máta peprná,sušení,suseni,6–12 měsíců,Dobře usušený list vydrží měsíce.,Sušení,1,True,silná a stabilní čajová i chuťová složka
+durable_r191,r191,R191,heřmánek pravý,sušení,suseni,6–12 měsíců,Usušený květ je standardně skladovatelný po měsíce.,Sušení,1,True,osvědčená čajová stálice
+durable_r192,r192,R192,jedle bělokorá,sirup / koncentrát,sirup_koncentrat,3–12 měsíců,Ve formě sirupu vydrží měsíce.,Sirup / koncentrát,1,False,
+durable_r193,r193,R193,smrk ztepilý,sirup / koncentrát,sirup_koncentrat,3–12 měsíců,Po zavaření vydrží měsíce.,Sirup / koncentrát,1,True,krátké jarní okno převedené do trvanlivé formy
+durable_r194,r194,R194,borovice lesní,sirup / koncentrát,sirup_koncentrat,3–12 měsíců,Sirup bývá skladovatelný měsíce.,Sirup / koncentrát,1,True,lesní jarní aromatika do zásoby
+durable_r195,r195,R195,borůvka černá,zavařenina,zavarenina,6–12 měsíců,Po zavaření běžně vydrží mnoho měsíců.,Zavaření / sterilace ve sklenici,1,True,nejjistější lesní zavařenina
+durable_r196,r196,R196,maliník obecný,sirup / koncentrát,sirup_koncentrat,3–12 měsíců,Sirup vydrží měsíce a dobře zužitkuje přebytky úrody.,Sirup / koncentrát,1,True,měkký plod přeměněný na dlouho držící sirup
+durable_r197,r197,R197,ostružiník křovitý,sirup / koncentrát,sirup_koncentrat,3–12 měsíců,Zavařeniny vydrží měsíce.,Sirup / koncentrát,1,True,velmi běžná křovina s praktickým ovocným výstupem
+durable_r198,r198,R198,růže šípková,sirup / koncentrát,sirup_koncentrat,3–12 měsíců,Po zavaření vydrží měsíce.,Sirup / koncentrát,1,True,jedna z nejlepších českých podzimních zásob
+durable_r199,r199,R199,kdouloň obecná,zavařenina,zavarenina,6–12 měsíců,V husté zavařené formě vydrží měsíce.,Zavaření / sterilace ve sklenici,1,False,
+durable_r200,r200,R200,rybíz červený,zavařenina,zavarenina,6–12 měsíců,Při správném zavaření běžně vydrží mnoho měsíců.,Zavaření / sterilace ve sklenici,1,True,silně pektinové a spolehlivé želé
+durable_r201,r201,R201,ořešák královský,sušení / skladování v chladu,suseni_skladovani_v_chladu,6–12 měsíců,Ve skořápce nebo dobře vysušené vyloupané jádro vydrží při chladu a suchu měsíce.,Sušení · Skladování v chladu,2,True,vysoká dostupnost a vysoká kalorická i kuchyňská hodnota
+durable_r202,r202,R202,ořešák královský,alkoholová macerace,alkoholova_macerace,6–12+ měsíců,Dobře filtrovaný a uzavřený likér běžně vydrží dlouho.,Tinktura / alkoholová macerace,1,True,krátké červnové okno převedené do dlouhé trvanlivosti
+durable_r203,r203,R203,ořešák královský,sušení,suseni,3–12 měsíců,Správně usušený list vydrží měsíce pro zevní použití.,Sušení,1,True,oficiálně podložená skladovatelná zevní droga
+durable_r204,r204,R204,dobromysl obecná,sušení,suseni,6–12 měsíců,Jako koření drží při suchu a temnu dobře.,Sušení,1,True,běžná bylina s výbornou skladovatelností a chutí
+durable_r205,r205,R205,dobromysl obecná,sušení,suseni,6–12 měsíců,Jako čajová droga je dobře skladovatelný po celé sezóny.,Sušení,1,True,pitná varianta dobře známého koření
+durable_r206,r206,R206,dobromysl obecná,sušené svazečky / sáčky,susene_svazecky_sacky,2–6 měsíců,"Aroma vydrží týdny až měsíce, pak slábne.",Sušení,1,False,
+durable_r207,r207,R207,pelyněk černobýl,sušený svazeček,suseny_svazecek,3–12 měsíců,Při suchém skladování drží dlouho.,Sušení,1,True,běžný ruderál s překvapivě silnou aromatickou funkcí
+durable_r208,r208,R208,pelyněk černobýl,sušení,suseni,3–12 měsíců,"Jako koření vydrží dobře, ale aroma časem slábne.",Sušení,1,False,
+durable_r209,r209,R209,pelyněk černobýl,sušení,suseni,3–12 měsíců,"Silná bylina, malé spotřeby, proto vydrží dlouho.",Sušení,1,False,
+durable_r210,r210,R210,dřišťál obecný,sušení,suseni,6–12 měsíců,Dobře usušené plody se chovají podobně jako jiné kyselé sušené bobule.,Sušení,1,True,"světově silný, u nás málo využívaný kyselý plod"
+durable_r211,r211,R211,dřišťál obecný,sirup / želé,sirup_zele,6–12+ měsíců,Po správném zavaření běžně drží mnoho měsíců.,Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem,3,True,kyselé plody převedené do bezpečné a použitelné formy
+durable_r212,r212,R212,dub letní / dub zimní,sušení / mezisklad,suseni_mezisklad,3–8 měsíců,Usušené žaludy lze bezpečněji držet do dalšího zpracování.,Sušení · Skladování v chladu,2,True,praktický mezisklad před náročnějším zpracováním
+durable_r213,r213,R213,dub letní / dub zimní,sušená mouka,susena_mouka,1–6 měsíců,"Po vyluhování a dobrém dosušení je reálné několik měsíců, nejlépe v chladu.",Sušení,1,True,vysoce zajímavá zapomenutá škrobová zásoba
+durable_r214,r214,R214,buk lesní,pražení + suché skladování,prazeni_suche_skladovani,1–3 měsíce,Tuková semena mají kratší optimální skladovatelnost.,,0,True,opomíjený lesní oříšek
+durable_r215,r215,R215,buk lesní,pražení + mletí,prazeni_mleti,3–6 měsíců,Celá pražená surovina drží déle než namleté.,,0,True,"vzácná, ale reálně udělatelná kávová náhražka"
+durable_r216,r216,R216,buk lesní,lisovaný olej,lisovany_olej,6–12 měsíců,V uzavřené tmavé lahvi v chladu jde o měsíce.,,0,False,
+durable_r217,r217,R217,bříza bělokorá,suché skladování troudu,suche_skladovani_troudu,12+ měsíců,V suchu je březová kůra použitelná velmi dlouho.,,0,True,snadno přenosný podpal z běžné procházky
+durable_r218,r218,R218,pampeliška lékařská,sušení,suseni,6–12 měsíců,Kořen je po dosušení velmi dobře skladovatelný.,Sušení,1,True,velmi dostupný kořenový pantry produkt
+durable_r219,r219,R219,pampeliška lékařská,sirup / zavaření,sirup_zavareni,3–12 měsíců,Dle koncentrace cukru a zavaření běžně drží měsíce.,Sirup / koncentrát · Zavaření / sterilace ve sklenici,2,False,
+durable_r220,r220,R220,kopřiva dvoudomá,sušení,suseni,6–12 měsíců,"Semena po dosušení vydrží dobře, pokud nejsou vlhká.",Sušení,1,True,silná „wild pantry“ přísada z plevele
+durable_r221,r221,R221,kopřiva dvoudomá,sušení + mletí,suseni_mleti,3–9 měsíců,"Prášek drží kratší dobu než celé listy, ale stále měsíce.",Sušení,1,True,kompaktní zelený prášek s vysokou praktičností
+durable_r222,r222,R222,hloh obecný / jednosemenný,sušení,suseni,3–12 měsíců,Suché plody do směsí drží dobře.,Sušení,1,True,živý plot jako čajová zásoba
+durable_r223,r223,R223,jeřáb ptačí,alkoholová macerace,alkoholova_macerace,6–12+ měsíců,Likér nebo cordial je při správném uzávěru dlouhodobý.,Tinktura / alkoholová macerace,1,True,výrazný podzimní stromový likér
+durable_r224,r224,R224,jeřáb ptačí,sušení,suseni,3–12 měsíců,Po dobrém dosušení vhodné do zimních směsí.,Sušení,1,False,
+durable_r225,r225,R225,trnka obecná,alkoholová macerace,alkoholova_macerace,6–12+ měsíců,Tradičně skladováno dlouhé měsíce.,Tinktura / alkoholová macerace,1,True,křovinná klasika s dlouhou skladovatelností
+durable_r226,r226,R226,trnka obecná,sušení,suseni,3–12 měsíců,"Sušené plody drží dobře, chuť zůstává výrazná.",Sušení,1,False,
+durable_r227,r227,R227,trnka obecná,nakládání,nakladani,3–12 měsíců,Po naložení a uchování v chladu jde o měsíční až delší trvanlivost.,Nakládání,1,False,
+durable_r228,r228,R228,svízel přítula,pražení + suché skladování,prazeni_suche_skladovani,3–12 měsíců,Semena lze držet suchá a pražit průběžně nebo předem.,,0,True,jedna z nejzajímavějších náhražek kávy z běžného plevele
+durable_r229,r229,R229,kuklík městský,sušení,suseni,6–12 měsíců,Kořen jako koření drží výborně.,Sušení,1,True,vynikající zapomenuté koření z lesních cest
+durable_r230,r230,R230,kuklík městský,sušení,suseni,6–12 měsíců,Sušený kořen do nápojů funguje podobně jako jiné kořenné drogy.,Sušení,1,True,nápojová verze téhož kořenného kořene
+durable_r231,r231,R231,kuklík městský,sušený aromatický sáček,suseny_aromaticky_sacek,3–12 měsíců,"Vůně drží měsíce, pak slábne.",Sušení,1,False,
+durable_r232,r232,R232,smrk ztepilý,tvrdá pryskyřice,tvrda_pryskyrice,12+ měsíců,Pryskyřice je jedna z nejtrvanlivějších aromatických surovin.,,0,True,mimořádně trvanlivá lesní vůně
+durable_r233,r233,R233,ostružiník křovitý,sušení,suseni,6–12 měsíců,Listy při suchém uskladnění vydrží dobře přes zimu.,Sušení,1,True,"křoviny jako zdroj čaje, ne jen plodů"
+durable_r234,r234,R234,jahodník obecný,sušení,suseni,6–12 měsíců,Jemný listový čaj dobře drží při suchu.,Sušení,1,True,listový čaj z velmi běžné lesní byliny
+durable_r235,r235,R235,bez černý,sušení,suseni,6–12 měsíců,"Dobře usušené plody vydrží mnoho měsíců, ale používají se po úpravě.",Sušení,1,True,podzimní bez převedený do sušené zásoby
+durable_r236,r236,R236,jitrocel kopinatý,sušení,suseni,6–12 měsíců,List jako sušená droga běžně vydrží po celé zimní období.,Sušení,1,True,velmi snadná a spolehlivá domácí léčivá zásoba
+durable_r237,r237,R237,růže šípková,sušení + mletí,suseni_mleti,3–12 měsíců,"Prášek drží měsíce, pokud je opravdu suchý a bez chloupků.",Sušení,1,True,kompaktní forma jednoho z nejlepších českých plodů
+durable_r240,r240,R240,hloh obecný / jednosemenný,sušení listů na čajovou směs,suseni_listu_na_cajovou_smes,6–12 měsíců,"V suchu, temnu a dobře uzavřené nádobě.",Sušení,1,False,
+durable_r242,r242,R242,pažitka pobřežní,sušení nebo mražení nasekaných listů,suseni_nebo_mrazeni_nasekanych_listu,3–12 měsíců,"Sušenou pažitku držet v suchu a temnu, mraženou v dobře uzavřeném obalu.",Sušení · Mražení,2,False,
+durable_r244,r244,R244,lípa srdčitá / lípa velkolistá,odpaření mízy na koncentrát / sirup,odpareni_mizy_na_koncentrat_sirup,6–12 měsíců,Po důkladném odpaření plnit horké do čistých lahví a skladovat v chladu a temnu.,Sirup / koncentrát,1,False,

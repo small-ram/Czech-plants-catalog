@@ -1,0 +1,1376 @@
+[
+  {
+    "original_value": "jarní zelenina",
+    "count": 4,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / čaj",
+    "count": 4,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "koření",
+    "count": 3,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "listový čaj",
+    "count": 3,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / tradiční bylinný přípravek",
+    "count": 3,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "fermentovaný nápoj / sirup / ocet",
+    "count": 2,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "jarní zelenina / polévka / špenát",
+    "count": 2,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev",
+    "count": 2,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / bylinný přípravek",
+    "count": 2,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / extrakt",
+    "count": 2,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "rychlé teplo / podpal",
+    "count": 2,
+    "suggested_value": "palivo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / nálev / tradiční domácí užití",
+    "count": 2,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / čaj",
+    "count": 2,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup z mladých výhonků",
+    "count": 2,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušená nať jako koření",
+    "count": 2,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "tvrdé palivové dřevo",
+    "count": 2,
+    "suggested_value": "palivo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvá jarní míza",
+    "count": 2,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "čerstvé plody / sirup / džem",
+    "count": 2,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé plody / sirup / sušení",
+    "count": 2,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé plody / sušení / kompot",
+    "count": 2,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "adstringentní droga",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "aromatický nálev / čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "aromatický nápoj / bylinné víno",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "aromatický sáček / potpourri",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "aromatický čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "bezinkový sirup / šťávový koncentrát",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "borůvkový džem / zavařenina",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "březová kůra jako troud a nouzový podpal",
+    "count": 1,
+    "suggested_value": "palivo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "březový ocet",
+    "count": 1,
+    "suggested_value": "ocet",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "cibulový sirup / tradiční domácí užití",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "destilát / likér",
+    "count": 1,
+    "suggested_value": "liker_macerat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "dužina / semena / pečení / polévka",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "dětská svačina / kuriozita",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "fermentace / středoevropský analog",
+    "count": 1,
+    "suggested_value": "fermentace",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "fermentované zpracování / ocet / kvašený základ",
+    "count": 1,
+    "suggested_value": "ocet",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "folk bylinné užití",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "folk bylinný čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "folk zevní přiložení",
+    "count": 1,
+    "suggested_value": "zevni_aplikace",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "folk čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "folk čaj / domácí užití",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "folk čaj / obklad",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "hořká droga / nálev / extrakt",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "hořký bylinný nálev",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "jablečný ocet / cider vinegar",
+    "count": 1,
+    "suggested_value": "ocet",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "jarní listy do směsí / krátce vařené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "jarní míza / odpaření na sirup",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "jarní salát / potherb",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "jarní zelenina / kuriozita",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "jarní zelenina / pesto / pomazánka",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "jedlé květy",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "jedlé květy / salát",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "jeřabinový likér / cordial",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "kadidlo / vykuřování / aromatická pryskyřice",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "kaše / příměs do mouky",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "kdoulová marmeláda / membrillo",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "kompot / pečení / sirup",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "koupel / napařování / aromatický polštářek",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "kořenová zelenina",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "kořenová zelenina / aromatická nať",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "kořenová zelenina / vývar / salát",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "koření / bylinná zelenina",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "koření / pesto / salát",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "koření / semenná přísada",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "koření / zelenina / fermentace",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "kořenící zelenina / čerstvý křen",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "květový čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "kysané zelí / zelné šťávy",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "kávová náhražka",
+    "count": 1,
+    "suggested_value": "kavova_nahrada",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "křížaly / sušené plátky",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "letní salátová zelenina",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "listová zelenina / kávová náhražka z kořene",
+    "count": 1,
+    "suggested_value": "kavova_nahrada",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "listová zelenina po úpravě",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "listy a květy do jarního salátu",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "listy a květy do salátu / jako ozdoba",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "listy syrové / krátce povařené ve směsi",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "listy syrové / vařené jako jarní bylina",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "malinový sirup",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "mladé bukové listy do salátu",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "mladé listy a lodyhy syrové / vařené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "mladé listy a výhonky do salátu",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "mladé listy a výhony syrové / vařené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "mladé listy do salátu / na chléb",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "mladé listy syrové / krátce tepelně upravené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "mladé listy syrové / krátce vařené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "mladé listy syrové / vařené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "mošt / cider / ocet",
+    "count": 1,
+    "suggested_value": "ocet",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "mošt / perry / odvar ze sušených plodů",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nakládané nezralé trnky jako „olivy“",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "nakládané vinné listy / globální analog",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "náhražka kávy",
+    "count": 1,
+    "suggested_value": "kavova_nahrada",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "náhražka kávy ze semen",
+    "count": 1,
+    "suggested_value": "kavova_nahrada",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / digestivní čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / kloktadlo / obklad",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / macerát / sirup",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / obklad",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / oromukózní infuze",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / pivní aromatizace",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev / tradiční užití",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "nálev při suchém kašli",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "obklad / omývání / kožní použití",
+    "count": 1,
+    "suggested_value": "zevni_aplikace",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "odvar / extrakt",
+    "count": 1,
+    "suggested_value": "odvar",
+    "confidence": "high"
+  },
+  {
+    "original_value": "olej z bukvic",
+    "count": 1,
+    "suggested_value": "olej",
+    "confidence": "high"
+  },
+  {
+    "original_value": "olej z lískových ořechů",
+    "count": 1,
+    "suggested_value": "olej",
+    "confidence": "high"
+  },
+  {
+    "original_value": "ostružinový sirup nebo želé",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "osvěžující kyselá nať",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "osvěžující nálev",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "oříšek / olej",
+    "count": 1,
+    "suggested_value": "olej",
+    "confidence": "high"
+  },
+  {
+    "original_value": "pampeliškový sirup / „med“",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "peprná příměs do salátu / na chléb",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "peprné listy a výhony syrové / vařené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "perry / hruškový kvašený nápoj",
+    "count": 1,
+    "suggested_value": "fermentace",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "pečený / polévka / pyré",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "pečený / polévky / pyré",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "pivní hořčina / bylinný nálev",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "plody po uleželosti / mošt / povidla",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "pochodeň / podpal",
+    "count": 1,
+    "suggested_value": "palivo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "polštářek / aromatický sáček",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "potherb / „špenát“",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "potpourri / šatník / pokojová vůně",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "povidla",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "povidla / marmeláda / likér",
+    "count": 1,
+    "suggested_value": "liker_macerat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "povidla / želé / sušený plod",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "pražená náhražka kávy / globální analog",
+    "count": 1,
+    "suggested_value": "kavova_nahrada",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "pražená semena jako kávová náhražka",
+    "count": 1,
+    "suggested_value": "kavova_nahrada",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "pražené bukvice jako kávová náhražka",
+    "count": 1,
+    "suggested_value": "kavova_nahrada",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "pražené bukvice jako zimní zásoba",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "pražený kořen jako náhražka kávy",
+    "count": 1,
+    "suggested_value": "kavova_nahrada",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "rybízové želé",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "rychle chytající palivo",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "salát / jarní zelenina",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "salát / polévka / zelená omáčka",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "salát / potherb",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / kandování / aromatická dekorace",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / kompot / zavařeniny",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / limonáda / cordial",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / med / obklad",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / odvar / tradiční domácí užití",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / víno / sladký macerát",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup / čaj / limonáda",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup nebo želé z plodů",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sirup z pupenů nebo výhonků",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "skladované ořechy ve skořápce",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "slizovitá zelenina / zahušťovadlo",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "slizovitý nálev",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "smažené květenství / kosmatice",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "smrková pryskyřice jako kadidlo / vykuřovadlo",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušená dubová kůra do zásoby",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušená kopřivová semena jako zásobní přísada",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušená kůra do zásoby na odvar",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušená nať jako hořké koření k tučným jídlům",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušená nať na bylinný čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušená slézová droga",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené bezinky do odvaru nebo čajové směsi",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené bezinky do zimních směsí",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené borůvky",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené hložinky do čajových směsí",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené hrušky / křížaly",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené jalovčinky jako koření",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené jeřabiny do čajových směsí",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené kmínové semeno jako koření",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené listy na nálev / čajovou náhražku",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené ořechy ve skořápce nebo vyloupané",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené plody",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené plody jako kyselý dochucovač",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené svazečky nebo aromatické sáčky",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené trnky do čajových směsí",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené šištice do polštářku",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené švestky",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené šípky na čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený bezový květ na čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený jahodníkový list na čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený kopřivový prášek do zásoby",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený kořen do odvaru nebo svařených nápojů",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený kořen do zásoby pro pozdější pražení",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený kořen jako koření s hřebíčkovým tónem",
+    "count": 1,
+    "suggested_value": "koreni_dochucovadlo",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený květ do čaje",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený květ na čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list do zimních čajových směsí",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list do zásoby",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list maliníku",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list na bylinný čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list na čaj a aromatické sáčky",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list na čaj nebo zelený prášek",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list na čajové směsi",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list ostružiníku",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený list pro zevní oplachy a koupele",
+    "count": 1,
+    "suggested_value": "zevni_aplikace",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený vykuřovací svazeček / aromatická bylina",
+    "count": 1,
+    "suggested_value": "vune_a_vykurovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušený šípkový prášek",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "syrová / kvašená / nakládaná",
+    "count": 1,
+    "suggested_value": "fermentace",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "syrová / vařená / kvašená",
+    "count": 1,
+    "suggested_value": "fermentace",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "syrová / vařená / základ kuchyně",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "syrové / vařené / dušené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "syrový salát / jarní zelenina",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "tinktura nebo sušená droga",
+    "count": 1,
+    "suggested_value": "liker_macerat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "tradiční bylinný léčivý přípravek",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "tradiční domácí užití / macerát / sirup",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "trnkový likér",
+    "count": 1,
+    "suggested_value": "liker_macerat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "uchování zvěřiny",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "uleželé plody / želé / pyré",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "uleželé plody do sklepa / bletting",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "usušené žaludy k pozdějšímu zpracování",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "usušený kořen do prádla a skříní",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "vařená / pečená / kaše",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "vařená / pečená / kvas",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "vonné sáčky / cukr / macerát",
+    "count": 1,
+    "suggested_value": "liker_macerat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "zelenovlašský likér / ořechovka",
+    "count": 1,
+    "suggested_value": "liker_macerat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "zevní obklad",
+    "count": 1,
+    "suggested_value": "zevni_aplikace",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čaj / džem / sirup / víno / náhražka kávy ze semen",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čaj / lehká náhražka černého čaje",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čaj při nachlazení",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "časná peprná brukvovitá zeleň",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "černorybízový sirup",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvá nať / sušení / mražení",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé hrozny / mošt / ocet",
+    "count": 1,
+    "suggested_value": "ocet",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé ovoce / džem",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé plody / džem / sirup",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé plody / kompot / džem",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé plody / mošt / sušení / pečení",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé plody / sušení / povidla",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvé plody / sušení / sirup / kompot",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "čerstvý ořech / sušení / pasta / mléko",
+    "count": 1,
+    "suggested_value": "suseni_skladovani",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "šípkový sirup / džem",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "šťáva / džem / víno / likér",
+    "count": 1,
+    "suggested_value": "liker_macerat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "šťáva / pyré / sirup",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "žaludová mouka po vyluhování a dosušení",
+    "count": 1,
+    "suggested_value": "mouka_skrob",
+    "confidence": "high"
+  },
+  {
+    "original_value": "želé / marmeláda / sirup / pečení",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "želé / povidla / likér po úpravě",
+    "count": 1,
+    "suggested_value": "liker_macerat",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "želé / rosol po tepelné úpravě",
+    "count": 1,
+    "suggested_value": "zavarenina",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "želé / sirup / džem",
+    "count": 1,
+    "suggested_value": "sirup_koncentrat",
+    "confidence": "medium"
+  }
+]

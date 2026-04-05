@@ -1,0 +1,857 @@
+[
+  {
+    "source_id": "s01",
+    "raw_source_id": "S01",
+    "nazev": "Czech ethnobotanical review of wild edible plants / White Carpathians",
+    "url": "https://www.researchgate.net/publication/320166986_Traditional_Plant_Knowledge_in_the_White_Carpathians_Ethnobotany_of_Wild_Food_Plants_and_Crop_Wild_Relatives_in_the_Czech_Republic",
+    "source_family": "researchgate",
+    "is_referenced": true,
+    "poznamka": "ČR; hlavní zdroj pro potravní a méně známá použití."
+  },
+  {
+    "source_id": "s02",
+    "raw_source_id": "S02",
+    "nazev": "Uses of tree saps in northern and eastern parts of Europe",
+    "url": "https://www.researchgate.net/publication/234004639_Uses_of_tree_saps_in_northern_and_eastern_parts_of_Europe",
+    "source_family": "researchgate",
+    "is_referenced": true,
+    "poznamka": "Globální analog pro mízu, zejména břízu; aplikovatelné na ČR."
+  },
+  {
+    "source_id": "s03",
+    "raw_source_id": "S03",
+    "nazev": "EMA: Tiliae flos monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tilia-cordata-mill-tilia-platyphyllos-scop-tilia_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie lipového květu."
+  },
+  {
+    "source_id": "s04",
+    "raw_source_id": "S04",
+    "nazev": "EMA: Salicis cortex monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-purpurea-l-salix-daphnoides-vill-salix-fragilis-l_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie vrbové kůry."
+  },
+  {
+    "source_id": "s05",
+    "raw_source_id": "S05",
+    "nazev": "EMA: Juniperi pseudofructus monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-juniperus-communis-l-pseudofructus_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie jalovcových pseudoplodů."
+  },
+  {
+    "source_id": "s06",
+    "raw_source_id": "S06",
+    "nazev": "EMA: Thymi herba/oleum monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-thymus-vulgaris-l-thymus-zygis-l-herba_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie tymiánu."
+  },
+  {
+    "source_id": "s07",
+    "raw_source_id": "S07",
+    "nazev": "EMA: Betulae folium monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie březového listu."
+  },
+  {
+    "source_id": "s08",
+    "raw_source_id": "S08",
+    "nazev": "EMA: Sambuci flos monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie bezového květu."
+  },
+  {
+    "source_id": "s09",
+    "raw_source_id": "S09",
+    "nazev": "EMA: Millefolii herba monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-achillea-millefolium-l-herba_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie řebříčku."
+  },
+  {
+    "source_id": "s10",
+    "raw_source_id": "S10",
+    "nazev": "EMA: Quercus cortex monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-quercus-robur-l-quercus-petraea-liebl-quercus-pubescens-willd-cortex_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie dubové kůry."
+  },
+  {
+    "source_id": "s11",
+    "raw_source_id": "S11",
+    "nazev": "Galium odoratum – A modern herbal",
+    "url": "https://www.botanical.com/botanical/mgmh/w/wodruf07.html",
+    "source_family": "www_botanical_com",
+    "is_referenced": true,
+    "poznamka": "Historické a praktické aromatické použití mařinky vonné; nižší důkaznost."
+  },
+  {
+    "source_id": "s12",
+    "raw_source_id": "S12",
+    "nazev": "Forest Research: Wood as fuel",
+    "url": "https://cdn.forestresearch.gov.uk/2022/02/fr-bec-wood-as-fuel_v2.pdf",
+    "source_family": "cdn_forestresearch_gov_uk",
+    "is_referenced": true,
+    "poznamka": "Technický zdroj k vlhkosti, sezónování a rozdílům mezi dřevy."
+  },
+  {
+    "source_id": "s13",
+    "raw_source_id": "S13",
+    "nazev": "NMSU: Firewood Facts",
+    "url": "https://pubs.nmsu.edu/_g/G601/",
+    "source_family": "pubs_nmsu_edu",
+    "is_referenced": true,
+    "poznamka": "Praktický technický přehled topných vlastností dřeva."
+  },
+  {
+    "source_id": "s14",
+    "raw_source_id": "S14",
+    "nazev": "Max Planck Institute: Spruce resin chemistry / incense context",
+    "url": "https://www.mpi-marburg.mpg.de/644782/2020-07-lab-on-a-chip-resin",
+    "source_family": "www_mpi_marburg_mpg_de",
+    "is_referenced": true,
+    "poznamka": "Aromatický a pryskyřičný kontext smrku."
+  },
+  {
+    "source_id": "s15",
+    "raw_source_id": "S15",
+    "nazev": "EMA: Matricaria recutita flos monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos-first-version_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie heřmánku pravého."
+  },
+  {
+    "source_id": "s16",
+    "raw_source_id": "S16",
+    "nazev": "EMA: Melissa officinalis folium monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-melissa-officinalis-l-folium_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie meduňky lékařské."
+  },
+  {
+    "source_id": "s17",
+    "raw_source_id": "S17",
+    "nazev": "EMA: Mentha x piperita folium monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie máty peprné (list)."
+  },
+  {
+    "source_id": "s18",
+    "raw_source_id": "S18",
+    "nazev": "EMA: Plantago lanceolata folium assessment report / monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální podklad k jitroceli kopinatému; kašel, oromukózní a kožní užití."
+  },
+  {
+    "source_id": "s19",
+    "raw_source_id": "S19",
+    "nazev": "EMA: Carum carvi fructus monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie kmínu kořenného."
+  },
+  {
+    "source_id": "s20",
+    "raw_source_id": "S20",
+    "nazev": "EMA: Rubi idaei folium summary",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/rubi-idaei-folium",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální shrnutí k maliníkovému listu."
+  },
+  {
+    "source_id": "s21",
+    "raw_source_id": "S21",
+    "nazev": "The Importance of Pine Species in the Ethnomedicine of Transylvania (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9506106/",
+    "source_family": "pmc",
+    "is_referenced": true,
+    "poznamka": "Karpaty; silný globální analog pro smrk, borovici a jedli, zejména mladé výhonky, šišky a sirupy."
+  },
+  {
+    "source_id": "s22",
+    "raw_source_id": "S22",
+    "nazev": "Divergence of Ethnobotanical Knowledge of Slovenians (MDPI)",
+    "url": "https://www.mdpi.com/2223-7747/10/10/2087",
+    "source_family": "mdpi",
+    "is_referenced": true,
+    "poznamka": "Střední/JV Evropa; analog pro sirupy ze smrku a borovice a pro jedlé použití jitrocele."
+  },
+  {
+    "source_id": "s23",
+    "raw_source_id": "S23",
+    "nazev": "EMA: Filipendulae ulmariae flos page",
+    "url": "https://www.ema.europa.eu/en/medicines/herbal/filipendulae-ulmariae-flos",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální stránka k tužebníku jilmovému (květ)."
+  },
+  {
+    "source_id": "s24",
+    "raw_source_id": "S24",
+    "nazev": "EMA: Ribes nigrum folium monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ribes-nigrum-l-folium_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie listu rybízu černého."
+  },
+  {
+    "source_id": "s25",
+    "raw_source_id": "S25",
+    "nazev": "Medlar — A Comprehensive and Integrative Review (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8622783/",
+    "source_family": "pmc",
+    "is_referenced": true,
+    "poznamka": "Přehledový zdroj k mišpuli; zapomenuté ovoce, využití a složení."
+  },
+  {
+    "source_id": "s26",
+    "raw_source_id": "S26",
+    "nazev": "Oskeruše – zapomenutý ovocný strom Evropy II",
+    "url": "https://ziva.avcr.cz/files/ziva/pdf/oskeruse-zapomenuty-ovocny-strom-evropy-ii.pdf",
+    "source_family": "ziva_avcr_cz",
+    "is_referenced": true,
+    "poznamka": "ČR; přehled k oskeruši, jejímu rozšíření a tradičnímu využití."
+  },
+  {
+    "source_id": "s27",
+    "raw_source_id": "S27",
+    "nazev": "Occurrence and Records of Old Varieties of Pome Fruit in the Tišnov Region",
+    "url": "https://acta.mendelu.cz/pdfs/acu/2016/01/05.pdf",
+    "source_family": "acta_mendelu_cz",
+    "is_referenced": true,
+    "poznamka": "ČR; staré odrůdy jablek a hrušní, lokální kontinuita pěstování."
+  },
+  {
+    "source_id": "s28",
+    "raw_source_id": "S28",
+    "nazev": "The Turnip (Brassica rapa L. subsp. rapa) in Eastern Tyrol",
+    "url": "https://ethnobotanyjournal.org/index.php/era/article/download/138/123/502",
+    "source_family": "ethnobotanyjournal_org",
+    "is_referenced": true,
+    "poznamka": "Středoevropský/Alpský analog pro vodnici a fermentované použití."
+  },
+  {
+    "source_id": "s29",
+    "raw_source_id": "S29",
+    "nazev": "Jerusalem Artichoke as a Strategic Crop for Solving Food Security Problems",
+    "url": "https://www.mdpi.com/2073-4395/12/2/465",
+    "source_family": "mdpi",
+    "is_referenced": true,
+    "poznamka": "Přehled topinamburu; temperátní klima, potravní a vedlejší využití."
+  },
+  {
+    "source_id": "s30",
+    "raw_source_id": "S30",
+    "nazev": "Ethnobotanical Survey of Culturally Important Plants in North-Western Croatia",
+    "url": "https://www.researchgate.net/publication/381216067_Ethnobotanical_Survey_of_Culturally_Important_Plants_and_Mushrooms_in_North-Western_Part_of_Croatia",
+    "source_family": "researchgate",
+    "is_referenced": true,
+    "poznamka": "Středoevropský analog pro tradiční potravní a domácí léčebné užití mnoha zahradních druhů."
+  },
+  {
+    "source_id": "s31",
+    "raw_source_id": "S31",
+    "nazev": "EMA: Taraxaci radix cum herba monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-taraxacum-officinale-weber-ex-wigg-radix-cum-herba_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie pampeliškového kořene s natí."
+  },
+  {
+    "source_id": "s32",
+    "raw_source_id": "S32",
+    "nazev": "EMA: Crataegus spp. folium cum flore monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie hlohového listu s květem."
+  },
+  {
+    "source_id": "s33",
+    "raw_source_id": "S33",
+    "nazev": "EMA: Verbasci flos monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie diviznového květu."
+  },
+  {
+    "source_id": "s34",
+    "raw_source_id": "S34",
+    "nazev": "EMA: Malva sylvestris / M. neglecta folium assessment report",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-malva-sylvestris-l-andor-malva-neglecta-wallr-folium-and-malva-sylvestris-l-flos-first-version_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální podklad pro slézový list a květ."
+  },
+  {
+    "source_id": "s35",
+    "raw_source_id": "S35",
+    "nazev": "PFAF: Stellaria media",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Stellaria+media",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro potravní a folk použití ptačince; nižší důkaznost než EMA."
+  },
+  {
+    "source_id": "s36",
+    "raw_source_id": "S36",
+    "nazev": "PFAF: Glechoma hederacea",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Glechoma+hederacea",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro potravní, aromatické a folk použití popence."
+  },
+  {
+    "source_id": "s37",
+    "raw_source_id": "S37",
+    "nazev": "PFAF: Bellis perennis",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Bellis+perennis",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro jedlé a folk použití sedmikrásky."
+  },
+  {
+    "source_id": "s38",
+    "raw_source_id": "S38",
+    "nazev": "PFAF: Lamium album",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Lamium+album",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro jedlé a folk použití hluchavky bílé."
+  },
+  {
+    "source_id": "s39",
+    "raw_source_id": "S39",
+    "nazev": "PFAF: Viola odorata",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Viola+odorata",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro jedlé, aromatické a folk použití violky vonné."
+  },
+  {
+    "source_id": "s40",
+    "raw_source_id": "S40",
+    "nazev": "PFAF: Alliaria petiolata",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Alliaria+petiolata",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro česnáček; jedlé listy a semena jako koření."
+  },
+  {
+    "source_id": "s41",
+    "raw_source_id": "S41",
+    "nazev": "PFAF: Capsella bursa-pastoris",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Capsella+bursa-pastoris",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro kokošku; jedlé a folk použití."
+  },
+  {
+    "source_id": "s42",
+    "raw_source_id": "S42",
+    "nazev": "PFAF: Oxalis acetosella",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Oxalis+acetosella",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro šťavel zaječí; potravní a folk použití."
+  },
+  {
+    "source_id": "s43",
+    "raw_source_id": "S43",
+    "nazev": "PFAF: Arctium lappa",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Arctium+lappa",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro lopuch; kořen jako potravní analog gobo."
+  },
+  {
+    "source_id": "s44",
+    "raw_source_id": "S44",
+    "nazev": "PFAF: Humulus lupulus",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Humulus+lupulus",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro chmel; mladé výhonky, aroma a folk užití."
+  },
+  {
+    "source_id": "s45",
+    "raw_source_id": "S45",
+    "nazev": "PFAF: Chenopodium album",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Chenopodium+album",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro merlík; listy a semena."
+  },
+  {
+    "source_id": "s46",
+    "raw_source_id": "S46",
+    "nazev": "PFAF: Plantago major",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Plantago+major",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro jitrocel větší; jedlé a folk použití."
+  },
+  {
+    "source_id": "s47",
+    "raw_source_id": "S47",
+    "nazev": "PFAF: Thymus serpyllum",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Thymus+serpyllum",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro mateřídoušku."
+  },
+  {
+    "source_id": "s48",
+    "raw_source_id": "S48",
+    "nazev": "PFAF: Rubus fruticosus",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro ostružiník; plody a listový čaj."
+  },
+  {
+    "source_id": "s49",
+    "raw_source_id": "S49",
+    "nazev": "PFAF: Malus domestica",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Malus+domestica",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro jablka; použít hlavně pro potravní a skladovací formy."
+  },
+  {
+    "source_id": "s50",
+    "raw_source_id": "S50",
+    "nazev": "PFAF: Pyrus communis",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Pyrus+communis",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro hrušně; vhodný pro sušení a perry."
+  },
+  {
+    "source_id": "s51",
+    "raw_source_id": "S51",
+    "nazev": "PFAF: Prunus domestica",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+domestica",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro slívy a švestky."
+  },
+  {
+    "source_id": "s52",
+    "raw_source_id": "S52",
+    "nazev": "PFAF: Rosa canina",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Rosa+canina",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro šípky, sirupy, džemy a čaje."
+  },
+  {
+    "source_id": "s53",
+    "raw_source_id": "S53",
+    "nazev": "PFAF: Sorbus aucuparia",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Sorbus+aucuparia",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro jeřáb a jeho zavařeniny."
+  },
+  {
+    "source_id": "s54",
+    "raw_source_id": "S54",
+    "nazev": "PFAF: Cydonia oblonga",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Cydonia+oblonga",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro kdoule, želé a marmelády."
+  },
+  {
+    "source_id": "s55",
+    "raw_source_id": "S55",
+    "nazev": "PFAF: Corylus avellana",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Corylus+avellana",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro lísku, skladování ořechů a olej."
+  },
+  {
+    "source_id": "s56",
+    "raw_source_id": "S56",
+    "nazev": "PFAF: Fragaria vesca",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Fragaria+vesca",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro jahodník obecný včetně listového čaje."
+  },
+  {
+    "source_id": "s57",
+    "raw_source_id": "S57",
+    "nazev": "PFAF: Rubus idaeus",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Rubus+idaeus",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro maliník a listový čaj."
+  },
+  {
+    "source_id": "s58",
+    "raw_source_id": "S58",
+    "nazev": "PFAF: Vaccinium myrtillus",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Vaccinium+myrtillus",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro borůvku; sušení a zavařeniny."
+  },
+  {
+    "source_id": "s59",
+    "raw_source_id": "S59",
+    "nazev": "PFAF: Sambucus nigra",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Sambucus+nigra",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro bez černý; sušený květ a zpracované plody."
+  },
+  {
+    "source_id": "s60",
+    "raw_source_id": "S60",
+    "nazev": "PFAF: Urtica dioica",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Urtica+dioica",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro kopřivu; sušení a zimní užití."
+  },
+  {
+    "source_id": "s61",
+    "raw_source_id": "S61",
+    "nazev": "PFAF: Taraxacum officinale",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro pampelišku a pražený kořen."
+  },
+  {
+    "source_id": "s62",
+    "raw_source_id": "S62",
+    "nazev": "PFAF: Sorbus domestica",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Sorbus+domestica",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro oskeruši a sušení plodů."
+  },
+  {
+    "source_id": "s63",
+    "raw_source_id": "S63",
+    "nazev": "PFAF: Ribes nigrum",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Ribes+nigrum",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný botanický zdroj pro rybíz černý; sirup, zavařeniny a listový čaj."
+  },
+  {
+    "source_id": "s64",
+    "raw_source_id": "S64",
+    "nazev": "PFAF: Quercus robur",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Quercus+robur",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Žaludy, kávová náhražka a další tradiční použití dubu."
+  },
+  {
+    "source_id": "s65",
+    "raw_source_id": "S65",
+    "nazev": "PFAF: Fagus sylvatica",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Fagus+sylvatica",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Bukvice, olej a pražené využití buku."
+  },
+  {
+    "source_id": "s66",
+    "raw_source_id": "S66",
+    "nazev": "PFAF: Juglans regia",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Juglans+regia",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Ořešák – potravní a tradiční léčebná použití."
+  },
+  {
+    "source_id": "s67",
+    "raw_source_id": "S67",
+    "nazev": "EMA: Juglandis folium monograph",
+    "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-juglans-regia-l-folium_en.pdf",
+    "source_family": "ema",
+    "is_referenced": true,
+    "poznamka": "Oficiální monografie listu ořešáku."
+  },
+  {
+    "source_id": "s68",
+    "raw_source_id": "S68",
+    "nazev": "PFAF: Artemisia vulgaris",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Artemisia+vulgaris",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Pelyněk černobýl – kulinární, aromatické a tradiční použití."
+  },
+  {
+    "source_id": "s69",
+    "raw_source_id": "S69",
+    "nazev": "PFAF: Betula pendula",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Betula+pendula",
+    "source_family": "pfaf",
+    "is_referenced": false,
+    "poznamka": "Bříza – list, míza, kůra a další použití."
+  },
+  {
+    "source_id": "s70",
+    "raw_source_id": "S70",
+    "nazev": "PFAF: Origanum vulgare",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Origanum+vulgare",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Dobromysl/oregano – koření, čaj a aromatické použití."
+  },
+  {
+    "source_id": "s71",
+    "raw_source_id": "S71",
+    "nazev": "PFAF: Berberis vulgaris",
+    "url": "https://pfaf.org/user/plant.aspx?LatinName=Berberis+vulgaris",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Dřišťál – kyselé plody a další tradiční využití."
+  },
+  {
+    "source_id": "s72",
+    "raw_source_id": "S72",
+    "nazev": "PFAF: Prunus spinosa",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+spinosa",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Trnka – likéry, zavařeniny, čajové a okrajové kulinární použití."
+  },
+  {
+    "source_id": "s73",
+    "raw_source_id": "S73",
+    "nazev": "PFAF: Galium aparine",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Galium+aparine",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Svízel přítula – pražená semena a další běžná „plevelná“ využití."
+  },
+  {
+    "source_id": "s74",
+    "raw_source_id": "S74",
+    "nazev": "PFAF: Geum urbanum",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Geum+urbanum",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kuklík městský – aromatický kořen, nápojové a kořenné použití."
+  },
+  {
+    "source_id": "s75",
+    "raw_source_id": "S75",
+    "nazev": "Practical Plants: Geum urbanum",
+    "url": "https://practicalplants.org/wiki/geum_urbanum/",
+    "source_family": "practicalplants_org",
+    "is_referenced": true,
+    "poznamka": "Doplňkový zdroj ke kuklíku, zejména aromatické a materiálové drobnosti."
+  },
+  {
+    "source_id": "s76",
+    "raw_source_id": "S76",
+    "nazev": "PFAF: Picea abies",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Picea+abies",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Smrk – pryskyřice, pupeny a další tradiční použití."
+  },
+  {
+    "source_id": "s77",
+    "raw_source_id": "S77",
+    "nazev": "PFAF: Pinus sylvestris",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Pinus+sylvestris",
+    "source_family": "pfaf",
+    "is_referenced": false,
+    "poznamka": "Borovice – pryskyřice, jehličí a další tradiční využití."
+  },
+  {
+    "source_id": "s78",
+    "raw_source_id": "S78",
+    "nazev": "Acorns: From an Ancient Food to a Modern Sustainable Ingredient",
+    "url": "https://www.mdpi.com/2071-1050/16/22/9613",
+    "source_family": "mdpi",
+    "is_referenced": true,
+    "poznamka": "Moderní přehled o žaludech jako potravní surovině a o technologiích jejich zpracování."
+  },
+  {
+    "source_id": "s79",
+    "raw_source_id": "S79",
+    "nazev": "PFAF: Fagus sylvatica",
+    "url": "https://pfaf.org/User/plant.aspx?LatinName=Fagus+sylvatica",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro mladé bukové listy jako jarní potravní použití a další jedlé části buku."
+  },
+  {
+    "source_id": "s80",
+    "raw_source_id": "S80",
+    "nazev": "PFAF: Crataegus monogyna",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Crataegus+monogyna",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro jedlé mladé výhonky hlohu a nálev ze sušených listů."
+  },
+  {
+    "source_id": "s81",
+    "raw_source_id": "S81",
+    "nazev": "PFAF: Cardamine pratensis",
+    "url": "https://pfaf.org/User/Plant.aspx?LatinName=Cardamine+pratensis",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro jarní potravní využití řeřišnice luční."
+  },
+  {
+    "source_id": "s82",
+    "raw_source_id": "S82",
+    "nazev": "PFAF: Allium schoenoprasum",
+    "url": "https://pfaf.org/User/plant.aspx?latinname=Allium+schoenoprasum",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro pažitku včetně čerstvého i sušeného kulinárního použití."
+  },
+  {
+    "source_id": "s83",
+    "raw_source_id": "S83",
+    "nazev": "PFAF: Tilia cordata",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=tilia+cordata",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro mladé lipové listy a jarní mízu s možností odpaření na sirup."
+  },
+  {
+    "source_id": "s84",
+    "raw_source_id": "S84",
+    "nazev": "PFAF: Pulmonaria officinalis",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Pulmonaria+officinalis",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro plicník lékařský jako méně známou jarní listovou zeleninu."
+  },
+  {
+    "source_id": "s85",
+    "raw_source_id": "S85",
+    "nazev": "PFAF: Cardamine hirsuta",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Cardamine+hirsuta",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro řeřišničník chlupatý, včetně listů a květů syrových i vařených."
+  },
+  {
+    "source_id": "s86",
+    "raw_source_id": "S86",
+    "nazev": "PFAF: Veronica beccabunga",
+    "url": "https://pfaf.org/USER/Plant.aspx?LatinName=Veronica+beccabunga",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro rozrazil potoční jako velmi málo známou mokřadní jedlou zeleň."
+  },
+  {
+    "source_id": "s87",
+    "raw_source_id": "S87",
+    "nazev": "PFAF: Anthriscus sylvestris",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Anthriscus+sylvestris",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro kerblík lesní, ale i pro důrazné upozornění na záměnu s jedovatými miříkovitými."
+  },
+  {
+    "source_id": "s88",
+    "raw_source_id": "S88",
+    "nazev": "PFAF: Ulmus",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Ulmus",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro jarní jedlé listy jilmu; v datasetu aplikováno na jilm horský jako český zástupce."
+  },
+  {
+    "source_id": "s89",
+    "raw_source_id": "S89",
+    "nazev": "PFAF: Bunias orientalis",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Bunias+orientalis",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro rukevník východní jako neobvyklou jarní brukvovitou zeleninu."
+  },
+  {
+    "source_id": "s90",
+    "raw_source_id": "S90",
+    "nazev": "PFAF: Lapsana communis",
+    "url": "https://pfaf.org/User/Plant.aspx?LatinName=Lapsana+communis",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro kapustku obecnou jako velmi nenápadnou jarní listovou zeleninu z ruderálních a městských míst."
+  },
+  {
+    "source_id": "s91",
+    "raw_source_id": "S91",
+    "nazev": "PFAF: Barbarea vulgaris",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Barbarea+vulgaris",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro barborku obecnou včetně jarních listů a květních výhonů."
+  },
+  {
+    "source_id": "s92",
+    "raw_source_id": "S92",
+    "nazev": "PFAF: Hesperis matronalis",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Hesperis+Matronalis",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro večernici vonnou jako zahradně-zplaňující, ale jedlou jarní brukvovitou rostlinu."
+  },
+  {
+    "source_id": "s93",
+    "raw_source_id": "S93",
+    "nazev": "PFAF: Campanula rapunculoides",
+    "url": "https://pfaf.org/User/plant.aspx?latinname=Campanula+rapunculoides",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro zvonek řepkovitý jako velmi málo známou listovou a výhonkovou jedlost."
+  },
+  {
+    "source_id": "s94",
+    "raw_source_id": "S94",
+    "nazev": "PFAF: Lepidium campestre",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Lepidium+campestre",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro řeřichu rolničkovou jako časnou peprnou brukvovitou zeleninu."
+  },
+  {
+    "source_id": "s95",
+    "raw_source_id": "S95",
+    "nazev": "PFAF: Campanula trachelium",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Campanula+trachelium",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro zvonek kopřivolistý jako regionálně doloženou, ale okrajovou listovou zeleninu."
+  }
+]

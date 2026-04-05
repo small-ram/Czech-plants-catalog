@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Galerie rostlin</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Rostliny</p>
+          <h1>Galerie rostlin jako vstup do celého katalogu</h1>
+          <p class="hero-text">
+            Procházení po profilech rostlin, jejich četnosti použití, trvanlivosti a síle evidenční opory.
+          </p>
+          <div class="hero-actions">
+            <a class="detail-btn" href="/">Katalog použití</a>
+          </div>
+        </div>
+        <div class="hero-stats" id="plants-summary-stats"></div>
+      </header>
+
+      <main class="layout">
+        <section class="filters-panel">
+          <div class="filters-header">
+            <h2>Filtry</h2>
+            <button id="plants-reset-btn" class="ghost-btn" type="button">Reset</button>
+          </div>
+
+          <label class="field">
+            <span>Hledat rostlinu</span>
+            <input id="plants-q" type="search" placeholder="např. bez, lípa, pampeliška, sambucus..." />
+          </label>
+
+          <label class="field">
+            <span>Limit</span>
+            <select id="plants-limit">
+              <option value="24">24</option>
+              <option value="48" selected>48</option>
+              <option value="96">96</option>
+              <option value="180">180</option>
+            </select>
+          </label>
+
+          <p id="plants-seasonal-note" class="context-note"></p>
+
+          <div class="checks">
+            <label class="check check-highlight">
+              <input id="plants-seasonal" type="checkbox" />
+              <span>Jen rostliny relevantní kolem dneška</span>
+            </label>
+            <label class="check">
+              <input id="plants-trvanlive" type="checkbox" />
+              <span>Jen rostliny s trvanlivým použitím</span>
+            </label>
+            <label class="check">
+              <input id="plants-jadro" type="checkbox" />
+              <span>Jen rostliny s položkou v praktickém jádru</span>
+            </label>
+          </div>
+        </section>
+
+        <section class="results-panel">
+          <div class="results-toolbar">
+            <div>
+              <p class="eyebrow">Galerie</p>
+              <h2 id="plants-results-title">Načítání</h2>
+            </div>
+            <p class="toolbar-note">
+              Klikni na profil rostliny pro souhrn použití, zdrojů, aliasů a exportů.
+            </p>
+          </div>
+
+          <div id="plants-results" class="plants-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="plant-card-template">
+      <article class="plant-card">
+        <div class="plant-card-media">
+          <img class="plant-card-image" alt="" loading="lazy" hidden />
+          <div class="plant-card-placeholder">
+            <div class="plant-card-placeholder-inner">
+              <strong>Bez fotky</strong>
+              <span>Media manifest je připravený pro doplnění.</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="plant-card-body">
+          <div class="card-head">
+            <div>
+              <p class="card-id">Profil rostliny</p>
+              <h3 class="card-title"></h3>
+              <p class="card-subtitle"></p>
+            </div>
+            <div class="card-badges"></div>
+          </div>
+
+          <div class="meta-grid"></div>
+          <p class="plant-card-status"></p>
+
+          <div class="plant-stat-grid">
+            <div class="plant-stat">
+              <strong class="plant-stat-value plant-use-count"></strong>
+              <span>použití</span>
+            </div>
+            <div class="plant-stat">
+              <strong class="plant-stat-value plant-durable-count"></strong>
+              <span>trvanlivých</span>
+            </div>
+            <div class="plant-stat">
+              <strong class="plant-stat-value plant-core-count"></strong>
+              <span>v jádru</span>
+            </div>
+          </div>
+
+          <div class="card-actions">
+            <a class="detail-btn plant-profile-link" href="/">Profil rostliny</a>
+            <a class="plant-btn plant-export-link" href="/">Markdown</a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="/static/plants.js" defer></script>
+  </body>
+</html>

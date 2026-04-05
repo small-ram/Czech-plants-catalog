@@ -1,0 +1,132 @@
+[
+  {
+    "original_value": "sušení",
+    "count": 44,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "sirup / koncentrát",
+    "count": 8,
+    "suggested_value": "sirup"
+  },
+  {
+    "original_value": "zavařenina",
+    "count": 6,
+    "suggested_value": "zavarenina"
+  },
+  {
+    "original_value": "alkoholová macerace",
+    "count": 3,
+    "suggested_value": "alkoholovy_macerat"
+  },
+  {
+    "original_value": "ocet / octové kvašení",
+    "count": 2,
+    "suggested_value": "ocet"
+  },
+  {
+    "original_value": "pražení + suché skladování",
+    "count": 2,
+    "suggested_value": "suche_skladovani"
+  },
+  {
+    "original_value": "sušení + mletí",
+    "count": 2,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "kvašený nápoj",
+    "count": 1,
+    "suggested_value": "fermentovany_napoj"
+  },
+  {
+    "original_value": "lisovaný olej",
+    "count": 1,
+    "suggested_value": "olej"
+  },
+  {
+    "original_value": "nakládání",
+    "count": 1,
+    "suggested_value": "nakladani"
+  },
+  {
+    "original_value": "odpaření mízy na koncentrát / sirup",
+    "count": 1,
+    "suggested_value": "sirup"
+  },
+  {
+    "original_value": "olej",
+    "count": 1,
+    "suggested_value": "olej"
+  },
+  {
+    "original_value": "pražení + mletí",
+    "count": 1,
+    "suggested_value": "prazeni"
+  },
+  {
+    "original_value": "sirup / zavaření",
+    "count": 1,
+    "suggested_value": "sirup"
+  },
+  {
+    "original_value": "sirup / želé",
+    "count": 1,
+    "suggested_value": "sirup"
+  },
+  {
+    "original_value": "suché skladování troudu",
+    "count": 1,
+    "suggested_value": "suche_skladovani"
+  },
+  {
+    "original_value": "suché skladování ve skořápce",
+    "count": 1,
+    "suggested_value": "suche_skladovani"
+  },
+  {
+    "original_value": "sušená mouka",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "sušené svazečky / sáčky",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "sušení / mezisklad",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "sušení / skladování v chladu",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "sušení listů na čajovou směs",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "sušení nebo mražení nasekaných listů",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "sušený aromatický sáček",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "sušený svazeček",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "tvrdá pryskyřice",
+    "count": 1,
+    "suggested_value": "pryskyrice"
+  }
+]

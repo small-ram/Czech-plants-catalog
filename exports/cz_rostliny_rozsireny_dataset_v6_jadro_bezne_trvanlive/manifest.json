@@ -1,0 +1,19 @@
+{
+  "workbook_file": "cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive.xlsx",
+  "generated_at": "2026-04-05T12:58:39+02:00",
+  "directories": {
+    "raw_csv": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\raw_csv",
+    "raw_json": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\raw_json",
+    "normalized": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\normalized",
+    "meta": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\meta"
+  },
+  "key_files": [
+    "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\normalized\\starter_dataset_normalized.csv",
+    "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\normalized\\starter_dataset_normalized.json",
+    "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\normalized\\cast_rostliny_map.csv",
+    "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\normalized\\poddomena_map.csv",
+    "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\normalized\\status_v_cr_map.csv",
+    "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\meta\\quality_flags.csv",
+    "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\meta\\workbook_summary.json"
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "processing_method_id": "suseni",
+    "label": "Sušení",
+    "group_label": "dehydratace",
+    "display_order": 1
+  },
+  {
+    "processing_method_id": "mrazeni",
+    "label": "Mražení",
+    "group_label": "chlad",
+    "display_order": 2
+  },
+  {
+    "processing_method_id": "chlazene_skladovani",
+    "label": "Skladování v chladu",
+    "group_label": "chlad",
+    "display_order": 3
+  },
+  {
+    "processing_method_id": "sirup",
+    "label": "Sirup / koncentrát",
+    "group_label": "sladke_konzervace",
+    "display_order": 4
+  },
+  {
+    "processing_method_id": "zavareni",
+    "label": "Zavaření / sterilace ve sklenici",
+    "group_label": "tepelna_konzervace",
+    "display_order": 5
+  },
+  {
+    "processing_method_id": "pasterace",
+    "label": "Pasterace",
+    "group_label": "tepelna_konzervace",
+    "display_order": 6
+  },
+  {
+    "processing_method_id": "sterilizace",
+    "label": "Sterilizace",
+    "group_label": "tepelna_konzervace",
+    "display_order": 7
+  },
+  {
+    "processing_method_id": "kvaseni",
+    "label": "Kvašení / fermentace",
+    "group_label": "fermentace",
+    "display_order": 8
+  },
+  {
+    "processing_method_id": "ocet",
+    "label": "Naložení do octa / ocet",
+    "group_label": "fermentace",
+    "display_order": 9
+  },
+  {
+    "processing_method_id": "olej",
+    "label": "Naložení do oleje / olej",
+    "group_label": "tuk",
+    "display_order": 10
+  },
+  {
+    "processing_method_id": "tinktura",
+    "label": "Tinktura / alkoholová macerace",
+    "group_label": "alkohol",
+    "display_order": 11
+  },
+  {
+    "processing_method_id": "cukrovani",
+    "label": "Cukrování / kandování / džem",
+    "group_label": "sladke_konzervace",
+    "display_order": 12
+  },
+  {
+    "processing_method_id": "kompot",
+    "label": "Kompot",
+    "group_label": "tepelna_konzervace",
+    "display_order": 13
+  },
+  {
+    "processing_method_id": "nakladani",
+    "label": "Nakládání",
+    "group_label": "pickles",
+    "display_order": 14
+  }
+]

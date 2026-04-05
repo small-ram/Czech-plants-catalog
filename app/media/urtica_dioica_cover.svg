@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Kopřiva dvoudomá</title>
+  <desc id="desc">Ilustrativní cover s vysokými pilovitými listy pro profil kopřivy dvoudomé.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#eef1d8"/>
+      <stop offset="55%" stop-color="#c6d59b"/>
+      <stop offset="100%" stop-color="#92b169"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#1f3320" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1030" cy="150" r="180" fill="#f0f5e2" opacity="0.6"/>
+  <circle cx="140" cy="770" r="230" fill="#d8e7bb" opacity="0.55"/>
+  <g filter="url(#shadow)" fill="none" stroke-linecap="round">
+    <path d="M382 786 C394 628 402 474 430 228" stroke="#41633a" stroke-width="18"/>
+    <path d="M585 786 C590 612 604 468 620 202" stroke="#41633a" stroke-width="18"/>
+    <path d="M788 786 C780 616 802 456 830 248" stroke="#41633a" stroke-width="18"/>
+    <g fill="#6e9e49" stroke="#41633a" stroke-width="7">
+      <path d="M432 282 C344 226 278 266 246 356 C316 406 406 386 432 282 Z"/>
+      <path d="M431 398 C508 332 582 352 642 446 C570 498 475 484 431 398 Z"/>
+      <path d="M624 278 C699 220 784 238 844 334 C770 382 678 364 624 278 Z"/>
+      <path d="M620 430 C544 372 454 406 388 510 C458 560 568 548 620 430 Z"/>
+      <path d="M828 360 C908 300 993 330 1034 432 C952 478 868 460 828 360 Z"/>
+      <path d="M830 508 C746 444 658 474 602 588 C678 640 786 620 830 508 Z"/>
+    </g>
+  </g>
+  <g fill="#20301c">
+    <text x="80" y="680" font-family="Georgia, 'Palatino Linotype', serif" font-size="88">kopřiva dvoudomá</text>
+    <text x="86" y="752" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="34" letter-spacing="4">URTICA DIOICA</text>
+  </g>
+</svg>

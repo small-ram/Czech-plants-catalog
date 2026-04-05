@@ -1,0 +1,132 @@
+[
+  {
+    "storage_category_id": "suseni",
+    "label": "suseni",
+    "row_count": 44
+  },
+  {
+    "storage_category_id": "sirup_koncentrat",
+    "label": "sirup koncentrat",
+    "row_count": 8
+  },
+  {
+    "storage_category_id": "zavarenina",
+    "label": "zavarenina",
+    "row_count": 6
+  },
+  {
+    "storage_category_id": "alkoholova_macerace",
+    "label": "alkoholova macerace",
+    "row_count": 3
+  },
+  {
+    "storage_category_id": "ocet_octove_kvaseni",
+    "label": "ocet octove kvaseni",
+    "row_count": 2
+  },
+  {
+    "storage_category_id": "prazeni_suche_skladovani",
+    "label": "prazeni suche skladovani",
+    "row_count": 2
+  },
+  {
+    "storage_category_id": "suseni_mleti",
+    "label": "suseni mleti",
+    "row_count": 2
+  },
+  {
+    "storage_category_id": "kvaseny_napoj",
+    "label": "kvaseny napoj",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "suche_skladovani_ve_skorapce",
+    "label": "suche skladovani ve skorapce",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "olej",
+    "label": "olej",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "suseni_skladovani_v_chladu",
+    "label": "suseni skladovani v chladu",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "susene_svazecky_sacky",
+    "label": "susene svazecky sacky",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "suseny_svazecek",
+    "label": "suseny svazecek",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "sirup_zele",
+    "label": "sirup zele",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "suseni_mezisklad",
+    "label": "suseni mezisklad",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "susena_mouka",
+    "label": "susena mouka",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "prazeni_mleti",
+    "label": "prazeni mleti",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "lisovany_olej",
+    "label": "lisovany olej",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "suche_skladovani_troudu",
+    "label": "suche skladovani troudu",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "sirup_zavareni",
+    "label": "sirup zavareni",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "nakladani",
+    "label": "nakladani",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "suseny_aromaticky_sacek",
+    "label": "suseny aromaticky sacek",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "tvrda_pryskyrice",
+    "label": "tvrda pryskyrice",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "suseni_listu_na_cajovou_smes",
+    "label": "suseni listu na cajovou smes",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "suseni_nebo_mrazeni_nasekanych_listu",
+    "label": "suseni nebo mrazeni nasekanych listu",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "odpareni_mizy_na_koncentrat_sirup",
+    "label": "odpareni mizy na koncentrat sirup",
+    "row_count": 1
+  }
+]

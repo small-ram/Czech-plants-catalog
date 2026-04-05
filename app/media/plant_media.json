@@ -1,0 +1,1312 @@
+{
+  "plant_sambucus_nigra": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sambucus_nigra_004.jpg",
+      "alt": "bez černý",
+      "caption": "Wikimedia Commons: Sambucus nigra",
+      "credit": "Willow",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo"
+    },
+    {
+      "src": "sambucus_nigra_cover.svg",
+      "alt": "Ilustrativní cover pro bez černý",
+      "caption": "Lokální ilustrativní cover pro profil rostliny",
+      "credit": "interní SVG cover",
+      "source_name": "",
+      "source_url": "",
+      "license": "",
+      "media_kind": "illustration"
+    }
+  ],
+  "plant_tilia_cordata_tilia_platyphyllos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20140605Tilia%20cordata7.jpg",
+      "alt": "Lípa srdčitá",
+      "caption": "Wikimedia Commons: Tilia cordata",
+      "credit": "AnRo0002",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:20140605Tilia_cordata7.jpg",
+      "license": "CC0",
+      "media_kind": "photo"
+    },
+    {
+      "src": "tilia_cordata_platyphyllos_cover.svg",
+      "alt": "Ilustrativní cover pro lípu",
+      "caption": "Lokální ilustrativní cover pro profil rostliny",
+      "credit": "interní SVG cover",
+      "source_name": "",
+      "source_url": "",
+      "license": "",
+      "media_kind": "illustration"
+    }
+  ],
+  "plant_urtica_dioica": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Urtica%20dioica%20Plant.jpg",
+      "alt": "Kopřiva dvoudomá",
+      "caption": "Wikimedia Commons: Urtica dioica",
+      "credit": "Matildalove12",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Urtica_dioica_Plant.jpg",
+      "license": "",
+      "media_kind": "photo"
+    },
+    {
+      "src": "urtica_dioica_cover.svg",
+      "alt": "Ilustrativní cover pro kopřivu dvoudomou",
+      "caption": "Lokální ilustrativní cover pro profil rostliny",
+      "credit": "interní SVG cover",
+      "source_name": "",
+      "source_url": "",
+      "license": "",
+      "media_kind": "illustration"
+    }
+  ],
+  "plant_taraxacum_officinale_agg": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/T.%20officinale.jpg",
+      "alt": "Pampeliška lékařská",
+      "caption": "Wikimedia Commons: Taraxacum officinale",
+      "credit": "Enbéká",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
+      "license": "",
+      "media_kind": "photo"
+    },
+    {
+      "src": "taraxacum_officinale_cover.svg",
+      "alt": "Ilustrativní cover pro pampelišku lékařskou",
+      "caption": "Lokální ilustrativní cover pro profil rostliny",
+      "credit": "interní SVG cover",
+      "source_name": "",
+      "source_url": "",
+      "license": "",
+      "media_kind": "illustration"
+    }
+  ],
+  "plant_rosa_canina": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Divlja_ruza_cvijet_270508.jpg",
+      "alt": "růže šípková",
+      "caption": "Wikimedia Commons: Rosa canina",
+      "credit": "Roberta F.",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Divlja_ruza_cvijet_270508.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    },
+    {
+      "src": "rosa_canina_cover.svg",
+      "alt": "Ilustrativní cover pro růži šípkovou",
+      "caption": "Lokální ilustrativní cover pro profil rostliny",
+      "credit": "interní SVG cover",
+      "source_name": "",
+      "source_url": "",
+      "license": "",
+      "media_kind": "illustration"
+    }
+  ],
+  "plant_picea_abies": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Picea-abies-shoot.jpg",
+      "alt": "Mladý výhonek smrku ztepilého",
+      "caption": "Wikimedia Commons: Picea abies young shoot",
+      "credit": "Sten Porse",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Picea-abies-shoot.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_fagus_sylvatica": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fagus%20sylvatica%20leaves.jpg",
+      "alt": "Listy buku lesního",
+      "caption": "Wikimedia Commons: Fagus sylvatica leaves",
+      "credit": "Nicolas Weghaupt",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_leaves.jpg",
+      "license": "",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_juniperus_communis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeneverbes.jpg",
+      "alt": "jalovec obecný",
+      "caption": "Wikimedia Commons: Juniperus communis",
+      "credit": "Rasbak at Dutch Wikipedia",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeneverbes.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_rubus_idaeus": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+      "alt": "maliník obecný",
+      "caption": "Wikimedia Commons: Rubus idaeus",
+      "credit": "Kollányi Gábor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_rubus_fruticosus_agg": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackberry_%28Rubus_fruticosus%29.jpg",
+      "alt": "ostružiník křovitý",
+      "caption": "Wikimedia Commons: Rubus fruticosus agg.",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_pinus_sylvestris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skuleskogen_pine.jpg",
+      "alt": "borovice lesní",
+      "caption": "Wikimedia Commons: Pinus sylvestris",
+      "credit": "Mickaël Delcey ( Silverkey )",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_betula_pendula_betula_pubescens": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Betula_pendula_Finland.jpg",
+      "alt": "bříza bělokorá / pýřitá",
+      "caption": "Wikimedia Commons: Betula pendula / Betula pubescens",
+      "credit": "Percita at Flickr",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
+      "license": "CC BY-SA 2.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_humulus_lupulus_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopfen1.jpg",
+      "alt": "chmel otáčivý",
+      "caption": "Wikimedia Commons: Humulus lupulus L.",
+      "credit": "No machine-readable author provided. Hagen Graebner assumed (based on copyright claims).",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hopfen1.jpg",
+      "license": "CC BY-SA 2.5",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_matricaria_recutita": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Matricaria_February_2008-1.jpg",
+      "alt": "heřmánek pravý",
+      "caption": "Wikimedia Commons: Matricaria recutita",
+      "credit": "Alvesgaspar",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Matricaria_February_2008-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_pyrus_communis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pears.jpg",
+      "alt": "hrušeň obecná",
+      "caption": "Wikimedia Commons: Pyrus communis",
+      "credit": "Keith Weller",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_malus_domestica": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink_lady_and_cross_section.jpg",
+      "alt": "jabloň domácí",
+      "caption": "Wikimedia Commons: Malus domestica",
+      "credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+      "license": "GFDL 1.2",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_fragaria_vesca": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/103_Fragaria_vesca_L.jpg",
+      "alt": "jahodník obecný",
+      "caption": "Wikimedia Commons: Fragaria vesca",
+      "credit": "Amédée Masclef",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:103_Fragaria_vesca_L.jpg",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_sorbus_aucuparia": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rowan_tree_20081002b.jpg",
+      "alt": "jeřáb ptačí",
+      "caption": "Wikimedia Commons: Sorbus aucuparia",
+      "credit": "Eeno11",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_plantago_lanceolata": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribwort_600.jpg",
+      "alt": "jitrocel kopinatý",
+      "caption": "Wikimedia Commons: Plantago lanceolata",
+      "credit": "sannse",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ribwort_600.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_thymus_serpyllum_agg": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thymus%20serpyllum%20honey%20bee.JPG",
+      "alt": "mateřídouška",
+      "caption": "Wikimedia Commons: Thymus serpyllum agg.",
+      "credit": "MurielBendel",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Thymus_serpyllum_honey_bee.JPG",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_prunus_domestica": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fruits_Prunus_domestica.jpg",
+      "alt": "slivoň švestka / slíva",
+      "caption": "Wikimedia Commons: Prunus domestica",
+      "credit": "YAMAMAYA",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fruits_Prunus_domestica.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_malva_sylvestris_l_malva_neglecta_wallr": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallow_January_2008-1.jpg",
+      "alt": "sléz lesní / sléz přehlížený",
+      "caption": "Wikimedia Commons: Malva sylvestris L. / Malva neglecta Wallr.",
+      "credit": "Alvesgaspar",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mallow_January_2008-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_prunus_spinosa": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+      "alt": "trnka obecná",
+      "caption": "Wikimedia Commons: Prunus spinosa",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_vaccinium_myrtillus": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/203_Vaccinum_myrtillus_L.jpg",
+      "alt": "borůvka černá",
+      "caption": "Wikimedia Commons: Vaccinium myrtillus",
+      "credit": "Amédée Masclef",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:203_Vaccinum_myrtillus_L.jpg",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Verbascum_sinuatum_August_2007-1.jpg",
+      "alt": "divizna",
+      "caption": "Wikimedia Commons: Verbascum densiflorum Bertol. / V. thapsus L. / V. phlomoides L.",
+      "credit": "Alvesgaspar",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Verbascum_sinuatum_August_2007-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_origanum_vulgare": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Origanum_vulgare_-_harilik_pune.jpg",
+      "alt": "dobromysl obecná",
+      "caption": "Wikimedia Commons: Origanum vulgare",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Origanum_vulgare_-_harilik_pune.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_quercus_robur_q_petraea": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_petraea_06.jpg",
+      "alt": "dub letní / dub zimní",
+      "caption": "Wikimedia Commons: Quercus robur / Q. petraea",
+      "credit": "Willow",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quercus_petraea_06.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20of%20Crataegus%20monogyna.jpg",
+      "alt": "Listy hlohu obecného",
+      "caption": "Wikimedia Commons: Crataegus monogyna leaves",
+      "credit": "Krzysztof Golik",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leaves_of_Crataegus_monogyna.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_lamium_album_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ortie_blanche_05.jpg",
+      "alt": "hluchavka bílá",
+      "caption": "Wikimedia Commons: Lamium album L.",
+      "credit": "Coyau",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ortie_blanche_05.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_abies_alba": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Abies_alba_Wis%C5%82a_1.jpg",
+      "alt": "jedle bělokorá",
+      "caption": "Wikimedia Commons: Abies alba",
+      "credit": "Crusier",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Abies_alba_Wis%C5%82a_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_plantago_major_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+      "alt": "jitrocel větší",
+      "caption": "Wikimedia Commons: Plantago major L.",
+      "credit": "Rasbak",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_carum_carvi": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brassica_rapa_chinensis_4610998.jpg",
+      "alt": "kmín kořenný",
+      "caption": "Wikimedia Commons: Carum carvi",
+      "credit": "Jon Sullivan",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brassica_rapa_chinensis_4610998.jpg",
+      "license": "CC BY 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_capsella_bursa_pastoris_l_medik": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Field_of_Shepherd%E2%80%99s-purse.jpg",
+      "alt": "kokoška pastuší tobolka",
+      "caption": "Wikimedia Commons: Capsella bursa-pastoris (L.) Medik.",
+      "credit": "SaltySemanticSchmuck",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Field_of_Shepherd%E2%80%99s-purse.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_geum_urbanum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29_Geum_urbanum_-_Habit.jpg",
+      "alt": "kuklík městský",
+      "caption": "Wikimedia Commons: Geum urbanum",
+      "credit": "Didier Descouens",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Geum_urbanum_-_Habit.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_corylus_avellana": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Corylus_avellana.jpg",
+      "alt": "líska obecná",
+      "caption": "Wikimedia Commons: Corylus avellana",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Corylus_avellana.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_galium_odoratum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Waldmeister%28Mai%29.JPG",
+      "alt": "mařinka vonná",
+      "caption": "Wikimedia Commons: Galium odoratum",
+      "credit": "Hajotthu 13:34, 11. Mai 2009 (CEST)",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Waldmeister(Mai).JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_melissa_officinalis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lemon_balm_plant.jpg",
+      "alt": "meduňka lékařská",
+      "caption": "Wikimedia Commons: Melissa officinalis",
+      "credit": "Amitchell125",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lemon_balm_plant.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_mentha_x_piperita": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pfefferminze_natur_peppermint.jpg",
+      "alt": "máta peprná",
+      "caption": "Wikimedia Commons: Mentha x piperita",
+      "credit": "Own work",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pfefferminze_natur_peppermint.jpg",
+      "license": "CC BY 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_juglans_regia": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Noyer_centenaire_en_automne.JPG",
+      "alt": "ořešák královský",
+      "caption": "Wikimedia Commons: Juglans regia",
+      "credit": "Thesupermat",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_artemisia_vulgaris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ArtemisiaVulgaris.jpg",
+      "alt": "pelyněk černobýl",
+      "caption": "Wikimedia Commons: Artemisia vulgaris",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ArtemisiaVulgaris.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_glechoma_hederacea_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Glechoma%20hederacea.png",
+      "alt": "Popenec břečťanolistý",
+      "caption": "Wikimedia Commons: Glechoma hederacea",
+      "credit": "Tiia Monto",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Glechoma_hederacea.png",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_ribes_nigrum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_nigrum_a1.JPG",
+      "alt": "rybíz černý",
+      "caption": "Wikimedia Commons: Ribes nigrum",
+      "credit": "Jerzy Opioła",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_viola_odorata_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Viola%20odorata%20%2826346579005%29.jpg",
+      "alt": "Violka vonná",
+      "caption": "Wikimedia Commons: Viola odorata",
+      "credit": "xulescu_g",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Viola_odorata_(26346579005).jpg",
+      "license": "CC BY-SA 2.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_betula_pendula": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Betula_pendula_Finland.jpg",
+      "alt": "bříza bělokorá",
+      "caption": "Wikimedia Commons: Betula pendula",
+      "credit": "Percita at Flickr",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
+      "license": "CC BY-SA 2.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_allium_cepa": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mixed_onions.jpg",
+      "alt": "cibule kuchyňská",
+      "caption": "Wikimedia Commons: Allium cepa",
+      "credit": "Colin",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_quercus_robur_q_petraea_q_pubescens": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_robur.jpg",
+      "alt": "dub",
+      "caption": "Wikimedia Commons: Quercus robur / Q. petraea / Q. pubescens",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_berberis_vulgaris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Berberis%20vulgaris%20sl5.jpg",
+      "alt": "dřišťál obecný",
+      "caption": "Wikimedia Commons: Berberis vulgaris",
+      "credit": "Stefan.lefnaer",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Berberis_vulgaris_sl5.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Spitz-Ahorn%28mbo%29.jpg",
+      "alt": "javor mléč / javor klen / javor babyka",
+      "caption": "Wikimedia Commons: Acer platanoides / Acer pseudoplatanus / Acer campestre",
+      "credit": "Martin Bobka (= Martin120 )",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Spitz-Ahorn(mbo).jpg",
+      "license": "CC BY-SA 2.5",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_cydonia_oblonga": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Quince%20flowers.jpg",
+      "alt": "kdoule obecná",
+      "caption": "Wikimedia Commons: Cydonia oblonga",
+      "credit": "Fir0002 at English Wikipedia",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quince_flowers.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_armoracia_rusticana": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Armoracia_rusticana.jpg",
+      "alt": "křen selský",
+      "caption": "Wikimedia Commons: Armoracia rusticana",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Armoracia_rusticana.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_arctium_lappa_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ArctiumLappa1.jpg",
+      "alt": "lopuch větší",
+      "caption": "Wikimedia Commons: Arctium lappa L.",
+      "credit": "Christian Fischer",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ArctiumLappa1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_tilia_spp": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tilia-cordata2.JPG",
+      "alt": "lípa",
+      "caption": "Wikimedia Commons: Tilia spp.",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tilia-cordata2.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_chenopodium_album_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Melganzenvoet_bloeiwijze_Chenopodium_album.jpg",
+      "alt": "merlík bílý",
+      "caption": "Wikimedia Commons: Chenopodium album L.",
+      "credit": "Rasbak",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Melganzenvoet_bloeiwijze_Chenopodium_album.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_mespilus_germanica": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Medlar_pomes_and_leaves.jpg",
+      "alt": "mišpule obecná",
+      "caption": "Wikimedia Commons: Mespilus germanica",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Medlar_pomes_and_leaves.jpg",
+      "license": "CC BY-SA 2.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_sorbus_domestica": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+      "alt": "oskeruše",
+      "caption": "Wikimedia Commons: Sorbus domestica",
+      "credit": "BotBln",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_stellaria_media_l_vill": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stellaria%20media%20117983654.jpg",
+      "alt": "Ptačinec žabinec",
+      "caption": "Wikimedia Commons: Stellaria media",
+      "credit": "Stephen James McWilliam",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stellaria_media_117983654.jpg",
+      "license": "CC BY 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_ribes_rubrum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_rubrum_1.jpg",
+      "alt": "rybíz červený / bílý",
+      "caption": "Wikimedia Commons: Ribes rubrum",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ribes_rubrum_1.jpg",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_vitis_vinifera": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabernet_Sauvignon_Gaillac.jpg",
+      "alt": "réva vinná",
+      "caption": "Wikimedia Commons: Vitis vinifera",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cabernet_Sauvignon_Gaillac.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_bellis_perennis_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellis%20perennis%20%281%29.jpg",
+      "alt": "Sedmikráska chudobka",
+      "caption": "Wikimedia Commons: Bellis perennis",
+      "credit": "Sabina Bajracharya",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_(1).jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_helianthus_tuberosus": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunroot_top.jpg",
+      "alt": "topinambur hlíznatý",
+      "caption": "Wikimedia Commons: Helianthus tuberosus",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sunroot_top.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_filipendula_ulmaria": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20140715Filipendula_ulmaria.jpg",
+      "alt": "tužebník jilmový",
+      "caption": "Wikimedia Commons: Filipendula ulmaria",
+      "credit": "AnRo0002",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:20140715Filipendula_ulmaria.jpg",
+      "license": "CC0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_brassica_rapa_subsp_rapa": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Turnip_2622027.jpg",
+      "alt": "vodnice / tuřín",
+      "caption": "Wikimedia Commons: Brassica rapa subsp. rapa",
+      "credit": "thebittenword.com",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Turnip_2622027.jpg",
+      "license": "CC BY 2.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_salix_spp": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Salix_alba_Morton.jpg",
+      "alt": "vrba",
+      "caption": "Wikimedia Commons: Salix spp.",
+      "credit": "Bruce Marlin",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Salix_alba_Morton.jpg",
+      "license": "CC BY 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_brassica_oleracea_var_capitata": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brassica_oleracea0.jpg",
+      "alt": "zelí hlávkové",
+      "caption": "Wikimedia Commons: Brassica oleracea var. capitata",
+      "credit": "MPF",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea0.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_allium_sativum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Garlic%20bulbs%20and%20cloves.jpg",
+      "alt": "česnek setý",
+      "caption": "Wikimedia Commons: Allium sativum",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_alliaria_petiolata_m_bieb_cavara_grande": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Alliaria%20petiolata%20-%20P1040813.jpg",
+      "alt": "Česnáček lékařský",
+      "caption": "Wikimedia Commons: Alliaria petiolata",
+      "credit": "Lidine Mia",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Alliaria_petiolata_-_P1040813.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_achillea_millefolium": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Achillea_millefolium_%28bright%29.jpg",
+      "alt": "řebříček obecný",
+      "caption": "Wikimedia Commons: Achillea millefolium",
+      "credit": "SAplants",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(bright).jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_oxalis_acetosella_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Oxalis%20acetosella.jpg",
+      "alt": "Šťavel zaječí",
+      "caption": "Wikimedia Commons: Oxalis acetosella",
+      "credit": "Kjetil Lenes",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Oxalis_acetosella.jpg",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_ribes_uva_crispa": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes_uva-crispa_kz04.jpg",
+      "alt": "angrešt",
+      "caption": "Wikimedia Commons: Ribes uva-crispa",
+      "credit": "Krzysztof Ziarnek, Kenraiz",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ribes_uva-crispa_kz04.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_aegopodium_podagraria": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aegopodium%20podagraria.jpg",
+      "alt": "Bršlice kozí noha",
+      "caption": "Wikimedia Commons: Aegopodium podagraria",
+      "credit": "Kristian Peters -- Fabelfroh",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria.jpg",
+      "license": "GFDL",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_apium_graveolens_var_rapaceum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9leri-rave-fendu.jpg",
+      "alt": "celer bulvový",
+      "caption": "Wikimedia Commons: Apium graveolens var. rapaceum",
+      "credit": "DocteurCosmos",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:C%C3%A9leri-rave-fendu.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_quercus_spp": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2013-05-04_17_18_04_Stunted_white_oak_saplings_beneath_the_large_white_oak_near_the_tributary_to_the_West_Branch_Shabakunk_Creek_between_Walton_and_Farrell_Avenues.jpg",
+      "alt": "dub",
+      "caption": "Wikimedia Commons: Quercus spp.",
+      "credit": "Famartin",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2013-05-04_17_18_04_Stunted_white_oak_saplings_beneath_the_large_white_oak_near_the_tributary_to_the_West_Branch_Shabakunk_Creek_between_Walton_and_Farrell_Avenues.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_cucurbita_pepo": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cucurbita_pepo_collage_1.png",
+      "alt": "dýně obecná",
+      "caption": "Wikimedia Commons: Cucurbita pepo",
+      "credit": "Various",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_collage_1.png",
+      "license": "CC BY-SA 1.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_lamium_purpureum_l": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamium_purpureum_-_Tutermaa.jpg",
+      "alt": "hluchavka nachová",
+      "caption": "Wikimedia Commons: Lamium purpureum L.",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_-_Tutermaa.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_fragaria_ananassa": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg",
+      "alt": "jahodník zahradní",
+      "caption": "Wikimedia Commons: Fragaria × ananassa",
+      "credit": "Ivar Leidus",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_morus_alba_morus_nigra": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Morus-nigra.JPG",
+      "alt": "moruše bílá / černá",
+      "caption": "Wikimedia Commons: Morus alba / Morus nigra",
+      "credit": "Sten Porse",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Morus-nigra.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_daucus_carota_subsp_sativus": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vegetable-Carrot-Bundle-wStalks.jpg",
+      "alt": "mrkev obecná",
+      "caption": "Wikimedia Commons: Daucus carota subsp. sativus",
+      "credit": "Evan-Amos",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_cucumis_sativus": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/ARS_cucumber.jpg",
+      "alt": "okurka setá",
+      "caption": "Wikimedia Commons: Cucumis sativus",
+      "credit": "Stephen Ausmus, USDA ARS",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_pastinaca_sativa": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pastinaca_sativa_MHNT.BOT.2004.0.jpg",
+      "alt": "pastinák setý",
+      "caption": "Wikimedia Commons: Pastinaca sativa",
+      "credit": "Didier Descouens",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pastinaca_sativa_MHNT.BOT.2004.0.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_petroselinum_crispum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Petroselinum.jpg",
+      "alt": "petržel kořenová / naťová",
+      "caption": "Wikimedia Commons: Petroselinum crispum",
+      "credit": "Jonathunder",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Petroselinum.jpg",
+      "license": "GFDL 1.2",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_hippophae_rhamnoides": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippophae_rhamnoides-01_%28xndr%29.JPG",
+      "alt": "rakytník řešetlákový",
+      "caption": "Wikimedia Commons: Hippophae rhamnoides",
+      "credit": "No machine-readable author provided. Svdmolen assumed (based on copyright claims).",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides-01_(xndr).JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_rheum_rhabarbarum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rheum_undulatum_in_Jardin_botanique_de_la_Charme.jpg",
+      "alt": "reveň kadeřavá",
+      "caption": "Wikimedia Commons: Rheum rhabarbarum",
+      "credit": "Krzysztof Golik",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rheum_undulatum_in_Jardin_botanique_de_la_Charme.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_galium_aparine": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Galium_aparine_b.jpg",
+      "alt": "svízel přítula",
+      "caption": "Wikimedia Commons: Galium aparine",
+      "credit": "Wikimedia contributor",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Galium_aparine_b.jpg",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_thymus_vulgaris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Thymus_vulgaris1.JPG",
+      "alt": "tymián obecný",
+      "caption": "Wikimedia Commons: Thymus vulgaris",
+      "credit": "Henry Brisse (upload by user:Abalg )",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Thymus_vulgaris1.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_prunus_avium": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_avium_fruit.jpg",
+      "alt": "třešeň obecná",
+      "caption": "Wikimedia Commons: Prunus avium",
+      "credit": "MPF",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prunus_avium_fruit.jpg",
+      "license": "CC BY 2.5",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_prunus_cerasus": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cerisier_du_Japon_Prunus_serrulata.jpg",
+      "alt": "višeň obecná",
+      "caption": "Wikimedia Commons: Prunus cerasus",
+      "credit": "Myrabella",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cerisier_du_Japon_Prunus_serrulata.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_cichorium_intybus": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus1.jpg",
+      "alt": "čekanka obecná",
+      "caption": "Wikimedia Commons: Cichorium intybus",
+      "credit": "J.F. Gaffard Jeffdelonge at fr.wikipedia",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cichorium_intybus1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_allium_ursinum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Allium%20ursinum.jpg",
+      "alt": "Česnek medvědí v květu a listu",
+      "caption": "Wikimedia Commons: Allium ursinum",
+      "credit": "Meneerke bloem",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Allium_ursinum.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_beta_vulgaris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Beetseeds3d.jpg",
+      "alt": "řepa červená",
+      "caption": "Wikimedia Commons: Beta vulgaris",
+      "credit": "John Alan Elson",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Beetseeds3d.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_portulaca_oleracea": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Portulaca_oleracea.jpg",
+      "alt": "šrucha zelná",
+      "caption": "Wikimedia Commons: Portulaca oleracea",
+      "credit": "ZooFari",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Portulaca_oleracea.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_rumex_acetosa": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rumex%20acetosa%20%287833427466%29.jpg",
+      "alt": "Šťovík kyselý",
+      "caption": "Wikimedia Commons: Rumex acetosa",
+      "credit": "NPS / Jacob W. Frank",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rumex_acetosa_(7833427466).jpg",
+      "license": "CC BY 2.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_cardamine_pratensis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cardamine%20pratensis%20%287833250474%29.jpg",
+      "alt": "Řeřišnice luční",
+      "caption": "Wikimedia Commons: Cardamine pratensis",
+      "credit": "NPS / Jacob W. Frank",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cardamine_pratensis_(7833250474).jpg",
+      "license": "CC BY 2.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_allium_schoenoprasum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Allium%20schoenoprasum%20.jpg",
+      "alt": "Pažitka pobřežní",
+      "caption": "Wikimedia Commons: Allium schoenoprasum",
+      "credit": "Ghislain118 (AD)",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Allium_schoenoprasum_.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_pulmonaria_officinalis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pulmonaria%20officinalis%20kpjas%2027042008.jpg",
+      "alt": "Plicník lékařský",
+      "caption": "Wikimedia Commons: Pulmonaria officinalis",
+      "credit": "Kpjas",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pulmonaria_officinalis_kpjas_27042008.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_cardamine_hirsuta": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cardamine%20hirsuta%2037876.JPG",
+      "alt": "Řeřišničník chlupatý",
+      "caption": "Wikimedia Commons: Cardamine hirsuta",
+      "credit": "Walter Siegmund",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cardamine_hirsuta_37876.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_veronica_beccabunga": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Veronica%20beccabunga%20001.JPG",
+      "alt": "Rozrazil potoční",
+      "caption": "Wikimedia Commons: Veronica beccabunga",
+      "credit": "H. Zell",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Veronica_beccabunga_001.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_anthriscus_sylvestris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthriscus%20sylvestris%20fluy%2080%2005052007%201.jpg",
+      "alt": "Kerblík lesní",
+      "caption": "Wikimedia Commons: Anthriscus sylvestris",
+      "credit": "Olivier Pichard",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Anthriscus_sylvestris_fluy_80_05052007_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_ulmus_glabra": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ulmus%20glabra-tr.JPG",
+      "alt": "Jilm horský",
+      "caption": "Wikimedia Commons: Ulmus glabra",
+      "credit": "Karduelis",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ulmus_glabra-tr.JPG",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_bunias_orientalis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bunias%20orientalis%20kz37.jpg",
+      "alt": "Rukevník východní",
+      "caption": "Wikimedia Commons: Bunias orientalis",
+      "credit": "Krzysztof Ziarnek, Kenraiz",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bunias_orientalis_kz37.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_barbarea_vulgaris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29_Barbarea_vulgaris_-_Habit.jpg",
+      "alt": "barborka obecná",
+      "caption": "Wikimedia Commons: Barbarea vulgaris",
+      "credit": "Didier Descouens",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Barbarea_vulgaris_-_Habit.jpg",
+      "license": "CC BY-SA 4.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_lapsana_communis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lapsana_communis_003.JPG",
+      "alt": "kapustka obecná",
+      "caption": "Wikimedia Commons: Lapsana communis",
+      "credit": "H. Zell",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lapsana_communis_003.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_hesperis_matronalis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweet_Rockets.png",
+      "alt": "večernice vonná",
+      "caption": "Wikimedia Commons: Hesperis matronalis",
+      "credit": "Huw Williams ( Huwmanbeing )",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sweet_Rockets.png",
+      "license": "Public domain",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_campanula_trachelium": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Campanula_trachelium.jpg",
+      "alt": "zvonek kopřivolistý",
+      "caption": "Wikimedia Commons: Campanula trachelium",
+      "credit": "No machine-readable author provided. Denis Barthel assumed (based on copyright claims).",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Campanula_trachelium.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_campanula_rapunculoides": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Creeping_Bellflower%2C_Ottawa.jpg",
+      "alt": "zvonek řepkovitý",
+      "caption": "Wikimedia Commons: Campanula rapunculoides",
+      "credit": "D. Gordon E. Robertson",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Creeping_Bellflower,_Ottawa.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ],
+  "plant_lepidium_campestre": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lepidium_campestre2_W.jpg",
+      "alt": "řeřicha rolničková",
+      "caption": "Wikimedia Commons: Lepidium campestre",
+      "credit": "Fornax",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lepidium_campestre2_W.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo"
+    }
+  ]
+}

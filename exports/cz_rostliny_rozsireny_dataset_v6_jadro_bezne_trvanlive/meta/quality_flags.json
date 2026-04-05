@@ -1,0 +1,18 @@
+[
+  {
+    "sheet": "Zdroje",
+    "field": "zdroj_id",
+    "severity": "low",
+    "issue_type": "unused_source",
+    "detail": "Source S69 exists in Zdroje but is not referenced from Starter_dataset.",
+    "record_id": "S69"
+  },
+  {
+    "sheet": "Zdroje",
+    "field": "zdroj_id",
+    "severity": "low",
+    "issue_type": "unused_source",
+    "detail": "Source S77 exists in Zdroje but is not referenced from Starter_dataset.",
+    "record_id": "S77"
+  }
+]

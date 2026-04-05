@@ -1,0 +1,52 @@
+[
+  {
+    "part_category_id": "listova_nadzemni_cast",
+    "label": "listova nadzemni cast",
+    "row_count": 76
+  },
+  {
+    "part_category_id": "plodova_cast",
+    "label": "plodova cast",
+    "row_count": 65
+  },
+  {
+    "part_category_id": "kvetni_cast",
+    "label": "kvetni cast",
+    "row_count": 22
+  },
+  {
+    "part_category_id": "kombinovana_cast",
+    "label": "kombinovana cast",
+    "row_count": 22
+  },
+  {
+    "part_category_id": "podzemni_cast",
+    "label": "podzemni cast",
+    "row_count": 21
+  },
+  {
+    "part_category_id": "semena_a_orisky",
+    "label": "semena a orisky",
+    "row_count": 20
+  },
+  {
+    "part_category_id": "drevnata_cast",
+    "label": "drevnata cast",
+    "row_count": 12
+  },
+  {
+    "part_category_id": "vyhonky_a_pupeny",
+    "label": "vyhonky a pupeny",
+    "row_count": 10
+  },
+  {
+    "part_category_id": "miza",
+    "label": "miza",
+    "row_count": 6
+  },
+  {
+    "part_category_id": "ostatni",
+    "label": "ostatni",
+    "row_count": 2
+  }
+]

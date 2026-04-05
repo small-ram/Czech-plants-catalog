@@ -1,0 +1,422 @@
+[
+  {
+    "original_value": "plod",
+    "count": 54,
+    "suggested_value": "plodova_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "list",
+    "count": 26,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "nať",
+    "count": 18,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "květ",
+    "count": 14,
+    "suggested_value": "kvetni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé listy",
+    "count": 13,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "kořen",
+    "count": 11,
+    "suggested_value": "podzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "květy",
+    "count": 7,
+    "suggested_value": "kvetni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé výhonky",
+    "count": 7,
+    "suggested_value": "vyhonky_a_pupeny",
+    "is_compound": false
+  },
+  {
+    "original_value": "míza",
+    "count": 6,
+    "suggested_value": "miza",
+    "is_compound": false
+  },
+  {
+    "original_value": "dřevo",
+    "count": 5,
+    "suggested_value": "drevnata_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "kůra",
+    "count": 5,
+    "suggested_value": "drevnata_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "bukvice",
+    "count": 4,
+    "suggested_value": "semena_a_orisky",
+    "is_compound": false
+  },
+  {
+    "original_value": "listy",
+    "count": 4,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "pseudoplod",
+    "count": 4,
+    "suggested_value": "plodova_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "ořech",
+    "count": 3,
+    "suggested_value": "semena_a_orisky",
+    "is_compound": false
+  },
+  {
+    "original_value": "pupeny / mladé výhonky",
+    "count": 3,
+    "suggested_value": "vyhonky_a_pupeny",
+    "is_compound": false
+  },
+  {
+    "original_value": "samičí šištice",
+    "count": 3,
+    "suggested_value": "semena_a_orisky",
+    "is_compound": false
+  },
+  {
+    "original_value": "semena",
+    "count": 3,
+    "suggested_value": "semena_a_orisky",
+    "is_compound": false
+  },
+  {
+    "original_value": "žalud",
+    "count": 3,
+    "suggested_value": "semena_a_orisky",
+    "is_compound": false
+  },
+  {
+    "original_value": "bulva/kořen",
+    "count": 2,
+    "suggested_value": "podzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "cibule",
+    "count": 2,
+    "suggested_value": "podzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "hlíza",
+    "count": 2,
+    "suggested_value": "podzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "list a květ",
+    "count": 2,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "mladé listy a vrcholky",
+    "count": 2,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé listy a vrcholy",
+    "count": 2,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "nezralý plod",
+    "count": 2,
+    "suggested_value": "plodova_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "pryskyřice",
+    "count": 2,
+    "suggested_value": "drevnata_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "semeno",
+    "count": 2,
+    "suggested_value": "semena_a_orisky",
+    "is_compound": false
+  },
+  {
+    "original_value": "stroužek",
+    "count": 2,
+    "suggested_value": "podzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "sušená nať",
+    "count": 2,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "šípek",
+    "count": 2,
+    "suggested_value": "plodova_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "bulva + nať",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "kořen + list",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "kořen / list",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "kořen 1. roku",
+    "count": 1,
+    "suggested_value": "podzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "kořen s natí",
+    "count": 1,
+    "suggested_value": "podzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "kvetoucí nať",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "květenství",
+    "count": 1,
+    "suggested_value": "kvetni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "květní pupeny",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "květy a listy",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "květy a mladé listy",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "list / zkvašená hmota",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "list s květem",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "listy a kvetoucí nať",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "listy a květy",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "malvice",
+    "count": 1,
+    "suggested_value": "plodova_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé listy a květní výhony",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "mladé listy a květy",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "mladé listy a lodyhy",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé listy a výhonky",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "mladé listy a výhony",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "mladé listy, lodyžky a květy",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "mladé listy, výhonky a květy",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "mladé listy, výhony a šešulky",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "mladé plody",
+    "count": 1,
+    "suggested_value": "plodova_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé růžice",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé vrcholky",
+    "count": 1,
+    "suggested_value": "ostatni",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé vrcholky a listy",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "nať / list",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "plod + semena",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "plody",
+    "count": 1,
+    "suggested_value": "plodova_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "semena z šípků",
+    "count": 1,
+    "suggested_value": "semena_a_orisky",
+    "is_compound": false
+  },
+  {
+    "original_value": "semeno / jádro",
+    "count": 1,
+    "suggested_value": "semena_a_orisky",
+    "is_compound": false
+  },
+  {
+    "original_value": "suchá lodyha",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "větévky s plody",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "čerstvý list",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "řapík",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "řapíky a mladé stonky",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "šípek + semena",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
+    "original_value": "šípkové slupky / dužnina",
+    "count": 1,
+    "suggested_value": "ostatni",
+    "is_compound": false
+  }
+]

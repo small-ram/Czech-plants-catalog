@@ -1,0 +1,492 @@
+[
+  {
+    "original_value": "původní, běžný",
+    "count": 34,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní, běžná",
+    "count": 25,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní, velmi běžný",
+    "count": 25,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "původní, velmi běžná",
+    "count": 24,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "pěstovaná, velmi běžná",
+    "count": 14,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "původní/zdomácnělý, běžný",
+    "count": 10,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní/zdomácnělý, velmi běžný",
+    "count": 10,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "původní, lokálně běžná",
+    "count": 8,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "pěstovaný, běžný",
+    "count": 7,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní, běžná lokálně",
+    "count": 7,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "běžně pěstovaná, místy zplaňující",
+    "count": 6,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": true,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "pěstovaná, běžná",
+    "count": 6,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní/zdomácnělá, běžná",
+    "count": 6,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní, lokálně vzácnější",
+    "count": 5,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "vzacnejsi"
+  },
+  {
+    "original_value": "běžně pěstovaný, místy zplaňující",
+    "count": 4,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": true,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní/pěstovaný, velmi běžný",
+    "count": 4,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "pěstovaná, lokálně běžná",
+    "count": 3,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "pěstovaný, místy zplaňující, běžný",
+    "count": 3,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": true,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "pěstovaný, velmi běžný",
+    "count": 3,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "původní až dlouhodobě pěstovaný, běžný",
+    "count": 3,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní, běžná lokálně až hojně",
+    "count": 3,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "původní, běžné",
+    "count": 3,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní/pěstovaná, lokálně běžná",
+    "count": 3,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "zdomácnělá, velmi běžná",
+    "count": 3,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "pěstovaná, běžná v teplejších oblastech",
+    "count": 2,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "pěstovaná, dnes spíše méně běžná",
+    "count": 2,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "pěstovaná, vzácnější",
+    "count": 2,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "vzacnejsi"
+  },
+  {
+    "original_value": "pěstované, velmi běžné",
+    "count": 2,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "pěstovaný i zplaňující, běžný",
+    "count": 2,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": true,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "pěstovaný i zplaňující, lokálně běžný",
+    "count": 2,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": true,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "původní",
+    "count": 2,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "neurceno"
+  },
+  {
+    "original_value": "původní i pěstovaná, velmi lokální",
+    "count": 2,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "neurceno"
+  },
+  {
+    "original_value": "původní, běžný lokálně",
+    "count": 2,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "původní, běžný v lesích",
+    "count": 2,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní/pěstovaný, lokálně běžný",
+    "count": 2,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "zdomácnělý, velmi běžný",
+    "count": 2,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "pěstovaná i zplaňující, běžná",
+    "count": 1,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": true,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "pěstovaná i zplaňující, lokálně běžná",
+    "count": 1,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": true,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "pěstovaná, lokálně zplaňující",
+    "count": 1,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": true,
+    "status_contains_invazni": false,
+    "status_cetnost": "neurceno"
+  },
+  {
+    "original_value": "pěstovaný i zdomácnělý, lokálně běžný",
+    "count": 1,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "pěstovaný, lokálně běžný",
+    "count": 1,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "původní i pěstovaná, běžná",
+    "count": 1,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
+  },
+  {
+    "original_value": "původní, lokálně běžný",
+    "count": 1,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "původní, lokálně hojný",
+    "count": 1,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_hojny"
+  },
+  {
+    "original_value": "původní, lokálně vzácnější i pěstovaná",
+    "count": 1,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "vzacnejsi"
+  },
+  {
+    "original_value": "v ČR hlavně pěstovaný",
+    "count": 1,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": true,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "neurceno"
+  },
+  {
+    "original_value": "zdomácnělá, lokálně běžná",
+    "count": 1,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  },
+  {
+    "original_value": "zdomácnělá/původní, velmi běžná",
+    "count": 1,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "zdomácnělý, lokálně běžný",
+    "count": 1,
+    "status_contains_puvodni": false,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
+  }
+]

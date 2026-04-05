@@ -1,0 +1,33 @@
+﻿Nazev_sloupce,Vyklad
+record_id,Unikátní ID záznamu v listu Starter_dataset.
+vedecky_nazev,"Latinský název druhu; pokud je to praktické, může jít o skupinu druhů (např. Tilia spp., Salix spp.)."
+cesky_nazev,Hlavní český název.
+status_v_CR,Původní / zdomácnělý / běžně pěstovaný / invazní apod.
+cast_rostliny,Konkrétní část použitá v daném záznamu.
+domena,"Hlavní doména: potrava, pití, léčba, fytoterapie, vůně, palivo."
+poddomena,"Jemnější rozlišení použití (např. nálev, sirup, koření, podpal, kadidlo)."
+status_znalosti,Jak známé je dané použití v dnešním českém kontextu.
+aplikovatelnost_v_CR,Vysoká / střední / nízká. Jak snadno lze poznatek přenést na podmínky ČR.
+typicke_lokality_v_CR,"Praktické lokality a biotopy, kde daný zdroj v ČR typicky hledat."
+obdobi_ziskani,Hrubé okno získání v měsících nebo sezónách.
+fenologicka_faze,"Přesnější biologické okno sběru, je-li důležité."
+zpusob_pripravy_nebo_vyuziti,"Stručný, ale praktický popis zpracování nebo použití."
+cilovy_efekt,"Proč se používá: chuť, výživa, tradiční léčebný účel, vůně prostoru, topný efekt apod."
+chutovy_profil,Hrubý senzorický profil pro jídlo a pití.
+vonny_profil,Hrubý aromatický profil pro vůně a někdy i nápoje.
+palivovy_potencial,Praktická poznámka k palivu; u nepalivových řádků prázdné nebo neaplikovatelné.
+hlavni_rizika,Hlavní bezpečnostní rizika a limity.
+kontraindikace_interakce,"Lékové interakce, specifické kontraindikace, případně palivová nebo aromatická omezení."
+legalita_poznamka_CR,Praktická legální poznámka pro ČR.
+dukaznost_typ,"Typ opory: EMA, etnobotanika, historický zdroj, globální analog, technický zdroj pro palivo apod."
+dukaznost_skore,Kurátorské skóre A–E.
+zdroj_id_1,Primární zdroj ID z listu Zdroje.
+zdroj_id_2,Doplňkový zdroj ID z listu Zdroje.
+poznamka,"Doplňující informace, omezení nebo kurátorský komentář."
+zdroj_id,Unik?tn? ID zdroje v listu Zdroje.
+nazev,"N?zev zdroje, publikace nebo referen?n? str?nky."
+url,Webov? adresa nebo p??m? odkaz na zdroj.
+forma_uchovani,"Hlavn? forma, v n?? je polo?ka uchov?na pro del?? skladov?n?."
+orientacni_trvanlivost,Orienta?n? doba pou?itelnosti p?i spr?vn?m uchov?n?.
+poznamka_k_skladovani,Praktick? pozn?mka ke skladov?n? a podm?nk?m trvanlivosti.
+proc_je_v_jadru,"Stru?n? zd?vodn?n?, pro? byla polo?ka za?azena do praktick?ho j?dra."
