@@ -477,6 +477,14 @@ select:disabled {
     linear-gradient(135deg, rgba(226, 236, 221, 0.95), rgba(244, 239, 229, 0.98));
 }
 
+.result-card-media.has-image {
+  background: #d8e1d2;
+}
+
+.result-card-media.has-image .result-card-placeholder {
+  display: none !important;
+}
+
 .result-card-image {
   display: block;
   width: 100%;
@@ -525,6 +533,14 @@ select:disabled {
   background:
     radial-gradient(circle at top right, rgba(47, 107, 69, 0.16), transparent 32%),
     linear-gradient(135deg, rgba(226, 236, 221, 0.95), rgba(244, 239, 229, 0.98));
+}
+
+.plant-card-media.has-image {
+  background: #d8e1d2;
+}
+
+.plant-card-media.has-image .plant-card-placeholder {
+  display: none !important;
 }
 
 .plant-card-image {

@@ -45,6 +45,13 @@
     E: "E · ojedinělá zmínka",
   };
 
+  const KNOWLEDGE_LABELS = {
+    mainstream: "běžně známé",
+    "méně známé": "méně známé",
+    "téměř zapomenuté": "téměř zapomenuté",
+    "globální analog": "zahraniční paralela",
+  };
+
   const KNOWLEDGE_SORT = {
     "téměř zapomenuté": 4,
     "méně známé": 3,
@@ -180,6 +187,11 @@
     return KNOWLEDGE_SORT[String(status || "").trim()] || 0;
   }
 
+  function knowledgeLabel(status) {
+    const raw = String(status || "").trim();
+    return KNOWLEDGE_LABELS[raw] || raw;
+  }
+
   function renderMeta(values) {
     return (values || [])
       .filter(Boolean)
@@ -255,6 +267,7 @@
     escapeHtml,
     fetchJson,
     knowledgeRank,
+    knowledgeLabel,
     labelize,
     loadBundle,
     loadPlantDetail,

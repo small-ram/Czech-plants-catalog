@@ -92,7 +92,7 @@ function renderUsePage(detail) {
       detail.processing_methods_text,
       detail.forma_uchovani_text,
       detail.orientacni_trvanlivost_text,
-      detail.status_znalosti,
+      C.knowledgeLabel(detail.status_znalosti),
     ]),
   });
 
@@ -224,7 +224,7 @@ function renderPlantPage(detail) {
           <div class="meta-grid">
             ${C.renderMeta([
               C.evidenceLabel(use.dukaznost_skore),
-              use.status_znalosti,
+              C.knowledgeLabel(use.status_znalosti),
               use.aplikovatelnost_v_cr,
               use.processing_methods_text,
               use.forma_uchovani_text,

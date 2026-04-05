@@ -183,6 +183,7 @@ function renderBadges(result) {
 
 function renderPlantCard(result) {
   const fragment = els.template.content.cloneNode(true);
+  const media = fragment.querySelector(".plant-card-media");
   const image = fragment.querySelector(".plant-card-image");
   const placeholder = fragment.querySelector(".plant-card-placeholder");
 
@@ -212,7 +213,8 @@ function renderPlantCard(result) {
     image.alt = result.primary_photo_alt || result.cesky_nazev_hlavni;
     image.title = [result.primary_photo_credit, result.primary_photo_source_name].filter(Boolean).join(" · ");
     image.hidden = false;
-    placeholder.hidden = true;
+    media.classList.add("has-image");
+    placeholder.remove();
   }
 
   return fragment;
@@ -320,7 +322,7 @@ function renderActiveFilters(totalCount, displayedCount) {
 
   if (state.q) chips.push(filterChip("Hledání", state.q, "q"));
   if (state.seasonal) chips.push(filterChip("Sezóna", seasonalWindow.label, "seasonal"));
-  if (state.knowledge_status) chips.push(filterChip("Jak známé", state.knowledge_status, "knowledge_status"));
+  if (state.knowledge_status) chips.push(filterChip("Jak známé", C.knowledgeLabel(state.knowledge_status), "knowledge_status"));
   if (state.trvanlive) chips.push(filterChip("Prakticky", "Jen s trvanlivým použitím", "trvanlive"));
   if (state.jadro) chips.push(filterChip("Prakticky", "Jen s položkou v jádru", "jadro"));
 
@@ -402,9 +404,10 @@ async function init() {
   renderSummary(bundle.summary);
   populateSelect(
     els.knowledgeStatus,
-    Array.from(new Set((bundle.uses || []).map((use) => use.status_znalosti).filter(Boolean))).sort(
-      (a, b) => C.knowledgeRank(b) - C.knowledgeRank(a)
-    )
+    Array.from(new Set((bundle.uses || []).map((use) => use.status_znalosti).filter(Boolean)))
+      .sort((a, b) => C.knowledgeRank(b) - C.knowledgeRank(a))
+      .map((value) => ({ value, label: C.knowledgeLabel(value) })),
+    { valueKey: "value", labelKey: "label" }
   );
   syncControls();
   renderSeasonalNote();
@@ -440,12 +443,17 @@ async function init() {
   search();
 }
 
-function populateSelect(select, items) {
+function populateSelect(select, items, { valueKey = null, labelKey = null } = {}) {
   if (!select || !Array.isArray(items)) return;
   items.forEach((item) => {
     const option = document.createElement("option");
-    option.value = item;
-    option.textContent = item;
+    if (typeof item === "object") {
+      option.value = item[valueKey];
+      option.textContent = item[labelKey];
+    } else {
+      option.value = item;
+      option.textContent = item;
+    }
     select.appendChild(option);
   });
 }

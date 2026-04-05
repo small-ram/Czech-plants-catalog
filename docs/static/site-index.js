@@ -218,7 +218,7 @@ function renderBadges(result) {
   const badges = [];
   badges.push(`<span class="badge">${C.escapeHtml(result.domena)}</span>`);
   badges.push(`<span class="badge">${C.escapeHtml(C.evidenceLabel(result.dukaznost_skore))}</span>`);
-  if (result.status_znalosti) badges.push(`<span class="badge subtle">${C.escapeHtml(result.status_znalosti)}</span>`);
+  if (result.status_znalosti) badges.push(`<span class="badge subtle">${C.escapeHtml(C.knowledgeLabel(result.status_znalosti))}</span>`);
   if (C.normalizeBooleanish(result.je_trvanlive_1m_plus)) badges.push('<span class="badge">Trvanlivé</span>');
   if (C.normalizeBooleanish(result.je_v_jadru_bezne_1m_plus)) badges.push('<span class="badge core">Praktické jádro</span>');
   return badges.join("");
@@ -226,6 +226,7 @@ function renderBadges(result) {
 
 function renderResultCard(result) {
   const fragment = els.template.content.cloneNode(true);
+  const media = fragment.querySelector(".result-card-media");
   const image = fragment.querySelector(".result-card-image");
   const placeholder = fragment.querySelector(".result-card-placeholder");
 
@@ -255,7 +256,8 @@ function renderResultCard(result) {
     image.alt = result.primary_photo_alt || result.cesky_nazev_hlavni;
     image.title = [result.primary_photo_credit, result.primary_photo_source_name].filter(Boolean).join(" · ");
     image.hidden = false;
-    placeholder.hidden = true;
+    media.classList.add("has-image");
+    placeholder.remove();
   }
 
   return fragment;
@@ -358,7 +360,7 @@ function renderActiveFilters(totalCount, displayedCount) {
   if (!state.seasonal && state.month) chips.push(filterChip("Měsíc", C.monthLabel(state.month), "month"));
   if (state.domena) chips.push(filterChip("Doména", state.domena, "domena"));
   if (state.evidence_min) chips.push(filterChip("Min. důkaznost", C.evidenceLabel(state.evidence_min), "evidence_min"));
-  if (state.knowledge_status) chips.push(filterChip("Jak známé", state.knowledge_status, "knowledge_status"));
+  if (state.knowledge_status) chips.push(filterChip("Jak známé", C.knowledgeLabel(state.knowledge_status), "knowledge_status"));
   if (state.part_category) chips.push(filterChip("Část", C.labelize(state.part_category), "part_category"));
   if (state.subdomain_category) chips.push(filterChip("Použití", C.labelize(state.subdomain_category), "subdomain_category"));
   if (state.processing_method) {
@@ -494,9 +496,10 @@ async function init() {
   });
   populateSelect(
     els.knowledgeStatus,
-    Array.from(new Set((bundle.uses || []).map((use) => use.status_znalosti).filter(Boolean))).sort(
-      (a, b) => C.knowledgeRank(b) - C.knowledgeRank(a)
-    )
+    Array.from(new Set((bundle.uses || []).map((use) => use.status_znalosti).filter(Boolean)))
+      .sort((a, b) => C.knowledgeRank(b) - C.knowledgeRank(a))
+      .map((value) => ({ value, label: C.knowledgeLabel(value) })),
+    { valueKey: "value", labelKey: "label" }
   );
   populateSelect(els.month, bundle.options.months || [], { valueKey: "value", labelKey: "label" });
 
