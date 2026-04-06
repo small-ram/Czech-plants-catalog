@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_primula_veris",
+  "vedecky_nazev_hlavni": "Primula veris",
+  "vedecky_nazev_display": "Primula veris",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "prvosenka jarní",
+  "status_v_cr_text": "původní, lokálně běžná",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_primula_veris",
+      "alias": "prvosenka jarní",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_primula_veris",
+      "alias": "Primula veris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r261",
+      "raw_record_id": "R261",
+      "domena": "potrava",
+      "poddomena_text": "květy do salátu / ozdoby / konzervy",
+      "poddomena_kategorie": "cerstva_potrava",
+      "cast_rostliny_text": "květy",
+      "cast_rostliny_kategorie": "kvetni_cast",
+      "obdobi_ziskani_text": "IV–V",
+      "cilovy_efekt": "Jemná květní jarní surovina s přesahem do domácích sladších konzerv a tradičnějších květních nápojů.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Zavaření / sterilace ve sklenici",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozvinuté voňavé květy; v datech je pro něj vedené období IV–V. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "zavařenina / květní konzerva",
+      "orientacni_trvanlivost_text": "cca 6–12 měsíců"
+    },
+    {
+      "use_id": "r260",
+      "raw_record_id": "R260",
+      "domena": "potrava",
+      "poddomena_text": "časné listy syrové / do polévky / jako čajová náhražka",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "mladé listy",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Časná jarní listová surovina, která dává smysl hlavně pro rozšíření repertoáru o opravdu časné luční druhy.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: nejmladší listy v přízemní růžici před plným kvetením; v datech je pro něj vedené období III–IV. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S97",
+      "nazev": "PFAF: Primula veris",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Primula_veris",
+      "source_family": "pfaf",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Primula_veris_230405.jpg",
+      "alt": "prvosenka jarní",
+      "caption": "Wikimedia Commons: Primula veris",
+      "credit": "Picture taken by BerndH",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Primula_veris_230405.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 1,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 2
+  }
+}

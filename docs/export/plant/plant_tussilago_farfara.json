@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_tussilago_farfara",
+  "vedecky_nazev_hlavni": "Tussilago farfara",
+  "vedecky_nazev_display": "Tussilago farfara",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "podběl lékařský",
+  "status_v_cr_text": "původní, běžný",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_tussilago_farfara",
+      "alias": "podběl lékařský",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_tussilago_farfara",
+      "alias": "Tussilago farfara",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r258",
+      "raw_record_id": "R258",
+      "domena": "pití",
+      "poddomena_text": "sušené listy a květy na občasný nálev",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "listy a květy",
+      "cast_rostliny_kategorie": "kombinovana_cast",
+      "obdobi_ziskani_text": "III–V + sušení",
+      "cilovy_efekt": "Historizující jarní čajová surovina s jemně lékořicovým profilem, ale nízkou praktickou prioritou kvůli rizikům.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "nízká až střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: časné květy a později mladší listy sbírané jen z čistých míst; v datech je pro něj vedené období III–V + sušení. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení na čaj",
+      "orientacni_trvanlivost_text": "cca 6–12 měsíců"
+    },
+    {
+      "use_id": "r257",
+      "raw_record_id": "R257",
+      "domena": "potrava",
+      "poddomena_text": "časná květní poupata a květy do salátu / krátce tepelně",
+      "poddomena_kategorie": "cerstva_potrava",
+      "cast_rostliny_text": "květní poupata a mladé květy",
+      "cast_rostliny_kategorie": "kvetni_cast",
+      "obdobi_ziskani_text": "III–IV",
+      "cilovy_efekt": "Velmi raná, aromatická jarní květní jedlost, která posouvá sběr až do opravdu předjarního období.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě vyrašené květní stvoly a polootvřená poupata před plným rozkvětem; v datech je pro něj vedené období III–IV. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S96",
+      "nazev": "PFAF: Tussilago farfara",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Tussilago+farfara",
+      "source_family": "pfaf",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Coltsfoot.jpg",
+      "alt": "podběl lékařský",
+      "caption": "Wikimedia Commons: Tussilago farfara",
+      "credit": "Andreas Trepte",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coltsfoot.jpg",
+      "license": "CC BY-SA 2.5",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 1,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 2
+  }
+}

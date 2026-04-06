@@ -2,7 +2,7 @@
 
 Projekt převádí kurátorovaný workbook o českých rostlinách do použitelné datové, databázové a aplikační vrstvy.
 
-Aktuální stav k 5. dubnu 2026:
+Aktuální stav k 6. dubnu 2026:
 
 - workbook je vyčištěný a auditovaný
 - export pipeline funguje z `.xlsx` do `csv/json`
@@ -11,8 +11,8 @@ Aktuální stav k 5. dubnu 2026:
 - existuje lokální webová aplikace pro search, plant galerii a detail stránky
 - existuje veřejný statický GitHub Pages build v `docs/`
 - existuje explicitní vrstva více metod dlouhodobého potravinového zpracování
-- dubnový repertoár obsahuje i niche a ultra-niche druhy
-- media vrstva pokrývá všech `105` rostlin skutečnými fotkami se zdrojem
+- jarní repertoár obsahuje i niche a ultra-niche druhy pro březen, duben i květen
+- media vrstva pokrývá všech `117` rostlin skutečnými fotkami se zdrojem
 - auto-cover položky byly z produkčního manifestu odstraněné
 - hlavní katalog i galerie nově umí výchozí sezónní filtr kolem dneška
 - každé použití nově nese odvozené `sber_doporuceni`
@@ -20,21 +20,23 @@ Aktuální stav k 5. dubnu 2026:
 
 ## Hlavní čísla
 
-- `105` rostlin
-- `217` aliasů
-- `256` použití
-- `86` trvanlivých forem
-- `95` zdrojů
-- `315` vazeb use-source
-- `231` vazeb use-processing-method
-- `142` použití s aspoň jednou metodou dlouhodobého zpracování
-- `67` rostlin s aspoň jedním takovým použitím
-- `49` rostlin s trvanlivým použitím
+- `117` rostlin
+- `241` aliasů
+- `273` použití
+- `91` trvanlivých forem
+- `109` zdrojů
+- `334` vazeb use-source
+- `240` vazeb use-processing-method
+- `148` použití s aspoň jednou metodou dlouhodobého zpracování
+- `72` rostlin s aspoň jedním takovým použitím
+- `54` rostlin s trvanlivým použitím
 - `41` rostlin v praktickém jádru
-- `86` dubnových použití napříč `50` rostlinami
-- `105` rostlin s reálnou fotkou v katalogu
-- `256` použití s odvozeným `sber_doporuceni`
-- `105` použití a `60` rostlin v aktuálním sezónním okně `březen + duben` pro datum `2026-04-05`
+- `53` březnových použití napříč `36` rostlinami
+- `95` dubnových použití napříč `57` rostlinami
+- `126` květnových použití napříč `70` rostlinami
+- `117` rostlin s reálnou fotkou v katalogu
+- `273` použití s odvozeným `sber_doporuceni`
+- `96` použití a `57` rostlin v aktuálním sezónním okně `březen + duben` pro datum `2026-04-06`
 
 ## Struktura projektu
 
@@ -111,7 +113,7 @@ Podrobnosti k novému chování jsou v:
 Shrnutí:
 
 - na začátku měsíce appka výchozí zobrazuje `předchozí + aktuální` měsíc
-- pro `2026-04-05` je tedy default `březen + duben`
+- pro `2026-04-06` je tedy default `březen + duben`
 - `sber_doporuceni` je odvozené opatrné doporučení postavené na fenologii, části rostliny, lokalitě, rizicích a legalitě
 
 ### Když build vytvoří fallback SQLite
@@ -181,6 +183,8 @@ Cílová veřejná URL:
   vrstva metod dlouhodobého potravinového zpracování
 - `DUBNOVE_ROZSIRENI_A_FOTOZDROJE.md`
   přehled všech dubnových kurátorských vln, nových zdrojů a reálných fotozdrojů
+- `JARNI_ROZSIRENI_BREZEN_A_KVETEN.md`
+  nová březnová a květnová kurátorská vlna, zdroje, fotky a bezpečnostní poznámky k pokročilejším druhům
 - `MEDIA_WIKIMEDIA_FILL_REPORT.md`
   poslední hromadné doplnění Wikimedia fotek
 - `LOKALNI_KATALOG_APLIKACE.md`

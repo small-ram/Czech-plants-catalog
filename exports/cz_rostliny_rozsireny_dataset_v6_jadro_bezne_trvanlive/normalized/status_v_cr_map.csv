@@ -1,14 +1,14 @@
 ﻿original_value,count,status_contains_puvodni,status_contains_zdomacnely,status_contains_pestovany,status_contains_zplanujici,status_contains_invazni,status_cetnost
-"původní, běžný",34,True,False,False,False,False,bezny
-"původní, běžná",25,True,False,False,False,False,bezny
+"původní, běžný",40,True,False,False,False,False,bezny
+"původní, běžná",30,True,False,False,False,False,bezny
+"původní, velmi běžná",25,True,False,False,False,False,velmi_bezny
 "původní, velmi běžný",25,True,False,False,False,False,velmi_bezny
-"původní, velmi běžná",24,True,False,False,False,False,velmi_bezny
 "pěstovaná, velmi běžná",14,False,False,True,False,False,velmi_bezny
+"původní, lokálně běžná",11,True,False,False,False,False,lokalne_bezny
 "původní/zdomácnělý, běžný",10,True,True,False,False,False,bezny
 "původní/zdomácnělý, velmi běžný",10,True,True,False,False,False,velmi_bezny
-"původní, lokálně běžná",8,True,False,False,False,False,lokalne_bezny
+"původní, běžná lokálně",8,True,False,False,False,False,lokalne_bezny
 "pěstovaný, běžný",7,False,False,True,False,False,bezny
-"původní, běžná lokálně",7,True,False,False,False,False,lokalne_bezny
 "běžně pěstovaná, místy zplaňující",6,False,False,True,True,False,bezny
 "pěstovaná, běžná",6,False,False,True,False,False,bezny
 "původní/zdomácnělá, běžná",6,True,True,False,False,False,bezny
@@ -35,6 +35,7 @@ původní,2,True,False,False,False,False,neurceno
 "původní, běžný v lesích",2,True,False,False,False,False,bezny
 "původní/pěstovaný, lokálně běžný",2,True,False,True,False,False,lokalne_bezny
 "zdomácnělý, velmi běžný",2,False,True,False,False,False,velmi_bezny
+"nepůvodní, zdomácnělý a běžný",1,True,True,False,False,False,bezny
 "pěstovaná i zplaňující, běžná",1,False,False,True,True,False,bezny
 "pěstovaná i zplaňující, lokálně běžná",1,False,False,True,True,False,lokalne_bezny
 "pěstovaná, lokálně zplaňující",1,False,False,True,True,False,neurceno

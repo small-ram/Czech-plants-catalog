@@ -42,6 +42,12 @@
     "confidence": "medium"
   },
   {
+    "original_value": "mladé listy syrové / vařené",
+    "count": 2,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
     "original_value": "nálev",
     "count": 2,
     "suggested_value": "caj_nalev",
@@ -204,6 +210,12 @@
     "confidence": "medium"
   },
   {
+    "original_value": "fermentované a sušené listy na Ivan čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
     "original_value": "fermentované zpracování / ocet / kvašený základ",
     "count": 1,
     "suggested_value": "ocet",
@@ -280,6 +292,18 @@
     "count": 1,
     "suggested_value": "cerstva_potrava",
     "confidence": "medium"
+  },
+  {
+    "original_value": "jarní výhonky a listy vařené / syrové po menším množství",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "jarní výhonky syrové / vařené / ledničkové pickles",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
   },
   {
     "original_value": "jarní zelenina / kuriozita",
@@ -390,9 +414,33 @@
     "confidence": "medium"
   },
   {
+    "original_value": "květní stonky a poupata vařené jako 'divoký chřest'",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
     "original_value": "květový čaj",
     "count": 1,
     "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "květy a mladé šešulky syrové jako kořeněná složka",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "květy do salátu / ozdoby / konzervy",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "květy vařené / nápoj / zavařenina",
+    "count": 1,
+    "suggested_value": "zavarenina",
     "confidence": "medium"
   },
   {
@@ -504,7 +552,19 @@
     "confidence": "low"
   },
   {
-    "original_value": "mladé listy syrové / vařené",
+    "original_value": "mladé stonky a výhonky vařené jako zelenina",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "mladé vrcholky syrové / krátce vařené",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "mladé výhonky syrové / vařené před kvetením",
     "count": 1,
     "suggested_value": "ostatni_specialni",
     "confidence": "low"
@@ -960,6 +1020,18 @@
     "confidence": "medium"
   },
   {
+    "original_value": "sušené květy na jemný čaj",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "sušené listy a květy na občasný nálev",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
+  },
+  {
     "original_value": "sušené listy na nálev / čajovou náhražku",
     "count": 1,
     "suggested_value": "caj_nalev",
@@ -1260,10 +1332,34 @@
     "confidence": "medium"
   },
   {
+    "original_value": "časná květní poupata a květy do salátu / krátce tepelně",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
     "original_value": "časná peprná brukvovitá zeleň",
     "count": 1,
     "suggested_value": "ostatni_specialni",
     "confidence": "low"
+  },
+  {
+    "original_value": "časné listy do salátu / jako dochucení",
+    "count": 1,
+    "suggested_value": "cerstva_potrava",
+    "confidence": "medium"
+  },
+  {
+    "original_value": "časné listy syrové / do polévky",
+    "count": 1,
+    "suggested_value": "ostatni_specialni",
+    "confidence": "low"
+  },
+  {
+    "original_value": "časné listy syrové / do polévky / jako čajová náhražka",
+    "count": 1,
+    "suggested_value": "caj_nalev",
+    "confidence": "medium"
   },
   {
     "original_value": "černorybízový sirup",

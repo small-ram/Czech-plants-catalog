@@ -14,17 +14,17 @@
     },
     "Starter_dataset": {
       "sheet_name": "Starter_dataset",
-      "row_count": 256,
+      "row_count": 273,
       "column_count": 25
     },
     "Zdroje": {
       "sheet_name": "Zdroje",
-      "row_count": 95,
+      "row_count": 109,
       "column_count": 4
     },
     "Trvanlive_1m_plus": {
       "sheet_name": "Trvanlive_1m_plus",
-      "row_count": 86,
+      "row_count": 91,
       "column_count": 11
     },
     "Jadro_bezne_1m_plus": {
@@ -34,13 +34,13 @@
     }
   },
   "starter_dataset_stats": {
-    "row_count": 256,
-    "unique_scientific_names": 105,
-    "unique_czech_names": 111,
+    "row_count": 273,
+    "unique_scientific_names": 117,
+    "unique_czech_names": 119,
     "domain_counts": {
-      "pití": 71,
+      "pití": 74,
       "fytoterapie": 31,
-      "potrava": 95,
+      "potrava": 109,
       "potrava a pití": 32,
       "vůně": 11,
       "palivo": 7,
@@ -48,20 +48,21 @@
     },
     "knowledge_counts": {
       "mainstream": 96,
-      "téměř zapomenuté": 48,
-      "méně známé": 99,
-      "globální analog": 13
+      "téměř zapomenuté": 58,
+      "méně známé": 104,
+      "globální analog": 13,
+      "známé hlavně v zahraničí": 2
     },
     "evidence_score_counts": {
       "A": 41,
       "B": 118,
-      "D": 51,
+      "D": 68,
       "C": 39,
       "E": 7
     }
   },
   "trvanlive_stats": {
-    "row_count": 86,
+    "row_count": 91,
     "storage_form_counts": {
       "sušení": 44,
       "ocet / octové kvašení": 2,
@@ -88,7 +89,11 @@
       "tvrdá pryskyřice": 1,
       "sušení listů na čajovou směs": 1,
       "sušení nebo mražení nasekaných listů": 1,
-      "odpaření mízy na koncentrát / sirup": 1
+      "odpaření mízy na koncentrát / sirup": 1,
+      "sušení na čaj": 2,
+      "zavařenina / květní konzerva": 1,
+      "sirup / zavařenina": 1,
+      "fermentace + sušení": 1
     }
   },
   "jadro_stats": {
@@ -113,8 +118,8 @@
     }
   },
   "source_stats": {
-    "source_count": 95,
-    "referenced_source_count": 93,
+    "source_count": 109,
+    "referenced_source_count": 107,
     "unused_source_ids": [
       "S69",
       "S77"

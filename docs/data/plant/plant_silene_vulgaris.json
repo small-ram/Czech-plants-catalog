@@ -1,0 +1,88 @@
+{
+  "plant_id": "plant_silene_vulgaris",
+  "vedecky_nazev_hlavni": "Silene vulgaris",
+  "vedecky_nazev_display": "Silene vulgaris",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "silenka nadmutá",
+  "status_v_cr_text": "původní, běžná lokálně",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "lokalne_bezny",
+  "pocet_pouziti": 1,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_silene_vulgaris",
+      "alias": "silenka nadmutá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_silene_vulgaris",
+      "alias": "Silene vulgaris",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r271",
+      "raw_record_id": "R271",
+      "domena": "potrava",
+      "poddomena_text": "mladé výhonky syrové / vařené před kvetením",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "mladé výhonky a listy",
+      "cast_rostliny_kategorie": "kombinovana_cast",
+      "obdobi_ziskani_text": "V–VI",
+      "cilovy_efekt": "Velmi ne-mainstreamová evropská jarní zelenina, která je u nás skoro neviditelná, ale jinde je ceněná.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "známé hlavně v zahraničí",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: krátké mladé výhonky a listy před rozkvětem; v datech je pro něj vedené období V–VI. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S107",
+      "nazev": "PFAF: Silene vulgaris",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Silene_vulgaris",
+      "source_family": "pfaf",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bladder_Campion.jpg",
+      "alt": "silenka nadmutá",
+      "caption": "Wikimedia Commons: Silene vulgaris",
+      "credit": "D. Gordon E. Robertson",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bladder_Campion.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 1,
+    "durable_use_count": 0,
+    "core_use_count": 0,
+    "processing_use_count": 0,
+    "top_evidence_rank": 2
+  }
+}

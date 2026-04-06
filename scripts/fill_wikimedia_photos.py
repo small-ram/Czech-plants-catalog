@@ -13,7 +13,6 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DB_PATH = ROOT / "exports" / "cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive" / "v7_canonical" / "v7_dataset.sqlite"
 MANIFEST_PATH = ROOT / "app" / "media" / "plant_media.json"
 REPORT_PATH = ROOT / "MEDIA_WIKIMEDIA_FILL_REPORT.md"
 
@@ -34,6 +33,15 @@ NON_PHOTO_HINTS = (
     "plate",
     "herbarium",
 )
+
+
+def choose_db_path(root: Path) -> Path:
+    candidates = list(root.glob("exports/*/v7_canonical/v7_dataset.sqlite"))
+    candidates.extend(root.glob("exports/*/v7_canonical/v7_dataset.rebuild*.sqlite"))
+    existing = [path for path in candidates if path.exists()]
+    if not existing:
+        raise FileNotFoundError("No SQLite database found. Run build_v7_sqlite.py first.")
+    return max(existing, key=lambda path: path.stat().st_mtime)
 
 
 def parse_args() -> argparse.Namespace:
@@ -345,7 +353,8 @@ def upsert_photo(manifest: dict[str, list[dict[str, Any]]], plant_id: str, entry
 
 
 def load_plants() -> list[dict[str, Any]]:
-    conn = sqlite3.connect(DB_PATH)
+    db_path = choose_db_path(ROOT)
+    conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     try:
         rows = conn.execute(

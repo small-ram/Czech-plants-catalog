@@ -568,5 +568,89 @@
     "nazev": "PFAF: Campanula trachelium",
     "url": "https://pfaf.org/user/Plant.aspx?LatinName=Campanula+trachelium",
     "poznamka": "Kurátorovaný zdroj pro zvonek kopřivolistý jako regionálně doloženou, ale okrajovou listovou zeleninu."
+  },
+  {
+    "zdroj_id": "S96",
+    "nazev": "PFAF: Tussilago farfara",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Tussilago+farfara",
+    "poznamka": "Kurátorovaný zdroj pro časné jarní květní využití podbělu a opatrné použití na čaj se silným upozorněním na pyrrolizidinové alkaloidy."
+  },
+  {
+    "zdroj_id": "S97",
+    "nazev": "PFAF: Primula veris",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Primula_veris",
+    "poznamka": "Kurátorovaný zdroj pro prvosenku jarní: časné listy, květy, konzervy i jarní květní nápoje."
+  },
+  {
+    "zdroj_id": "S98",
+    "nazev": "PFAF: Primula elatior",
+    "url": "https://pfaf.org/User/Plant.aspx?LatinName=Primula+elatior",
+    "poznamka": "Kurátorovaný zdroj pro prvosenku vyšší jako velmi ranou lesní listovou zeleninu."
+  },
+  {
+    "zdroj_id": "S99",
+    "nazev": "PFAF: Lamium purpureum",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Lamium_purpureum",
+    "poznamka": "Kurátorovaný zdroj pro hluchavku nachovou jako nenápadnou, ale dobře dostupnou předjarní zeleň."
+  },
+  {
+    "zdroj_id": "S100",
+    "nazev": "PFAF: Lamium album",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Lamium+album",
+    "poznamka": "Kurátorovaný zdroj pro hluchavku bílou: mladé listy i sušené květy na jemný čaj."
+  },
+  {
+    "zdroj_id": "S101",
+    "nazev": "PFAF: Alliaria petiolata",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=alliaria+petiolata",
+    "poznamka": "Kurátorovaný zdroj pro česnáček lékařský včetně listů, květů a mladých šešulek."
+  },
+  {
+    "zdroj_id": "S102",
+    "nazev": "PFAF: Robinia pseudoacacia",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=robinia_pseudoacacia",
+    "poznamka": "Kurátorovaný zdroj pro květy akátu/trnovníku akátu; zároveň zdůrazňuje nutnost opatrnosti, protože ostatní části rostliny jsou toxické."
+  },
+  {
+    "zdroj_id": "S103",
+    "nazev": "PFAF: Humulus lupulus",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Humulus+lupulus",
+    "poznamka": "Kurátorovaný zdroj pro jarní chmelové výhonky a listy, využitelné jen v krátkém květnovém okně."
+  },
+  {
+    "zdroj_id": "S104",
+    "nazev": "PFAF: Epilobium angustifolium",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Epilobium+angustifolium",
+    "poznamka": "Kurátorovaný zdroj pro vrbovku úzkolistou jako jarní výhonkovou zeleninu i čajovou rostlinu."
+  },
+  {
+    "zdroj_id": "S105",
+    "nazev": "UAF Extension: Fireweed",
+    "url": "https://www.uaf.edu/ces/publications/database/food/files/pdfs/FNH-00106-Fireweed-02-23-24.pdf",
+    "poznamka": "Aljašský extension materiál s praktickými recepty na výhonky, želé, čaj a ledničkové pickles z vrbovky úzkolisté."
+  },
+  {
+    "zdroj_id": "S106",
+    "nazev": "Luke / SPECICROP: fermentation of fireweed",
+    "url": "https://www.agrowebcee.net/uploads/media/luke-luobio_72_2016.pdf",
+    "poznamka": "Finsko-ruský technický materiál k tradiční i poloprůmyslové fermentaci Epilobium angustifolium pro Ivan čaj."
+  },
+  {
+    "zdroj_id": "S107",
+    "nazev": "PFAF: Silene vulgaris",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Silene_vulgaris",
+    "poznamka": "Kurátorovaný zdroj pro silenku nadmutou jako výrazně ne-mainstreamovou evropskou jarní zeleninu."
+  },
+  {
+    "zdroj_id": "S108",
+    "nazev": "PFAF: Tragopogon pratensis",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Tragopogon+pratensis",
+    "poznamka": "Kurátorovaný zdroj pro kozí bradu luční včetně stonků a poupat podávaných jako 'divoký chřest'."
+  },
+  {
+    "zdroj_id": "S109",
+    "nazev": "PFAF: Heracleum sphondylium",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Heracleum+Sphondylium",
+    "poznamka": "Kurátorovaný zdroj pro bolševník obecný; použitelné jen s výrazným varováním kvůli fototoxicitě a záměně s jinými miříkovitými."
   }
 ]

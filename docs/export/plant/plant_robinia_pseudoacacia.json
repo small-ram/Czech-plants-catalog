@@ -1,0 +1,88 @@
+{
+  "plant_id": "plant_robinia_pseudoacacia",
+  "vedecky_nazev_hlavni": "Robinia pseudoacacia",
+  "vedecky_nazev_display": "Robinia pseudoacacia",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "trnovník akát",
+  "status_v_cr_text": "nepůvodní, zdomácnělý a běžný",
+  "status_puvodni": 1,
+  "status_zdomacnely": 1,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 1,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_robinia_pseudoacacia",
+      "alias": "trnovník akát",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    },
+    {
+      "plant_id": "plant_robinia_pseudoacacia",
+      "alias": "Robinia pseudoacacia",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 1
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r267",
+      "raw_record_id": "R267",
+      "domena": "potrava",
+      "poddomena_text": "květy vařené / nápoj / zavařenina",
+      "poddomena_kategorie": "zavarenina",
+      "cast_rostliny_text": "květy",
+      "cast_rostliny_kategorie": "kvetni_cast",
+      "obdobi_ziskani_text": "V–VI",
+      "cilovy_efekt": "Výrazně aromatická květnová surovina s potenciálem pro nápojové a sladké uchování.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sirup / koncentrát · Zavaření / sterilace ve sklenici",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozvinuté voňavé květní hrozny; v datech je pro něj vedené období V–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sirup / zavařenina",
+      "orientacni_trvanlivost_text": "cca 6–12 měsíců"
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S102",
+      "nazev": "PFAF: Robinia pseudoacacia",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=robinia_pseudoacacia",
+      "source_family": "pfaf",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Robina9146.JPG",
+      "alt": "trnovník akát",
+      "caption": "Wikimedia Commons: Robinia pseudoacacia",
+      "credit": "Pollinator at English Wikipedia",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Robina9146.JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 1,
+    "durable_use_count": 1,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 2
+  }
+}

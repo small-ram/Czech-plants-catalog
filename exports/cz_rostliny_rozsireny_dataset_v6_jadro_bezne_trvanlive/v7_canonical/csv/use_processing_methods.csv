@@ -230,3 +230,12 @@ r240_suseni,r240,R240,suseni,1,True
 r242_suseni,r242,R242,suseni,1,True
 r242_mrazeni,r242,R242,mrazeni,2,True
 r244_sirup,r244,R244,sirup,1,True
+r258_suseni,r258,R258,suseni,1,True
+r261_zavareni,r261,R261,zavareni,1,True
+r264_suseni,r264,R264,suseni,1,True
+r267_sirup,r267,R267,sirup,1,True
+r267_zavareni,r267,R267,zavareni,2,True
+r269_chlazene_skladovani,r269,R269,chlazene_skladovani,1,False
+r269_nakladani,r269,R269,nakladani,2,False
+r270_suseni,r270,R270,suseni,1,True
+r270_kvaseni,r270,R270,kvaseni,2,True

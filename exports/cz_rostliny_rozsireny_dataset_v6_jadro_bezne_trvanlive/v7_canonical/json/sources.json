@@ -853,5 +853,131 @@
     "source_family": "pfaf",
     "is_referenced": true,
     "poznamka": "Kurátorovaný zdroj pro zvonek kopřivolistý jako regionálně doloženou, ale okrajovou listovou zeleninu."
+  },
+  {
+    "source_id": "s96",
+    "raw_source_id": "S96",
+    "nazev": "PFAF: Tussilago farfara",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Tussilago+farfara",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro časné jarní květní využití podbělu a opatrné použití na čaj se silným upozorněním na pyrrolizidinové alkaloidy."
+  },
+  {
+    "source_id": "s97",
+    "raw_source_id": "S97",
+    "nazev": "PFAF: Primula veris",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Primula_veris",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro prvosenku jarní: časné listy, květy, konzervy i jarní květní nápoje."
+  },
+  {
+    "source_id": "s98",
+    "raw_source_id": "S98",
+    "nazev": "PFAF: Primula elatior",
+    "url": "https://pfaf.org/User/Plant.aspx?LatinName=Primula+elatior",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro prvosenku vyšší jako velmi ranou lesní listovou zeleninu."
+  },
+  {
+    "source_id": "s99",
+    "raw_source_id": "S99",
+    "nazev": "PFAF: Lamium purpureum",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Lamium_purpureum",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro hluchavku nachovou jako nenápadnou, ale dobře dostupnou předjarní zeleň."
+  },
+  {
+    "source_id": "s100",
+    "raw_source_id": "S100",
+    "nazev": "PFAF: Lamium album",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Lamium+album",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro hluchavku bílou: mladé listy i sušené květy na jemný čaj."
+  },
+  {
+    "source_id": "s101",
+    "raw_source_id": "S101",
+    "nazev": "PFAF: Alliaria petiolata",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=alliaria+petiolata",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro česnáček lékařský včetně listů, květů a mladých šešulek."
+  },
+  {
+    "source_id": "s102",
+    "raw_source_id": "S102",
+    "nazev": "PFAF: Robinia pseudoacacia",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=robinia_pseudoacacia",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro květy akátu/trnovníku akátu; zároveň zdůrazňuje nutnost opatrnosti, protože ostatní části rostliny jsou toxické."
+  },
+  {
+    "source_id": "s103",
+    "raw_source_id": "S103",
+    "nazev": "PFAF: Humulus lupulus",
+    "url": "https://pfaf.org/user/plant.aspx?latinname=Humulus+lupulus",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro jarní chmelové výhonky a listy, využitelné jen v krátkém květnovém okně."
+  },
+  {
+    "source_id": "s104",
+    "raw_source_id": "S104",
+    "nazev": "PFAF: Epilobium angustifolium",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Epilobium+angustifolium",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro vrbovku úzkolistou jako jarní výhonkovou zeleninu i čajovou rostlinu."
+  },
+  {
+    "source_id": "s105",
+    "raw_source_id": "S105",
+    "nazev": "UAF Extension: Fireweed",
+    "url": "https://www.uaf.edu/ces/publications/database/food/files/pdfs/FNH-00106-Fireweed-02-23-24.pdf",
+    "source_family": "www_uaf_edu",
+    "is_referenced": true,
+    "poznamka": "Aljašský extension materiál s praktickými recepty na výhonky, želé, čaj a ledničkové pickles z vrbovky úzkolisté."
+  },
+  {
+    "source_id": "s106",
+    "raw_source_id": "S106",
+    "nazev": "Luke / SPECICROP: fermentation of fireweed",
+    "url": "https://www.agrowebcee.net/uploads/media/luke-luobio_72_2016.pdf",
+    "source_family": "www_agrowebcee_net",
+    "is_referenced": true,
+    "poznamka": "Finsko-ruský technický materiál k tradiční i poloprůmyslové fermentaci Epilobium angustifolium pro Ivan čaj."
+  },
+  {
+    "source_id": "s107",
+    "raw_source_id": "S107",
+    "nazev": "PFAF: Silene vulgaris",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Silene_vulgaris",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro silenku nadmutou jako výrazně ne-mainstreamovou evropskou jarní zeleninu."
+  },
+  {
+    "source_id": "s108",
+    "raw_source_id": "S108",
+    "nazev": "PFAF: Tragopogon pratensis",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Tragopogon+pratensis",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro kozí bradu luční včetně stonků a poupat podávaných jako 'divoký chřest'."
+  },
+  {
+    "source_id": "s109",
+    "raw_source_id": "S109",
+    "nazev": "PFAF: Heracleum sphondylium",
+    "url": "https://pfaf.org/user/Plant.aspx?LatinName=Heracleum+Sphondylium",
+    "source_family": "pfaf",
+    "is_referenced": true,
+    "poznamka": "Kurátorovaný zdroj pro bolševník obecný; použitelné jen s výrazným varováním kvůli fototoxicitě a záměně s jinými miříkovitými."
   }
 ]

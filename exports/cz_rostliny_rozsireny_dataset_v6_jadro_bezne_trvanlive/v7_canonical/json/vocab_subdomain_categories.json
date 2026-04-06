@@ -2,22 +2,22 @@
   {
     "subdomain_category_id": "caj_nalev",
     "label": "caj nalev",
-    "row_count": 60
+    "row_count": 64
   },
   {
     "subdomain_category_id": "ostatni_specialni",
     "label": "ostatni specialni",
+    "row_count": 41
+  },
+  {
+    "subdomain_category_id": "cerstva_potrava",
+    "label": "cerstva potrava",
     "row_count": 33
   },
   {
     "subdomain_category_id": "sirup_koncentrat",
     "label": "sirup koncentrat",
     "row_count": 32
-  },
-  {
-    "subdomain_category_id": "cerstva_potrava",
-    "label": "cerstva potrava",
-    "row_count": 29
   },
   {
     "subdomain_category_id": "suseni_skladovani",
@@ -32,7 +32,7 @@
   {
     "subdomain_category_id": "zavarenina",
     "label": "zavarenina",
-    "row_count": 13
+    "row_count": 14
   },
   {
     "subdomain_category_id": "vune_a_vykurovani",

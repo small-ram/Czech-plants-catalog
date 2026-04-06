@@ -6,12 +6,15 @@ alkoholová macerace,3,alkoholovy_macerat
 ocet / octové kvašení,2,ocet
 pražení + suché skladování,2,suche_skladovani
 sušení + mletí,2,suseni
+sušení na čaj,2,suseni
+fermentace + sušení,1,suseni
 kvašený nápoj,1,fermentovany_napoj
 lisovaný olej,1,olej
 nakládání,1,nakladani
 odpaření mízy na koncentrát / sirup,1,sirup
 olej,1,olej
 pražení + mletí,1,prazeni
+sirup / zavařenina,1,sirup
 sirup / zavaření,1,sirup
 sirup / želé,1,sirup
 suché skladování troudu,1,suche_skladovani
@@ -25,3 +28,4 @@ sušení nebo mražení nasekaných listů,1,suseni
 sušený aromatický sáček,1,suseni
 sušený svazeček,1,suseni
 tvrdá pryskyřice,1,pryskyrice
+zavařenina / květní konzerva,1,zavarenina

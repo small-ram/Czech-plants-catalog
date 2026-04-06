@@ -1,0 +1,122 @@
+{
+  "use_id": "r269",
+  "plant_id": "plant_epilobium_angustifolium",
+  "raw_record_id": "R269",
+  "cesky_nazev_display": "vrbovka úzkolistá",
+  "cast_rostliny_text": "mladé výhonky, listy a poupata",
+  "cast_rostliny_kategorie": "kombinovana_cast",
+  "cast_rostliny_je_kombinovana": 1,
+  "domena": "potrava",
+  "domena_slug": "potrava",
+  "poddomena_text": "jarní výhonky syrové / vařené / ledničkové pickles",
+  "poddomena_kategorie": "ostatni_specialni",
+  "status_znalosti": "téměř zapomenuté",
+  "status_znalosti_slug": "temer_zapomenute",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "lesní paseky, okraje cest v horách a podhůří, světliny, náspy, disturbované lesní okraje",
+  "obdobi_ziskani_text": "V–VI",
+  "mesic_od": 5,
+  "mesic_do": 6,
+  "fenologicka_faze": "mladé šťavnaté výhonky, jemné listy a neotevřená poupata před plným květem",
+  "zpusob_pripravy": "Mladé výhonky a poupata používat syrové po menším množství, krátce je napařit nebo je naložit do ledničkových pickles.",
+  "cilovy_efekt": "Květnová a raně letní výhonková zelenina s překvapivě širokým rozsahem od čerstvého použití po jemnější pickles.",
+  "chutovy_profil": "jemně zelený, někdy lehce peprný",
+  "vonny_profil": "čerstvě bylinný",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Pozdější listy a stonky rychle tuhnou a hořknou; sběr má smysl jen opravdu časný a z čistých lokalit.",
+  "kontraindikace_interakce": null,
+  "legalita_poznamka_cr": "Sbírat střídmě jen vrcholové části z běžných porostů a neničit celé plochy mladých výhonů.",
+  "dukaznost_typ": "kurátorovaný botanický + extension zdroj",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 0,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Skladování v chladu · Nakládání",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé šťavnaté výhonky, jemné listy a neotevřená poupata před plným květem; v datech je pro něj vedené období V–VI. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Květnová vlna přidává i rostlinu, která umí spojit čerstvý sběr s praktickým uchováním.",
+  "vedecky_nazev_hlavni": "Epilobium angustifolium",
+  "cesky_nazev_hlavni": "vrbovka úzkolistá",
+  "status_v_cr_text": "původní, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": null,
+  "orientacni_trvanlivost_text": null,
+  "poznamka_k_skladovani": null,
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_epilobium_angustifolium",
+      "alias": "vrbovka úzkolistá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_epilobium_angustifolium",
+      "alias": "Epilobium angustifolium",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S104",
+      "nazev": "PFAF: Epilobium angustifolium",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Epilobium+angustifolium",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro vrbovku úzkolistou jako jarní výhonkovou zeleninu i čajovou rostlinu."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S105",
+      "nazev": "UAF Extension: Fireweed",
+      "url": "https://www.uaf.edu/ces/publications/database/food/files/pdfs/FNH-00106-Fireweed-02-23-24.pdf",
+      "source_family": "www_uaf_edu",
+      "poznamka": "Aljašský extension materiál s praktickými recepty na výhonky, želé, čaj a ledničkové pickles z vrbovky úzkolisté."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "chlazene_skladovani",
+      "label": "Skladování v chladu",
+      "group_label": "chlad",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "nakladani",
+      "label": "Nakládání",
+      "group_label": "pickles",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Maitohorsma_%28Epilobium_angustifolium%29.JPG",
+      "alt": "vrbovka úzkolistá",
+      "caption": "Wikimedia Commons: Epilobium angustifolium",
+      "credit": "kallerna",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Maitohorsma_(Epilobium_angustifolium).JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Maitohorsma_%28Epilobium_angustifolium%29.JPG",
+  "primary_photo_alt": "vrbovka úzkolistá",
+  "primary_photo_credit": "kallerna",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Maitohorsma_(Epilobium_angustifolium).JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

@@ -2,16 +2,17 @@
 plod,54,plodova_cast,False
 list,26,listova_nadzemni_cast,False
 nať,18,listova_nadzemni_cast,False
+mladé listy,17,listova_nadzemni_cast,False
 květ,14,kvetni_cast,False
-mladé listy,13,listova_nadzemni_cast,False
 kořen,11,podzemni_cast,False
-květy,7,kvetni_cast,False
+květy,10,kvetni_cast,False
 mladé výhonky,7,vyhonky_a_pupeny,False
 míza,6,miza,False
 dřevo,5,drevnata_cast,False
 kůra,5,drevnata_cast,False
 bukvice,4,semena_a_orisky,False
 listy,4,listova_nadzemni_cast,False
+mladé listy a vrcholky,4,listova_nadzemni_cast,False
 pseudoplod,4,plodova_cast,False
 ořech,3,semena_a_orisky,False
 pupeny / mladé výhonky,3,vyhonky_a_pupeny,False
@@ -22,8 +23,9 @@ bulva/kořen,2,podzemni_cast,False
 cibule,2,podzemni_cast,False
 hlíza,2,podzemni_cast,False
 list a květ,2,kombinovana_cast,True
-mladé listy a vrcholky,2,listova_nadzemni_cast,False
+listy a květy,2,kombinovana_cast,True
 mladé listy a vrcholy,2,listova_nadzemni_cast,False
+mladé výhonky a listy,2,kombinovana_cast,True
 nezralý plod,2,plodova_cast,False
 pryskyřice,2,drevnata_cast,False
 semeno,2,semena_a_orisky,False
@@ -37,13 +39,14 @@ kořen 1. roku,1,podzemni_cast,False
 kořen s natí,1,podzemni_cast,False
 kvetoucí nať,1,kombinovana_cast,True
 květenství,1,kvetni_cast,False
+květní poupata a mladé květy,1,kvetni_cast,False
 květní pupeny,1,kombinovana_cast,True
 květy a listy,1,kombinovana_cast,True
 květy a mladé listy,1,kombinovana_cast,True
+květy a mladé šešulky,1,kvetni_cast,False
 list / zkvašená hmota,1,listova_nadzemni_cast,False
 list s květem,1,kombinovana_cast,True
 listy a kvetoucí nať,1,kombinovana_cast,True
-listy a květy,1,kombinovana_cast,True
 malvice,1,plodova_cast,False
 mladé listy a květní výhony,1,kombinovana_cast,True
 mladé listy a květy,1,kombinovana_cast,True
@@ -55,8 +58,11 @@ mladé listy a výhony,1,kombinovana_cast,True
 "mladé listy, výhony a šešulky",1,kombinovana_cast,True
 mladé plody,1,plodova_cast,False
 mladé růžice,1,listova_nadzemni_cast,False
+"mladé stonky, poupata a listy",1,listova_nadzemni_cast,False
+"mladé stonky, řapíky a výhonky",1,kombinovana_cast,True
 mladé vrcholky,1,ostatni,False
 mladé vrcholky a listy,1,listova_nadzemni_cast,False
+"mladé výhonky, listy a poupata",1,kombinovana_cast,True
 nať / list,1,listova_nadzemni_cast,False
 plod + semena,1,kombinovana_cast,True
 plody,1,plodova_cast,False

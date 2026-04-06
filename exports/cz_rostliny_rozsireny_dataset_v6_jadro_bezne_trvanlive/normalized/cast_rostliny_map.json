@@ -18,15 +18,15 @@
     "is_compound": false
   },
   {
-    "original_value": "květ",
-    "count": 14,
-    "suggested_value": "kvetni_cast",
+    "original_value": "mladé listy",
+    "count": 17,
+    "suggested_value": "listova_nadzemni_cast",
     "is_compound": false
   },
   {
-    "original_value": "mladé listy",
-    "count": 13,
-    "suggested_value": "listova_nadzemni_cast",
+    "original_value": "květ",
+    "count": 14,
+    "suggested_value": "kvetni_cast",
     "is_compound": false
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "original_value": "květy",
-    "count": 7,
+    "count": 10,
     "suggested_value": "kvetni_cast",
     "is_compound": false
   },
@@ -73,6 +73,12 @@
   },
   {
     "original_value": "listy",
+    "count": 4,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé listy a vrcholky",
     "count": 4,
     "suggested_value": "listova_nadzemni_cast",
     "is_compound": false
@@ -138,16 +144,22 @@
     "is_compound": true
   },
   {
-    "original_value": "mladé listy a vrcholky",
+    "original_value": "listy a květy",
     "count": 2,
-    "suggested_value": "listova_nadzemni_cast",
-    "is_compound": false
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
   },
   {
     "original_value": "mladé listy a vrcholy",
     "count": 2,
     "suggested_value": "listova_nadzemni_cast",
     "is_compound": false
+  },
+  {
+    "original_value": "mladé výhonky a listy",
+    "count": 2,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
   },
   {
     "original_value": "nezralý plod",
@@ -228,6 +240,12 @@
     "is_compound": false
   },
   {
+    "original_value": "květní poupata a mladé květy",
+    "count": 1,
+    "suggested_value": "kvetni_cast",
+    "is_compound": false
+  },
+  {
     "original_value": "květní pupeny",
     "count": 1,
     "suggested_value": "kombinovana_cast",
@@ -246,6 +264,12 @@
     "is_compound": true
   },
   {
+    "original_value": "květy a mladé šešulky",
+    "count": 1,
+    "suggested_value": "kvetni_cast",
+    "is_compound": false
+  },
+  {
     "original_value": "list / zkvašená hmota",
     "count": 1,
     "suggested_value": "listova_nadzemni_cast",
@@ -259,12 +283,6 @@
   },
   {
     "original_value": "listy a kvetoucí nať",
-    "count": 1,
-    "suggested_value": "kombinovana_cast",
-    "is_compound": true
-  },
-  {
-    "original_value": "listy a květy",
     "count": 1,
     "suggested_value": "kombinovana_cast",
     "is_compound": true
@@ -336,6 +354,18 @@
     "is_compound": false
   },
   {
+    "original_value": "mladé stonky, poupata a listy",
+    "count": 1,
+    "suggested_value": "listova_nadzemni_cast",
+    "is_compound": false
+  },
+  {
+    "original_value": "mladé stonky, řapíky a výhonky",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
+  },
+  {
     "original_value": "mladé vrcholky",
     "count": 1,
     "suggested_value": "ostatni",
@@ -346,6 +376,12 @@
     "count": 1,
     "suggested_value": "listova_nadzemni_cast",
     "is_compound": false
+  },
+  {
+    "original_value": "mladé výhonky, listy a poupata",
+    "count": 1,
+    "suggested_value": "kombinovana_cast",
+    "is_compound": true
   },
   {
     "original_value": "nať / list",

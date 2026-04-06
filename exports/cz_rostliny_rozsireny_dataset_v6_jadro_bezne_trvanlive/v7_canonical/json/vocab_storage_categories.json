@@ -35,6 +35,11 @@
     "row_count": 2
   },
   {
+    "storage_category_id": "suseni_na_caj",
+    "label": "suseni na caj",
+    "row_count": 2
+  },
+  {
     "storage_category_id": "kvaseny_napoj",
     "label": "kvaseny napoj",
     "row_count": 1
@@ -127,6 +132,21 @@
   {
     "storage_category_id": "odpareni_mizy_na_koncentrat_sirup",
     "label": "odpareni mizy na koncentrat sirup",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "zavarenina_kvetni_konzerva",
+    "label": "zavarenina kvetni konzerva",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "sirup_zavarenina",
+    "label": "sirup zavarenina",
+    "row_count": 1
+  },
+  {
+    "storage_category_id": "fermentace_suseni",
+    "label": "fermentace suseni",
     "row_count": 1
   }
 ]

@@ -6,6 +6,7 @@ listový čaj,3,caj_nalev,medium
 nálev / tradiční bylinný přípravek,3,caj_nalev,medium
 fermentovaný nápoj / sirup / ocet,2,sirup_koncentrat,medium
 jarní zelenina / polévka / špenát,2,cerstva_potrava,medium
+mladé listy syrové / vařené,2,ostatni_specialni,low
 nálev,2,caj_nalev,medium
 nálev / bylinný přípravek,2,caj_nalev,medium
 nálev / extrakt,2,caj_nalev,medium
@@ -33,6 +34,7 @@ destilát / likér,1,liker_macerat,medium
 dužina / semena / pečení / polévka,1,cerstva_potrava,medium
 dětská svačina / kuriozita,1,cerstva_potrava,medium
 fermentace / středoevropský analog,1,fermentace,medium
+fermentované a sušené listy na Ivan čaj,1,caj_nalev,medium
 fermentované zpracování / ocet / kvašený základ,1,ocet,medium
 folk bylinné užití,1,ostatni_specialni,low
 folk bylinný čaj,1,caj_nalev,medium
@@ -46,6 +48,8 @@ jablečný ocet / cider vinegar,1,ocet,medium
 jarní listy do směsí / krátce vařené,1,ostatni_specialni,low
 jarní míza / odpaření na sirup,1,sirup_koncentrat,medium
 jarní salát / potherb,1,cerstva_potrava,medium
+jarní výhonky a listy vařené / syrové po menším množství,1,ostatni_specialni,low
+jarní výhonky syrové / vařené / ledničkové pickles,1,ostatni_specialni,low
 jarní zelenina / kuriozita,1,cerstva_potrava,medium
 jarní zelenina / pesto / pomazánka,1,cerstva_potrava,medium
 jedlé květy,1,ostatni_specialni,low
@@ -64,7 +68,11 @@ koření / pesto / salát,1,koreni_dochucovadlo,medium
 koření / semenná přísada,1,koreni_dochucovadlo,medium
 koření / zelenina / fermentace,1,koreni_dochucovadlo,medium
 kořenící zelenina / čerstvý křen,1,koreni_dochucovadlo,medium
+květní stonky a poupata vařené jako 'divoký chřest',1,ostatni_specialni,low
 květový čaj,1,caj_nalev,medium
+květy a mladé šešulky syrové jako kořeněná složka,1,ostatni_specialni,low
+květy do salátu / ozdoby / konzervy,1,cerstva_potrava,medium
+květy vařené / nápoj / zavařenina,1,zavarenina,medium
 kysané zelí / zelné šťávy,1,ostatni_specialni,low
 kávová náhražka,1,kavova_nahrada,medium
 křížaly / sušené plátky,1,suseni_skladovani,medium
@@ -83,7 +91,9 @@ mladé listy a výhony syrové / vařené,1,ostatni_specialni,low
 mladé listy do salátu / na chléb,1,cerstva_potrava,medium
 mladé listy syrové / krátce tepelně upravené,1,ostatni_specialni,low
 mladé listy syrové / krátce vařené,1,ostatni_specialni,low
-mladé listy syrové / vařené,1,ostatni_specialni,low
+mladé stonky a výhonky vařené jako zelenina,1,cerstva_potrava,medium
+mladé vrcholky syrové / krátce vařené,1,ostatni_specialni,low
+mladé výhonky syrové / vařené před kvetením,1,ostatni_specialni,low
 mošt / cider / ocet,1,ocet,medium
 mošt / perry / odvar ze sušených plodů,1,suseni_skladovani,medium
 nakládané nezralé trnky jako „olivy“,1,ostatni_specialni,low
@@ -159,6 +169,8 @@ sušené hrušky / křížaly,1,suseni_skladovani,medium
 sušené jalovčinky jako koření,1,koreni_dochucovadlo,medium
 sušené jeřabiny do čajových směsí,1,caj_nalev,medium
 sušené kmínové semeno jako koření,1,koreni_dochucovadlo,medium
+sušené květy na jemný čaj,1,caj_nalev,medium
+sušené listy a květy na občasný nálev,1,caj_nalev,medium
 sušené listy na nálev / čajovou náhražku,1,caj_nalev,medium
 sušené ořechy ve skořápce nebo vyloupané,1,suseni_skladovani,medium
 sušené plody,1,suseni_skladovani,medium
@@ -209,7 +221,11 @@ zevní obklad,1,zevni_aplikace,medium
 čaj / džem / sirup / víno / náhražka kávy ze semen,1,caj_nalev,medium
 čaj / lehká náhražka černého čaje,1,caj_nalev,medium
 čaj při nachlazení,1,caj_nalev,medium
+časná květní poupata a květy do salátu / krátce tepelně,1,cerstva_potrava,medium
 časná peprná brukvovitá zeleň,1,ostatni_specialni,low
+časné listy do salátu / jako dochucení,1,cerstva_potrava,medium
+časné listy syrové / do polévky,1,ostatni_specialni,low
+časné listy syrové / do polévky / jako čajová náhražka,1,caj_nalev,medium
 černorybízový sirup,1,sirup_koncentrat,medium
 čerstvá nať / sušení / mražení,1,suseni_skladovani,medium
 čerstvé hrozny / mošt / ocet,1,ocet,medium

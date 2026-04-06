@@ -1,0 +1,124 @@
+{
+  "plant_id": "plant_epilobium_angustifolium",
+  "vedecky_nazev_hlavni": "Epilobium angustifolium",
+  "vedecky_nazev_display": "Epilobium angustifolium",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "vrbovka úzkolistá",
+  "status_v_cr_text": "původní, běžná",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_epilobium_angustifolium",
+      "alias": "vrbovka úzkolistá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_epilobium_angustifolium",
+      "alias": "Epilobium angustifolium",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r270",
+      "raw_record_id": "R270",
+      "domena": "pití",
+      "poddomena_text": "fermentované a sušené listy na Ivan čaj",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "mladé listy a vrcholky",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "V–VIII + fermentace + sušení",
+      "cilovy_efekt": "Tradičněji laděná fermentovaná čajová surovina, známější na severu a východě Evropy než u nás.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "známé hlavně v zahraničí",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení · Kvašení / fermentace",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy a vrcholky v době před květem až na začátku nasazování poupat; v datech je pro něj vedené období V–VIII + fermentace + sušení. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "fermentace + sušení",
+      "orientacni_trvanlivost_text": "cca 6–18 měsíců"
+    },
+    {
+      "use_id": "r269",
+      "raw_record_id": "R269",
+      "domena": "potrava",
+      "poddomena_text": "jarní výhonky syrové / vařené / ledničkové pickles",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "mladé výhonky, listy a poupata",
+      "cast_rostliny_kategorie": "kombinovana_cast",
+      "obdobi_ziskani_text": "V–VI",
+      "cilovy_efekt": "Květnová a raně letní výhonková zelenina s překvapivě širokým rozsahem od čerstvého použití po jemnější pickles.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Skladování v chladu · Nakládání",
+      "processing_methods_count": 2,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé šťavnaté výhonky, jemné listy a neotevřená poupata před plným květem; v datech je pro něj vedené období V–VI. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S104",
+      "nazev": "PFAF: Epilobium angustifolium",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Epilobium+angustifolium",
+      "source_family": "pfaf",
+      "use_count": 2
+    },
+    {
+      "raw_source_id": "S105",
+      "nazev": "UAF Extension: Fireweed",
+      "url": "https://www.uaf.edu/ces/publications/database/food/files/pdfs/FNH-00106-Fireweed-02-23-24.pdf",
+      "source_family": "www_uaf_edu",
+      "use_count": 1
+    },
+    {
+      "raw_source_id": "S106",
+      "nazev": "Luke / SPECICROP: fermentation of fireweed",
+      "url": "https://www.agrowebcee.net/uploads/media/luke-luobio_72_2016.pdf",
+      "source_family": "www_agrowebcee_net",
+      "use_count": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Maitohorsma_%28Epilobium_angustifolium%29.JPG",
+      "alt": "vrbovka úzkolistá",
+      "caption": "Wikimedia Commons: Epilobium angustifolium",
+      "credit": "kallerna",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Maitohorsma_(Epilobium_angustifolium).JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 1,
+    "core_use_count": 0,
+    "processing_use_count": 2,
+    "top_evidence_rank": 2
+  }
+}

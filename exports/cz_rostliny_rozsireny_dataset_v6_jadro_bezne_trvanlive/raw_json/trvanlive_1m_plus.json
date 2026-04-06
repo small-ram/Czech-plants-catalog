@@ -1116,5 +1116,70 @@
     "forma_uchovani": "odpaření mízy na koncentrát / sirup",
     "orientacni_trvanlivost": "6–12 měsíců",
     "poznamka_k_skladovani": "Po důkladném odpaření plnit horké do čistých lahví a skladovat v chladu a temnu."
+  },
+  {
+    "record_id": "R258",
+    "cesky_nazev": "podběl lékařský",
+    "vedecky_nazev": "Tussilago farfara",
+    "domena": "pití",
+    "poddomena": "sušené listy a květy na občasný nálev",
+    "cast_rostliny": "listy a květy",
+    "obdobi_ziskani": "III–V + sušení",
+    "typicke_lokality_v_CR": "jílovité náspy, okraje cest, výsypky, rumiště, vlhčí svahy a narušené půdy",
+    "forma_uchovani": "sušení na čaj",
+    "orientacni_trvanlivost": "cca 6–12 měsíců",
+    "poznamka_k_skladovani": "Sušit rychle v tenké vrstvě, skladovat v suchu a temnu. Kvůli alkaloidům jen střídmé a občasné použití."
+  },
+  {
+    "record_id": "R261",
+    "cesky_nazev": "prvosenka jarní",
+    "vedecky_nazev": "Primula veris",
+    "domena": "potrava",
+    "poddomena": "květy do salátu / ozdoby / konzervy",
+    "cast_rostliny": "květy",
+    "obdobi_ziskani": "IV–V",
+    "typicke_lokality_v_CR": "světlejší louky, remízky, okraje lesů, suché až mezofilní trávníky",
+    "forma_uchovani": "zavařenina / květní konzerva",
+    "orientacni_trvanlivost": "cca 6–12 měsíců",
+    "poznamka_k_skladovani": "Zpracovat jen čisté květy bez stopek; po otevření uchovávat v chladu."
+  },
+  {
+    "record_id": "R264",
+    "cesky_nazev": "hluchavka bílá",
+    "vedecky_nazev": "Lamium album",
+    "domena": "pití",
+    "poddomena": "sušené květy na jemný čaj",
+    "cast_rostliny": "květy",
+    "obdobi_ziskani": "V–IX + sušení",
+    "typicke_lokality_v_CR": "živé ploty, křoviny, lemy cest, zahrady a ruderální okraje",
+    "forma_uchovani": "sušení na čaj",
+    "orientacni_trvanlivost": "cca 6–12 měsíců",
+    "poznamka_k_skladovani": "Sušit v tenké vrstvě a chránit před zapařením. Uchovávat v uzavřené nádobě a temnu."
+  },
+  {
+    "record_id": "R267",
+    "cesky_nazev": "trnovník akát",
+    "vedecky_nazev": "Robinia pseudoacacia",
+    "domena": "potrava",
+    "poddomena": "květy vařené / nápoj / zavařenina",
+    "cast_rostliny": "květy",
+    "obdobi_ziskani": "V–VI",
+    "typicke_lokality_v_CR": "teplejší stráně, aleje, remízky, suché meze, městské a příměstské výsadby",
+    "forma_uchovani": "sirup / zavařenina",
+    "orientacni_trvanlivost": "cca 6–12 měsíců",
+    "poznamka_k_skladovani": "Zpracovat jen samotné květy bez zelených částí; po otevření skladovat v chladu a vždy hlídat čistotu suroviny."
+  },
+  {
+    "record_id": "R270",
+    "cesky_nazev": "vrbovka úzkolistá",
+    "vedecky_nazev": "Epilobium angustifolium",
+    "domena": "pití",
+    "poddomena": "fermentované a sušené listy na Ivan čaj",
+    "cast_rostliny": "mladé listy a vrcholky",
+    "obdobi_ziskani": "V–VIII + fermentace + sušení",
+    "typicke_lokality_v_CR": "světliny, paseky, náspy, horské a podhorské disturbované lokality",
+    "forma_uchovani": "fermentace + sušení",
+    "orientacni_trvanlivost": "cca 6–18 měsíců",
+    "poznamka_k_skladovani": "Po fermentaci důkladně dosušit, jinak hrozí plesnivění. Uchovávat v suchu, temnu a těsné nádobě."
   }
 ]

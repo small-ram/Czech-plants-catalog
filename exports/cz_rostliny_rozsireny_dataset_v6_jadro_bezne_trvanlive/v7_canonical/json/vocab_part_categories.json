@@ -2,7 +2,7 @@
   {
     "part_category_id": "listova_nadzemni_cast",
     "label": "listova nadzemni cast",
-    "row_count": 76
+    "row_count": 83
   },
   {
     "part_category_id": "plodova_cast",
@@ -12,12 +12,12 @@
   {
     "part_category_id": "kvetni_cast",
     "label": "kvetni cast",
-    "row_count": 22
+    "row_count": 27
   },
   {
     "part_category_id": "kombinovana_cast",
     "label": "kombinovana cast",
-    "row_count": 22
+    "row_count": 27
   },
   {
     "part_category_id": "podzemni_cast",

@@ -2,28 +2,56 @@
   "workbook_file": "cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive.xlsx",
   "canonical_output_dir": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\v7_canonical",
   "table_counts": {
-    "plants": 105,
-    "plant_aliases": 217,
-    "uses": 256,
-    "durable_forms": 86,
-    "sources": 95,
-    "use_sources": 315,
-    "use_processing_methods": 231,
+    "plants": 117,
+    "plant_aliases": 241,
+    "uses": 273,
+    "durable_forms": 91,
+    "sources": 109,
+    "use_sources": 334,
+    "use_processing_methods": 240,
     "vocab_part_categories": 10,
     "vocab_subdomain_categories": 17,
-    "vocab_storage_categories": 26,
+    "vocab_storage_categories": 30,
     "vocab_processing_methods": 14
   },
-  "referenced_source_count": 93,
+  "referenced_source_count": 107,
   "unreferenced_source_count": 2,
   "scientific_name_collisions_with_multiple_czech_names": 7,
-  "ambiguous_czech_names": 1,
+  "ambiguous_czech_names": 5,
   "ambiguous_czech_name_examples": [
+    {
+      "cesky_nazev": "chmel otáčivý",
+      "vedecke_nazvy": [
+        "Humulus lupulus",
+        "Humulus lupulus L."
+      ]
+    },
     {
       "cesky_nazev": "dub",
       "vedecke_nazvy": [
         "Quercus robur / Q. petraea / Q. pubescens",
         "Quercus spp."
+      ]
+    },
+    {
+      "cesky_nazev": "hluchavka bílá",
+      "vedecke_nazvy": [
+        "Lamium album",
+        "Lamium album L."
+      ]
+    },
+    {
+      "cesky_nazev": "hluchavka nachová",
+      "vedecke_nazvy": [
+        "Lamium purpureum",
+        "Lamium purpureum L."
+      ]
+    },
+    {
+      "cesky_nazev": "česnáček lékařský",
+      "vedecke_nazvy": [
+        "Alliaria petiolata",
+        "Alliaria petiolata (M.Bieb.) Cavara & Grande"
       ]
     }
   ]

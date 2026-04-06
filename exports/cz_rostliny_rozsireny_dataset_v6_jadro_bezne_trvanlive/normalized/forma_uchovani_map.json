@@ -35,6 +35,16 @@
     "suggested_value": "suseni"
   },
   {
+    "original_value": "sušení na čaj",
+    "count": 2,
+    "suggested_value": "suseni"
+  },
+  {
+    "original_value": "fermentace + sušení",
+    "count": 1,
+    "suggested_value": "suseni"
+  },
+  {
     "original_value": "kvašený nápoj",
     "count": 1,
     "suggested_value": "fermentovany_napoj"
@@ -63,6 +73,11 @@
     "original_value": "pražení + mletí",
     "count": 1,
     "suggested_value": "prazeni"
+  },
+  {
+    "original_value": "sirup / zavařenina",
+    "count": 1,
+    "suggested_value": "sirup"
   },
   {
     "original_value": "sirup / zavaření",
@@ -128,5 +143,10 @@
     "original_value": "tvrdá pryskyřice",
     "count": 1,
     "suggested_value": "pryskyrice"
+  },
+  {
+    "original_value": "zavařenina / květní konzerva",
+    "count": 1,
+    "suggested_value": "zavarenina"
   }
 ]

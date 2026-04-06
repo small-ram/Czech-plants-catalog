@@ -1,0 +1,122 @@
+{
+  "use_id": "r270",
+  "plant_id": "plant_epilobium_angustifolium",
+  "raw_record_id": "R270",
+  "cesky_nazev_display": "vrbovka úzkolistá",
+  "cast_rostliny_text": "mladé listy a vrcholky",
+  "cast_rostliny_kategorie": "listova_nadzemni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "fermentované a sušené listy na Ivan čaj",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "známé hlavně v zahraničí",
+  "status_znalosti_slug": "zname_hlavne_v_zahranici",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "světliny, paseky, náspy, horské a podhorské disturbované lokality",
+  "obdobi_ziskani_text": "V–VIII + fermentace + sušení",
+  "mesic_od": 5,
+  "mesic_do": 8,
+  "fenologicka_faze": "mladé listy a vrcholky v době před květem až na začátku nasazování poupat",
+  "zpusob_pripravy": "Listy nebo měkké vrcholky nechat zavadnout, narušit pletiva, krátce fermentovat a následně dosušit jako nečerný bylinný 'Ivan čaj'.",
+  "cilovy_efekt": "Tradičněji laděná fermentovaná čajová surovina, známější na severu a východě Evropy než u nás.",
+  "chutovy_profil": "hladký, tmavší bylinný, lehce ovocný",
+  "vonny_profil": "jemně fermentovaný, čajový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Bez správného zavadnutí, fermentace a dosušení může surovina plesnivět; sbírat jen zdravé listy bez prachu.",
+  "kontraindikace_interakce": "Jako u silnějších bylinných čajů začínat rozumným množstvím.",
+  "legalita_poznamka_cr": "Sbírat jen z hojných porostů a neodřezávat celé plochy vrcholových částí.",
+  "dukaznost_typ": "kurátorovaný botanický + technologický zdroj",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 1,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení · Kvašení / fermentace",
+  "processing_methods_count": 2,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy a vrcholky v době před květem až na začátku nasazování poupat; v datech je pro něj vedené období V–VIII + fermentace + sušení. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Květnové rozšíření vědomě přidává i zahraničněji známý fermentační směr, který odpovídá požadavku pronikat do tajů.",
+  "vedecky_nazev_hlavni": "Epilobium angustifolium",
+  "cesky_nazev_hlavni": "vrbovka úzkolistá",
+  "status_v_cr_text": "původní, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "fermentace + sušení",
+  "orientacni_trvanlivost_text": "cca 6–18 měsíců",
+  "poznamka_k_skladovani": "Po fermentaci důkladně dosušit, jinak hrozí plesnivění. Uchovávat v suchu, temnu a těsné nádobě.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_epilobium_angustifolium",
+      "alias": "vrbovka úzkolistá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_epilobium_angustifolium",
+      "alias": "Epilobium angustifolium",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S104",
+      "nazev": "PFAF: Epilobium angustifolium",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Epilobium+angustifolium",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro vrbovku úzkolistou jako jarní výhonkovou zeleninu i čajovou rostlinu."
+    },
+    {
+      "role_zdroje": "secondary",
+      "poradi": 2,
+      "raw_source_id": "S106",
+      "nazev": "Luke / SPECICROP: fermentation of fireweed",
+      "url": "https://www.agrowebcee.net/uploads/media/luke-luobio_72_2016.pdf",
+      "source_family": "www_agrowebcee_net",
+      "poznamka": "Finsko-ruský technický materiál k tradiční i poloprůmyslové fermentaci Epilobium angustifolium pro Ivan čaj."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    },
+    {
+      "processing_method_id": "kvaseni",
+      "label": "Kvašení / fermentace",
+      "group_label": "fermentace",
+      "method_order": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Maitohorsma_%28Epilobium_angustifolium%29.JPG",
+      "alt": "vrbovka úzkolistá",
+      "caption": "Wikimedia Commons: Epilobium angustifolium",
+      "credit": "kallerna",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Maitohorsma_(Epilobium_angustifolium).JPG",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Maitohorsma_%28Epilobium_angustifolium%29.JPG",
+  "primary_photo_alt": "vrbovka úzkolistá",
+  "primary_photo_credit": "kallerna",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Maitohorsma_(Epilobium_angustifolium).JPG",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

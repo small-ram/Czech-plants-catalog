@@ -1,7 +1,7 @@
 [
   {
     "original_value": "původní, běžný",
-    "count": 34,
+    "count": 40,
     "status_contains_puvodni": true,
     "status_contains_zdomacnely": false,
     "status_contains_pestovany": false,
@@ -11,7 +11,7 @@
   },
   {
     "original_value": "původní, běžná",
-    "count": 25,
+    "count": 30,
     "status_contains_puvodni": true,
     "status_contains_zdomacnely": false,
     "status_contains_pestovany": false,
@@ -20,7 +20,7 @@
     "status_cetnost": "bezny"
   },
   {
-    "original_value": "původní, velmi běžný",
+    "original_value": "původní, velmi běžná",
     "count": 25,
     "status_contains_puvodni": true,
     "status_contains_zdomacnely": false,
@@ -30,8 +30,8 @@
     "status_cetnost": "velmi_bezny"
   },
   {
-    "original_value": "původní, velmi běžná",
-    "count": 24,
+    "original_value": "původní, velmi běžný",
+    "count": 25,
     "status_contains_puvodni": true,
     "status_contains_zdomacnely": false,
     "status_contains_pestovany": false,
@@ -48,6 +48,16 @@
     "status_contains_zplanujici": false,
     "status_contains_invazni": false,
     "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "původní, lokálně běžná",
+    "count": 11,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": false,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "lokalne_bezny"
   },
   {
     "original_value": "původní/zdomácnělý, běžný",
@@ -70,7 +80,7 @@
     "status_cetnost": "velmi_bezny"
   },
   {
-    "original_value": "původní, lokálně běžná",
+    "original_value": "původní, běžná lokálně",
     "count": 8,
     "status_contains_puvodni": true,
     "status_contains_zdomacnely": false,
@@ -88,16 +98,6 @@
     "status_contains_zplanujici": false,
     "status_contains_invazni": false,
     "status_cetnost": "bezny"
-  },
-  {
-    "original_value": "původní, běžná lokálně",
-    "count": 7,
-    "status_contains_puvodni": true,
-    "status_contains_zdomacnely": false,
-    "status_contains_pestovany": false,
-    "status_contains_zplanujici": false,
-    "status_contains_invazni": false,
-    "status_cetnost": "lokalne_bezny"
   },
   {
     "original_value": "běžně pěstovaná, místy zplaňující",
@@ -358,6 +358,16 @@
     "status_contains_zplanujici": false,
     "status_contains_invazni": false,
     "status_cetnost": "velmi_bezny"
+  },
+  {
+    "original_value": "nepůvodní, zdomácnělý a běžný",
+    "count": 1,
+    "status_contains_puvodni": true,
+    "status_contains_zdomacnely": true,
+    "status_contains_pestovany": false,
+    "status_contains_zplanujici": false,
+    "status_contains_invazni": false,
+    "status_cetnost": "bezny"
   },
   {
     "original_value": "pěstovaná i zplaňující, běžná",

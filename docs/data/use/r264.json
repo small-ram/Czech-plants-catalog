@@ -1,0 +1,107 @@
+{
+  "use_id": "r264",
+  "plant_id": "plant_lamium_album",
+  "raw_record_id": "R264",
+  "cesky_nazev_display": "hluchavka bílá",
+  "cast_rostliny_text": "květy",
+  "cast_rostliny_kategorie": "kvetni_cast",
+  "cast_rostliny_je_kombinovana": 0,
+  "domena": "pití",
+  "domena_slug": "piti",
+  "poddomena_text": "sušené květy na jemný čaj",
+  "poddomena_kategorie": "caj_nalev",
+  "status_znalosti": "téměř zapomenuté",
+  "status_znalosti_slug": "temer_zapomenute",
+  "aplikovatelnost_v_cr": "střední",
+  "aplikovatelnost_slug": "stredni",
+  "typicke_lokality_text": "živé ploty, křoviny, lemy cest, zahrady a ruderální okraje",
+  "obdobi_ziskani_text": "V–IX + sušení",
+  "mesic_od": 5,
+  "mesic_do": 9,
+  "fenologicka_faze": "čerstvě rozvité bílé květy sbírané za sucha",
+  "zpusob_pripravy": "Květy šetrně usušit a používat na jemný bylinný čaj nebo jako zjemňující složku domácích směsí.",
+  "cilovy_efekt": "Lehká a poměrně příjemná květní čajovina z velmi běžné, ale přehlížené rostliny.",
+  "chutovy_profil": "jemná, lehce nasládlá, květní",
+  "vonny_profil": "slabě medový",
+  "palivovy_potencial_text": "neaplikovatelné",
+  "hlavni_rizika": "Sbírat jen suché, čisté květy; nezapařit je při sušení a brát je spíš jako jemnou čajovou surovinu než jako silnou bylinu.",
+  "kontraindikace_interakce": null,
+  "legalita_poznamka_cr": "Běžný druh; vhodný hlavně ze zahradních a křovinných porostů bez chemického ošetření.",
+  "dukaznost_typ": "kurátorovaný botanický zdroj",
+  "dukaznost_skore": "D",
+  "dukaznost_rank": 2,
+  "ma_druhy_zdroj": 0,
+  "je_trvanlive_1m_plus": 1,
+  "je_v_jadru_bezne_1m_plus": 0,
+  "processing_methods_text": "Sušení",
+  "processing_methods_count": 1,
+  "ma_potravinove_konzervacni_metody": 1,
+  "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozvité bílé květy sbírané za sucha; v datech je pro něj vedené období V–IX + sušení. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+  "kuratorska_poznamka": "Květnová vlna vědomě přidává i tiché čajové suroviny, které nejsou v moderním foragingu moc vidět.",
+  "vedecky_nazev_hlavni": "Lamium album",
+  "cesky_nazev_hlavni": "hluchavka bílá",
+  "status_v_cr_text": "původní, běžná",
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_ceskych_aliasu": 1,
+  "forma_uchovani_text": "sušení na čaj",
+  "orientacni_trvanlivost_text": "cca 6–12 měsíců",
+  "poznamka_k_skladovani": "Sušit v tenké vrstvě a chránit před zapařením. Uchovávat v uzavřené nádobě a temnu.",
+  "proc_je_v_jadru": null,
+  "aliases": [
+    {
+      "plant_id": "plant_lamium_album",
+      "alias": "hluchavka bílá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_lamium_album",
+      "alias": "Lamium album",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "sources": [
+    {
+      "role_zdroje": "primary",
+      "poradi": 1,
+      "raw_source_id": "S100",
+      "nazev": "PFAF: Lamium album",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Lamium+album",
+      "source_family": "pfaf",
+      "poznamka": "Kurátorovaný zdroj pro hluchavku bílou: mladé listy i sušené květy na jemný čaj."
+    }
+  ],
+  "processing_methods": [
+    {
+      "processing_method_id": "suseni",
+      "label": "Sušení",
+      "group_label": "dehydratace",
+      "method_order": 1
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ortie_blanche_05.jpg",
+      "alt": "hluchavka bílá",
+      "caption": "Wikimedia Commons: Lamium album",
+      "credit": "Coyau",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ortie_blanche_05.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "primary_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ortie_blanche_05.jpg",
+  "primary_photo_alt": "hluchavka bílá",
+  "primary_photo_credit": "Coyau",
+  "primary_photo_source_name": "Wikimedia Commons",
+  "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Ortie_blanche_05.jpg",
+  "primary_photo_kind": "photo",
+  "primary_photo_kind_label": "Foto"
+}

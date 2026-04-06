@@ -3,25 +3,25 @@
 ## Výsledek
 
 - Stav: `PASS`
-- Databáze: `C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260405_134316.sqlite`
+- Databáze: `C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_190729.sqlite`
 
 ## SQLite
 
-- plants: 105
-- uses: 256
-- durable_forms: 86
-- sources: 95
+- plants: 117
+- uses: 273
+- durable_forms: 91
+- sources: 109
 - views: 2
 
 ## API
 
-- /api/summary plants: 105
-- /api/summary uses: 256
+- /api/summary plants: 117
+- /api/summary uses: 273
 - /api/options domains: 7
 - /api/options evidence scores: 5
 - /api/options months: 12
 - /api/options processing methods: 14
-- /api/options seasonal default: březen + duben (5. dubna 2026)
+- /api/options seasonal default: březen + duben (6. dubna 2026)
 - /api/search?q=bez count: 2
 - /api/search?seasonal=1 count: 10
 - /api/plants count: 20

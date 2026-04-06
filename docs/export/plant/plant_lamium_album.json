@@ -1,0 +1,110 @@
+{
+  "plant_id": "plant_lamium_album",
+  "vedecky_nazev_hlavni": "Lamium album",
+  "vedecky_nazev_display": "Lamium album",
+  "taxon_rank": "species_or_higher",
+  "je_agregat_nebo_spp": 0,
+  "cesky_nazev_hlavni": "hluchavka bílá",
+  "status_v_cr_text": "původní, běžná",
+  "status_puvodni": 1,
+  "status_zdomacnely": 0,
+  "status_pestovany": 0,
+  "status_zplanujici": 0,
+  "status_invazni": 0,
+  "status_cetnost_reprezentativni": "bezny",
+  "pocet_pouziti": 2,
+  "pocet_ceskych_aliasu": 1,
+  "aliases": [
+    {
+      "plant_id": "plant_lamium_album",
+      "alias": "hluchavka bílá",
+      "jazyk": "cs",
+      "typ_aliasu": "cesky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    },
+    {
+      "plant_id": "plant_lamium_album",
+      "alias": "Lamium album",
+      "jazyk": "la",
+      "typ_aliasu": "vedecky_nazev",
+      "je_preferovany": 1,
+      "pocet_vyskytu": 2
+    }
+  ],
+  "uses": [
+    {
+      "use_id": "r264",
+      "raw_record_id": "R264",
+      "domena": "pití",
+      "poddomena_text": "sušené květy na jemný čaj",
+      "poddomena_kategorie": "caj_nalev",
+      "cast_rostliny_text": "květy",
+      "cast_rostliny_kategorie": "kvetni_cast",
+      "obdobi_ziskani_text": "V–IX + sušení",
+      "cilovy_efekt": "Lehká a poměrně příjemná květní čajovina z velmi běžné, ale přehlížené rostliny.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "téměř zapomenuté",
+      "aplikovatelnost_v_cr": "střední",
+      "je_trvanlive_1m_plus": 1,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": "Sušení",
+      "processing_methods_count": 1,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozvité bílé květy sbírané za sucha; v datech je pro něj vedené období V–IX + sušení. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": "sušení na čaj",
+      "orientacni_trvanlivost_text": "cca 6–12 měsíců"
+    },
+    {
+      "use_id": "r263",
+      "raw_record_id": "R263",
+      "domena": "potrava",
+      "poddomena_text": "mladé listy syrové / vařené",
+      "poddomena_kategorie": "ostatni_specialni",
+      "cast_rostliny_text": "mladé listy",
+      "cast_rostliny_kategorie": "listova_nadzemni_cast",
+      "obdobi_ziskani_text": "III–V",
+      "cilovy_efekt": "Další tichý, ale použitelný jarní druh z živých plotů a lemů, vhodný hlavně do směsných sběrů.",
+      "dukaznost_skore": "D",
+      "dukaznost_rank": 2,
+      "status_znalosti": "méně známé",
+      "aplikovatelnost_v_cr": "střední až vysoká",
+      "je_trvanlive_1m_plus": 0,
+      "je_v_jadru_bezne_1m_plus": 0,
+      "processing_methods_text": null,
+      "processing_methods_count": 0,
+      "sber_doporuceni": "Sbírej jen správně určený, zdravý materiál v této fázi: nejmladší listy a měkké vrcholky před zhrubnutím; v datech je pro něj vedené období III–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.",
+      "forma_uchovani_text": null,
+      "orientacni_trvanlivost_text": null
+    }
+  ],
+  "sources": [
+    {
+      "raw_source_id": "S100",
+      "nazev": "PFAF: Lamium album",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Lamium+album",
+      "source_family": "pfaf",
+      "use_count": 2
+    }
+  ],
+  "photos": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ortie_blanche_05.jpg",
+      "alt": "hluchavka bílá",
+      "caption": "Wikimedia Commons: Lamium album",
+      "credit": "Coyau",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ortie_blanche_05.jpg",
+      "license": "CC BY-SA 3.0",
+      "media_kind": "photo",
+      "media_kind_label": "Foto"
+    }
+  ],
+  "stats": {
+    "use_count": 2,
+    "durable_use_count": 1,
+    "core_use_count": 0,
+    "processing_use_count": 1,
+    "top_evidence_rank": 2
+  }
+}

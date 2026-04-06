@@ -1308,5 +1308,149 @@
       "license": "CC BY-SA 3.0",
       "media_kind": "photo"
     }
+  ],
+  "plant_lamium_album": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ortie_blanche_05.jpg",
+      "alt": "hluchavka bílá",
+      "caption": "Wikimedia Commons: Lamium album",
+      "credit": "Coyau",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ortie_blanche_05.jpg",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "plant_tussilago_farfara": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Coltsfoot.jpg",
+      "alt": "podběl lékařský",
+      "caption": "Wikimedia Commons: Tussilago farfara",
+      "credit": "Andreas Trepte",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coltsfoot.jpg",
+      "license": "CC BY-SA 2.5"
+    }
+  ],
+  "plant_primula_veris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Primula_veris_230405.jpg",
+      "alt": "prvosenka jarní",
+      "caption": "Wikimedia Commons: Primula veris",
+      "credit": "Picture taken by BerndH",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Primula_veris_230405.jpg",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "plant_epilobium_angustifolium": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Maitohorsma_%28Epilobium_angustifolium%29.JPG",
+      "alt": "vrbovka úzkolistá",
+      "caption": "Wikimedia Commons: Epilobium angustifolium",
+      "credit": "kallerna",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Maitohorsma_(Epilobium_angustifolium).JPG",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "plant_alliaria_petiolata": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Alliaria_petiolata_marais-belloy-sur-somme_80_26042007_3.jpg",
+      "alt": "česnáček lékařský",
+      "caption": "Wikimedia Commons: Alliaria petiolata",
+      "credit": "O. Pichard",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Alliaria_petiolata_marais-belloy-sur-somme_80_26042007_3.jpg",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "plant_heracleum_sphondylium": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Heracleum_sphondylium_Berenklauw.jpg",
+      "alt": "bolševník obecný",
+      "caption": "Wikimedia Commons: Heracleum sphondylium",
+      "credit": "Wikimedia contributor",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Heracleum_sphondylium_Berenklauw.jpg",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "plant_humulus_lupulus": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopfen1.jpg",
+      "alt": "chmel otáčivý",
+      "caption": "Wikimedia Commons: Humulus lupulus",
+      "credit": "No machine-readable author provided. Hagen Graebner assumed (based on copyright claims).",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hopfen1.jpg",
+      "license": "CC BY-SA 2.5"
+    }
+  ],
+  "plant_lamium_purpureum": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamium_purpureum_-_Tutermaa.jpg",
+      "alt": "hluchavka nachová",
+      "caption": "Wikimedia Commons: Lamium purpureum",
+      "credit": "Ivar Leidus",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lamium_purpureum_-_Tutermaa.jpg",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "plant_tragopogon_pratensis": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tragopogon_pratense_2004-05-30_JOF.JPG",
+      "alt": "kozí brada luční",
+      "caption": "Wikimedia Commons: Tragopogon pratensis",
+      "credit": "Wikimedia contributor",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tragopogon_pratense_2004-05-30_JOF.JPG",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "plant_primula_elatior": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Primula_elatior_170405a.jpg",
+      "alt": "prvosenka vyšší",
+      "caption": "Wikimedia Commons: Primula elatior",
+      "credit": "Wikimedia contributor",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Primula_elatior_170405a.jpg",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "plant_silene_vulgaris": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bladder_Campion.jpg",
+      "alt": "silenka nadmutá",
+      "caption": "Wikimedia Commons: Silene vulgaris",
+      "credit": "D. Gordon E. Robertson",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bladder_Campion.jpg",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "plant_robinia_pseudoacacia": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Robina9146.JPG",
+      "alt": "trnovník akát",
+      "caption": "Wikimedia Commons: Robinia pseudoacacia",
+      "credit": "Pollinator at English Wikipedia",
+      "media_kind": "photo",
+      "source_name": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Robina9146.JPG",
+      "license": "CC BY-SA 3.0"
+    }
   ]
 }

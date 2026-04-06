@@ -13,8 +13,8 @@ K 5. dubnu 2026 se výchozí sezónní okno nastavuje na:
 
 V aktuálním datasetu to znamená:
 
-- `105` použití relevantních pro `březen + duben`
-- `60` rostlin s alespoň jedním takovým použitím
+- `96` použití relevantních pro `březen + duben`
+- `57` rostlin s alespoň jedním takovým použitím
 
 ## Sezónní logika
 
@@ -26,7 +26,7 @@ Logika je úmyslně jednoduchá a čitelná:
 
 Příklad:
 
-- `2026-04-05` => `březen + duben`
+- `2026-04-06` => `březen + duben`
 
 Uživatel může sezónní režim v UI vypnout a vrátit se k plnému katalogu nebo ručnímu měsíčnímu filtru.
 
@@ -53,7 +53,7 @@ Odvozený text má být:
 
 Aktuálně platí:
 
-- `256 / 256` použití má vyplněné `sber_doporuceni`
+- `273 / 273` použití má vyplněné `sber_doporuceni`
 
 ## Jaká pravidla se odvozují
 
