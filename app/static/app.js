@@ -341,6 +341,30 @@ function renderFunctionalSection(detail, { title = "Látky a přínosy", plantLe
   `;
 }
 
+function benefitCardText(result) {
+  return teaserText(result.hlavni_prinos_text || result.cilovy_efekt, 138) || "Zatím bez stručného shrnutí přínosu.";
+}
+
+function compoundsCardText(result) {
+  return teaserText(result.aktivni_latky_text, 128) || "Zatím kurátorsky nedoplněné.";
+}
+
+function processingCardText(result) {
+  return teaserText(result.processing_methods_text || result.forma_uchovani_text, 118) || "Bez dlouhodobého zpracování.";
+}
+
+function usageCardText(result) {
+  const parts = [];
+  if (result.poddomena_text) {
+    parts.push(String(result.poddomena_text).trim());
+  }
+  const prepText = teaserText(result.zpusob_pripravy, 92);
+  if (prepText && distinctText(prepText, result.poddomena_text)) {
+    parts.push(prepText);
+  }
+  return parts.join(" · ") || "Neuvedeno.";
+}
+
 function renderResults(results) {
   els.results.innerHTML = "";
   if (!results.length) {
@@ -362,16 +386,14 @@ function renderResults(results) {
     card.querySelector(".card-title").textContent = result.cesky_nazev_hlavni;
     card.querySelector(".card-subtitle").textContent = result.vedecky_nazev_hlavni;
     card.querySelector(".card-badges").innerHTML = renderBadges(result);
-    card.querySelector(".meta-grid").innerHTML = renderMeta([
+    card.querySelector(".card-benefits").textContent = benefitCardText(result);
+    card.querySelector(".card-compounds").textContent = compoundsCardText(result);
+    card.querySelector(".card-processing").textContent = processingCardText(result);
+    card.querySelector(".card-usage").textContent = usageCardText(result);
+    card.querySelector(".card-quick-meta").innerHTML = renderMeta([
       result.cast_rostliny_text,
-      result.poddomena_text,
-      result.processing_methods_text,
       result.obdobi_ziskani_text,
-      result.aplikovatelnost_v_cr,
-      result.forma_uchovani_text,
     ]);
-    card.querySelector(".card-effect").textContent =
-      teaserText(result.hlavni_prinos_text || result.cilovy_efekt) || "Bez stručného shrnutí přínosu.";
 
     if (result.primary_photo) {
       image.src = result.primary_photo;

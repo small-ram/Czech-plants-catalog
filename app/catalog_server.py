@@ -714,6 +714,7 @@ class CatalogHandler(BaseHTTPRequestHandler):
                 u.aktivni_latky_text,
                 u.latky_a_logika_text,
                 u.funkcni_kontext_status,
+                u.zpusob_pripravy,
                 u.cilovy_efekt,
                 u.sber_doporuceni,
                 u.hlavni_rizika,
@@ -744,6 +745,7 @@ class CatalogHandler(BaseHTTPRequestHandler):
                     OR lower(u.cesky_nazev_display) LIKE ?
                     OR lower(u.poddomena_text) LIKE ?
                     OR lower(u.cast_rostliny_text) LIKE ?
+                    OR lower(COALESCE(u.zpusob_pripravy, '')) LIKE ?
                     OR lower(u.cilovy_efekt) LIKE ?
                     OR lower(COALESCE(u.hlavni_prinos_text, '')) LIKE ?
                     OR lower(COALESCE(u.aktivni_latky_text, '')) LIKE ?
@@ -752,7 +754,7 @@ class CatalogHandler(BaseHTTPRequestHandler):
                 )
             """
             like_term = f"%{query_text}%"
-            sql_params.extend([like_term] * 10)
+            sql_params.extend([like_term] * 11)
 
         if domain:
             sql += " AND u.domena = ?"

@@ -345,6 +345,41 @@ function teaserText(text, maxLength = 112) {
   return `${clean.slice(0, maxLength).trimEnd()}…`;
 }
 
+function normalizeText(value) {
+  return String(value || "")
+    .trim()
+    .replace(/\s+/g, " ")
+    .toLowerCase();
+}
+
+function distinctText(primary, secondary) {
+  return normalizeText(primary) && normalizeText(primary) !== normalizeText(secondary);
+}
+
+function benefitCardText(result) {
+  return teaserText(result.hlavni_prinos_text || result.cilovy_efekt, 138) || "Zatím bez stručného shrnutí přínosu.";
+}
+
+function compoundsCardText(result) {
+  return teaserText(result.aktivni_latky_text, 128) || "Zatím kurátorsky nedoplněné.";
+}
+
+function processingCardText(result) {
+  return teaserText(result.processing_methods_text || result.forma_uchovani_text, 118) || "Bez dlouhodobého zpracování.";
+}
+
+function usageCardText(result) {
+  const parts = [];
+  if (result.poddomena_text) {
+    parts.push(String(result.poddomena_text).trim());
+  }
+  const prepText = teaserText(result.zpusob_pripravy, 92);
+  if (prepText && distinctText(prepText, result.poddomena_text)) {
+    parts.push(prepText);
+  }
+  return parts.join(" · ") || "Neuvedeno.";
+}
+
 function renderResultCard(result) {
   const fragment = els.template.content.cloneNode(true);
   const article = fragment.querySelector(".result-card");
@@ -353,8 +388,6 @@ function renderResultCard(result) {
   const image = fragment.querySelector(".result-card-image");
   const placeholder = fragment.querySelector(".result-card-placeholder");
   const meta = fragment.querySelector(".card-quick-meta");
-  const effect = fragment.querySelector(".card-effect");
-  const useLine = fragment.querySelector(".card-use-line");
 
   const useUrl = C.siteUrl(`use/${encodeURIComponent(result.use_id)}/`);
   const plantUrl = C.siteUrl(`plant/${encodeURIComponent(result.plant_id)}/`);
@@ -363,23 +396,20 @@ function renderResultCard(result) {
   primaryLayer.setAttribute("aria-label", `Detail použití: ${result.cesky_nazev_hlavni}`);
 
   article.dataset.useId = result.use_id;
+  fragment.querySelector(".card-id").textContent = result.raw_record_id;
   fragment.querySelector(".card-title").textContent = result.cesky_nazev_hlavni;
   fragment.querySelector(".card-subtitle").textContent = result.vedecky_nazev_hlavni;
   fragment.querySelector(".card-badges").innerHTML = renderBadges(result);
-  useLine.innerHTML = `<strong>Použití:</strong> ${C.escapeHtml(result.poddomena_text || "neuvedeno")}`;
+  fragment.querySelector(".card-benefits").textContent = benefitCardText(result);
+  fragment.querySelector(".card-compounds").textContent = compoundsCardText(result);
+  fragment.querySelector(".card-processing").textContent = processingCardText(result);
+  fragment.querySelector(".card-usage").textContent = usageCardText(result);
 
-  const metaValues = [result.cast_rostliny_text, result.obdobi_ziskani_text, compactProcessingText(result)].filter(Boolean);
+  const metaValues = [result.cast_rostliny_text, result.obdobi_ziskani_text].filter(Boolean);
   if (metaValues.length) {
     meta.innerHTML = C.renderMeta(metaValues.slice(0, 3));
   } else {
     meta.remove();
-  }
-
-  const effectText = teaserText(result.hlavni_prinos_text || result.cilovy_efekt, 120);
-  if (effectText) {
-    effect.textContent = effectText;
-  } else {
-    effect.remove();
   }
 
   const useLink = fragment.querySelector(".detail-btn");

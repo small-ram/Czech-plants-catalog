@@ -859,14 +859,37 @@ select:disabled {
   color: var(--ink);
 }
 
-.card-use-line {
+.card-facts {
+  display: grid;
+  gap: 9px;
+}
+
+.card-fact {
   margin: 0;
   padding: 10px 12px;
-  border-radius: 16px;
-  background: rgba(219, 233, 215, 0.44);
-  border: 1px solid rgba(47, 107, 69, 0.1);
-  font-weight: 700;
-  line-height: 1.45;
+  border-radius: 15px;
+  background: rgba(248, 244, 236, 0.92);
+  border: 1px solid rgba(47, 107, 69, 0.11);
+}
+
+.card-fact-label {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--accent);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.card-fact-value {
+  display: -webkit-box;
+  margin: 0;
+  color: #263126;
+  line-height: 1.48;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .card-quick-meta {
@@ -875,16 +898,6 @@ select:disabled {
 
 .card-quick-meta .meta-pill {
   background: rgba(47, 107, 69, 0.055);
-}
-
-.card-effect {
-  margin: 0;
-  line-height: 1.5;
-  color: #2a342a;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
 }
 
 .card-actions {

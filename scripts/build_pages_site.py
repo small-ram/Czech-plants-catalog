@@ -303,6 +303,7 @@ def build_data(db_path: Path, docs_dir: Path) -> dict[str, object]:
             "aktivni_latky_text": detail.get("aktivni_latky_text"),
             "latky_a_logika_text": detail.get("latky_a_logika_text"),
             "funkcni_kontext_status": detail.get("funkcni_kontext_status"),
+            "zpusob_pripravy": detail.get("zpusob_pripravy"),
             "cilovy_efekt": detail.get("cilovy_efekt"),
             "sber_doporuceni": detail.get("sber_doporuceni"),
             "hlavni_rizika": detail.get("hlavni_rizika"),
@@ -337,6 +338,7 @@ def build_data(db_path: Path, docs_dir: Path) -> dict[str, object]:
                 detail.get("hlavni_prinos_text"),
                 detail.get("aktivni_latky_text"),
                 detail.get("latky_a_logika_text"),
+                detail.get("zpusob_pripravy"),
                 detail.get("cilovy_efekt"),
                 detail.get("processing_methods_text"),
             ]
@@ -642,12 +644,29 @@ def root_index_html() -> str:
         </div>
         <div class="card-body">
           <div class="card-main">
+            <p class="card-id"></p>
             <h3 class="card-title"></h3>
             <p class="card-subtitle"></p>
             <div class="card-badges"></div>
-            <p class="card-use-line"></p>
+            <div class="card-facts">
+              <p class="card-fact">
+                <span class="card-fact-label">Přínosy</span>
+                <span class="card-fact-value card-benefits"></span>
+              </p>
+              <p class="card-fact">
+                <span class="card-fact-label">Aktivní látky</span>
+                <span class="card-fact-value card-compounds"></span>
+              </p>
+              <p class="card-fact">
+                <span class="card-fact-label">Způsob zpracování</span>
+                <span class="card-fact-value card-processing"></span>
+              </p>
+              <p class="card-fact">
+                <span class="card-fact-label">Způsob užití</span>
+                <span class="card-fact-value card-usage"></span>
+              </p>
+            </div>
             <div class="meta-grid card-quick-meta"></div>
-            <p class="card-effect"></p>
           </div>
           <div class="card-actions">
             <a class="detail-btn" href="./">Detail použití</a>

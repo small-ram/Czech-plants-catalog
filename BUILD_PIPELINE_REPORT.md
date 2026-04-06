@@ -14,20 +14,20 @@
   výstup: `Canonical dataset written to: C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical`
 - `build_v7_sqlite`
   příkaz: `C:\Python312\python.exe C:\Users\Dominik\Documents\ceske rostliny\scripts\build_v7_sqlite.py`
-  výstup: `SQLite database written to: C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_224658.sqlite`
+  výstup: `SQLite database written to: C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_230127.sqlite`
 - `build_pages_site`
   příkaz: `C:\Python312\python.exe C:\Users\Dominik\Documents\ceske rostliny\scripts\build_pages_site.py`
   výstup: `GitHub Pages site written to: C:\Users\Dominik\Documents\ceske rostliny\docs`
 - `smoke_check`
-  příkaz: `C:\Python312\python.exe C:\Users\Dominik\Documents\ceske rostliny\scripts\smoke_check.py --port 8828 --db C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_224658.sqlite`
-  výstup: `Smoke check PASS for database: C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_224658.sqlite`
+  příkaz: `C:\Python312\python.exe C:\Users\Dominik\Documents\ceske rostliny\scripts\smoke_check.py --port 8829 --db C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_230127.sqlite`
+  výstup: `Smoke check PASS for database: C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_230127.sqlite`
 
 ## SQLite výstup
 
-- `C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_224658.sqlite`
+- `C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_230127.sqlite`
 - typ výstupu: `fallback rebuild`
 
 ## Smoke Check
 
-- `Smoke check PASS for database: C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_224658.sqlite`
+- `Smoke check PASS for database: C:\Users\Dominik\Documents\ceske rostliny\exports\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\v7_canonical\v7_dataset.rebuild_20260406_230127.sqlite`
 - report: `C:\Users\Dominik\Documents\ceske rostliny\SMOKE_CHECK_PROJEKTU.md`

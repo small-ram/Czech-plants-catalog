@@ -203,6 +203,8 @@ def run_server_checks(root: Path, db_path: Path, host: str, port: int, startup_w
         require(seasonal_search["count"] > 0, "Seasonal search returned no results.")
         require(seasonal_plants["count"] > 0, "Seasonal plant index returned no results.")
         require(search["results"][0].get("primary_photo"), "Search results do not expose primary_photo on main cards.")
+        require(bool(search["results"][0].get("hlavni_prinos_text")), "Search results do not expose benefit summary.")
+        require("zpusob_pripravy" in search["results"][0], "Search results do not expose usage method field.")
         require(seasonal_search.get("seasonal_applied") is True, "Seasonal search did not report applied seasonal window.")
         require(seasonal_plants.get("seasonal_applied") is True, "Seasonal plant index did not report applied seasonal window.")
         gallery_photo_row = next((row for row in plants["results"] if row.get("primary_photo_kind_label")), None)
