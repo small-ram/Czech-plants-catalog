@@ -11,6 +11,7 @@ from typing import Any
 import openpyxl
 
 from gathering_guidance import build_gathering_guidance
+from functional_context import build_plant_functional_context, build_use_functional_context
 from preservation_methods import (
     build_processing_method_vocab_rows,
     extract_processing_method_ids,
@@ -155,6 +156,7 @@ def main() -> None:
         status_counter = Counter(status_values)
         representative_status = status_counter.most_common(1)[0][0] if status_counter else None
         any_row = group_rows[0]
+        plant_functional_context = build_plant_functional_context(scientific_name)
 
         plants.append(
             {
@@ -173,6 +175,7 @@ def main() -> None:
                 "status_cetnost_reprezentativni": any_row.get("status_cetnost"),
                 "pocet_pouziti": len(group_rows),
                 "pocet_ceskych_aliasu": len(czech_name_counts),
+                **plant_functional_context,
             }
         )
 
@@ -216,6 +219,7 @@ def main() -> None:
             trvanlive_row.get("forma_uchovani") if trvanlive_row else None,
         )
         method_text = processing_methods_text(method_ids)
+        use_functional_context = build_use_functional_context(row)
         uses.append(
             {
                 "use_id": row["record_id"].lower(),
@@ -257,6 +261,7 @@ def main() -> None:
                 "ma_potravinove_konzervacni_metody": bool(method_ids),
                 "sber_doporuceni": build_gathering_guidance(row),
                 "kuratorska_poznamka": row["poznamka"],
+                **use_functional_context,
             }
         )
         for order, method_id in enumerate(method_ids, start=1):

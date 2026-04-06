@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - bříza bělokorá (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: celoročně
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Jedna z nejpraktičtějších dlouhodobě skladovatelných podpalových surovin v české krajině.
 - Cílový efekt: Jedna z nejpraktičtějších dlouhodobě skladovatelných podpalových surovin v české krajině.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: suchá odlupující se kůra ze spadlých nebo pokácených částí; v datech je pro něj vedené období celoročně. Kůru neber dokola z kmene; šetrnější je odběr z menších větví nebo z materiálu určeného k řezu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IX–II + sušení
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Rychlé až střední topení, dobrý start ohně.
 - Cílový efekt: Rychlé až střední topení, dobrý start ohně.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: dobře vyschlé dřevo; v datech je pro něj vedené období IX–II + sušení. Dřevnatý materiál ber jen suchý a zdravý; nepoškozuj hlavní kmen ani nosné větve. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

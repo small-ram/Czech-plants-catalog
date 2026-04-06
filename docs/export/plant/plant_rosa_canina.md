@@ -7,6 +7,12 @@
 - Trvanlivá použití: 4
 - Jádrová použití: 2
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - růže šípková (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Velmi tradiční způsob uchování šípků v koncentrované podobě.
 - Cílový efekt: Velmi tradiční způsob uchování šípků v koncentrované podobě.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvené šípky; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Kompaktní dlouhodobá forma z extrémně běžných podzimních plodů.
 - Cílový efekt: Kompaktní dlouhodobá forma z extrémně běžných podzimních plodů.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvené šípky; v datech je pro něj vedené období IX–XI. Ber jen zdravý a čistý materiál, sběr rozlož mezi více rostlin a nepoškoď stanoviště víc, než je nutné. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Zapomenutější způsob využití celé suroviny s delší skladovatelností.
 - Cílový efekt: Zapomenutější způsob využití celé suroviny s delší skladovatelností.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralé šípky po oddělení semen; v datech je pro něj vedené období IX–XI. Sbírej až plně vyzrálá a suchá semena nebo oříšky; část ponech pro obnovu porostu i pro živočichy. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Trvanlivý zimní nápojový materiál s kyselkavou ovocnou chutí.
 - Cílový efekt: Trvanlivý zimní nápojový materiál s kyselkavou ovocnou chutí.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvené zdravé šípky; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -65,7 +83,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Vitamínový a chuťový zdroj; zajímavý „forgotten“ přesah přes semena.
 - Cílový efekt: Vitamínový a chuťový zdroj; zajímavý „forgotten“ přesah přes semena.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé šípky po vybarvení; v datech je pro něj vedené období IX–XI. Ber jen zdravý a čistý materiál, sběr rozlož mezi více rostlin a nepoškoď stanoviště víc, než je nutné. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

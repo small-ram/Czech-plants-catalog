@@ -14,7 +14,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Jedle dává smysl hlavně jako lesně aromatická surovina do sirupů, nálevů a podpůrných zimních směsí.",
+    "aktivni_latky_text": "monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin C",
+    "latky_a_logika_text": "Logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_acer_platanoides_acer_pseudoplatanus_acer_campestre",
@@ -31,7 +35,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_achillea_millefolium",
@@ -48,7 +56,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Řebříček je hořce aromatická bylina do čajů, bitters a tradičních ženských či trávících směsí.",
+    "aktivni_latky_text": "silice, hořčiny, flavonoidy, třísloviny, seskviterpenové laktony",
+    "latky_a_logika_text": "Smysl dávají kombinace silic, hořčin a flavonoidů; právě proto je řebříček účinněji chutnající, ale ne úplně 'hebký' čaj.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_aegopodium_podagraria",
@@ -65,7 +77,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_alliaria_petiolata",
@@ -82,7 +98,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_alliaria_petiolata_m_bieb_cavara_grande",
@@ -99,7 +119,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_allium_cepa",
@@ -116,7 +140,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Smysl má hlavně jako chuťově aktivní kuchyňská a sirupová surovina s tradičním respiračním využitím.",
+    "aktivni_latky_text": "sirné sloučeniny typu cysteinových sulfoxidů, flavonoidy včetně quercetinu, fenolické látky",
+    "latky_a_logika_text": "Logika stojí hlavně na sirných sloučeninách a flavonoidech, které dělají cibuli štiplavou, aromatickou a tradičně ceněnou.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_allium_sativum",
@@ -133,7 +161,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Česnek je silný jako koření, macerátová a sirupová surovina i jako tradičně 'obranná' potravina.",
+    "aktivni_latky_text": "organosirné sloučeniny včetně allicinu a jeho prekurzorů, flavonoidy, stopové minerály",
+    "latky_a_logika_text": "Hlavní logika je v organosirných sloučeninách; právě ony dělají česnek ostrý, intenzivní a tradičně ceněný.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_allium_schoenoprasum",
@@ -150,7 +182,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "vzacnejsi",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_allium_ursinum",
@@ -167,7 +203,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_hojny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_anthriscus_sylvestris",
@@ -184,7 +224,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_apium_graveolens_var_rapaceum",
@@ -201,7 +245,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_arctium_lappa_l",
@@ -218,7 +266,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_armoracia_rusticana",
@@ -235,7 +287,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Křen je silný hlavně jako ostrá kuchyňská a sirupová surovina, která probere chuť i nos.",
+    "aktivni_latky_text": "glukosinoláty a z nich vznikající isothiokyanáty, vitamin C, ostré sirné látky",
+    "latky_a_logika_text": "Logika stojí hlavně na glukosinolatech a isothiokyanátech, které dělají křen ostrý, aromatický a dráždivě stimulační.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_artemisia_vulgaris",
@@ -252,7 +308,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_barbarea_vulgaris",
@@ -269,7 +329,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_bellis_perennis_l",
@@ -286,7 +350,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_berberis_vulgaris",
@@ -303,7 +371,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_beta_vulgaris",
@@ -320,7 +392,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_betula_pendula",
@@ -337,7 +413,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_betula_pendula_betula_pubescens",
@@ -354,7 +434,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Hodí se jako jemná jarní míza a jako lehce svíravá listová čajová nebo podpůrná surovina.",
+    "aktivni_latky_text": "jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře",
+    "latky_a_logika_text": "U mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_brassica_oleracea_var_capitata",
@@ -371,7 +455,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_brassica_rapa_subsp_rapa",
@@ -388,7 +476,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_bunias_orientalis",
@@ -405,7 +497,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_campanula_rapunculoides",
@@ -422,7 +518,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_campanula_trachelium",
@@ -439,7 +539,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_capsella_bursa_pastoris_l_medik",
@@ -456,7 +560,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_cardamine_hirsuta",
@@ -473,7 +581,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_cardamine_pratensis",
@@ -490,7 +602,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_carum_carvi",
@@ -507,7 +623,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Kmín má hodnotu hlavně jako trávicí koření a jako čajový detail tam, kde je cílem práce s nadýmáním a těžkým jídlem.",
+    "aktivni_latky_text": "silice s karvonem a limonenem, hořké a aromatické látky",
+    "latky_a_logika_text": "Hlavní logika je v silicích, zejména karvonu a limonenu, které nesou aroma i tradiční carminativní charakter.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_chenopodium_album_l",
@@ -524,7 +644,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_cichorium_intybus",
@@ -541,7 +665,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_corylus_avellana",
@@ -558,7 +686,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_crataegus_monogyna_jacq_c_laevigata_poir_dc",
@@ -575,7 +707,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 5,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Hloh dává smysl hlavně jako jemná listová a květní/čajová rostlina s tradičním kardiálním profilem.",
+    "aktivni_latky_text": "flavonoidy, oligomerní procyanidiny, fenolické kyseliny",
+    "latky_a_logika_text": "Logika je hlavně ve flavonoidech a procyanidinech; jde ale o podpůrnou bylinu, ne o řešení akutních kardiálních potíží.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_cucumis_sativus",
@@ -592,7 +728,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_cucurbita_pepo",
@@ -609,7 +749,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_cydonia_oblonga",
@@ -626,7 +770,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 2
+    "pocet_ceskych_aliasu": 2,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_daucus_carota_subsp_sativus",
@@ -643,7 +791,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_epilobium_angustifolium",
@@ -660,7 +812,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_fagus_sylvatica",
@@ -677,7 +833,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 6,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_filipendula_ulmaria",
@@ -694,7 +854,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Tužebník je specifická aromatická květní bylina do čaje a tradičních směsí s lehce salicylátovým profilem.",
+    "aktivni_latky_text": "salicylátové deriváty, třísloviny, flavonoidy, aromatické látky",
+    "latky_a_logika_text": "Smysl dávají salicylátové deriváty spolu s tříslovinami a aromatikou; přesto nejde o náhradu analgetik nebo lékařské péče.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_fragaria_vesca",
@@ -711,7 +875,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_fragaria_ananassa",
@@ -728,7 +896,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_galium_aparine",
@@ -745,7 +917,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_galium_odoratum",
@@ -762,7 +938,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 2
+    "pocet_ceskych_aliasu": 2,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_geum_urbanum",
@@ -779,7 +959,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_glechoma_hederacea_l",
@@ -796,7 +980,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_helianthus_tuberosus",
@@ -813,7 +1001,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_heracleum_sphondylium",
@@ -830,7 +1022,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_hesperis_matronalis",
@@ -847,7 +1043,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_hippophae_rhamnoides",
@@ -864,7 +1064,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_humulus_lupulus",
@@ -881,7 +1085,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_humulus_lupulus_l",
@@ -898,7 +1106,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_juglans_regia",
@@ -915,7 +1127,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Ořešák dává smysl hlavně jako silně aromatická a tříslovitá surovina pro maceráty, ořechovku a specifické tradiční použití.",
+    "aktivni_latky_text": "třísloviny, fenolické látky, juglon a další naphthoquinony hlavně v zelených částech, aromatické hořké složky",
+    "latky_a_logika_text": "Logika je hlavně v tříslovinách, hořkých fenolických látkách a typické aromatice zelených ořechů; není to neutrální bylina.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_juniperus_communis",
@@ -932,7 +1148,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "vzacnejsi",
     "pocet_pouziti": 5,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Hodí se hlavně jako silně aromatické koření, macerátová složka a digestivně laděný nápojový detail.",
+    "aktivni_latky_text": "silice a terpeny, pryskyřičné a hořké látky, flavonoidy",
+    "latky_a_logika_text": "Hlavní roli hrají silice a terpeny; právě proto je jalovec aromatický, ale také není vhodný ve velkých dávkách ani dlouhodobě.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_lamium_album",
@@ -949,7 +1169,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_lamium_album_l",
@@ -966,7 +1190,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_lamium_purpureum",
@@ -983,7 +1211,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_lamium_purpureum_l",
@@ -1000,7 +1232,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_lapsana_communis",
@@ -1017,7 +1253,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_lepidium_campestre",
@@ -1034,7 +1274,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_malus_domestica",
@@ -1051,7 +1295,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_malva_sylvestris_l_malva_neglecta_wallr",
@@ -1068,7 +1316,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 2
+    "pocet_ceskych_aliasu": 2,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_matricaria_recutita",
@@ -1085,7 +1337,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Je to univerzální jemná květní bylinka pro pití, inhalaci a zklidňující tradiční použití.",
+    "aktivni_latky_text": "apigenin a další flavonoidy, silice s bisabololem, matricin/chamazulenové prekurzory, kumariny",
+    "latky_a_logika_text": "Logika stojí na kombinaci silic a flavonoidů, které dělají heřmánek aromatický, jemný a tradičně velmi univerzální.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_melissa_officinalis",
@@ -1102,7 +1358,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Meduňka je jemná aromatická bylinka pro pití, klid a žaludek; silná je hlavně ve vůni a snesitelnosti.",
+    "aktivni_latky_text": "kyselina rozmarýnová, flavonoidy, silice s citralem a citronellalem",
+    "latky_a_logika_text": "Logika stojí hlavně na rozmarýnové kyselině a jemné citrusové siličné frakci; proto působí měkce a příjemně.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_mentha_x_piperita",
@@ -1119,7 +1379,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Máta je silná jako osvěžující a přitom funkční nápojová bylina s trávicím přesahem.",
+    "aktivni_latky_text": "menthol, menthon, další silice, kyselina rozmarýnová, flavonoidy",
+    "latky_a_logika_text": "Menthol a další silice nesou jak chuť, tak praktický efekt; právě proto je máta užitečná i tam, kde chceš něco příjemného na pití.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_mespilus_germanica",
@@ -1136,7 +1400,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "vzacnejsi",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_morus_alba_morus_nigra",
@@ -1153,7 +1421,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "neurceno",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_origanum_vulgare",
@@ -1170,7 +1442,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_oxalis_acetosella_l",
@@ -1187,7 +1463,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_pastinaca_sativa",
@@ -1204,7 +1484,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_petroselinum_crispum",
@@ -1221,7 +1505,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_picea_abies",
@@ -1238,7 +1526,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 6,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi.",
+    "aktivni_latky_text": "vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly",
+    "latky_a_logika_text": "Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_pinus_sylvestris",
@@ -1255,7 +1547,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Největší hodnotu má jako výrazně aromatická jarní a zimní surovina do nálevů, sirupů a domácích inhalativně působících směsí.",
+    "aktivni_latky_text": "monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin C",
+    "latky_a_logika_text": "Logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_plantago_lanceolata",
@@ -1272,7 +1568,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Jitrocel je silný hlavně jako slizová a jemně svíravá listová bylina pro čaje a sirupy.",
+    "aktivni_latky_text": "slizy, iridoidní glykosidy typu aucubinu a katalpolu, třísloviny, flavonoidy",
+    "latky_a_logika_text": "Smysl dávají slizy, iridoidy a třísloviny; dohromady vysvětlují proč jitrocel působí zklidňujícím a lehce svíravým dojmem.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_plantago_major_l",
@@ -1289,7 +1589,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_portulaca_oleracea",
@@ -1306,7 +1610,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_primula_elatior",
@@ -1323,7 +1631,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_primula_veris",
@@ -1340,7 +1652,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_prunus_avium",
@@ -1357,7 +1673,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_prunus_cerasus",
@@ -1374,7 +1694,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_prunus_domestica",
@@ -1391,7 +1715,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 2
+    "pocet_ceskych_aliasu": 2,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_prunus_spinosa",
@@ -1408,7 +1736,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_pulmonaria_officinalis",
@@ -1425,7 +1757,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_pyrus_communis",
@@ -1442,7 +1778,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_quercus_robur_q_petraea",
@@ -1459,7 +1799,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_quercus_robur_q_petraea_q_pubescens",
@@ -1476,7 +1820,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "neurceno",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Dub má smysl hlavně jako silně svíravá surovina do odvarů, kloktadel nebo na nouzové potravní zpracování žaludů.",
+    "aktivni_latky_text": "třísloviny včetně ellagitaninů, další polyfenoly, hořčiny",
+    "latky_a_logika_text": "Tady je klíč v tříslovinách a svíravosti; právě proto je využití specifické a ne pro každodenní pití.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_quercus_spp",
@@ -1493,7 +1841,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_rheum_rhabarbarum",
@@ -1510,7 +1862,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_ribes_nigrum",
@@ -1527,7 +1883,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Černý rybíz dává smysl hlavně jako výrazně chuťová a polyfenolová plodová i listová čajová rostlina.",
+    "aktivni_latky_text": "vitamin C, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny",
+    "latky_a_logika_text": "Smysl dávají hlavně anthokyany, vitamin C a aromatické látky; u listu zase výrazná vůně a polyfenoly.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_ribes_rubrum",
@@ -1544,7 +1904,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 2
+    "pocet_ceskych_aliasu": 2,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_ribes_uva_crispa",
@@ -1561,7 +1925,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_robinia_pseudoacacia",
@@ -1578,7 +1946,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_rosa_canina",
@@ -1595,7 +1967,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 5,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_rubus_fruticosus_agg",
@@ -1612,7 +1988,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 5,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_rubus_idaeus",
@@ -1629,7 +2009,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 5,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Maliník je cenný jednak chuťově v plodech, jednak jako jemně svíravá listová čajová rostlina.",
+    "aktivni_latky_text": "třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech",
+    "latky_a_logika_text": "List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_rumex_acetosa",
@@ -1646,7 +2030,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_salix_spp",
@@ -1663,7 +2051,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Vrba má smysl hlavně jako historicky významná kůrová bylina s lehce salicylátovým profilem, ne jako každodenní nápoj.",
+    "aktivni_latky_text": "salicin a další fenolické glykosidy, třísloviny, flavonoidy",
+    "latky_a_logika_text": "Logika stojí hlavně na salicinu a příbuzných glykosidech, ale přesto nejde o bezpečnou náhradu léků s kyselinou acetylsalicylovou.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_sambucus_nigra",
@@ -1680,7 +2072,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 8,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Dává smysl hlavně jako aromatická květní rostlina pro nápoje a jako tmavě polyfenolová plodová surovina po tepelné úpravě.",
+    "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
+    "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_silene_vulgaris",
@@ -1697,7 +2093,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_sorbus_aucuparia",
@@ -1714,7 +2114,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_sorbus_domestica",
@@ -1731,7 +2135,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "neurceno",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 2
+    "pocet_ceskych_aliasu": 2,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_stellaria_media_l_vill",
@@ -1748,7 +2156,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_taraxacum_officinale_agg",
@@ -1765,7 +2177,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 7,
-    "pocet_ceskych_aliasu": 2
+    "pocet_ceskych_aliasu": 2,
+    "hlavni_prinos_text": "Pampeliška má smysl jako hořká listová a kořenová rostlina pro trávení, jarní kuchyni i pražené nápojové experimenty.",
+    "aktivni_latky_text": "hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly",
+    "latky_a_logika_text": "Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_thymus_serpyllum_agg",
@@ -1782,7 +2198,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Mateřídouška má smysl jako silně aromatická čajová, sirupová a kuchyňská bylinka s respiračním a trávicím přesahem.",
+    "aktivni_latky_text": "silice s thymolem a carvacrolem, flavonoidy, hořké látky",
+    "latky_a_logika_text": "Klíč je v silicích, hlavně thymolu a carvacrolu, které vysvětlují její výrazné aroma i tradiční použití.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_thymus_vulgaris",
@@ -1799,7 +2219,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "neurceno",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Tymián je výrazně funkční kuchyňská i čajová bylina s velmi jasným chuťovým a respiračním profilem.",
+    "aktivni_latky_text": "silice s thymolem a carvacrolem, flavonoidy, hořké látky",
+    "latky_a_logika_text": "Thymol a carvacrol nesou jak chuť, tak tradiční účel; tymián proto působí přímočařeji než jemné květní čaje.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_tilia_cordata_tilia_platyphyllos",
@@ -1816,7 +2240,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "Lípa je jemná květní i listová rostlina, která dává smysl pro zklidňující čaje, slizové směsi a lehké jarní pití.",
+    "aktivni_latky_text": "slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech",
+    "latky_a_logika_text": "Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.",
+    "funkcni_kontext_status": "kuratorsky_profil"
   },
   {
     "plant_id": "plant_tilia_spp",
@@ -1833,7 +2261,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_tragopogon_pratensis",
@@ -1850,7 +2282,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_tussilago_farfara",
@@ -1867,7 +2303,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_ulmus_glabra",
@@ -1884,7 +2324,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_urtica_dioica",
@@ -1901,7 +2345,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "velmi_bezny",
     "pocet_pouziti": 4,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_vaccinium_myrtillus",
@@ -1918,7 +2366,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_verbascum_densiflorum_bertol_v_thapsus_l_v_phlomoides_l",
@@ -1935,7 +2387,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_veronica_beccabunga",
@@ -1952,7 +2408,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "lokalne_bezny",
     "pocet_pouziti": 1,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_viola_odorata_l",
@@ -1969,7 +2429,11 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 3,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   },
   {
     "plant_id": "plant_vitis_vinifera",
@@ -1986,6 +2450,10 @@
     "status_invazni": false,
     "status_cetnost_reprezentativni": "bezny",
     "pocet_pouziti": 2,
-    "pocet_ceskych_aliasu": 1
+    "pocet_ceskych_aliasu": 1,
+    "hlavni_prinos_text": "",
+    "aktivni_latky_text": "",
+    "latky_a_logika_text": "",
+    "funkcni_kontext_status": "bez_kuratorskeho_profilu"
   }
 ]

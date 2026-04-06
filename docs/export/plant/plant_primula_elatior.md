@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - prvosenka vyšší (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: III–IV
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Velmi raná a nenápadná lesní listová zelenina pro uživatele, kteří chtějí jít hlouběji než po běžných plevelech.
 - Cílový efekt: Velmi raná a nenápadná lesní listová zelenina pro uživatele, kteří chtějí jít hlouběji než po běžných plevelech.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: měkké přízemní listy ještě před hrubnutím a před plným rozkvětem; v datech je pro něj vedené období III–IV. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

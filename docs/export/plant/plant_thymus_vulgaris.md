@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Tymián je výrazně funkční kuchyňská i čajová bylina s velmi jasným chuťovým a respiračním profilem.
+- Hlavní užitečné / aktivní látky: silice s thymolem a carvacrolem, flavonoidy, hořké látky
+- Látky a logika: Thymol a carvacrol nesou jak chuť, tak tradiční účel; tymián proto působí přímočařeji než jemné květní čaje.
+
 ## Aliasy
 
 - tymián obecný (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VI–VIII
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na kašel, zahlenění, krk a trávení.
 - Cílový efekt: Expektorační tradiční použití.
+- Hlavní užitečné / aktivní látky: silice s thymolem a carvacrolem, flavonoidy, hořké látky
+- Látky a logika: Thymol a carvacrol nesou jak chuť, tak tradiční účel; tymián proto působí přímočařeji než jemné květní čaje.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: kvetoucí nať; v datech je pro něj vedené období VI–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

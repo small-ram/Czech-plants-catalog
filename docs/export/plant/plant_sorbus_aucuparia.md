@@ -7,6 +7,12 @@
 - Trvanlivá použití: 3
 - Jádrová použití: 2
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - jeřáb ptačí (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Jedna z nejzajímavějších trvanlivých forem využití běžného horského a parkového stromu.
 - Cílový efekt: Jedna z nejzajímavějších trvanlivých forem využití běžného horského a parkového stromu.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Tinktura / alkoholová macerace
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody ideálně po mrazu nebo po zamražení; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Trvanlivé využití trpkých plodů v malém množství jako chuťově výrazné zavařeniny.
 - Cílový efekt: Trvanlivé využití trpkých plodů v malém množství jako chuťově výrazné zavařeniny.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Zavaření / sterilace ve sklenici · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvené plody, často po mrazu nebo po přemrznutí v mrazáku; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Zapomenutá, ale trvanlivá forma z výrazných podzimních plodů.
 - Cílový efekt: Zapomenutá, ale trvanlivá forma z výrazných podzimních plodů.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralé plody po zjemnění mrazem nebo zamražením; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Silně aromatický podzimní plod pro konzervaci a nápoje.
 - Cílový efekt: Silně aromatický podzimní plod pro konzervaci a nápoje.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení · Zavaření / sterilace ve sklenici · Tinktura / alkoholová macerace · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvené plody, často po přemrznutí nebo po tepelné úpravě; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

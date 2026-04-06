@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - barborka obecná (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: III–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Časná peprná brukvovitá složka do jarní kuchyně mimo mainstreamový repertoár.
 - Cílový efekt: Časná peprná brukvovitá složka do jarní kuchyně mimo mainstreamový repertoár.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: růžice a mladé výhony ještě před plným kvetením; v datech je pro něj vedené období III–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

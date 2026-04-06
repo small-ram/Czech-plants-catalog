@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - rybíz červený / bílý (cs, cesky_nazev)
@@ -22,7 +28,10 @@
 - Období: VII–VIII
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Jedna z nejpraktičtějších trvanlivých forem červeného rybízu.
 - Cílový efekt: Jedna z nejpraktičtějších trvanlivých forem červeného rybízu.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Zavaření / sterilace ve sklenici · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody; v datech je pro něj vedené období VII–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -33,7 +42,10 @@
 - Období: VI–VIII
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: letní kyselé ovoce vhodné i pro konzervaci
 - Cílový efekt: letní kyselé ovoce vhodné i pro konzervaci
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Mražení · Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VI–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

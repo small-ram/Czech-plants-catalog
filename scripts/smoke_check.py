@@ -158,7 +158,11 @@ def run_server_checks(root: Path, db_path: Path, host: str, port: int, startup_w
         seasonal_search = read_json_url(f"{base_url}/api/search?seasonal=1&limit=10")
         seasonal_plants = read_json_url(f"{base_url}/api/plants?seasonal=1&limit=10")
         use_detail = read_json_url(f"{base_url}/api/use?use_id={quote('r001')}")
+        functional_plant_detail = read_json_url(
+            f"{base_url}/api/plant?plant_id={quote(str(use_detail.get('plant_id') or ''))}"
+        )
         plant_detail = read_json_url(f"{base_url}/api/plant?plant_id={quote(PHOTO_TEST_PLANT_ID)}")
+        compounds_search = read_json_url(f"{base_url}/api/search?q={quote('flavonoidy')}&limit=10")
         durable_search = read_json_url(f"{base_url}/api/search?trvanlive=1&limit=10")
         core_search = read_json_url(f"{base_url}/api/search?jadro=1&limit=10")
         durable_plants = read_json_url(f"{base_url}/api/plants?trvanlive=1&limit=10")
@@ -207,13 +211,28 @@ def run_server_checks(root: Path, db_path: Path, host: str, port: int, startup_w
         require(bool(use_detail.get("aliases")), "Use detail returned no aliases.")
         require(bool(use_detail.get("sources")), "Use detail returned no sources.")
         require(bool(use_detail.get("sber_doporuceni")), "Use detail returned no gathering guidance.")
+        require(bool(use_detail.get("hlavni_prinos_text")), "Use detail returned no functional benefit summary.")
+        require(bool(use_detail.get("aktivni_latky_text")), "Use detail returned no active compounds summary.")
         require(bool(plant_detail.get("aliases")), "Plant detail returned no aliases.")
         require(bool(plant_detail.get("uses")), "Plant detail returned no uses.")
         require(bool(plant_detail.get("sources")), "Plant detail returned no sources.")
         require(bool(plant_detail.get("photos")), "Plant detail returned no photos.")
         require(
+            bool(functional_plant_detail.get("hlavni_prinos_text")),
+            "Functional plant detail returned no plant-level benefit summary.",
+        )
+        require(
+            bool(functional_plant_detail.get("aktivni_latky_text")),
+            "Functional plant detail returned no plant-level compounds summary.",
+        )
+        require(compounds_search["count"] > 0, "Compound search returned no results.")
+        require(
             any(use.get("sber_doporuceni") for use in plant_detail.get("uses", [])),
             "Plant detail uses do not expose gathering guidance.",
+        )
+        require(
+            any(use.get("hlavni_prinos_text") for use in functional_plant_detail.get("uses", [])),
+            "Functional plant detail uses do not expose benefit summaries.",
         )
         require(bool(plant_detail["photos"][0].get("source_name")), "Plant detail photo is missing source_name.")
         require(bool(plant_detail["photos"][0].get("source_url")), "Plant detail photo is missing source_url.")

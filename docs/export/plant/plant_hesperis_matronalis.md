@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - večernice vonná (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IV–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Velmi okrajová jarní brukvovitá rostlina na pomezí zahrad a zplaňujících míst.
 - Cílový efekt: Velmi okrajová jarní brukvovitá rostlina na pomezí zahrad a zplaňujících míst.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy a první rozvíjející se květy; v datech je pro něj vedené období IV–V. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

@@ -7,6 +7,12 @@
 - Trvanlivá použití: 4
 - Jádrová použití: 3
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Dává smysl hlavně jako aromatická květní rostlina pro nápoje a jako tmavě polyfenolová plodová surovina po tepelné úpravě.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
+
 ## Aliasy
 
 - bez černý (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VIII–IX
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.
 - Cílový efekt: Trvanlivé uchování podzimní bezové sklizně mimo sirupy a džemy.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
 - Metody zpracování: Sušení · Kompot
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé černé plody; v datech je pro něj vedené období VIII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: V–VI
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.
 - Cílový efekt: Dlouhodobě skladovatelný čajový materiál s typickým květovým aroma.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozkvetlá květenství za sucha; v datech je pro něj vedené období V–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: VIII–IX
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.
 - Cílový efekt: Kompaktní dlouhodobá zásoba bezinek bez nutnosti zavařování.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody po odstopkování; v datech je pro něj vedené období VIII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: VIII–IX
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.
 - Cílový efekt: Trvanlivý způsob uchování aromatických plodů na zimu.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé černé plody; v datech je pro něj vedené období VIII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -65,7 +83,10 @@
 - Období: VIII–IX
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.
 - Cílový efekt: Barva, chuť, skladovatelný produkt.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici · Tinktura / alkoholová macerace · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé černé plody; v datech je pro něj vedené období VIII–IX. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -76,7 +97,10 @@
 - Období: V–VI
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.
 - Cílový efekt: Aromatický nápoj a kulinární základ.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
 - Metody zpracování: Sirup / koncentrát · Kvašení / fermentace
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozkvetlá květenství za sucha; v datech je pro něj vedené období V–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -87,7 +111,10 @@
 - Období: V–VI
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: V tradičním bylinném použití míří hlavně na horní dýchací cesty, pocení při nachlazení a jemnou podporu sliznic.
 - Cílový efekt: Tradiční úleva při časných příznacích nachlazení.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plné kvetení; v datech je pro něj vedené období V–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -98,7 +125,10 @@
 - Období: V–VI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Dává smysl hlavně jako aromatická květní rostlina pro nápoje a jako tmavě polyfenolová plodová surovina po tepelné úpravě.
 - Cílový efekt: Sezónní jarní jídlo.
+- Hlavní užitečné / aktivní látky: flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky
+- Látky a logika: Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně otevřené květy; v datech je pro něj vedené období V–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

@@ -296,6 +296,51 @@ function renderProcessingMethods(methods) {
   return `<ul>${methods.map((method) => `<li>${method.label}</li>`).join("")}</ul>`;
 }
 
+function normalizeText(value) {
+  return String(value || "")
+    .trim()
+    .replace(/\s+/g, " ")
+    .toLowerCase();
+}
+
+function distinctText(primary, secondary) {
+  return normalizeText(primary) && normalizeText(primary) !== normalizeText(secondary);
+}
+
+function teaserText(text, maxLength = 132) {
+  const clean = String(text || "").replace(/\s+/g, " ").trim();
+  if (!clean) return "";
+  if (clean.length <= maxLength) return clean;
+  return `${clean.slice(0, maxLength).trimEnd()}…`;
+}
+
+function renderFunctionalSection(detail, { title = "Látky a přínosy", plantLevel = false } = {}) {
+  const items = [];
+  if (detail.hlavni_prinos_text) {
+    items.push(
+      `<p><strong>${plantLevel ? "Proč je rostlina zajímavá:" : "Proč to může dávat smysl:"}</strong> ${detail.hlavni_prinos_text}</p>`
+    );
+  }
+  if (detail.cilovy_efekt && distinctText(detail.cilovy_efekt, detail.hlavni_prinos_text)) {
+    items.push(`<p><strong>Na co to tradičně míří:</strong> ${detail.cilovy_efekt}</p>`);
+  }
+  if (detail.aktivni_latky_text) {
+    items.push(`<p><strong>Hlavní užitečné / aktivní látky:</strong> ${detail.aktivni_latky_text}</p>`);
+  }
+  if (detail.latky_a_logika_text) {
+    items.push(`<p><strong>Látky a logika:</strong> ${detail.latky_a_logika_text}</p>`);
+  }
+  if (!items.length) {
+    return "";
+  }
+  return `
+    <section class="detail-section">
+      <h3>${title}</h3>
+      ${items.join("")}
+    </section>
+  `;
+}
+
 function renderResults(results) {
   els.results.innerHTML = "";
   if (!results.length) {
@@ -325,7 +370,8 @@ function renderResults(results) {
       result.aplikovatelnost_v_cr,
       result.forma_uchovani_text,
     ]);
-    card.querySelector(".card-effect").textContent = result.cilovy_efekt || "Bez popisu cílového efektu.";
+    card.querySelector(".card-effect").textContent =
+      teaserText(result.hlavni_prinos_text || result.cilovy_efekt) || "Bez stručného shrnutí přínosu.";
 
     if (result.primary_photo) {
       image.src = result.primary_photo;
@@ -406,10 +452,7 @@ function renderUseDetail(detail) {
         <p>${detail.zpusob_pripravy || "Bez popisu přípravy."}</p>
       </section>
 
-      <section class="detail-section">
-        <h3>Cílový efekt</h3>
-        <p>${detail.cilovy_efekt || "Bez popisu."}</p>
-      </section>
+      ${renderFunctionalSection(detail)}
 
       <section class="detail-section">
         <h3>Jak sbírat správně</h3>
@@ -505,7 +548,12 @@ function renderPlantDetail(detail) {
               use.je_v_jadru_bezne_1m_plus ? "Jádro" : "",
             ])}
           </div>
-          <p class="use-item-sub">${use.cilovy_efekt || "Bez popisu cílového efektu."}</p>
+          <p class="use-item-sub">${use.hlavni_prinos_text || use.cilovy_efekt || "Bez stručného shrnutí přínosu."}</p>
+          ${
+            use.cilovy_efekt && distinctText(use.cilovy_efekt, use.hlavni_prinos_text)
+              ? `<p class="use-item-note"><strong>Na co míří:</strong> ${use.cilovy_efekt}</p>`
+              : ""
+          }
           <p class="use-item-note"><strong>Jak sbírat:</strong> ${use.sber_doporuceni || "neuvedeno"}</p>
         </li>
       `
@@ -548,6 +596,8 @@ function renderPlantDetail(detail) {
             .join(", ") || "bez strukturálních příznaků"}
         </p>
       </section>
+
+      ${renderFunctionalSection(detail, { title: "Látky a přínosy rostliny", plantLevel: true })}
 
       <section class="detail-section">
         <h3>Aliasy</h3>

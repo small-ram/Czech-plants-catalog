@@ -7,6 +7,12 @@
 - Trvanlivá použití: 2
 - Jádrová použití: 2
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - jabloň domácí (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Trvanlivé kyselé dochucovadlo a nápojový základ pro další ředění.
 - Cílový efekt: Trvanlivé kyselé dochucovadlo a nápojový základ pro další ředění.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Skladování v chladu · Kvašení / fermentace · Naložení do octa / ocet
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralé plody nebo mošt; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Lehká zásoba ovoce na zimu, svačina a přídavek do kaší či čajových směsí.
 - Cílový efekt: Lehká zásoba ovoce na zimu, svačina a přídavek do kaší či čajových směsí.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé skladovací plody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: nápojový zdroj, uchování úrody, kyselé kuchyňské použití
 - Cílový efekt: nápojový zdroj, uchování úrody, kyselé kuchyňské použití
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Kvašení / fermentace · Naložení do octa / ocet
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně zralý plod; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: VIII–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: výživa, skladovatelný podzimní zdroj, široká kuchyňská použitelnost
 - Cílový efekt: výživa, skladovatelný podzimní zdroj, široká kuchyňská použitelnost
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VIII–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

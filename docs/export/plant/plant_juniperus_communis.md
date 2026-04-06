@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Hodí se hlavně jako silně aromatické koření, macerátová složka a digestivně laděný nápojový detail.
+- Hlavní užitečné / aktivní látky: silice a terpeny, pryskyřičné a hořké látky, flavonoidy
+- Látky a logika: Hlavní roli hrají silice a terpeny; právě proto je jalovec aromatický, ale také není vhodný ve velkých dávkách ani dlouhodobě.
+
 ## Aliasy
 
 - jalovec obecný (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IX–XI druhého roku
 - Důkaznost: A
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Hodí se hlavně jako silně aromatické koření, macerátová složka a digestivně laděný nápojový detail.
 - Cílový efekt: Velmi kompaktní, aromatická a dlouhodobě skladovatelná kořenná droga.
+- Hlavní užitečné / aktivní látky: silice a terpeny, pryskyřičné a hořké látky, flavonoidy
+- Látky a logika: Hlavní roli hrají silice a terpeny; právě proto je jalovec aromatický, ale také není vhodný ve velkých dávkách ani dlouhodobě.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: tmavé zralé pseudoplody; v datech je pro něj vedené období IX–XI druhého roku. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IX–XI
 - Důkaznost: A
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Hodí se hlavně jako silně aromatické koření, macerátová složka a digestivně laděný nápojový detail.
 - Cílový efekt: Kořenicí a konzervační efekt, pryskyřičná chuť.
+- Hlavní užitečné / aktivní látky: silice a terpeny, pryskyřičné a hořké látky, flavonoidy
+- Látky a logika: Hlavní roli hrají silice a terpeny; právě proto je jalovec aromatický, ale také není vhodný ve velkých dávkách ani dlouhodobě.
 - Metody zpracování: Kvašení / fermentace
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralé tmavé pseudoplody obvykle druhého roku; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Pít nebo macerovat ho má smysl hlavně kvůli pryskyřičně kořenité vůni a digestivnímu charakteru.
 - Cílový efekt: Aromatika a chuťový základ nápoje.
+- Hlavní užitečné / aktivní látky: silice a terpeny, pryskyřičné a hořké látky, flavonoidy
+- Látky a logika: Hlavní roli hrají silice a terpeny; právě proto je jalovec aromatický, ale také není vhodný ve velkých dávkách ani dlouhodobě.
 - Metody zpracování: Tinktura / alkoholová macerace
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralé pseudoplody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: IX–XI
 - Důkaznost: A
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Tradičně míří hlavně na trávení, lehkou močovou podporu a zahřívací směsi.
 - Cílový efekt: Tradičně zvýšení močení a úleva při nadýmání.
+- Hlavní užitečné / aktivní látky: silice a terpeny, pryskyřičné a hořké látky, flavonoidy
+- Látky a logika: Hlavní roli hrají silice a terpeny; právě proto je jalovec aromatický, ale také není vhodný ve velkých dávkách ani dlouhodobě.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralé pseudoplody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -65,7 +83,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Hodí se hlavně jako silně aromatické koření, macerátová složka a digestivně laděný nápojový detail.
 - Cílový efekt: Aroma a částečný konzervační/odpuzující efekt.
+- Hlavní užitečné / aktivní látky: silice a terpeny, pryskyřičné a hořké látky, flavonoidy
+- Látky a logika: Hlavní roli hrají silice a terpeny; právě proto je jalovec aromatický, ale také není vhodný ve velkých dávkách ani dlouhodobě.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: větévky s aromatickými plody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

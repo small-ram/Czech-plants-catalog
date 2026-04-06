@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Černý rybíz dává smysl hlavně jako výrazně chuťová a polyfenolová plodová i listová čajová rostlina.
+- Hlavní užitečné / aktivní látky: vitamin C, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny
+- Látky a logika: Smysl dávají hlavně anthokyany, vitamin C a aromatické látky; u listu zase výrazná vůně a polyfenoly.
+
 ## Aliasy
 
 - rybíz černý (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VII–VIII
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Pít ho dává smysl kvůli výrazné vůni, kyselosti, vitaminu C a tmavým polyfenolům v plodech i zajímavé listové vůni.
 - Cílový efekt: Velmi praktický dlouhodobý způsob uchování aromatických plodů.
+- Hlavní užitečné / aktivní látky: vitamin C, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny
+- Látky a logika: Smysl dávají hlavně anthokyany, vitamin C a aromatické látky; u listu zase výrazná vůně a polyfenoly.
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody; v datech je pro něj vedené období VII–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: VII–VIII
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Pít ho dává smysl kvůli výrazné vůni, kyselosti, vitaminu C a tmavým polyfenolům v plodech i zajímavé listové vůni.
 - Cílový efekt: výrazná chuť, zpracovatelnost, letní vitamínová surovina
+- Hlavní užitečné / aktivní látky: vitamin C, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny
+- Látky a logika: Smysl dávají hlavně anthokyany, vitamin C a aromatické látky; u listu zase výrazná vůně a polyfenoly.
 - Metody zpracování: Mražení · Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VII–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: V–VII
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na osvěžující a posilující pití, lehkou podporu při nachlazení a antioxidačně chápané použití.
 - Cílový efekt: tradiční podpůrná fytoterapie
+- Hlavní užitečné / aktivní látky: vitamin C, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny
+- Látky a logika: Smysl dávají hlavně anthokyany, vitamin C a aromatické látky; u listu zase výrazná vůně a polyfenoly.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vyvinutý zdravý list; v datech je pro něj vedené období V–VII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

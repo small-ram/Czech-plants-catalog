@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - lopuch větší (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IV–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: doplněk jarní zeleniny
 - Cílový efekt: doplněk jarní zeleniny
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: časné jaro před hrubnutím; v datech je pro něj vedené období IV–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IX–III
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: kořenová zelenina a globální analog
 - Cílový efekt: kořenová zelenina a globální analog
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: první rok růžice bez květní lodyhy; v datech je pro něj vedené období IX–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

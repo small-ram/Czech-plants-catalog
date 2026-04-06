@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - javor mléč / javor klen / javor babyka (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: III–IV
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Trvanlivější jarní nápoj nebo sladidlo s regionálně vzdáleným, ale přenositelným modelem.
 - Cílový efekt: Trvanlivější jarní nápoj nebo sladidlo s regionálně vzdáleným, ale přenositelným modelem.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Kvašení / fermentace · Naložení do octa / ocet
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě získaná míza; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.
 
@@ -32,7 +41,10 @@
 - Období: III–IV
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Sezónní minerální nápoj; severovýchodoevropský analog použitelný i v ČR.
 - Cílový efekt: Sezónní minerální nápoj; severovýchodoevropský analog použitelný i v ČR.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: jarní tok mízy před plným olistěním; v datech je pro něj vedené období III–IV. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.
 

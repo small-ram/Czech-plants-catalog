@@ -21,20 +21,23 @@ Ve `v7_canonical/` jsou dvě hlavní formy:
 
 Aktuální počty:
 
-- `plants`: `105`
-- `plant_aliases`: `217`
-- `uses`: `256`
-- `durable_forms`: `86`
-- `sources`: `95`
-- `use_sources`: `315`
-- `use_processing_methods`: `231`
+- `plants`: `117`
+- `plant_aliases`: `241`
+- `uses`: `273`
+- `durable_forms`: `91`
+- `sources`: `109`
+- `use_sources`: `334`
+- `use_processing_methods`: `240`
 - `vocab_processing_methods`: `14`
 
 Navíc dnes platí:
 
-- `142` použití má alespoň jednu metodu dlouhodobého zpracování
-- `67` rostlin má alespoň jedno takové použití
-- `256` použití má odvozené `sber_doporuceni`
+- `148` použití má alespoň jednu metodu dlouhodobého zpracování
+- `72` rostlin má alespoň jedno takové použití
+- `273` použití má odvozené `sber_doporuceni`
+- `273` použití má `hlavni_prinos_text`
+- `93` použití má explicitní `aktivni_latky_text`
+- `26` rostlin má kurátorský funkční profil
 
 ## Tabulky
 
@@ -74,6 +77,7 @@ Hlavní tabulka konkrétních použití. Nese:
 - flagy pro trvanlivost a praktické jádro
 - agregovaná pole `processing_methods_text`, `processing_methods_count` a `ma_potravinove_konzervacni_metody`
 - pole `sber_doporuceni`, tedy odvozené praktické doporučení ke sběru
+- novou funkční vrstvu `hlavni_prinos_text`, `aktivni_latky_text`, `latky_a_logika_text` a `funkcni_kontext_status`
 
 `sber_doporuceni` se dnes odvozuje z kombinace:
 
@@ -93,6 +97,27 @@ Nově také nese:
 
 - `processing_methods_text`
 - `processing_methods_count`
+
+### Funkční vrstva přínosů a látek
+
+Na `plants` i `uses` nově existují pole:
+
+- `hlavni_prinos_text`
+- `aktivni_latky_text`
+- `latky_a_logika_text`
+- `funkcni_kontext_status`
+
+Použití:
+
+- rychlejší pochopení, proč je daná položka prakticky zajímavá
+- vysvětlení „na co to míří“ bez nutnosti číst celý popis
+- vyhledávání přes látky a benefity
+
+`funkcni_kontext_status` dnes rozlišuje:
+
+- `kuratorsky_profil`
+- `odvozeno_z_pouziti`
+- `bez_kuratorskeho_profilu`
 
 ### `use_processing_methods`
 
@@ -151,6 +176,11 @@ Vedle toho přibyla i odvozená sběrná vrstva:
 
 - `sber_doporuceni` je záměrně opatrné a praktické
 - používá obecné zásady sběru a hygieny, ale nepřidává neověřené druhově specifické limity
+
+Stejně opatrně je napsaná i nová vrstva látek a přínosů:
+
+- nepředstírá klinickou jistotu tam, kde není
+- u necíleně kurátorských položek může nabídnout přínosový text i bez chemického pole
 
 ## Jak dataset znovu vytvořit
 

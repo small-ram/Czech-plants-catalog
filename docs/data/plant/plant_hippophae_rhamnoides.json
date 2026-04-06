@@ -14,6 +14,10 @@
   "status_cetnost_reprezentativni": "lokalne_bezny",
   "pocet_pouziti": 1,
   "pocet_ceskych_aliasu": 1,
+  "hlavni_prinos_text": "",
+  "aktivni_latky_text": "",
+  "latky_a_logika_text": "",
+  "funkcni_kontext_status": "bez_kuratorskeho_profilu",
   "aliases": [
     {
       "plant_id": "plant_hippophae_rhamnoides",
@@ -42,6 +46,10 @@
       "cast_rostliny_text": "plod",
       "cast_rostliny_kategorie": "plodova_cast",
       "obdobi_ziskani_text": "VIII–X",
+      "hlavni_prinos_text": "intenzivní kyselá surovina pro nápoje a zpracování",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
+      "funkcni_kontext_status": "odvozeno_z_pouziti",
       "cilovy_efekt": "intenzivní kyselá surovina pro nápoje a zpracování",
       "dukaznost_skore": "B",
       "dukaznost_rank": 4,

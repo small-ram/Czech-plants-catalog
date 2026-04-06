@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - ptačinec žabinec (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: I–XII
 - Důkaznost: D
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: jemná zelenina dostupná téměř celoročně
 - Cílový efekt: jemná zelenina dostupná téměř celoročně
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé šťavnaté lodyhy před plným vysemeněním; v datech je pro něj vedené období I–XII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: III–X
 - Důkaznost: E
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: zklidnění drobného podráždění kůže
 - Cílový efekt: zklidnění drobného podráždění kůže
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: šťavnatá nať; v datech je pro něj vedené období III–X. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

@@ -14,6 +14,10 @@
   "status_cetnost_reprezentativni": "lokalne_hojny",
   "pocet_pouziti": 1,
   "pocet_ceskych_aliasu": 1,
+  "hlavni_prinos_text": "",
+  "aktivni_latky_text": "",
+  "latky_a_logika_text": "",
+  "funkcni_kontext_status": "bez_kuratorskeho_profilu",
   "aliases": [
     {
       "plant_id": "plant_allium_ursinum",
@@ -42,6 +46,10 @@
       "cast_rostliny_text": "list",
       "cast_rostliny_kategorie": "listova_nadzemni_cast",
       "obdobi_ziskani_text": "III–V",
+      "hlavni_prinos_text": "Intenzivní jarní aromatická zelenina.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
+      "funkcni_kontext_status": "odvozeno_z_pouziti",
       "cilovy_efekt": "Intenzivní jarní aromatická zelenina.",
       "dukaznost_skore": "B",
       "dukaznost_rank": 4,

@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - pažitka pobřežní (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IV–VI
 - Důkaznost: D
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Spolehlivá cibulová nať pro jarní kuchyni i zásobu.
 - Cílový efekt: Spolehlivá cibulová nať pro jarní kuchyni i zásobu.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení · Mražení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvá jemná nať a mladé květy; v datech je pro něj vedené období IV–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

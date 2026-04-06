@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - kerblík lesní (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IV–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Kuriózní kerblíkově laděná jarní bylina pro pokročilejší sběrače.
 - Cílový efekt: Kuriózní kerblíkově laděná jarní bylina pro pokročilejší sběrače.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy před plným vykvetením; v datech je pro něj vedené období IV–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. U vodních a mokřadních stanovišť sbírej jen z čistých míst bez známek splachů, stok nebo stojaté znečištěné vody. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

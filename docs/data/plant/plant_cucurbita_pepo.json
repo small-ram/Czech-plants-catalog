@@ -14,6 +14,10 @@
   "status_cetnost_reprezentativni": "bezny",
   "pocet_pouziti": 1,
   "pocet_ceskych_aliasu": 1,
+  "hlavni_prinos_text": "",
+  "aktivni_latky_text": "",
+  "latky_a_logika_text": "",
+  "funkcni_kontext_status": "bez_kuratorskeho_profilu",
   "aliases": [
     {
       "plant_id": "plant_cucurbita_pepo",
@@ -42,6 +46,10 @@
       "cast_rostliny_text": "plod + semena",
       "cast_rostliny_kategorie": "kombinovana_cast",
       "obdobi_ziskani_text": "VIII–XI",
+      "hlavni_prinos_text": "podzimní zelenina s dobrou skladovatelností a využitím semen",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
+      "funkcni_kontext_status": "odvozeno_z_pouziti",
       "cilovy_efekt": "podzimní zelenina s dobrou skladovatelností a využitím semen",
       "dukaznost_skore": "B",
       "dukaznost_rank": 4,

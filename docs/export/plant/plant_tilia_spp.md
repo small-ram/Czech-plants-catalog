@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - lípa (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VI–VII
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Drobná sezónní svačina bez velkého výnosu.
 - Cílový efekt: Drobná sezónní svačina bez velkého výnosu.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé měkké plůdky; v datech je pro něj vedené období VI–VII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IV–V
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Sezónní jedlá kuriozita.
 - Cílový efekt: Sezónní jedlá kuriozita.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: nalévající se pupeny před rozvinutím květů; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

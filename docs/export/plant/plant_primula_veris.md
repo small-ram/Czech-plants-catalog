@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - prvosenka jarní (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IV–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Jemná květní jarní surovina s přesahem do domácích sladších konzerv a tradičnějších květních nápojů.
 - Cílový efekt: Jemná květní jarní surovina s přesahem do domácích sladších konzerv a tradičnějších květních nápojů.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Zavaření / sterilace ve sklenici
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozvinuté voňavé květy; v datech je pro něj vedené období IV–V. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: III–IV
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Časná jarní listová surovina, která dává smysl hlavně pro rozšíření repertoáru o opravdu časné luční druhy.
 - Cílový efekt: Časná jarní listová surovina, která dává smysl hlavně pro rozšíření repertoáru o opravdu časné luční druhy.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: nejmladší listy v přízemní růžici před plným kvetením; v datech je pro něj vedené období III–IV. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - podběl lékařský (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: III–V + sušení
 - Důkaznost: D
 - Aplikovatelnost v ČR: nízká až střední
+- Proč to může dávat smysl: Historizující jarní čajová surovina s jemně lékořicovým profilem, ale nízkou praktickou prioritou kvůli rizikům.
 - Cílový efekt: Historizující jarní čajová surovina s jemně lékořicovým profilem, ale nízkou praktickou prioritou kvůli rizikům.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: časné květy a později mladší listy sbírané jen z čistých míst; v datech je pro něj vedené období III–V + sušení. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: III–IV
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Velmi raná, aromatická jarní květní jedlost, která posouvá sběr až do opravdu předjarního období.
 - Cílový efekt: Velmi raná, aromatická jarní květní jedlost, která posouvá sběr až do opravdu předjarního období.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě vyrašené květní stvoly a polootvřená poupata před plným rozkvětem; v datech je pro něj vedené období III–IV. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

@@ -14,6 +14,10 @@
   "status_cetnost_reprezentativni": "neurceno",
   "pocet_pouziti": 1,
   "pocet_ceskych_aliasu": 1,
+  "hlavni_prinos_text": "Tymián je výrazně funkční kuchyňská i čajová bylina s velmi jasným chuťovým a respiračním profilem.",
+  "aktivni_latky_text": "silice s thymolem a carvacrolem, flavonoidy, hořké látky",
+  "latky_a_logika_text": "Thymol a carvacrol nesou jak chuť, tak tradiční účel; tymián proto působí přímočařeji než jemné květní čaje.",
+  "funkcni_kontext_status": "kuratorsky_profil",
   "aliases": [
     {
       "plant_id": "plant_thymus_vulgaris",
@@ -42,6 +46,10 @@
       "cast_rostliny_text": "nať",
       "cast_rostliny_kategorie": "listova_nadzemni_cast",
       "obdobi_ziskani_text": "VI–VIII",
+      "hlavni_prinos_text": "Tradičně míří hlavně na kašel, zahlenění, krk a trávení.",
+      "aktivni_latky_text": "silice s thymolem a carvacrolem, flavonoidy, hořké látky",
+      "latky_a_logika_text": "Thymol a carvacrol nesou jak chuť, tak tradiční účel; tymián proto působí přímočařeji než jemné květní čaje.",
+      "funkcni_kontext_status": "kuratorsky_profil",
       "cilovy_efekt": "Expektorační tradiční použití.",
       "dukaznost_skore": "A",
       "dukaznost_rank": 5,

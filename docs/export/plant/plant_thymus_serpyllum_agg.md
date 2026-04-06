@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Mateřídouška má smysl jako silně aromatická čajová, sirupová a kuchyňská bylinka s respiračním a trávicím přesahem.
+- Hlavní užitečné / aktivní látky: silice s thymolem a carvacrolem, flavonoidy, hořké látky
+- Látky a logika: Klíč je v silicích, hlavně thymolu a carvacrolu, které vysvětlují její výrazné aroma i tradiční použití.
+
 ## Aliasy
 
 - mateřídouška (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VI–VIII
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Mateřídouška má smysl jako silně aromatická čajová, sirupová a kuchyňská bylinka s respiračním a trávicím přesahem.
 - Cílový efekt: Kompaktní a trvanlivá aromatická zásoba.
+- Hlavní užitečné / aktivní látky: silice s thymolem a carvacrolem, flavonoidy, hořké látky
+- Látky a logika: Klíč je v silicích, hlavně thymolu a carvacrolu, které vysvětlují její výrazné aroma i tradiční použití.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: na počátku kvetení; v datech je pro něj vedené období VI–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: V–VIII
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Pít ji dává smysl hlavně kvůli teplému bylinnému aroma a tradičnímu spojení s kašlem, krkem a chladem.
 - Cílový efekt: aromatický nápoj a domácí čajová bylina
+- Hlavní užitečné / aktivní látky: silice s thymolem a carvacrolem, flavonoidy, hořké látky
+- Látky a logika: Klíč je v silicích, hlavně thymolu a carvacrolu, které vysvětlují její výrazné aroma i tradiční použití.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: na začátku květu; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: V–VIII
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Mateřídouška má smysl jako silně aromatická čajová, sirupová a kuchyňská bylinka s respiračním a trávicím přesahem.
 - Cílový efekt: aromatizace jídla
+- Hlavní užitečné / aktivní látky: silice s thymolem a carvacrolem, flavonoidy, hořké látky
+- Látky a logika: Klíč je v silicích, hlavně thymolu a carvacrolu, které vysvětlují její výrazné aroma i tradiční použití.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: kvetoucí vrcholky; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: V–VIII
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Tradičně míří hlavně na kašel, zahlenění, horní dýchací cesty a lehčí zažívací nepohodu.
 - Cílový efekt: kašel a nachlazení v tradičním smyslu
+- Hlavní užitečné / aktivní látky: silice s thymolem a carvacrolem, flavonoidy, hořké látky
+- Látky a logika: Klíč je v silicích, hlavně thymolu a carvacrolu, které vysvětlují její výrazné aroma i tradiční použití.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: kvetoucí nať; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

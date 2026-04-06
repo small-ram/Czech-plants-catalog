@@ -14,6 +14,10 @@
   "status_cetnost_reprezentativni": "bezny",
   "pocet_pouziti": 1,
   "pocet_ceskych_aliasu": 1,
+  "hlavni_prinos_text": "",
+  "aktivni_latky_text": "",
+  "latky_a_logika_text": "",
+  "funkcni_kontext_status": "bez_kuratorskeho_profilu",
   "aliases": [
     {
       "plant_id": "plant_apium_graveolens_var_rapaceum",
@@ -42,6 +46,10 @@
       "cast_rostliny_text": "bulva + nať",
       "cast_rostliny_kategorie": "kombinovana_cast",
       "obdobi_ziskani_text": "VIII–III",
+      "hlavni_prinos_text": "výrazně aromatická kořenová zelenina",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
+      "funkcni_kontext_status": "odvozeno_z_pouziti",
       "cilovy_efekt": "výrazně aromatická kořenová zelenina",
       "dukaznost_skore": "B",
       "dukaznost_rank": 4,

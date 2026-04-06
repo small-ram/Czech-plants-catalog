@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - višeň obecná (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VI–VII
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: výrazná kyselá složka do nápojů a zavařenin
 - Cílový efekt: výrazná kyselá složka do nápojů a zavařenin
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem · Kompot
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralý plod; v datech je pro něj vedené období VI–VII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

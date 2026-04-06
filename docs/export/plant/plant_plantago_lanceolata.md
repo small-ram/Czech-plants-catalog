@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Jitrocel je silný hlavně jako slizová a jemně svíravá listová bylina pro čaje a sirupy.
+- Hlavní užitečné / aktivní látky: slizy, iridoidní glykosidy typu aucubinu a katalpolu, třísloviny, flavonoidy
+- Látky a logika: Smysl dávají slizy, iridoidy a třísloviny; dohromady vysvětlují proč jitrocel působí zklidňujícím a lehce svíravým dojmem.
+
 ## Aliasy
 
 - jitrocel kopinatý (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: V–VIII
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na suchý kašel, podrážděné sliznice, krk a lehčí zánětlivé stavy dutiny ústní.
 - Cílový efekt: Jedna z nejpraktičtějších a nejsnáze dostupných sušených domácích drog.
+- Hlavní užitečné / aktivní látky: slizy, iridoidní glykosidy typu aucubinu a katalpolu, třísloviny, flavonoidy
+- Látky a logika: Smysl dávají slizy, iridoidy a třísloviny; dohromady vysvětlují proč jitrocel působí zklidňujícím a lehce svíravým dojmem.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zdravé listy před přestárnutím; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IV–IX
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na suchý kašel, podrážděné sliznice, krk a lehčí zánětlivé stavy dutiny ústní.
 - Cílový efekt: Tradiční úleva při kašli spojeném s nachlazením a podráždění dutiny ústní a hltanu.
+- Hlavní užitečné / aktivní látky: slizy, iridoidní glykosidy typu aucubinu a katalpolu, třísloviny, flavonoidy
+- Látky a logika: Smysl dávají slizy, iridoidy a třísloviny; dohromady vysvětlují proč jitrocel působí zklidňujícím a lehce svíravým dojmem.
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé až plně vyvinuté listy; v datech je pro něj vedené období IV–IX. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: IV–IX
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na suchý kašel, podrážděné sliznice, krk a lehčí zánětlivé stavy dutiny ústní.
 - Cílový efekt: Zevní tradiční použití na drobné zánětlivé projevy kůže.
+- Hlavní užitečné / aktivní látky: slizy, iridoidní glykosidy typu aucubinu a katalpolu, třísloviny, flavonoidy
+- Látky a logika: Smysl dávají slizy, iridoidy a třísloviny; dohromady vysvětlují proč jitrocel působí zklidňujícím a lehce svíravým dojmem.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvé nebo sušené listy; v datech je pro něj vedené období IV–IX. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: IV–V
 - Důkaznost: C
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Jitrocel je silný hlavně jako slizová a jemně svíravá listová bylina pro čaje a sirupy.
 - Cílový efekt: Terénní jedlá zeleň s mírně trávovou chutí.
+- Hlavní užitečné / aktivní látky: slizy, iridoidní glykosidy typu aucubinu a katalpolu, třísloviny, flavonoidy
+- Látky a logika: Smysl dávají slizy, iridoidy a třísloviny; dohromady vysvětlují proč jitrocel působí zklidňujícím a lehce svíravým dojmem.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé křehké listy před tuhnutím vláken; v datech je pro něj vedené období IV–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

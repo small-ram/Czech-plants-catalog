@@ -7,6 +7,12 @@
 - Trvanlivá použití: 3
 - Jádrová použití: 2
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - kuklík městský (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: III–V a IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Dlouhodobě skladovatelný aromatický „wild spice“ pro nápoje.
 - Cílový efekt: Dlouhodobě skladovatelný aromatický „wild spice“ pro nápoje.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě očištěný aromatický kořen; v datech je pro něj vedené období III–V a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: III–V a IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Jedna z nejlepších zapomenutých kořenných zásob z běžných procházek.
 - Cílový efekt: Jedna z nejlepších zapomenutých kořenných zásob z běžných procházek.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: aromatický kořen nejlépe na jaře nebo na podzim; v datech je pro něj vedené období III–V a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: III–V a IX–XI
 - Důkaznost: C
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Trvanlivý aromatický a repelenční detail z téměř zapomenuté domácí praxe.
 - Cílový efekt: Trvanlivý aromatický a repelenční detail z téměř zapomenuté domácí praxe.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě vykopaný aromatický kořen; v datech je pro něj vedené období III–V a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

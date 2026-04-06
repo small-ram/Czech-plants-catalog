@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Křen je silný hlavně jako ostrá kuchyňská a sirupová surovina, která probere chuť i nos.
+- Hlavní užitečné / aktivní látky: glukosinoláty a z nich vznikající isothiokyanáty, vitamin C, ostré sirné látky
+- Látky a logika: Logika stojí hlavně na glukosinolatech a isothiokyanátech, které dělají křen ostrý, aromatický a dráždivě stimulační.
+
 ## Aliasy
 
 - křen selský (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: X–III
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Křen je silný hlavně jako ostrá kuchyňská a sirupová surovina, která probere chuť i nos.
 - Cílový efekt: štiplavé kořenící použití a zimní kuchyňský doplněk
+- Hlavní užitečné / aktivní látky: glukosinoláty a z nich vznikající isothiokyanáty, vitamin C, ostré sirné látky
+- Látky a logika: Logika stojí hlavně na glukosinolatech a isothiokyanátech, které dělají křen ostrý, aromatický a dráždivě stimulační.
 - Metody zpracování: Nakládání
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálý kořen v době vegetačního klidu; v datech je pro něj vedené období X–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: X–III
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na zahlenění, horní dýchací cesty a podporu trávení.
 - Cílový efekt: tradiční domácí podpůrné použití při nachlazení a lokálním prohřátí
+- Hlavní užitečné / aktivní látky: glukosinoláty a z nich vznikající isothiokyanáty, vitamin C, ostré sirné látky
+- Látky a logika: Logika stojí hlavně na glukosinolatech a isothiokyanátech, které dělají křen ostrý, aromatický a dráždivě stimulační.
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvý kořen; v datech je pro něj vedené období X–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

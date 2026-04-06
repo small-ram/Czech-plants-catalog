@@ -7,6 +7,12 @@
 - Trvanlivá použití: 2
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - jahodník obecný (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: V–VIII
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Nenápadná, ale velmi praktická trvanlivá nápojová forma z běžné lesní rostliny.
 - Cílový efekt: Nenápadná, ale velmi praktická trvanlivá nápojová forma z běžné lesní rostliny.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zdravé listy před úplným přestárnutím; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: V–VIII
 - Důkaznost: C
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Jemný listový čaj jako vedlejší využití běžné lesní rostliny.
 - Cílový efekt: Jemný listový čaj jako vedlejší využití běžné lesní rostliny.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zdravé mladší listy před nebo během kvetení; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: V–VII
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Drobný, ale velmi aromatický lesní plod.
 - Cílový efekt: Drobný, ale velmi aromatický lesní plod.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení · Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody; v datech je pro něj vedené období V–VII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: V–VIII
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Lehký domácí bylinný čaj s lesním profilem.
 - Cílový efekt: Lehký domácí bylinný čaj s lesním profilem.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zdravé listy po rozvinutí; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

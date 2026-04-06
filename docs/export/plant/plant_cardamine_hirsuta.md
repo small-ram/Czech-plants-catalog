@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - řeřišničník chlupatý (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: III–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Snadno dostupná peprná jarní bylinka i z městských a zahradních mikrostanovišť.
 - Cílový efekt: Snadno dostupná peprná jarní bylinka i z městských a zahradních mikrostanovišť.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: růžice a mladé kvetoucí lodyžky; v datech je pro něj vedené období III–V. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

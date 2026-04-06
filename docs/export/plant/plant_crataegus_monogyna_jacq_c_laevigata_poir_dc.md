@@ -7,6 +7,12 @@
 - Trvanlivá použití: 2
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Hloh dává smysl hlavně jako jemná listová a květní/čajová rostlina s tradičním kardiálním profilem.
+- Hlavní užitečné / aktivní látky: flavonoidy, oligomerní procyanidiny, fenolické kyseliny
+- Látky a logika: Logika je hlavně ve flavonoidech a procyanidinech; jde ale o podpůrnou bylinu, ne o řešení akutních kardiálních potíží.
+
 ## Aliasy
 
 - hloh obecný / jednosemenný (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IX–XI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Pít ho má smysl hlavně jako jemnější listový nebo květní nálev, když chceš decentní bylinnou podporu a ne silný chuťový zážitek.
 - Cílový efekt: Dlouhodobá zásoba z extrémně běžného keře, který se často míjí bez povšimnutí.
+- Hlavní užitečné / aktivní látky: flavonoidy, oligomerní procyanidiny, fenolické kyseliny
+- Látky a logika: Logika je hlavně ve flavonoidech a procyanidinech; jde ale o podpůrnou bylinu, ne o řešení akutních kardiálních potíží.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé červené plody; v datech je pro něj vedené období IX–XI. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: IV–V + sušení
 - Důkaznost: D
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Pít ho má smysl hlavně jako jemnější listový nebo květní nálev, když chceš decentní bylinnou podporu a ne silný chuťový zážitek.
 - Cílový efekt: Jemná bylinná čajová složka z jarních listů hlohu.
+- Hlavní užitečné / aktivní látky: flavonoidy, oligomerní procyanidiny, fenolické kyseliny
+- Látky a logika: Logika je hlavně ve flavonoidech a procyanidinech; jde ale o podpůrnou bylinu, ne o řešení akutních kardiálních potíží.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy v době jarního růstu; v datech je pro něj vedené období IV–V + sušení. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: IX–X
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Hloh dává smysl hlavně jako jemná listová a květní/čajová rostlina s tradičním kardiálním profilem.
 - Cílový efekt: podzimní plané ovoce
+- Hlavní užitečné / aktivní látky: flavonoidy, oligomerní procyanidiny, fenolické kyseliny
+- Látky a logika: Logika je hlavně ve flavonoidech a procyanidinech; jde ale o podpůrnou bylinu, ne o řešení akutních kardiálních potíží.
 - Metody zpracování: Sušení · Zavaření / sterilace ve sklenici · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vybarvený měkčí plod; v datech je pro něj vedené období IX–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: V
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na srdce, oběh, napětí a dlouhodobé jemné podpůrné užívání.
 - Cílový efekt: mírný stres, spánek, nervózní palpitace
+- Hlavní užitečné / aktivní látky: flavonoidy, oligomerní procyanidiny, fenolické kyseliny
+- Látky a logika: Logika je hlavně ve flavonoidech a procyanidinech; jde ale o podpůrnou bylinu, ne o řešení akutních kardiálních potíží.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plné kvetení; v datech je pro něj vedené období V. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -65,7 +83,10 @@
 - Období: IV–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Hloh dává smysl hlavně jako jemná listová a květní/čajová rostlina s tradičním kardiálním profilem.
 - Cílový efekt: Jarní čerstvá zeleň s jemně oříškovým tónem.
+- Hlavní užitečné / aktivní látky: flavonoidy, oligomerní procyanidiny, fenolické kyseliny
+- Látky a logika: Logika je hlavně ve flavonoidech a procyanidinech; jde ale o podpůrnou bylinu, ne o řešení akutních kardiálních potíží.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: rašící špičky a mladé listy před ztuhnutím; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - réva vinná (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VIII–X
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: ovoce i nápojový zdroj se silnou regionální tradicí
 - Cílový efekt: ovoce i nápojový zdroj se silnou regionální tradicí
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Kvašení / fermentace · Naložení do octa / ocet
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralý hrozen; v datech je pro něj vedené období VIII–X. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: V–VI
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: rozšíření jedlé části rostliny nad rámec běžné české praxe
 - Cílový efekt: rozšíření jedlé části rostliny nad rámec běžné české praxe
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Nakládání
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladý pružný list; v datech je pro něj vedené období V–VI. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

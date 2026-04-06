@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - zvonek kopřivolistý (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: IV–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: nízká až střední
+- Proč to může dávat smysl: Regionálně doložená, ale velmi okrajová jarní listová jedlost ze zvonků.
 - Cílový efekt: Regionálně doložená, ale velmi okrajová jarní listová jedlost ze zvonků.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: časné přízemní listy před zhrubnutím; v datech je pro něj vedené období IV–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

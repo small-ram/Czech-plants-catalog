@@ -11,6 +11,7 @@ Aktuální stav k 6. dubnu 2026:
 - existuje lokální webová aplikace pro search, plant galerii a detail stránky
 - existuje veřejný statický GitHub Pages build v `docs/`
 - existuje explicitní vrstva více metod dlouhodobého potravinového zpracování
+- existuje nová vrstva `látky a přínosy`, která vysvětluje proč použití dává smysl a jaké hlavní látky za tím stojí
 - jarní repertoár obsahuje i niche a ultra-niche druhy pro březen, duben i květen
 - media vrstva pokrývá všech `117` rostlin skutečnými fotkami se zdrojem
 - auto-cover položky byly z produkčního manifestu odstraněné
@@ -36,6 +37,9 @@ Aktuální stav k 6. dubnu 2026:
 - `126` květnových použití napříč `70` rostlinami
 - `117` rostlin s reálnou fotkou v katalogu
 - `273` použití s odvozeným `sber_doporuceni`
+- `273` použití s `hlavni_prinos_text`
+- `93` použití s explicitním `aktivni_latky_text`
+- `26` rostlin s kurátorským funkčním profilem
 - `96` použití a `57` rostlin v aktuálním sezónním okně `březen + duben` pro datum `2026-04-06`
 
 ## Struktura projektu
@@ -83,6 +87,7 @@ Smoke check dnes ověřuje:
 - foto zdroje a provenance v detailu i exportech
 - invariant filtru `processing_method`
 - sezónní default okno a přítomnost `sber_doporuceni`
+- přítomnost `hlavni_prinos_text` a `aktivni_latky_text` v detailech a vyhledávání
 
 Vytvoří také:
 
@@ -109,6 +114,7 @@ Skript:
 Podrobnosti k novému chování jsou v:
 
 - `SEZONNI_VYCHOZI_REZIM_A_SBER.md`
+- `LATKY_A_PRINOSY_VRSTA.md`
 
 Shrnutí:
 
@@ -179,6 +185,8 @@ Cílová veřejná URL:
   kanonická datová vrstva
 - `SQLITE_DATASET.md`
   SQLite vrstva, fallback rebuild a promote workflow
+- `LATKY_A_PRINOSY_VRSTA.md`
+  nová funkční vrstva vysvětlující přínosy, cílení a hlavní užitečné/aktivní látky
 - `METODY_DLOUHODOBEHO_ZPRACOVANI.md`
   vrstva metod dlouhodobého potravinového zpracování
 - `DUBNOVE_ROZSIRENI_A_FOTOZDROJE.md`

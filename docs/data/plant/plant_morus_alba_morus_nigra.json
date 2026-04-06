@@ -14,6 +14,10 @@
   "status_cetnost_reprezentativni": "neurceno",
   "pocet_pouziti": 1,
   "pocet_ceskych_aliasu": 1,
+  "hlavni_prinos_text": "",
+  "aktivni_latky_text": "",
+  "latky_a_logika_text": "",
+  "funkcni_kontext_status": "bez_kuratorskeho_profilu",
   "aliases": [
     {
       "plant_id": "plant_morus_alba_morus_nigra",
@@ -42,6 +46,10 @@
       "cast_rostliny_text": "plod",
       "cast_rostliny_kategorie": "plodova_cast",
       "obdobi_ziskani_text": "VI–VIII",
+      "hlavni_prinos_text": "sladké ovoce s krátkou trvanlivostí a vysokou čerstvou hodnotou",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
+      "funkcni_kontext_status": "odvozeno_z_pouziti",
       "cilovy_efekt": "sladké ovoce s krátkou trvanlivostí a vysokou čerstvou hodnotou",
       "dukaznost_skore": "C",
       "dukaznost_rank": 3,

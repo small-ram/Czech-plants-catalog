@@ -14,6 +14,10 @@
   "status_cetnost_reprezentativni": "bezny",
   "pocet_pouziti": 1,
   "pocet_ceskych_aliasu": 1,
+  "hlavni_prinos_text": "",
+  "aktivni_latky_text": "",
+  "latky_a_logika_text": "",
+  "funkcni_kontext_status": "bez_kuratorskeho_profilu",
   "aliases": [
     {
       "plant_id": "plant_rumex_acetosa",
@@ -42,6 +46,10 @@
       "cast_rostliny_text": "mladé listy",
       "cast_rostliny_kategorie": "listova_nadzemni_cast",
       "obdobi_ziskani_text": "III–VI",
+      "hlavni_prinos_text": "Kyselá jarní zeleň pro polévky a omáčky.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
+      "funkcni_kontext_status": "odvozeno_z_pouziti",
       "cilovy_efekt": "Kyselá jarní zeleň pro polévky a omáčky.",
       "dukaznost_skore": "B",
       "dukaznost_rank": 4,

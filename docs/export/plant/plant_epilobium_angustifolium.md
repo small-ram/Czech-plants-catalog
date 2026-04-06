@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - vrbovka úzkolistá (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: V–VIII + fermentace + sušení
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Tradičněji laděná fermentovaná čajová surovina, známější na severu a východě Evropy než u nás.
 - Cílový efekt: Tradičněji laděná fermentovaná čajová surovina, známější na severu a východě Evropy než u nás.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení · Kvašení / fermentace
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé listy a vrcholky v době před květem až na začátku nasazování poupat; v datech je pro něj vedené období V–VIII + fermentace + sušení. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: V–VI
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Květnová a raně letní výhonková zelenina s překvapivě širokým rozsahem od čerstvého použití po jemnější pickles.
 - Cílový efekt: Květnová a raně letní výhonková zelenina s překvapivě širokým rozsahem od čerstvého použití po jemnější pickles.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Skladování v chladu · Nakládání
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé šťavnaté výhonky, jemné listy a neotevřená poupata před plným květem; v datech je pro něj vedené období V–VI. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

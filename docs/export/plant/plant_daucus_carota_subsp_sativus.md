@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - mrkev obecná (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VI–III
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: základní sladší kořenová zelenina
 - Cílový efekt: základní sladší kořenová zelenina
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Kvašení / fermentace
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálý kořen; v datech je pro něj vedené období VI–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

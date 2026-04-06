@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 1
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Dub má smysl hlavně jako silně svíravá surovina do odvarů, kloktadel nebo na nouzové potravní zpracování žaludů.
+- Hlavní užitečné / aktivní látky: třísloviny včetně ellagitaninů, další polyfenoly, hořčiny
+- Látky a logika: Tady je klíč v tříslovinách a svíravosti; právě proto je využití specifické a ne pro každodenní pití.
+
 ## Aliasy
 
 - dub (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: jaro
 - Důkaznost: A
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Tradičně míří hlavně na svíravé použití při průjmu, kloktání nebo na vnější použití.
 - Cílový efekt: Dlouhodobě použitelná tříslovinová droga pro krátkodobé zevní či střevní tradiční užití.
+- Hlavní užitečné / aktivní látky: třísloviny včetně ellagitaninů, další polyfenoly, hořčiny
+- Látky a logika: Tady je klíč v tříslovinách a svíravosti; právě proto je využití specifické a ne pro každodenní pití.
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: kůra z vhodné drogy, v praxi spíše nakoupená; v datech je pro něj vedené období jaro. Kůru neber dokola z kmene; šetrnější je odběr z menších větví nebo z materiálu určeného k řezu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: III–V nebo lékárenská droga
 - Důkaznost: A
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na svíravé použití při průjmu, kloktání nebo na vnější použití.
 - Cílový efekt: Stahující účinek.
+- Hlavní užitečné / aktivní látky: třísloviny včetně ellagitaninů, další polyfenoly, hořčiny
+- Látky a logika: Tady je klíč v tříslovinách a svíravosti; právě proto je využití specifické a ne pro každodenní pití.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladší kůra, ale v praxi preferovat hotovou drogu; v datech je pro něj vedené období III–V nebo lékárenská droga. Kůru neber dokola z kmene; šetrnější je odběr z menších větví nebo z materiálu určeného k řezu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

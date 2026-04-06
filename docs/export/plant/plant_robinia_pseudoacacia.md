@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - trnovník akát (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: V–VI
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Výrazně aromatická květnová surovina s potenciálem pro nápojové a sladké uchování.
 - Cílový efekt: Výrazně aromatická květnová surovina s potenciálem pro nápojové a sladké uchování.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozvinuté voňavé květní hrozny; v datech je pro něj vedené období V–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

@@ -375,7 +375,7 @@ function renderResultCard(result) {
     meta.remove();
   }
 
-  const effectText = teaserText(result.cilovy_efekt, 120);
+  const effectText = teaserText(result.hlavni_prinos_text || result.cilovy_efekt, 120);
   if (effectText) {
     effect.textContent = effectText;
   } else {

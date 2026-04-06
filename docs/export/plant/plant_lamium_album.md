@@ -7,6 +7,12 @@
 - Trvanlivá použití: 1
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - hluchavka bílá (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: V–IX + sušení
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Lehká a poměrně příjemná květní čajovina z velmi běžné, ale přehlížené rostliny.
 - Cílový efekt: Lehká a poměrně příjemná květní čajovina z velmi běžné, ale přehlížené rostliny.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvě rozvité bílé květy sbírané za sucha; v datech je pro něj vedené období V–IX + sušení. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: III–V
 - Důkaznost: D
 - Aplikovatelnost v ČR: střední až vysoká
+- Proč to může dávat smysl: Další tichý, ale použitelný jarní druh z živých plotů a lemů, vhodný hlavně do směsných sběrů.
 - Cílový efekt: Další tichý, ale použitelný jarní druh z živých plotů a lemů, vhodný hlavně do směsných sběrů.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: nejmladší listy a měkké vrcholky před zhrubnutím; v datech je pro něj vedené období III–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

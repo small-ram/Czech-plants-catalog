@@ -7,6 +7,12 @@
 - Trvanlivá použití: 2
 - Jádrová použití: 2
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi.
+- Hlavní užitečné / aktivní látky: vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly
+- Látky a logika: Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.
+
 ## Aliasy
 
 - smrk ztepilý (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: V–VI
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Pít ho dává smysl kvůli výrazně lesní chuti, svěžesti mladých výhonků a tradičnímu zimně-jarnímu použití na dýchací cesty.
 - Cílový efekt: Velmi rozšířená trvanlivá forma využití jarních smrkových výhonků.
+- Hlavní užitečné / aktivní látky: vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly
+- Látky a logika: Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé světlé výhonky; v datech je pro něj vedené období V–VI. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: celoročně
 - Důkaznost: C
 - Aplikovatelnost v ČR: střední
+- Proč to může dávat smysl: Smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi.
 - Cílový efekt: Velmi trvanlivá lesní aromatická surovina.
+- Hlavní užitečné / aktivní látky: vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly
+- Látky a logika: Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: ztvrdlá přirozeně vyteklá pryskyřice; v datech je pro něj vedené období celoročně. Dřevnatý materiál ber jen suchý a zdravý; nepoškozuj hlavní kmen ani nosné větve. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,7 +55,10 @@
 - Období: IV–V
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na kašel, zahlenění a respirační směsi.
 - Cílový efekt: Tradiční domácí podpůrný prostředek při kašli a nachlazení.
+- Hlavní užitečné / aktivní látky: vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly
+- Látky a logika: Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvé jarní výhonky; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -54,7 +69,10 @@
 - Období: IV–V
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Pít ho dává smysl kvůli výrazně lesní chuti, svěžesti mladých výhonků a tradičnímu zimně-jarnímu použití na dýchací cesty.
 - Cílový efekt: Výrazně pryskyřičně-citrusový nápojový zdroj.
+- Hlavní užitečné / aktivní látky: vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly
+- Látky a logika: Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: světle zelené čerstvé jarní výhonky; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -65,7 +83,10 @@
 - Období: IX–II + sušení
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi.
 - Cílový efekt: Rychlý start ohně a krátkodobé teplo.
+- Hlavní užitečné / aktivní látky: vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly
+- Látky a logika: Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: dobře vyschlé dřevo; v datech je pro něj vedené období IX–II + sušení. Dřevnatý materiál ber jen suchý a zdravý; nepoškozuj hlavní kmen ani nosné větve. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -76,7 +97,10 @@
 - Období: celoročně
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi.
 - Cílový efekt: Pryskyřičná vůně prostoru a rituální/atmosférické použití.
+- Hlavní užitečné / aktivní látky: vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly
+- Látky a logika: Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: pryskyřice vytékající po poranění, lépe za tepla; v datech je pro něj vedené období celoročně. Dřevnatý materiál ber jen suchý a zdravý; nepoškozuj hlavní kmen ani nosné větve. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

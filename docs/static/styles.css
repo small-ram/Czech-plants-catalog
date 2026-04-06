@@ -1133,6 +1133,13 @@ select:disabled {
   line-height: 1.55;
 }
 
+.detail-section p + p,
+.detail-section li + li,
+.use-item-note + .use-item-note,
+.use-item-sub + .use-item-note {
+  margin-top: 10px;
+}
+
 .detail-section ul {
   margin: 0;
   padding-left: 18px;

@@ -14,6 +14,10 @@
   "status_cetnost_reprezentativni": "lokalne_bezny",
   "pocet_pouziti": 1,
   "pocet_ceskych_aliasu": 1,
+  "hlavni_prinos_text": "",
+  "aktivni_latky_text": "",
+  "latky_a_logika_text": "",
+  "funkcni_kontext_status": "bez_kuratorskeho_profilu",
   "aliases": [
     {
       "plant_id": "plant_silene_vulgaris",
@@ -42,6 +46,10 @@
       "cast_rostliny_text": "mladé výhonky a listy",
       "cast_rostliny_kategorie": "kombinovana_cast",
       "obdobi_ziskani_text": "V–VI",
+      "hlavni_prinos_text": "Velmi ne-mainstreamová evropská jarní zelenina, která je u nás skoro neviditelná, ale jinde je ceněná.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
+      "funkcni_kontext_status": "odvozeno_z_pouziti",
       "cilovy_efekt": "Velmi ne-mainstreamová evropská jarní zelenina, která je u nás skoro neviditelná, ale jinde je ceněná.",
       "dukaznost_skore": "D",
       "dukaznost_rank": 2,

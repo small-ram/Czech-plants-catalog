@@ -76,6 +76,39 @@ function section(id, title, content) {
   `;
 }
 
+function normalizeText(value) {
+  return String(value || "")
+    .trim()
+    .replace(/\s+/g, " ")
+    .toLowerCase();
+}
+
+function distinctText(primary, secondary) {
+  return normalizeText(primary) && normalizeText(primary) !== normalizeText(secondary);
+}
+
+function renderFunctionalSection(detail, { title = "Látky a přínosy", plantLevel = false } = {}) {
+  const items = [];
+  if (detail.hlavni_prinos_text) {
+    items.push(
+      `<p><strong>${plantLevel ? "Proč je rostlina zajímavá:" : "Proč to může dávat smysl:"}</strong> ${C.escapeHtml(detail.hlavni_prinos_text)}</p>`
+    );
+  }
+  if (detail.cilovy_efekt && distinctText(detail.cilovy_efekt, detail.hlavni_prinos_text)) {
+    items.push(`<p><strong>Na co to tradičně míří:</strong> ${C.escapeHtml(detail.cilovy_efekt)}</p>`);
+  }
+  if (detail.aktivni_latky_text) {
+    items.push(`<p><strong>Hlavní užitečné / aktivní látky:</strong> ${C.escapeHtml(detail.aktivni_latky_text)}</p>`);
+  }
+  if (detail.latky_a_logika_text) {
+    items.push(`<p><strong>Látky a logika:</strong> ${C.escapeHtml(detail.latky_a_logika_text)}</p>`);
+  }
+  if (!items.length) {
+    return "";
+  }
+  return section(plantLevel ? "latky-a-prinosy-rostliny" : "latky-a-prinosy", title, items.join(""));
+}
+
 function renderUsePage(detail) {
   setHeader({
     eyebrow: `Detail použití · ${detail.raw_record_id}`,
@@ -120,7 +153,9 @@ function renderUsePage(detail) {
 
   const sections = [
     { id: "prakticky-popis", label: "Praktický popis" },
-    { id: "cilovy-efekt", label: "Cílový efekt" },
+    ...(detail.hlavni_prinos_text || detail.aktivni_latky_text || detail.latky_a_logika_text || detail.cilovy_efekt
+      ? [{ id: "latky-a-prinosy", label: "Látky a přínosy" }]
+      : []),
     { id: "jak-sbirat", label: "Jak sbírat" },
     { id: "metody-zpracovani", label: "Metody zpracování" },
     { id: "sber-a-lokalita", label: "Sběr a lokalita" },
@@ -146,7 +181,7 @@ function renderUsePage(detail) {
       </div>
 
       ${section("prakticky-popis", "Praktický popis", `<p>${C.escapeHtml(detail.zpusob_pripravy || "Bez popisu přípravy.")}</p>`)}
-      ${section("cilovy-efekt", "Cílový efekt", `<p>${C.escapeHtml(detail.cilovy_efekt || "Bez popisu.")}</p>`)}
+      ${renderFunctionalSection(detail)}
       ${section("jak-sbirat", "Jak sbírat správně", `<p>${C.escapeHtml(detail.sber_doporuceni || "Bez odvozeného doporučení ke sběru.")}</p>`)}
       ${section("metody-zpracovani", "Metody dlouhodobého zpracování", renderProcessingMethods(detail.processing_methods))}
       ${section(
@@ -232,7 +267,12 @@ function renderPlantPage(detail) {
               use.je_v_jadru_bezne_1m_plus ? "Doporučený výběr" : "",
             ])}
           </div>
-          <p class="use-item-sub">${C.escapeHtml(use.cilovy_efekt || "Bez popisu cílového efektu.")}</p>
+          <p class="use-item-sub">${C.escapeHtml(use.hlavni_prinos_text || use.cilovy_efekt || "Bez stručného shrnutí přínosu.")}</p>
+          ${
+            use.cilovy_efekt && distinctText(use.cilovy_efekt, use.hlavni_prinos_text)
+              ? `<p class="use-item-note"><strong>Na co míří:</strong> ${C.escapeHtml(use.cilovy_efekt)}</p>`
+              : ""
+          }
           <p class="use-item-note"><strong>Jak sbírat:</strong> ${C.escapeHtml(use.sber_doporuceni || "neuvedeno")}</p>
         </li>
       `
@@ -257,6 +297,9 @@ function renderPlantPage(detail) {
 
   const sections = [
     { id: "status-v-cr", label: "Status v ČR" },
+    ...(detail.hlavni_prinos_text || detail.aktivni_latky_text || detail.latky_a_logika_text
+      ? [{ id: "latky-a-prinosy-rostliny", label: "Látky a přínosy" }]
+      : []),
     { id: "aliasy", label: "Aliasy" },
     { id: "pouziti-rostliny", label: "Použití" },
     { id: "zdroje", label: "Zdroje" },
@@ -298,6 +341,7 @@ function renderPlantPage(detail) {
           </p>
         `
       )}
+      ${renderFunctionalSection(detail, { title: "Látky a přínosy rostliny", plantLevel: true })}
       ${section("aliasy", "Aliasy", `<ul>${aliasList || "<li>Bez aliasů.</li>"}</ul>`)}
       ${section("pouziti-rostliny", "Použití této rostliny", `<ul class="use-list">${useList || "<li>Bez použití.</li>"}</ul>`)}
       ${section("zdroje", "Zdroje", `<ul>${sourceList || "<li>Bez zdrojů.</li>"}</ul>`)}

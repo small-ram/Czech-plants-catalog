@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: zatím nedoplněno
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
+
 ## Aliasy
 
 - moruše bílá / černá (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VI–VIII
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: sladké ovoce s krátkou trvanlivostí a vysokou čerstvou hodnotou
 - Cílový efekt: sladké ovoce s krátkou trvanlivostí a vysokou čerstvou hodnotou
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení · Sirup / koncentrát · Kvašení / fermentace
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zralý měkký plod; v datech je pro něj vedené období VI–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

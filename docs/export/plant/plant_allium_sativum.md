@@ -7,6 +7,12 @@
 - Trvanlivá použití: 0
 - Jádrová použití: 0
 
+## Látky a přínosy rostliny
+
+- Proč může dávat smysl: Česnek je silný jako koření, macerátová a sirupová surovina i jako tradičně 'obranná' potravina.
+- Hlavní užitečné / aktivní látky: organosirné sloučeniny včetně allicinu a jeho prekurzorů, flavonoidy, stopové minerály
+- Látky a logika: Hlavní logika je v organosirných sloučeninách; právě ony dělají česnek ostrý, intenzivní a tradičně ceněný.
+
 ## Aliasy
 
 - česnek setý (cs, cesky_nazev)
@@ -21,7 +27,10 @@
 - Období: VII–III
 - Důkaznost: B
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Česnek je silný jako koření, macerátová a sirupová surovina i jako tradičně 'obranná' potravina.
 - Cílový efekt: silná chuť, konzervační a kulinární funkce
+- Hlavní užitečné / aktivní látky: organosirné sloučeniny včetně allicinu a jeho prekurzorů, flavonoidy, stopové minerály
+- Látky a logika: Hlavní logika je v organosirných sloučeninách; právě ony dělají česnek ostrý, intenzivní a tradičně ceněný.
 - Metody zpracování: Kvašení / fermentace · Nakládání
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálá cibule/stroužek; v datech je pro něj vedené období VII–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -32,7 +41,10 @@
 - Období: celoročně
 - Důkaznost: C
 - Aplikovatelnost v ČR: vysoká
+- Proč to může dávat smysl: Tradičně míří hlavně na nachlazení, dýchací cesty, trávení a obecně obranný režim.
 - Cílový efekt: tradiční podpůrné domácí použití při respiračních a zimních potížích
+- Hlavní užitečné / aktivní látky: organosirné sloučeniny včetně allicinu a jeho prekurzorů, flavonoidy, stopové minerály
+- Látky a logika: Hlavní logika je v organosirných sloučeninách; právě ony dělají česnek ostrý, intenzivní a tradičně ceněný.
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: vyzrálý stroužek; v datech je pro něj vedené období celoročně. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

@@ -16,20 +16,23 @@ Je vhodná pro:
 
 Databáze obsahuje:
 
-- `105` plants
-- `217` plant_aliases
-- `256` uses
-- `86` durable_forms
-- `95` sources
-- `315` use_sources
-- `231` use_processing_methods
+- `117` plants
+- `241` plant_aliases
+- `273` uses
+- `91` durable_forms
+- `109` sources
+- `334` use_sources
+- `240` use_processing_methods
 - `14` vocab_processing_methods
 
 Navíc:
 
-- `142` použití má alespoň jednu metodu dlouhodobého zpracování
-- `67` rostlin má alespoň jedno takové použití
-- `256` použití má `sber_doporuceni`
+- `148` použití má alespoň jednu metodu dlouhodobého zpracování
+- `72` rostlin má alespoň jedno takové použití
+- `273` použití má `sber_doporuceni`
+- `273` použití má `hlavni_prinos_text`
+- `93` použití má `aktivni_latky_text`
+- `26` rostlin má kurátorský funkční profil
 - k `2026-04-05` sezónní default vrací `březen + duben`
 
 Připravené view:
@@ -116,6 +119,7 @@ Smoke check nad zvolenou DB dnes ověřuje:
 - očekávané 400/404 chování u základních chybových scénářů
 - media provenance v detailu a exportech
 - `sber_doporuceni` v detailu a exportech
+- `hlavni_prinos_text` a `aktivni_latky_text` v detailech a vyhledávání
 
 ## Tabulky
 
@@ -167,5 +171,6 @@ SQLite vrstva je stabilní a dnes už pokrývá:
 - vícenásobné metody dlouhodobého zpracování
 - sezónní default okno pro appku
 - odvozené `sber_doporuceni`
+- funkční vrstvu přínosů a látek pro detail i search API
 
 Hlavní další hodnota teď leží spíš v redakčním zpřesnění zdrojových dat než v další infrastrukturní práci.

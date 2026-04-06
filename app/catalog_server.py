@@ -273,9 +273,21 @@ def render_use_markdown(detail: dict) -> str:
             "",
             detail.get("zpusob_pripravy") or "Bez popisu přípravy.",
             "",
+            "## Proč to může dávat smysl",
+            "",
+            detail.get("hlavni_prinos_text") or "Zatím bez kurátorského shrnutí přínosu.",
+            "",
             "## Cílový efekt",
             "",
             detail.get("cilovy_efekt") or "Bez popisu.",
+            "",
+            "## Hlavní užitečné / aktivní látky",
+            "",
+            detail.get("aktivni_latky_text") or "Zatím nedoplněno.",
+            "",
+            "## Látky a logika",
+            "",
+            detail.get("latky_a_logika_text") or "Zatím nedoplněno.",
             "",
             "## Jak sbírat správně",
             "",
@@ -337,6 +349,12 @@ def render_plant_markdown(detail: dict) -> str:
         f"- Trvanlivá použití: {detail['stats']['durable_use_count']}",
         f"- Jádrová použití: {detail['stats']['core_use_count']}",
         "",
+        "## Látky a přínosy rostliny",
+        "",
+        f"- Proč může dávat smysl: {detail.get('hlavni_prinos_text') or 'zatím nedoplněno'}",
+        f"- Hlavní užitečné / aktivní látky: {detail.get('aktivni_latky_text') or 'zatím nedoplněno'}",
+        f"- Látky a logika: {detail.get('latky_a_logika_text') or 'zatím nedoplněno'}",
+        "",
         "## Aliasy",
         "",
     ]
@@ -354,7 +372,10 @@ def render_plant_markdown(detail: dict) -> str:
                 f"- Období: {use.get('obdobi_ziskani_text') or 'neuvedeno'}",
                 f"- Důkaznost: {use['dukaznost_skore']}",
                 f"- Aplikovatelnost v ČR: {use.get('aplikovatelnost_v_cr') or 'neuvedeno'}",
+                f"- Proč to může dávat smysl: {use.get('hlavni_prinos_text') or 'zatím nedoplněno'}",
                 f"- Cílový efekt: {use.get('cilovy_efekt') or 'neuvedeno'}",
+                f"- Hlavní užitečné / aktivní látky: {use.get('aktivni_latky_text') or 'zatím nedoplněno'}",
+                f"- Látky a logika: {use.get('latky_a_logika_text') or 'zatím nedoplněno'}",
                 f"- Metody zpracování: {use.get('processing_methods_text') or 'neuvedeno'}",
                 f"- Jak sbírat správně: {use.get('sber_doporuceni') or 'neuvedeno'}",
                 "",
@@ -578,6 +599,10 @@ class CatalogHandler(BaseHTTPRequestHandler):
                 p.status_cetnost_reprezentativni,
                 p.pocet_pouziti,
                 p.pocet_ceskych_aliasu,
+                p.hlavni_prinos_text,
+                p.aktivni_latky_text,
+                p.latky_a_logika_text,
+                p.funkcni_kontext_status,
                 COUNT(u.use_id) AS use_count,
                 SUM(CASE WHEN u.je_trvanlive_1m_plus = 1 THEN 1 ELSE 0 END) AS durable_use_count,
                 SUM(CASE WHEN u.je_v_jadru_bezne_1m_plus = 1 THEN 1 ELSE 0 END) AS core_use_count,
@@ -596,14 +621,17 @@ class CatalogHandler(BaseHTTPRequestHandler):
                     OR lower(p.vedecky_nazev_hlavni) LIKE ?
                     OR EXISTS (
                         SELECT 1
-                        FROM plant_aliases pa
-                        WHERE pa.plant_id = p.plant_id
-                          AND lower(pa.alias) LIKE ?
+                    FROM plant_aliases pa
+                    WHERE pa.plant_id = p.plant_id
+                      AND lower(pa.alias) LIKE ?
                     )
+                    OR lower(COALESCE(p.hlavni_prinos_text, '')) LIKE ?
+                    OR lower(COALESCE(p.aktivni_latky_text, '')) LIKE ?
+                    OR lower(COALESCE(p.latky_a_logika_text, '')) LIKE ?
                 )
             """
             like_term = f"%{query_text}%"
-            sql_params.extend([like_term, like_term, like_term])
+            sql_params.extend([like_term, like_term, like_term, like_term, like_term, like_term])
 
         if month_value:
             month = int(month_value)
@@ -615,7 +643,7 @@ class CatalogHandler(BaseHTTPRequestHandler):
             sql += month_clause
             sql_params.extend(month_params)
 
-        sql += " GROUP BY p.plant_id, p.cesky_nazev_hlavni, p.vedecky_nazev_hlavni, p.status_v_cr_text, p.status_cetnost_reprezentativni, p.pocet_pouziti, p.pocet_ceskych_aliasu"
+        sql += " GROUP BY p.plant_id, p.cesky_nazev_hlavni, p.vedecky_nazev_hlavni, p.status_v_cr_text, p.status_cetnost_reprezentativni, p.pocet_pouziti, p.pocet_ceskych_aliasu, p.hlavni_prinos_text, p.aktivni_latky_text, p.latky_a_logika_text, p.funkcni_kontext_status"
 
         having_clauses = []
         if durable_only:
@@ -682,6 +710,10 @@ class CatalogHandler(BaseHTTPRequestHandler):
                 u.obdobi_ziskani_text,
                 u.mesic_od,
                 u.mesic_do,
+                u.hlavni_prinos_text,
+                u.aktivni_latky_text,
+                u.latky_a_logika_text,
+                u.funkcni_kontext_status,
                 u.cilovy_efekt,
                 u.sber_doporuceni,
                 u.hlavni_rizika,
@@ -713,11 +745,14 @@ class CatalogHandler(BaseHTTPRequestHandler):
                     OR lower(u.poddomena_text) LIKE ?
                     OR lower(u.cast_rostliny_text) LIKE ?
                     OR lower(u.cilovy_efekt) LIKE ?
+                    OR lower(COALESCE(u.hlavni_prinos_text, '')) LIKE ?
+                    OR lower(COALESCE(u.aktivni_latky_text, '')) LIKE ?
+                    OR lower(COALESCE(u.latky_a_logika_text, '')) LIKE ?
                     OR lower(COALESCE(u.processing_methods_text, '')) LIKE ?
                 )
             """
             like_term = f"%{query_text}%"
-            sql_params.extend([like_term] * 7)
+            sql_params.extend([like_term] * 10)
 
         if domain:
             sql += " AND u.domena = ?"
@@ -892,6 +927,10 @@ class CatalogHandler(BaseHTTPRequestHandler):
                     u.cast_rostliny_text,
                     u.cast_rostliny_kategorie,
                     u.obdobi_ziskani_text,
+                    u.hlavni_prinos_text,
+                    u.aktivni_latky_text,
+                    u.latky_a_logika_text,
+                    u.funkcni_kontext_status,
                     u.cilovy_efekt,
                     u.dukaznost_skore,
                     u.dukaznost_rank,
