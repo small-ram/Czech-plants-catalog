@@ -59,19 +59,16 @@
     {
       value: "food",
       label: "Jídlo",
-      help: "Zahrnuje i hybridní záznamy jídlo + pití.",
       raw: ["potrava", "potrava a pití"],
     },
     {
       value: "drink",
       label: "Pití",
-      help: "Zahrnuje i hybridní záznamy jídlo + pití.",
       raw: ["pití", "potrava a pití"],
     },
     {
       value: "healing",
       label: "Léčivé",
-      help: "Spojuje fytoterapii i léčbu.",
       raw: ["fytoterapie", "léčba"],
     },
     {
@@ -87,35 +84,35 @@
   ];
 
   const PART_CATEGORY_LABELS = {
-    drevnata_cast: "Dřevnatá část",
-    kombinovana_cast: "Kombinovaná část",
+    drevnata_cast: "Kůra / dřevo",
+    kombinovana_cast: "Více částí",
     kvetni_cast: "Květy",
-    listova_nadzemni_cast: "Listy a nať",
+    listova_nadzemni_cast: "Listy / nať",
     miza: "Míza",
-    ostatni: "Ostatní",
+    ostatni: "Jiné",
     plodova_cast: "Plody",
-    podzemni_cast: "Kořen / podzemní část",
-    semena_a_orisky: "Semena a oříšky",
-    vyhonky_a_pupeny: "Výhonky a pupeny",
+    podzemni_cast: "Kořen / oddenek",
+    semena_a_orisky: "Semena / oříšky",
+    vyhonky_a_pupeny: "Pupeny / mladé výhony",
   };
 
   const SUBDOMAIN_CATEGORY_LABELS = {
-    caj_nalev: "Čaj / nálev",
-    cerstva_potrava: "Čerstvé jídlo",
+    caj_nalev: "Čaj a nálev",
+    cerstva_potrava: "Čerstvě k jídlu",
     fermentace: "Fermentace",
     kavova_nahrada: "Kávová náhražka",
-    koreni_dochucovadlo: "Koření / dochucení",
+    koreni_dochucovadlo: "Koření a dochucení",
     liker_macerat: "Likér / macerát",
     mouka_skrob: "Mouka / škrob",
     ocet: "Ocet",
     odvar: "Odvar",
     olej: "Olej",
-    ostatni_specialni: "Ostatní speciální",
+    ostatni_specialni: "Speciální použití",
     palivo: "Palivo",
     sirup_koncentrat: "Sirup / koncentrát",
-    suseni_skladovani: "Sušení a skladování",
-    vune_a_vykurovani: "Vůně a vykuřování",
-    zavarenina: "Zavařenina / sladké uchování",
+    suseni_skladovani: "Sušení / uskladnění",
+    vune_a_vykurovani: "Vůně / vykuřování",
+    zavarenina: "Zavařeniny a sladké uchování",
     zevni_aplikace: "Zevní použití",
   };
 
@@ -254,6 +251,10 @@
     return EVIDENCE_LABELS[score] || score || "";
   }
 
+  function evidenceScoreFromRank(rank) {
+    return { 5: "A", 4: "B", 3: "C", 2: "D", 1: "E" }[Number(rank)] || "";
+  }
+
   function domainLabel(rawDomain) {
     return RAW_DOMAIN_LABELS[String(rawDomain || "").trim()] || rawDomain || "";
   }
@@ -262,7 +263,6 @@
     return DOMAIN_GROUPS.map((group) => ({
       value: group.value,
       label: group.label,
-      help: group.help || "",
     }));
   }
 
@@ -383,6 +383,7 @@
     domainGroupOptions,
     domainLabel,
     evidenceLabel,
+    evidenceScoreFromRank,
     escapeHtml,
     fetchJson,
     knowledgeRank,

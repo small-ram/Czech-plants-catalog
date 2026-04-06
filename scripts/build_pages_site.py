@@ -488,18 +488,20 @@ def root_index_html() -> str:
   </head>
   <body>
     <div class="page-shell">
-      <header class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">Veřejný katalog nad statickými daty</p>
-          <h1>České rostliny jako praktický katalog</h1>
-          <p class="hero-text">
-            Hledání v kurátorovaném datasetu použití, zpracování, sběru, rizik a zdrojů.
-          </p>
-          <div class="hero-actions">
+      <header class="catalog-header">
+        <div class="catalog-header-main">
+          <div class="catalog-header-copy">
+            <p class="eyebrow">Veřejný katalog</p>
+            <h1>České rostliny</h1>
+            <p class="catalog-header-text">
+              Hledání v kurátorovaném datasetu použití, zpracování, sběru, rizik a zdrojů.
+            </p>
+          </div>
+          <div class="catalog-header-actions">
             <a class="detail-btn" href="./plants/">Galerie rostlin</a>
           </div>
         </div>
-        <div class="hero-stats" id="summary-stats"></div>
+        <div class="catalog-header-stats" id="summary-stats"></div>
       </header>
 
       <main class="layout">
@@ -509,75 +511,85 @@ def root_index_html() -> str:
             <button id="reset-btn" class="ghost-btn" type="button">Reset</button>
           </div>
 
-          <label class="field">
-            <span>Hledat</span>
-            <input id="q" type="search" placeholder="např. sirup, lípa, sušení, žalud..." />
-          </label>
+          <div class="filter-groups">
+            <details id="filters-group-basic" class="filter-group" open>
+              <summary>Základní</summary>
+              <div class="filter-group-body">
+                <label class="field">
+                  <span>Hledat</span>
+                  <input id="q" type="search" placeholder="např. sirup, lípa, sušení, žalud..." />
+                </label>
 
-          <label class="field">
-            <span>Min. důkaznost</span>
-            <select id="evidence_min">
-              <option value="">Bez limitu</option>
-            </select>
-          </label>
+                <section class="field">
+                  <span>Typ použití</span>
+                  <div id="domain-groups" class="multi-filter"></div>
+                </section>
 
-          <section class="field">
-            <span>Typ použití</span>
-            <div id="domain-groups" class="multi-filter"></div>
-          </section>
+                <label class="field">
+                  <span>Měsíc sběru</span>
+                  <select id="month">
+                    <option value="">Libovolný</option>
+                  </select>
+                </label>
 
-          <section class="field">
-            <span>Jak rozšířené</span>
-            <div id="knowledge-status-groups" class="multi-filter"></div>
-          </section>
+                <p id="seasonal-note" class="context-note"></p>
 
-          <section class="field">
-            <span>Sbíraná část</span>
-            <div id="part-category-groups" class="multi-filter multi-filter-compact"></div>
-          </section>
+                <div class="checks checks-compact">
+                  <label class="check check-highlight">
+                    <input id="seasonal" type="checkbox" />
+                    <span>Výchozí sezónní okno kolem dneška</span>
+                  </label>
+                </div>
+              </div>
+            </details>
 
-          <section class="field">
-            <span>Způsob použití</span>
-            <div id="subdomain-category-groups" class="multi-filter multi-filter-compact"></div>
-          </section>
+            <details id="filters-group-practical" class="filter-group" open>
+              <summary>Praktické</summary>
+              <div class="filter-group-body">
+                <section class="field">
+                  <span>Dlouhodobé zpracování</span>
+                  <div id="processing-method-groups" class="multi-filter multi-filter-compact"></div>
+                </section>
 
-          <section class="field">
-            <span>Dlouhodobé zpracování</span>
-            <div id="processing-method-groups" class="multi-filter multi-filter-compact"></div>
-          </section>
+                <div class="checks">
+                  <label class="check">
+                    <input id="trvanlive" type="checkbox" />
+                    <span>Jen trvanlivé položky</span>
+                  </label>
+                  <label class="check">
+                    <input id="jadro" type="checkbox" />
+                    <span>Jen doporučený výběr</span>
+                  </label>
+                </div>
+              </div>
+            </details>
 
-          <label class="field">
-            <span>Měsíc sběru</span>
-            <select id="month">
-              <option value="">Libovolný</option>
-            </select>
-          </label>
+            <details id="filters-group-advanced" class="filter-group">
+              <summary>Upřesnit</summary>
+              <div class="filter-group-body">
+                <section class="field">
+                  <span>Jak rozšířené</span>
+                  <div id="knowledge-status-groups" class="multi-filter"></div>
+                </section>
 
-          <p id="seasonal-note" class="context-note"></p>
+                <section class="field">
+                  <span>Sbíraná část</span>
+                  <div id="part-category-groups" class="multi-filter multi-filter-compact"></div>
+                </section>
 
-          <label class="field">
-            <span>Limit</span>
-            <select id="limit">
-              <option value="24">24</option>
-              <option value="60" selected>60</option>
-              <option value="120">120</option>
-              <option value="200">200</option>
-            </select>
-          </label>
+                <section class="field">
+                  <span>Způsob použití</span>
+                  <div id="subdomain-category-groups" class="multi-filter multi-filter-compact"></div>
+                </section>
 
-          <div class="checks">
-            <label class="check check-highlight">
-              <input id="seasonal" type="checkbox" />
-              <span>Výchozí sezónní okno kolem dneška</span>
-            </label>
-            <label class="check">
-              <input id="trvanlive" type="checkbox" />
-              <span>Jen trvanlivé položky</span>
-            </label>
-            <label class="check">
-              <input id="jadro" type="checkbox" />
-              <span>Jen doporučený výběr</span>
-            </label>
+                <label class="field">
+                  <span>Min. důkaznost</span>
+                  <select id="evidence_min">
+                    <option value="">Bez limitu</option>
+                  </select>
+                </label>
+              </div>
+            </details>
           </div>
         </section>
 
@@ -588,7 +600,7 @@ def root_index_html() -> str:
               <h2 id="results-title">Načítání</h2>
             </div>
             <p class="toolbar-note">
-              Otevři detail použití nebo celé rostliny na samostatné stránce.
+              Klikni na kartu pro detail použití.
             </p>
           </div>
 
@@ -599,6 +611,7 @@ def root_index_html() -> str:
 
     <template id="result-card-template">
       <article class="result-card">
+        <a class="card-primary-layer" href="./" aria-label="Detail použití"></a>
         <div class="card-topline"></div>
         <div class="result-card-media">
           <img class="result-card-image" alt="" loading="lazy" hidden />
@@ -610,19 +623,17 @@ def root_index_html() -> str:
           </div>
         </div>
         <div class="card-body">
-          <div class="card-head">
-            <div>
-              <p class="card-id"></p>
-              <h3 class="card-title"></h3>
-              <p class="card-subtitle"></p>
-            </div>
+          <div class="card-main">
+            <h3 class="card-title"></h3>
+            <p class="card-subtitle"></p>
             <div class="card-badges"></div>
+            <p class="card-use-line"></p>
+            <div class="meta-grid card-quick-meta"></div>
+            <p class="card-effect"></p>
           </div>
-          <div class="meta-grid"></div>
-          <p class="card-effect"></p>
           <div class="card-actions">
-            <a class="detail-btn" href="./">Použití</a>
-            <a class="plant-btn" href="./">Rostlina</a>
+            <a class="detail-btn" href="./">Detail použití</a>
+            <a class="plant-btn card-secondary-action" href="./">Rostlina</a>
           </div>
         </div>
       </article>
@@ -647,18 +658,20 @@ def plants_index_html() -> str:
   </head>
   <body>
     <div class="page-shell">
-      <header class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">Rostliny</p>
-          <h1>Galerie rostlin</h1>
-          <p class="hero-text">
-            Rychlé procházení profilů rostlin, jejich četnosti použití, trvanlivosti a síly opory.
-          </p>
-          <div class="hero-actions">
+      <header class="catalog-header">
+        <div class="catalog-header-main">
+          <div class="catalog-header-copy">
+            <p class="eyebrow">Rostliny</p>
+            <h1>Galerie rostlin</h1>
+            <p class="catalog-header-text">
+              Rychlé procházení profilů rostlin, jejich četnosti použití, trvanlivosti a síly opory.
+            </p>
+          </div>
+          <div class="catalog-header-actions">
             <a class="detail-btn" href="../">Katalog použití</a>
           </div>
         </div>
-        <div class="hero-stats" id="plants-summary-stats"></div>
+        <div class="catalog-header-stats" id="plants-summary-stats"></div>
       </header>
 
       <main class="layout">
@@ -668,41 +681,51 @@ def plants_index_html() -> str:
             <button id="plants-reset-btn" class="ghost-btn" type="button">Reset</button>
           </div>
 
-          <label class="field">
-            <span>Hledat rostlinu</span>
-            <input id="plants-q" type="search" placeholder="např. bez, lípa, pampeliška, sambucus..." />
-          </label>
+          <div class="filter-groups">
+            <details id="plants-filters-group-basic" class="filter-group" open>
+              <summary>Základní</summary>
+              <div class="filter-group-body">
+                <label class="field">
+                  <span>Hledat rostlinu</span>
+                  <input id="plants-q" type="search" placeholder="např. bez, lípa, pampeliška, sambucus..." />
+                </label>
 
-          <label class="field">
-            <span>Limit</span>
-            <select id="plants-limit">
-              <option value="24">24</option>
-              <option value="48" selected>48</option>
-              <option value="96">96</option>
-              <option value="180">180</option>
-            </select>
-          </label>
+                <p id="plants-seasonal-note" class="context-note"></p>
 
-          <section class="field">
-            <span>Jak rozšířené</span>
-            <div id="plants-knowledge-status-groups" class="multi-filter"></div>
-          </section>
+                <div class="checks checks-compact">
+                  <label class="check check-highlight">
+                    <input id="plants-seasonal" type="checkbox" />
+                    <span>Jen rostliny relevantní kolem dneška</span>
+                  </label>
+                </div>
+              </div>
+            </details>
 
-          <p id="plants-seasonal-note" class="context-note"></p>
+            <details id="plants-filters-group-practical" class="filter-group" open>
+              <summary>Praktické</summary>
+              <div class="filter-group-body">
+                <div class="checks">
+                  <label class="check">
+                    <input id="plants-trvanlive" type="checkbox" />
+                    <span>Jen rostliny s trvanlivým použitím</span>
+                  </label>
+                  <label class="check">
+                    <input id="plants-jadro" type="checkbox" />
+                    <span>Jen rostliny s položkou v doporučeném výběru</span>
+                  </label>
+                </div>
+              </div>
+            </details>
 
-          <div class="checks">
-            <label class="check check-highlight">
-              <input id="plants-seasonal" type="checkbox" />
-              <span>Jen rostliny relevantní kolem dneška</span>
-            </label>
-            <label class="check">
-              <input id="plants-trvanlive" type="checkbox" />
-              <span>Jen rostliny s trvanlivým použitím</span>
-            </label>
-            <label class="check">
-              <input id="plants-jadro" type="checkbox" />
-              <span>Jen rostliny s položkou v doporučeném výběru</span>
-            </label>
+            <details id="plants-filters-group-advanced" class="filter-group">
+              <summary>Upřesnit</summary>
+              <div class="filter-group-body">
+                <section class="field">
+                  <span>Jak rozšířené</span>
+                  <div id="plants-knowledge-status-groups" class="multi-filter"></div>
+                </section>
+              </div>
+            </details>
           </div>
         </section>
 
@@ -713,7 +736,7 @@ def plants_index_html() -> str:
               <h2 id="plants-results-title">Načítání</h2>
             </div>
             <p class="toolbar-note">
-              Otevři profil rostliny pro souhrn použití, zdrojů, aliasů a exportů.
+              Klikni na kartu pro profil rostliny.
             </p>
           </div>
 
@@ -724,6 +747,7 @@ def plants_index_html() -> str:
 
     <template id="plant-card-template">
       <article class="plant-card">
+        <a class="card-primary-layer" href="../" aria-label="Profil rostliny"></a>
         <div class="plant-card-media">
           <img class="plant-card-image" alt="" loading="lazy" hidden />
           <div class="plant-card-placeholder">
@@ -735,16 +759,11 @@ def plants_index_html() -> str:
         </div>
 
         <div class="plant-card-body">
-          <div class="card-head">
-            <div>
-              <p class="card-id">Profil rostliny</p>
-              <h3 class="card-title"></h3>
-              <p class="card-subtitle"></p>
-            </div>
+          <div class="card-main">
+            <h3 class="card-title"></h3>
+            <p class="card-subtitle"></p>
             <div class="card-badges"></div>
           </div>
-
-          <div class="meta-grid"></div>
           <p class="plant-card-status"></p>
 
           <div class="plant-stat-grid">
@@ -764,7 +783,7 @@ def plants_index_html() -> str:
 
           <div class="card-actions">
             <a class="detail-btn plant-profile-link" href="../">Profil rostliny</a>
-            <a class="plant-btn plant-export-link" href="../">Markdown</a>
+            <a class="plant-btn card-secondary-action plant-export-link" href="../">Markdown</a>
           </div>
         </div>
       </article>
