@@ -1,5 +1,8 @@
 # Analýza datasetu českých rostlin
 
+Historická poznámka:
+tenhle soubor popisuje původní workbookový stav kolem `237` použití. Neber ho jako aktuální referenci pro dnešní katalog; pro současný stav používej hlavně `README.md` a `ANALYZA_A_AUDIT_PROJEKTU.md`.
+
 ## Co tento workbook ve skutečnosti je
 
 Tento `.xlsx` soubor není botanický atlas ani úplný seznam české flóry. Je to kurátorovaná, prakticky orientovaná etnobotanická databáze, která mapuje konkrétní použití rostlin v českém kontextu.

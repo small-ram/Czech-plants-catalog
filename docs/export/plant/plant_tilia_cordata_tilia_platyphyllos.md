@@ -29,8 +29,8 @@
 - Aplikovatelnost v ČR: nízká až střední
 - Proč to může dávat smysl: Pít ji má smysl hlavně jako voňavý a uklidňující květní nálev nebo jemně slizový nápoj na krk.
 - Cílový efekt: Experimentální jarní stromový nápoj a malá zásoba lipového sirupu.
-- Hlavní užitečné / aktivní látky: slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech
-- Látky a logika: Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: krátké období jarního toku mízy před plným olistěním; v datech je pro něj vedené období III–IV + odpaření. Mízu odebírej jen z vlastních nebo výslovně povolených stromů, co nejšetrněji a jen v malém množství; strom zbytečně neoslabuj a mízu hned chlaď nebo zpracuj. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Používej čisté potravinářské nádoby, mízu drž v chladu a zpracuj ji co nejrychleji, protože se rychle kazí.
 
@@ -43,8 +43,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ji má smysl hlavně jako voňavý a uklidňující květní nálev nebo jemně slizový nápoj na krk.
 - Cílový efekt: Chuťový nápoj, tradičně při nachlazení a pro zklidnění.
-- Hlavní užitečné / aktivní látky: slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech
-- Látky a logika: Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.
+- Hlavní užitečné / aktivní látky: jemné aromatické látky v květech, flavonoidy
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plné kvetení; v datech je pro něj vedené období VI–VII. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -57,8 +57,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Tradičně míří hlavně na nachlazení, pocení, podrážděný krk a večerní zklidnění.
 - Cílový efekt: Tradičně úleva při nachlazení a mírném psychickém napětí.
-- Hlavní užitečné / aktivní látky: slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech
-- Látky a logika: Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.
+- Hlavní užitečné / aktivní látky: jemné aromatické látky v květech, flavonoidy
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plné kvetení; v datech je pro něj vedené období VI–VII. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -71,8 +71,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Lípa je jemná květní i listová rostlina, která dává smysl pro zklidňující čaje, slizové směsi a lehké jarní pití.
 - Cílový efekt: Jemná stromová listová zelenina pro dubnovou kuchyni.
-- Hlavní užitečné / aktivní látky: slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech
-- Látky a logika: Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: právě rozvinuté měkké listy, ještě před zhrubnutím; v datech je pro něj vedené období IV–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

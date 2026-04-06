@@ -1,5 +1,8 @@
 # Media Nahrady Prioritizace
 
+Historická poznámka:
+tenhle soubor je prioritizační snapshot z období, kdy se nahrazovaly placeholdery a auto-covers. Dnes slouží hlavně jako historický záznam kurátorských priorit.
+
 ## Souhrn
 
 - Rostlin s primarnim auto-coverem: 0

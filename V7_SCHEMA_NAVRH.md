@@ -1,5 +1,8 @@
 # Návrh `v7` schématu
 
+Historická poznámka:
+tohle je návrhový dokument, ne popis finální implementace. Aktuální stav datového modelu je v `V7_KANONICKY_DATASET.md` a `SQLITE_DATASET.md`.
+
 ## Cíl
 
 Další nejlepší krok po auditu není přepsat původní workbook, ale zavést přechodovou vrstvu:

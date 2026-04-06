@@ -31,9 +31,10 @@ Navíc:
 - `72` rostlin má alespoň jedno takové použití
 - `273` použití má `sber_doporuceni`
 - `273` použití má `hlavni_prinos_text`
-- `93` použití má `aktivni_latky_text`
+- `82` použití má use-level `aktivni_latky_text`
+- `54` použití má use-level `latky_a_logika_text`
 - `26` rostlin má kurátorský funkční profil
-- k `2026-04-05` sezónní default vrací `březen + duben`
+- k `2026-04-06` sezónní default vrací `březen + duben`
 
 Připravené view:
 
@@ -120,6 +121,10 @@ Smoke check nad zvolenou DB dnes ověřuje:
 - media provenance v detailu a exportech
 - `sber_doporuceni` v detailu a exportech
 - `hlavni_prinos_text` a `aktivni_latky_text` v detailech a vyhledávání
+
+Po auditním zpřesnění navíc platí:
+
+- use-level chemie se v SQLite schválně nechává prázdná tam, kde by šlo jen o nepřesný přenos z úrovně celé rostliny na konkrétní část
 
 ## Tabulky
 

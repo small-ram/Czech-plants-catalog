@@ -30,8 +30,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.
 - Cílový efekt: Velmi praktická spížní surovina z extrémně běžné rostliny.
-- Hlavní užitečné / aktivní látky: hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly
-- Látky a logika: Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.
+- Hlavní užitečné / aktivní látky: inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: silnější kořeny před kvetením nebo po zatažení natě; v datech je pro něj vedené období III–IV a IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -44,8 +44,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.
 - Cílový efekt: Dobře skladovatelný pražený nápojový základ.
-- Hlavní užitečné / aktivní látky: hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly
-- Látky a logika: Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.
+- Hlavní užitečné / aktivní látky: inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: silnější kořeny před květem nebo na podzim; v datech je pro něj vedené období III–IV nebo IX–XI. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -58,8 +58,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.
 - Cílový efekt: Praktický způsob uchování velmi krátké květní sezóny.
-- Hlavní užitečné / aktivní látky: hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly
-- Látky a logika: Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně otevřené květy za sucha; v datech je pro něj vedené období IV–V. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -72,8 +72,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.
 - Cílový efekt: sladký nápoj, aromatický sezonní produkt
-- Hlavní užitečné / aktivní látky: hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly
-- Látky a logika: Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Kvašení / fermentace
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plné kvetení za sucha; v datech je pro něj vedené období IV–VI. Ber čerstvé, suché a zdravé květy nebo květenství; nech část květů na místě pro opylovače i další semenení. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -86,8 +86,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Tradičně míří hlavně na trávení, žlučník, lehkou močovou podporu a jarní 'hořké' použití.
 - Cílový efekt: trávení, mírná močopudná podpora
-- Hlavní užitečné / aktivní látky: hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly
-- Látky a logika: Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.
+- Hlavní užitečné / aktivní látky: inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladá nať nebo kořen v klidu; v datech je pro něj vedené období III–V, IX–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -100,8 +100,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pampeliška má smysl jako hořká listová a kořenová rostlina pro trávení, jarní kuchyni i pražené nápojové experimenty.
 - Cílový efekt: jarní vitamínová zelenina, hořký akcent
-- Hlavní užitečné / aktivní látky: hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly
-- Látky a logika: Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladá přízemní růžice; v datech je pro něj vedené období III–V. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -114,8 +114,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.
 - Cílový efekt: pražený nápoj bez kofeinu
-- Hlavní užitečné / aktivní látky: hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly
-- Látky a logika: Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.
+- Hlavní užitečné / aktivní látky: inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: po zatažení natě nebo časně zjara; v datech je pro něj vedené období IX–III. Podzemní části ber jen z početných populací; nevyber celé místo, po rytí zahrň zeminu zpět a pokud to dává smysl, nech část kořene nebo oddenku v zemi. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

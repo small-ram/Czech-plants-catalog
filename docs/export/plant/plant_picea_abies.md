@@ -85,8 +85,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi.
 - Cílový efekt: Rychlý start ohně a krátkodobé teplo.
-- Hlavní užitečné / aktivní látky: vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly
-- Látky a logika: Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.
+- Hlavní užitečné / aktivní látky: zatím nedoplněno
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: dobře vyschlé dřevo; v datech je pro něj vedené období IX–II + sušení. Dřevnatý materiál ber jen suchý a zdravý; nepoškozuj hlavní kmen ani nosné větve. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

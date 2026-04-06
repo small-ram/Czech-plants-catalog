@@ -76,6 +76,7 @@ Vedle lokální Python appky teď existuje i statická veřejná varianta pro Gi
 - hlavní katalog i galerie mají zapínatelný sezónní default
 - k `2026-04-05` sezónní default vrací `březen + duben`
 - při zapnutém sezónním režimu se hlavní stránka i galerie omezují na aktuálně relevantní použití / rostliny
+- use-level `aktivni_latky_text` a `latky_a_logika_text` se po auditním zpřesnění zobrazují jen tam, kde šly bezpečně stáhnout na konkrétní část rostliny
 
 ## Co dnes smoke check ověřuje
 
@@ -104,13 +105,14 @@ Vedle lokální Python appky teď existuje i statická veřejná varianta pro Gi
 
 ## Aktuální stav
 
-- `105` rostlin
-- `256` použití
-- `142` použití s aspoň jednou metodou dlouhodobého zpracování
-- `67` rostlin s aspoň jedním takovým použitím
-- `105 / 105` rostlin pokrytých reálnou `photo`
-- `256 / 256` použití s `sber_doporuceni`
-- pro `2026-04-05` sezónní default vrací `105` použití napříč `60` rostlinami
+- `117` rostlin
+- `273` použití
+- `148` použití s aspoň jednou metodou dlouhodobého zpracování
+- `72` rostlin s aspoň jedním takovým použitím
+- `117 / 117` rostlin pokrytých reálnou `photo`
+- `273 / 273` použití s `sber_doporuceni`
+- `82 / 273` použití s explicitním use-level `aktivni_latky_text`
+- pro `2026-04-05` sezónní default vrací `96` použití napříč `57` rostlinami
 
 ## Silné stránky
 

@@ -36,7 +36,8 @@ Navíc dnes platí:
 - `72` rostlin má alespoň jedno takové použití
 - `273` použití má odvozené `sber_doporuceni`
 - `273` použití má `hlavni_prinos_text`
-- `93` použití má explicitní `aktivni_latky_text`
+- `82` použití má explicitní use-level `aktivni_latky_text`
+- `54` použití má explicitní use-level `latky_a_logika_text`
 - `26` rostlin má kurátorský funkční profil
 
 ## Tabulky
@@ -181,6 +182,7 @@ Stejně opatrně je napsaná i nová vrstva látek a přínosů:
 
 - nepředstírá klinickou jistotu tam, kde není
 - u necíleně kurátorských položek může nabídnout přínosový text i bez chemického pole
+- use-level chemie se po auditním zpřesnění raději nechává prázdná tam, kde by šlo jen o nepřesný plant-level přenos na jinou část rostliny
 
 ## Jak dataset znovu vytvořit
 

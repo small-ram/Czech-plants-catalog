@@ -35,27 +35,27 @@ Aktuálně je v `vocab_processing_methods` těchto `14` metod:
 
 Stav po posledním rebuild:
 
-- `242` celkových použití
-- `141` použití s alespoň jednou metodou
-- `66` rostlin s alespoň jedním takovým použitím
-- `230` vazeb `use_processing_methods`
+- `273` celkových použití
+- `148` použití s alespoň jednou metodou
+- `72` rostlin s alespoň jedním takovým použitím
+- `240` vazeb `use_processing_methods`
 
 Počty podle metod:
 
-- `Sušení`: `71`
-- `Sirup / koncentrát`: `40`
-- `Zavaření / sterilace ve sklenici`: `32`
+- `Sušení`: `76`
+- `Sirup / koncentrát`: `42`
+- `Zavaření / sterilace ve sklenici`: `34`
 - `Cukrování / kandování / džem`: `27`
-- `Kvašení / fermentace`: `19`
+- `Kvašení / fermentace`: `20`
 - `Naložení do octa / ocet`: `8`
 - `Tinktura / alkoholová macerace`: `8`
 - `Kompot`: `8`
-- `Nakládání`: `6`
-- `Skladování v chladu`: `5`
-- `Mražení`: `3`
-- `Pasterace`: `1`
-- `Sterilizace`: `1`
-- `Naložení do oleje / olej`: `1`
+- `Nakládání`: `7`
+- `Skladování v chladu`: `6`
+- `Mražení`: `4`
+- `Pasterace`: `0`
+- `Sterilizace`: `0`
+- `Naložení do oleje / olej`: `0`
 
 ## Příklady vícemetodových použití
 

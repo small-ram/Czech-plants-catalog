@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T21:01:28.280266+00:00",
-  "database_path": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\v7_canonical\\v7_dataset.rebuild_20260406_230127.sqlite",
+  "generated_at": "2026-04-06T21:40:33.554089+00:00",
+  "database_path": "C:\\Users\\Dominik\\Documents\\ceske rostliny\\exports\\cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive\\v7_canonical\\v7_dataset.rebuild_20260406_233430.sqlite",
   "summary": {
     "counts": {
       "plants": 117,
@@ -448,8 +448,8 @@
       "mesic_od": 8,
       "mesic_do": 9,
       "hlavni_prinos_text": "K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.",
-      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
-      "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+      "aktivni_latky_text": "anthokyany a další polyfenoly v plodech, pektiny",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Plody usušit a používat po tepelné úpravě do směsí, odvarů nebo kompotů.",
       "cilovy_efekt": "Trvanlivé uchování podzimní bezové sklizně mimo sirupy a džemy.",
@@ -494,7 +494,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra pití sušené bezinky do zimních směsí plod k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby. plody usušit a používat po tepelné úpravě do směsí, odvarů nebo kompotů. trvanlivé uchování podzimní bezové sklizně mimo sirupy a džemy. sušení · kompot"
+      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra pití sušené bezinky do zimních směsí plod k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. anthokyany a další polyfenoly v plodech, pektiny plody usušit a používat po tepelné úpravě do směsí, odvarů nebo kompotů. trvanlivé uchování podzimní bezové sklizně mimo sirupy a džemy. sušení · kompot"
     },
     {
       "use_id": "r195",
@@ -773,8 +773,8 @@
       "mesic_od": 7,
       "mesic_do": 8,
       "hlavni_prinos_text": "Pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil.",
-      "aktivni_latky_text": "třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech",
-      "latky_a_logika_text": "List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.",
+      "aktivni_latky_text": "anthokyany a aromatické látky v plodech",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Plody lisovat nebo povařit na sirup a zavařit.",
       "cilovy_efekt": "Praktický a aromatický způsob uchování měkkých plodů.",
@@ -819,7 +819,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus potrava a pití malinový sirup plod pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil. třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech list stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech. plody lisovat nebo povařit na sirup a zavařit. praktický a aromatický způsob uchování měkkých plodů. sirup / koncentrát · zavaření / sterilace ve sklenici"
+      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus potrava a pití malinový sirup plod pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil. anthokyany a aromatické látky v plodech plody lisovat nebo povařit na sirup a zavařit. praktický a aromatický způsob uchování měkkých plodů. sirup / koncentrát · zavaření / sterilace ve sklenici"
     },
     {
       "use_id": "r165",
@@ -968,8 +968,8 @@
       "mesic_od": 7,
       "mesic_do": 8,
       "hlavni_prinos_text": "Pít ho dává smysl kvůli výrazné vůni, kyselosti, vitaminu C a tmavým polyfenolům v plodech i zajímavé listové vůni.",
-      "aktivni_latky_text": "vitamin C, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny",
-      "latky_a_logika_text": "Smysl dávají hlavně anthokyany, vitamin C a aromatické látky; u listu zase výrazná vůně a polyfenoly.",
+      "aktivni_latky_text": "anthokyany, aromatické terpeny a ovocné kyseliny, vitamin C, flavonoidy",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Plody svařit nebo lisovat na sirup a zavařit.",
       "cilovy_efekt": "Velmi praktický dlouhodobý způsob uchování aromatických plodů.",
@@ -1014,7 +1014,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "rybíz černý ribes nigrum rybíz černý rybíz černý ribes nigrum potrava a pití černorybízový sirup plod pít ho dává smysl kvůli výrazné vůni, kyselosti, vitaminu c a tmavým polyfenolům v plodech i zajímavé listové vůni. vitamin c, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny smysl dávají hlavně anthokyany, vitamin c a aromatické látky; u listu zase výrazná vůně a polyfenoly. plody svařit nebo lisovat na sirup a zavařit. velmi praktický dlouhodobý způsob uchování aromatických plodů. sirup / koncentrát · zavaření / sterilace ve sklenici"
+      "search_text": "rybíz černý ribes nigrum rybíz černý rybíz černý ribes nigrum potrava a pití černorybízový sirup plod pít ho dává smysl kvůli výrazné vůni, kyselosti, vitaminu c a tmavým polyfenolům v plodech i zajímavé listové vůni. anthokyany, aromatické terpeny a ovocné kyseliny, vitamin c, flavonoidy plody svařit nebo lisovat na sirup a zavařit. velmi praktický dlouhodobý způsob uchování aromatických plodů. sirup / koncentrát · zavaření / sterilace ve sklenici"
     },
     {
       "use_id": "r200",
@@ -1163,8 +1163,8 @@
       "mesic_od": 5,
       "mesic_do": 6,
       "hlavni_prinos_text": "K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.",
-      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
-      "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, aromatické látky",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Květy rychle usušit ve stínu a skladovat v suchu a temnu.",
       "cilovy_efekt": "Dlouhodobě skladovatelný čajový materiál s typickým květovým aroma.",
@@ -1208,7 +1208,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra pití sušený bezový květ na čaj květ k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby. květy rychle usušit ve stínu a skladovat v suchu a temnu. dlouhodobě skladovatelný čajový materiál s typickým květovým aroma. sušení"
+      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra pití sušený bezový květ na čaj květ k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. flavonoidy a fenolické kyseliny v květech, aromatické látky květy rychle usušit ve stínu a skladovat v suchu a temnu. dlouhodobě skladovatelný čajový materiál s typickým květovým aroma. sušení"
     },
     {
       "use_id": "r186",
@@ -1803,8 +1803,8 @@
       "mesic_od": 3,
       "mesic_do": 11,
       "hlavni_prinos_text": "Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.",
-      "aktivni_latky_text": "hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly",
-      "latky_a_logika_text": "Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.",
+      "aktivni_latky_text": "inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Kořen nakrájet, usušit a skladovat; pražit až těsně před mletím nebo průběžně.",
       "cilovy_efekt": "Velmi praktická spížní surovina z extrémně běžné rostliny.",
@@ -1848,7 +1848,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití sušený kořen do zásoby pro pozdější pražení kořen pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní. kořen nakrájet, usušit a skladovat; pražit až těsně před mletím nebo průběžně. velmi praktická spížní surovina z extrémně běžné rostliny. sušení"
+      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití sušený kořen do zásoby pro pozdější pražení kořen pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly kořen nakrájet, usušit a skladovat; pražit až těsně před mletím nebo průběžně. velmi praktická spížní surovina z extrémně běžné rostliny. sušení"
     },
     {
       "use_id": "r180",
@@ -1931,8 +1931,8 @@
       "mesic_od": 8,
       "mesic_do": 9,
       "hlavni_prinos_text": "K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.",
-      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
-      "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+      "aktivni_latky_text": "anthokyany a další polyfenoly v plodech, pektiny",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Plody dosušit a používat v malém množství do odvarů, směsí a zimních nápojů.",
       "cilovy_efekt": "Kompaktní dlouhodobá zásoba bezinek bez nutnosti zavařování.",
@@ -1976,7 +1976,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra pití sušené bezinky do odvaru nebo čajové směsi plod k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby. plody dosušit a používat v malém množství do odvarů, směsí a zimních nápojů. kompaktní dlouhodobá zásoba bezinek bez nutnosti zavařování. sušení"
+      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra pití sušené bezinky do odvaru nebo čajové směsi plod k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. anthokyany a další polyfenoly v plodech, pektiny plody dosušit a používat v malém množství do odvarů, směsí a zimních nápojů. kompaktní dlouhodobá zásoba bezinek bez nutnosti zavařování. sušení"
     },
     {
       "use_id": "r194",
@@ -1995,8 +1995,8 @@
       "mesic_od": 4,
       "mesic_do": 5,
       "hlavni_prinos_text": "Pít to dává smysl hlavně kvůli pryskyřičně lesní vůni, sezónní svěžesti a tradičnímu spojení s dýchacími cestami.",
-      "aktivni_latky_text": "monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin C",
-      "latky_a_logika_text": "Logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt.",
+      "aktivni_latky_text": "u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřičné látky",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Pupeny či výhonky zpracovat do sirupu určeného k delšímu skladování.",
       "cilovy_efekt": "Převod velmi krátce dostupné aromatické suroviny do trvanlivé podoby.",
@@ -2040,7 +2040,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "borovice lesní pinus sylvestris borovice lesní borovice lesní pinus sylvestris pití sirup z pupenů nebo výhonků pupeny / mladé výhonky pít to dává smysl hlavně kvůli pryskyřičně lesní vůni, sezónní svěžesti a tradičnímu spojení s dýchacími cestami. monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin c logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt. pupeny či výhonky zpracovat do sirupu určeného k delšímu skladování. převod velmi krátce dostupné aromatické suroviny do trvanlivé podoby. sirup / koncentrát"
+      "search_text": "borovice lesní pinus sylvestris borovice lesní borovice lesní pinus sylvestris pití sirup z pupenů nebo výhonků pupeny / mladé výhonky pít to dává smysl hlavně kvůli pryskyřičně lesní vůni, sezónní svěžesti a tradičnímu spojení s dýchacími cestami. u mladých výhonků i vitamin c, monoterpeny a další silice, pryskyřičné látky pupeny či výhonky zpracovat do sirupu určeného k delšímu skladování. převod velmi krátce dostupné aromatické suroviny do trvanlivé podoby. sirup / koncentrát"
     },
     {
       "use_id": "r204",
@@ -2955,8 +2955,8 @@
       "mesic_od": 5,
       "mesic_do": 8,
       "hlavni_prinos_text": "Pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil.",
-      "aktivni_latky_text": "třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech",
-      "latky_a_logika_text": "List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.",
+      "aktivni_latky_text": "třísloviny a flavonoidy v listech",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Listy usušit a používat samostatně nebo ve směsích.",
       "cilovy_efekt": "Trvanlivý listový čaj s mírně svíravým profilem.",
@@ -3000,7 +3000,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus pití sušený list maliníku list pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil. třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech list stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech. listy usušit a používat samostatně nebo ve směsích. trvanlivý listový čaj s mírně svíravým profilem. sušení"
+      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus pití sušený list maliníku list pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil. třísloviny a flavonoidy v listech listy usušit a používat samostatně nebo ve směsích. trvanlivý listový čaj s mírně svíravým profilem. sušení"
     },
     {
       "use_id": "r188",
@@ -3275,8 +3275,8 @@
       "mesic_od": 3,
       "mesic_do": 11,
       "hlavni_prinos_text": "Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.",
-      "aktivni_latky_text": "hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly",
-      "latky_a_logika_text": "Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.",
+      "aktivni_latky_text": "inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Kořeny očistit, nakrájet, usušit a opražit; poté umlít nebo vařit nahrubo.",
       "cilovy_efekt": "Dobře skladovatelný pražený nápojový základ.",
@@ -3320,7 +3320,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška / smetanka pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití pražený kořen jako náhražka kávy kořen pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní. kořeny očistit, nakrájet, usušit a opražit; poté umlít nebo vařit nahrubo. dobře skladovatelný pražený nápojový základ. sušení"
+      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška / smetanka pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití pražený kořen jako náhražka kávy kořen pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly kořeny očistit, nakrájet, usušit a opražit; poté umlít nebo vařit nahrubo. dobře skladovatelný pražený nápojový základ. sušení"
     },
     {
       "use_id": "r237",
@@ -4098,8 +4098,8 @@
       "mesic_od": 8,
       "mesic_do": 9,
       "hlavni_prinos_text": "K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.",
-      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
-      "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+      "aktivni_latky_text": "anthokyany a další polyfenoly v plodech, pektiny",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Plody tepelně zpracovat na hustý sirup nebo šťávový koncentrát a zavařit.",
       "cilovy_efekt": "Trvanlivý způsob uchování aromatických plodů na zimu.",
@@ -4144,7 +4144,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra potrava a pití bezinkový sirup / šťávový koncentrát plod k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby. plody tepelně zpracovat na hustý sirup nebo šťávový koncentrát a zavařit. trvanlivý způsob uchování aromatických plodů na zimu. sirup / koncentrát · zavaření / sterilace ve sklenici"
+      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra potrava a pití bezinkový sirup / šťávový koncentrát plod k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. anthokyany a další polyfenoly v plodech, pektiny plody tepelně zpracovat na hustý sirup nebo šťávový koncentrát a zavařit. trvanlivý způsob uchování aromatických plodů na zimu. sirup / koncentrát · zavaření / sterilace ve sklenici"
     },
     {
       "use_id": "r178",
@@ -4163,8 +4163,8 @@
       "mesic_od": 3,
       "mesic_do": 4,
       "hlavni_prinos_text": "Pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev.",
-      "aktivni_latky_text": "jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře",
-      "latky_a_logika_text": "U mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Čerstvou mízu nechat kontrolovaně zkvasit a převést do octové formy; skladovat v lahvích.",
       "cilovy_efekt": "Způsob, jak velmi krátce dostupnou mízu převést do dlouhodobější formy.",
@@ -4209,7 +4209,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bříza bělokorá / pýřitá betula pendula / betula pubescens bříza bělokorá / pýřitá bříza bělokorá / pýřitá betula pendula / betula pubescens pití březový ocet míza pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev. jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře u mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu. čerstvou mízu nechat kontrolovaně zkvasit a převést do octové formy; skladovat v lahvích. způsob, jak velmi krátce dostupnou mízu převést do dlouhodobější formy. kvašení / fermentace · naložení do octa / ocet"
+      "search_text": "bříza bělokorá / pýřitá betula pendula / betula pubescens bříza bělokorá / pýřitá bříza bělokorá / pýřitá betula pendula / betula pubescens pití březový ocet míza pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev. čerstvou mízu nechat kontrolovaně zkvasit a převést do octové formy; skladovat v lahvích. způsob, jak velmi krátce dostupnou mízu převést do dlouhodobější formy. kvašení / fermentace · naložení do octa / ocet"
     },
     {
       "use_id": "r199",
@@ -4293,8 +4293,8 @@
       "mesic_od": 4,
       "mesic_do": 5,
       "hlavni_prinos_text": "Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.",
-      "aktivni_latky_text": "hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly",
-      "latky_a_logika_text": "Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Květy převařit či vylouhovat, zkoncentrovat s cukrem a zavařit.",
       "cilovy_efekt": "Praktický způsob uchování velmi krátké květní sezóny.",
@@ -4339,7 +4339,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití pampeliškový sirup / „med“ květ pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní. květy převařit či vylouhovat, zkoncentrovat s cukrem a zavařit. praktický způsob uchování velmi krátké květní sezóny. sirup / koncentrát · zavaření / sterilace ve sklenici"
+      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití pampeliškový sirup / „med“ květ pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. květy převařit či vylouhovat, zkoncentrovat s cukrem a zavařit. praktický způsob uchování velmi krátké květní sezóny. sirup / koncentrát · zavaření / sterilace ve sklenici"
     },
     {
       "use_id": "r242",
@@ -5257,8 +5257,8 @@
       "mesic_od": 5,
       "mesic_do": 6,
       "hlavni_prinos_text": "Pít ji má smysl hlavně kvůli čistě jehličnaté vůni, svěžesti a tradičnímu zimnímu respiračnímu použití.",
-      "aktivni_latky_text": "monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin C",
-      "latky_a_logika_text": "Logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami.",
+      "aktivni_latky_text": "u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřice",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Výhonky zpracovat do sirupu nebo medového macerátu určeného k delšímu skladování.",
       "cilovy_efekt": "Způsob, jak krátké jarní okno převést do trvanlivé formy.",
@@ -5302,7 +5302,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Abies_alba_Wis%C5%82a_1.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "jedle bělokorá abies alba jedle bělokorá jedle bělokorá abies alba pití sirup z mladých výhonků mladé výhonky pít ji má smysl hlavně kvůli čistě jehličnaté vůni, svěžesti a tradičnímu zimnímu respiračnímu použití. monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin c logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami. výhonky zpracovat do sirupu nebo medového macerátu určeného k delšímu skladování. způsob, jak krátké jarní okno převést do trvanlivé formy. sirup / koncentrát"
+      "search_text": "jedle bělokorá abies alba jedle bělokorá jedle bělokorá abies alba pití sirup z mladých výhonků mladé výhonky pít ji má smysl hlavně kvůli čistě jehličnaté vůni, svěžesti a tradičnímu zimnímu respiračnímu použití. u mladých výhonků i vitamin c, monoterpeny a další silice, pryskyřice výhonky zpracovat do sirupu nebo medového macerátu určeného k delšímu skladování. způsob, jak krátké jarní okno převést do trvanlivé formy. sirup / koncentrát"
     },
     {
       "use_id": "r231",
@@ -5769,8 +5769,8 @@
       "mesic_od": 3,
       "mesic_do": 4,
       "hlavni_prinos_text": "Pít ji má smysl hlavně jako voňavý a uklidňující květní nálev nebo jemně slizový nápoj na krk.",
-      "aktivni_latky_text": "slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech",
-      "latky_a_logika_text": "Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Pouze velmi šetrně a jen tam, kde je odběr legální: malé množství mízy lze pít čerstvé nebo pomalu odpařit na sladší koncentrát či sirup.",
       "cilovy_efekt": "Experimentální jarní stromový nápoj a malá zásoba lipového sirupu.",
@@ -5814,7 +5814,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:20140605Tilia_cordata7.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos lípa srdčitá / lípa velkolistá lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos pití jarní míza / odpaření na sirup míza pít ji má smysl hlavně jako voňavý a uklidňující květní nálev nebo jemně slizový nápoj na krk. slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá. pouze velmi šetrně a jen tam, kde je odběr legální: malé množství mízy lze pít čerstvé nebo pomalu odpařit na sladší koncentrát či sirup. experimentální jarní stromový nápoj a malá zásoba lipového sirupu. sirup / koncentrát"
+      "search_text": "lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos lípa srdčitá / lípa velkolistá lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos pití jarní míza / odpaření na sirup míza pít ji má smysl hlavně jako voňavý a uklidňující květní nálev nebo jemně slizový nápoj na krk. pouze velmi šetrně a jen tam, kde je odběr legální: malé množství mízy lze pít čerstvé nebo pomalu odpařit na sladší koncentrát či sirup. experimentální jarní stromový nápoj a malá zásoba lipového sirupu. sirup / koncentrát"
     },
     {
       "use_id": "r258",
@@ -6091,8 +6091,8 @@
       "mesic_od": 8,
       "mesic_do": 9,
       "hlavni_prinos_text": "K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.",
-      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
-      "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+      "aktivni_latky_text": "anthokyany a další polyfenoly v plodech, pektiny",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Plody vařit nebo jinak tepelně zpracovat; používat do sirupů, džemů, vín a likérů.",
       "cilovy_efekt": "Barva, chuť, skladovatelný produkt.",
@@ -6139,7 +6139,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra potrava a pití šťáva / džem / víno / likér plod k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby. plody vařit nebo jinak tepelně zpracovat; používat do sirupů, džemů, vín a likérů. barva, chuť, skladovatelný produkt. sirup / koncentrát · zavaření / sterilace ve sklenici · tinktura / alkoholová macerace · cukrování / kandování / džem"
+      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra potrava a pití šťáva / džem / víno / likér plod k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. anthokyany a další polyfenoly v plodech, pektiny plody vařit nebo jinak tepelně zpracovat; používat do sirupů, džemů, vín a likérů. barva, chuť, skladovatelný produkt. sirup / koncentrát · zavaření / sterilace ve sklenici · tinktura / alkoholová macerace · cukrování / kandování / džem"
     },
     {
       "use_id": "r083",
@@ -6292,8 +6292,8 @@
       "mesic_od": 6,
       "mesic_do": 8,
       "hlavni_prinos_text": "Pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil.",
-      "aktivni_latky_text": "třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech",
-      "latky_a_logika_text": "List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.",
+      "aktivni_latky_text": "anthokyany a aromatické látky v plodech",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Jíst čerstvé nebo zpracovat na sirup, džem či ocet.",
       "cilovy_efekt": "Výživný plod, surovina pro nápoje i konzervaci.",
@@ -6340,7 +6340,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus potrava a pití čerstvé plody / sirup / džem plod pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil. třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech list stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech. jíst čerstvé nebo zpracovat na sirup, džem či ocet. výživný plod, surovina pro nápoje i konzervaci. sirup / koncentrát · zavaření / sterilace ve sklenici · naložení do octa / ocet · cukrování / kandování / džem"
+      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus potrava a pití čerstvé plody / sirup / džem plod pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil. anthokyany a aromatické látky v plodech jíst čerstvé nebo zpracovat na sirup, džem či ocet. výživný plod, surovina pro nápoje i konzervaci. sirup / koncentrát · zavaření / sterilace ve sklenici · naložení do octa / ocet · cukrování / kandování / džem"
     },
     {
       "use_id": "r074",
@@ -6359,8 +6359,8 @@
       "mesic_od": 7,
       "mesic_do": 8,
       "hlavni_prinos_text": "Pít ho dává smysl kvůli výrazné vůni, kyselosti, vitaminu C a tmavým polyfenolům v plodech i zajímavé listové vůni.",
-      "aktivni_latky_text": "vitamin C, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny",
-      "latky_a_logika_text": "Smysl dávají hlavně anthokyany, vitamin C a aromatické látky; u listu zase výrazná vůně a polyfenoly.",
+      "aktivni_latky_text": "anthokyany, aromatické terpeny a ovocné kyseliny, vitamin C, flavonoidy",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "čerstvá konzumace, sirupy, džemy, mražení",
       "cilovy_efekt": "výrazná chuť, zpracovatelnost, letní vitamínová surovina",
@@ -6407,7 +6407,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "rybíz černý ribes nigrum rybíz černý rybíz černý ribes nigrum potrava a pití čerstvé plody / sirup / džem plod pít ho dává smysl kvůli výrazné vůni, kyselosti, vitaminu c a tmavým polyfenolům v plodech i zajímavé listové vůni. vitamin c, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny smysl dávají hlavně anthokyany, vitamin c a aromatické látky; u listu zase výrazná vůně a polyfenoly. čerstvá konzumace, sirupy, džemy, mražení výrazná chuť, zpracovatelnost, letní vitamínová surovina mražení · sirup / koncentrát · zavaření / sterilace ve sklenici · cukrování / kandování / džem"
+      "search_text": "rybíz černý ribes nigrum rybíz černý rybíz černý ribes nigrum potrava a pití čerstvé plody / sirup / džem plod pít ho dává smysl kvůli výrazné vůni, kyselosti, vitaminu c a tmavým polyfenolům v plodech i zajímavé listové vůni. anthokyany, aromatické terpeny a ovocné kyseliny, vitamin c, flavonoidy čerstvá konzumace, sirupy, džemy, mražení výrazná chuť, zpracovatelnost, letní vitamínová surovina mražení · sirup / koncentrát · zavaření / sterilace ve sklenici · cukrování / kandování / džem"
     },
     {
       "use_id": "r076",
@@ -7154,8 +7154,8 @@
       "mesic_od": 3,
       "mesic_do": 4,
       "hlavni_prinos_text": "Pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev.",
-      "aktivni_latky_text": "jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře",
-      "latky_a_logika_text": "U mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "V severní a východní Evropě se míza používá i na lehce fermentované nápoje, ocet či zahušťované produkty.",
       "cilovy_efekt": "Rozšíření repertoáru nad rámec české tradice.",
@@ -7201,7 +7201,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bříza bělokorá / pýřitá betula pendula / betula pubescens bříza bělokorá / pýřitá bříza bělokorá / pýřitá betula pendula / betula pubescens pití fermentovaný nápoj / sirup / ocet míza pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev. jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře u mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu. v severní a východní evropě se míza používá i na lehce fermentované nápoje, ocet či zahušťované produkty. rozšíření repertoáru nad rámec české tradice. sirup / koncentrát · kvašení / fermentace · naložení do octa / ocet"
+      "search_text": "bříza bělokorá / pýřitá betula pendula / betula pubescens bříza bělokorá / pýřitá bříza bělokorá / pýřitá betula pendula / betula pubescens pití fermentovaný nápoj / sirup / ocet míza pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev. v severní a východní evropě se míza používá i na lehce fermentované nápoje, ocet či zahušťované produkty. rozšíření repertoáru nad rámec české tradice. sirup / koncentrát · kvašení / fermentace · naložení do octa / ocet"
     },
     {
       "use_id": "r033",
@@ -7286,8 +7286,8 @@
       "mesic_od": 5,
       "mesic_do": 6,
       "hlavni_prinos_text": "K pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly.",
-      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
-      "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, aromatické látky",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Z květů sirup, limonáda nebo lehce fermentovaný nápoj.",
       "cilovy_efekt": "Aromatický nápoj a kulinární základ.",
@@ -7332,7 +7332,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra pití sirup / limonáda / cordial květ k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby. z květů sirup, limonáda nebo lehce fermentovaný nápoj. aromatický nápoj a kulinární základ. sirup / koncentrát · kvašení / fermentace"
+      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra pití sirup / limonáda / cordial květ k pití dává smysl kvůli voňavým květům a později i kvůli tmavým plodům, které po tepelné úpravě přidávají chuť, barvu a polyfenoly. flavonoidy a fenolické kyseliny v květech, aromatické látky z květů sirup, limonáda nebo lehce fermentovaný nápoj. aromatický nápoj a kulinární základ. sirup / koncentrát · kvašení / fermentace"
     },
     {
       "use_id": "r069",
@@ -8131,8 +8131,8 @@
       "mesic_od": 4,
       "mesic_do": 6,
       "hlavni_prinos_text": "Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.",
-      "aktivni_latky_text": "hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly",
-      "latky_a_logika_text": "Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Květy na sirup, medovitou náhražku nebo fermentované nápoje; sbírat plně rozvité úbory za sucha.",
       "cilovy_efekt": "sladký nápoj, aromatický sezonní produkt",
@@ -8177,7 +8177,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití sirup / víno / sladký macerát květy pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní. květy na sirup, medovitou náhražku nebo fermentované nápoje; sbírat plně rozvité úbory za sucha. sladký nápoj, aromatický sezonní produkt sirup / koncentrát · kvašení / fermentace"
+      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití sirup / víno / sladký macerát květy pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. květy na sirup, medovitou náhražku nebo fermentované nápoje; sbírat plně rozvité úbory za sucha. sladký nápoj, aromatický sezonní produkt sirup / koncentrát · kvašení / fermentace"
     },
     {
       "use_id": "r071",
@@ -8456,8 +8456,8 @@
       "mesic_od": 5,
       "mesic_do": 6,
       "hlavni_prinos_text": "V tradičním bylinném použití míří hlavně na horní dýchací cesty, pocení při nachlazení a jemnou podporu sliznic.",
-      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
-      "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, aromatické látky",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Sušený nebo čerstvý květ jako nálev krátkodobě při začátku nachlazení.",
       "cilovy_efekt": "Tradiční úleva při časných příznacích nachlazení.",
@@ -8501,7 +8501,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra fytoterapie nálev květ v tradičním bylinném použití míří hlavně na horní dýchací cesty, pocení při nachlazení a jemnou podporu sliznic. flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby. sušený nebo čerstvý květ jako nálev krátkodobě při začátku nachlazení. tradiční úleva při časných příznacích nachlazení. sušení"
+      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra fytoterapie nálev květ v tradičním bylinném použití míří hlavně na horní dýchací cesty, pocení při nachlazení a jemnou podporu sliznic. flavonoidy a fenolické kyseliny v květech, aromatické látky sušený nebo čerstvý květ jako nálev krátkodobě při začátku nachlazení. tradiční úleva při časných příznacích nachlazení. sušení"
     },
     {
       "use_id": "r012",
@@ -8648,8 +8648,8 @@
       "mesic_od": 5,
       "mesic_do": 7,
       "hlavni_prinos_text": "Tradičně míří hlavně na osvěžující a posilující pití, lehkou podporu při nachlazení a antioxidačně chápané použití.",
-      "aktivni_latky_text": "vitamin C, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny",
-      "latky_a_logika_text": "Smysl dávají hlavně anthokyany, vitamin C a aromatické látky; u listu zase výrazná vůně a polyfenoly.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "sušení listu na nálev; tradiční užití při drobných močových a kloubních obtížích",
       "cilovy_efekt": "tradiční podpůrná fytoterapie",
@@ -8693,7 +8693,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "rybíz černý ribes nigrum rybíz černý rybíz černý ribes nigrum fytoterapie nálev / tradiční bylinný přípravek list tradičně míří hlavně na osvěžující a posilující pití, lehkou podporu při nachlazení a antioxidačně chápané použití. vitamin c, anthokyany, flavonoidy, aromatické terpeny a ovocné kyseliny smysl dávají hlavně anthokyany, vitamin c a aromatické látky; u listu zase výrazná vůně a polyfenoly. sušení listu na nálev; tradiční užití při drobných močových a kloubních obtížích tradiční podpůrná fytoterapie sušení"
+      "search_text": "rybíz černý ribes nigrum rybíz černý rybíz černý ribes nigrum fytoterapie nálev / tradiční bylinný přípravek list tradičně míří hlavně na osvěžující a posilující pití, lehkou podporu při nachlazení a antioxidačně chápané použití. sušení listu na nálev; tradiční užití při drobných močových a kloubních obtížích tradiční podpůrná fytoterapie sušení"
     },
     {
       "use_id": "r020",
@@ -9160,8 +9160,8 @@
       "mesic_od": 4,
       "mesic_do": 5,
       "hlavni_prinos_text": "Tradičně se používá hlavně při zahlenění, podrážděných horních dýchacích cestách a tam, kde pomáhá aromatický horký nápoj.",
-      "aktivni_latky_text": "monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin C",
-      "latky_a_logika_text": "Logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt.",
+      "aktivni_latky_text": "u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřičné látky",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Tradiční domácí použití v sirupech a nálevech při respiračních potížích.",
       "cilovy_efekt": "Podpůrné použití při kašli, bronchitidě a nachlazení v karpatských tradicích.",
@@ -9205,7 +9205,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "borovice lesní pinus sylvestris borovice lesní borovice lesní pinus sylvestris fytoterapie sirup / nálev / tradiční domácí užití pupeny / mladé výhonky tradičně se používá hlavně při zahlenění, podrážděných horních dýchacích cestách a tam, kde pomáhá aromatický horký nápoj. monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin c logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt. tradiční domácí použití v sirupech a nálevech při respiračních potížích. podpůrné použití při kašli, bronchitidě a nachlazení v karpatských tradicích. sirup / koncentrát"
+      "search_text": "borovice lesní pinus sylvestris borovice lesní borovice lesní pinus sylvestris fytoterapie sirup / nálev / tradiční domácí užití pupeny / mladé výhonky tradičně se používá hlavně při zahlenění, podrážděných horních dýchacích cestách a tam, kde pomáhá aromatický horký nápoj. u mladých výhonků i vitamin c, monoterpeny a další silice, pryskyřičné látky tradiční domácí použití v sirupech a nálevech při respiračních potížích. podpůrné použití při kašli, bronchitidě a nachlazení v karpatských tradicích. sirup / koncentrát"
     },
     {
       "use_id": "r059",
@@ -9224,8 +9224,8 @@
       "mesic_od": 4,
       "mesic_do": 5,
       "hlavni_prinos_text": "Pít to dává smysl hlavně kvůli pryskyřičně lesní vůni, sezónní svěžesti a tradičnímu spojení s dýchacími cestami.",
-      "aktivni_latky_text": "monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin C",
-      "latky_a_logika_text": "Logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt.",
+      "aktivni_latky_text": "u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřičné látky",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Připravit aromatický sirup nebo krátký nálev; chuť je výrazně pryskyřičná.",
       "cilovy_efekt": "Lesní aromatický nápoj a domácí sezónní specialita.",
@@ -9269,7 +9269,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "borovice lesní pinus sylvestris borovice lesní borovice lesní pinus sylvestris pití sirup / čaj pupeny / mladé výhonky pít to dává smysl hlavně kvůli pryskyřičně lesní vůni, sezónní svěžesti a tradičnímu spojení s dýchacími cestami. monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin c logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt. připravit aromatický sirup nebo krátký nálev; chuť je výrazně pryskyřičná. lesní aromatický nápoj a domácí sezónní specialita. sirup / koncentrát"
+      "search_text": "borovice lesní pinus sylvestris borovice lesní borovice lesní pinus sylvestris pití sirup / čaj pupeny / mladé výhonky pít to dává smysl hlavně kvůli pryskyřičně lesní vůni, sezónní svěžesti a tradičnímu spojení s dýchacími cestami. u mladých výhonků i vitamin c, monoterpeny a další silice, pryskyřičné látky připravit aromatický sirup nebo krátký nálev; chuť je výrazně pryskyřičná. lesní aromatický nápoj a domácí sezónní specialita. sirup / koncentrát"
     },
     {
       "use_id": "r087",
@@ -9352,8 +9352,8 @@
       "mesic_od": 4,
       "mesic_do": 5,
       "hlavni_prinos_text": "Tradičně se používá hlavně při kašli, zahlenění a jako aromatická součást dýchacích směsí.",
-      "aktivni_latky_text": "monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin C",
-      "latky_a_logika_text": "Logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami.",
+      "aktivni_latky_text": "u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřice",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "V karpatských tradicích se mladé výhonky používají v sirupech a nálevech pro dýchací cesty.",
       "cilovy_efekt": "Tradiční podpůrné použití při kašli a respiračních potížích.",
@@ -9397,7 +9397,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Abies_alba_Wis%C5%82a_1.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "jedle bělokorá abies alba jedle bělokorá jedle bělokorá abies alba fytoterapie sirup / nálev / tradiční domácí užití mladé výhonky tradičně se používá hlavně při kašli, zahlenění a jako aromatická součást dýchacích směsí. monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin c logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami. v karpatských tradicích se mladé výhonky používají v sirupech a nálevech pro dýchací cesty. tradiční podpůrné použití při kašli a respiračních potížích. sirup / koncentrát"
+      "search_text": "jedle bělokorá abies alba jedle bělokorá jedle bělokorá abies alba fytoterapie sirup / nálev / tradiční domácí užití mladé výhonky tradičně se používá hlavně při kašli, zahlenění a jako aromatická součást dýchacích směsí. u mladých výhonků i vitamin c, monoterpeny a další silice, pryskyřice v karpatských tradicích se mladé výhonky používají v sirupech a nálevech pro dýchací cesty. tradiční podpůrné použití při kašli a respiračních potížích. sirup / koncentrát"
     },
     {
       "use_id": "r061",
@@ -9416,8 +9416,8 @@
       "mesic_od": 4,
       "mesic_do": 5,
       "hlavni_prinos_text": "Pít ji má smysl hlavně kvůli čistě jehličnaté vůni, svěžesti a tradičnímu zimnímu respiračnímu použití.",
-      "aktivni_latky_text": "monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin C",
-      "latky_a_logika_text": "Logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami.",
+      "aktivni_latky_text": "u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřice",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Ze svěžích jarních výhonků připravit sirup nebo nálev v malém množství.",
       "cilovy_efekt": "Lesně aromatický sezónní nápoj.",
@@ -9461,7 +9461,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Abies_alba_Wis%C5%82a_1.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "jedle bělokorá abies alba jedle bělokorá jedle bělokorá abies alba pití sirup / čaj mladé výhonky pít ji má smysl hlavně kvůli čistě jehličnaté vůni, svěžesti a tradičnímu zimnímu respiračnímu použití. monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin c logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami. ze svěžích jarních výhonků připravit sirup nebo nálev v malém množství. lesně aromatický sezónní nápoj. sirup / koncentrát"
+      "search_text": "jedle bělokorá abies alba jedle bělokorá jedle bělokorá abies alba pití sirup / čaj mladé výhonky pít ji má smysl hlavně kvůli čistě jehličnaté vůni, svěžesti a tradičnímu zimnímu respiračnímu použití. u mladých výhonků i vitamin c, monoterpeny a další silice, pryskyřice ze svěžích jarních výhonků připravit sirup nebo nálev v malém množství. lesně aromatický sezónní nápoj. sirup / koncentrát"
     },
     {
       "use_id": "r091",
@@ -10120,8 +10120,8 @@
       "mesic_od": 5,
       "mesic_do": 6,
       "hlavni_prinos_text": "V tradičním použití míří hlavně na mírnou močovou podporu, jarní 'odlehčení' a lehké čajové směsi.",
-      "aktivni_latky_text": "jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře",
-      "latky_a_logika_text": "U mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu.",
+      "aktivni_latky_text": "flavonoidy a fenolické látky v listech, jednoduché cukry a minerály v míze",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Nálev z listu jako tradiční prostředek ke zvýšení tvorby moči při drobných močových obtížích.",
       "cilovy_efekt": "Tradiční močopudný/bylinný účel.",
@@ -10163,7 +10163,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bříza bělokorá / pýřitá betula pendula / betula pubescens bříza bělokorá / pýřitá bříza bělokorá / pýřitá betula pendula / betula pubescens fytoterapie nálev list v tradičním použití míří hlavně na mírnou močovou podporu, jarní 'odlehčení' a lehké čajové směsi. jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře u mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu. nálev z listu jako tradiční prostředek ke zvýšení tvorby moči při drobných močových obtížích. tradiční močopudný/bylinný účel."
+      "search_text": "bříza bělokorá / pýřitá betula pendula / betula pubescens bříza bělokorá / pýřitá bříza bělokorá / pýřitá betula pendula / betula pubescens fytoterapie nálev list v tradičním použití míří hlavně na mírnou močovou podporu, jarní 'odlehčení' a lehké čajové směsi. flavonoidy a fenolické látky v listech, jednoduché cukry a minerály v míze nálev z listu jako tradiční prostředek ke zvýšení tvorby moči při drobných močových obtížích. tradiční močopudný/bylinný účel."
     },
     {
       "use_id": "r138",
@@ -10740,8 +10740,8 @@
       "mesic_od": 6,
       "mesic_do": 7,
       "hlavni_prinos_text": "Pít ji má smysl hlavně jako voňavý a uklidňující květní nálev nebo jemně slizový nápoj na krk.",
-      "aktivni_latky_text": "slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech",
-      "latky_a_logika_text": "Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.",
+      "aktivni_latky_text": "jemné aromatické látky v květech, flavonoidy",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Sušit rychle ve stínu; z květů připravit nálev.",
       "cilovy_efekt": "Chuťový nápoj, tradičně při nachlazení a pro zklidnění.",
@@ -10783,7 +10783,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:20140605Tilia_cordata7.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos lípa srdčitá / lípa velkolistá lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos pití nálev / čaj květ pít ji má smysl hlavně jako voňavý a uklidňující květní nálev nebo jemně slizový nápoj na krk. slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá. sušit rychle ve stínu; z květů připravit nálev. chuťový nápoj, tradičně při nachlazení a pro zklidnění."
+      "search_text": "lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos lípa srdčitá / lípa velkolistá lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos pití nálev / čaj květ pít ji má smysl hlavně jako voňavý a uklidňující květní nálev nebo jemně slizový nápoj na krk. jemné aromatické látky v květech, flavonoidy sušit rychle ve stínu; z květů připravit nálev. chuťový nápoj, tradičně při nachlazení a pro zklidnění."
     },
     {
       "use_id": "r002",
@@ -10802,8 +10802,8 @@
       "mesic_od": 6,
       "mesic_do": 7,
       "hlavni_prinos_text": "Tradičně míří hlavně na nachlazení, pocení, podrážděný krk a večerní zklidnění.",
-      "aktivni_latky_text": "slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech",
-      "latky_a_logika_text": "Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.",
+      "aktivni_latky_text": "jemné aromatické látky v květech, flavonoidy",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Nálev z květů pro krátkodobé užití.",
       "cilovy_efekt": "Tradičně úleva při nachlazení a mírném psychickém napětí.",
@@ -10845,7 +10845,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:20140605Tilia_cordata7.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos lípa srdčitá / lípa velkolistá lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos fytoterapie tradiční bylinný léčivý přípravek květ tradičně míří hlavně na nachlazení, pocení, podrážděný krk a večerní zklidnění. slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá. nálev z květů pro krátkodobé užití. tradičně úleva při nachlazení a mírném psychickém napětí."
+      "search_text": "lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos lípa srdčitá / lípa velkolistá lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos fytoterapie tradiční bylinný léčivý přípravek květ tradičně míří hlavně na nachlazení, pocení, podrážděný krk a večerní zklidnění. jemné aromatické látky v květech, flavonoidy nálev z květů pro krátkodobé užití. tradičně úleva při nachlazení a mírném psychickém napětí."
     },
     {
       "use_id": "r048",
@@ -10864,8 +10864,8 @@
       "mesic_od": 5,
       "mesic_do": 8,
       "hlavni_prinos_text": "Tradičně se list používá hlavně jako lehce svíravá a podpůrná bylinka, zejména v ženských směsích nebo při průjmu.",
-      "aktivni_latky_text": "třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech",
-      "latky_a_logika_text": "List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.",
+      "aktivni_latky_text": "třísloviny a flavonoidy v listech",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Infuze listu pro krátkodobé tradiční užití.",
       "cilovy_efekt": "Tradičně při mírném průjmu, drobném zánětu dutiny ústní a hrdla a při menstruačních křečích.",
@@ -10907,7 +10907,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus fytoterapie nálev / oromukózní infuze list tradičně se list používá hlavně jako lehce svíravá a podpůrná bylinka, zejména v ženských směsích nebo při průjmu. třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech list stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech. infuze listu pro krátkodobé tradiční užití. tradičně při mírném průjmu, drobném zánětu dutiny ústní a hrdla a při menstruačních křečích."
+      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus fytoterapie nálev / oromukózní infuze list tradičně se list používá hlavně jako lehce svíravá a podpůrná bylinka, zejména v ženských směsích nebo při průjmu. třísloviny a flavonoidy v listech infuze listu pro krátkodobé tradiční užití. tradičně při mírném průjmu, drobném zánětu dutiny ústní a hrdla a při menstruačních křečích."
     },
     {
       "use_id": "r038",
@@ -11174,8 +11174,8 @@
       "mesic_od": 3,
       "mesic_do": 3,
       "hlavni_prinos_text": "Tradičně míří hlavně na trávení, žlučník, lehkou močovou podporu a jarní 'hořké' použití.",
-      "aktivni_latky_text": "hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly",
-      "latky_a_logika_text": "Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.",
+      "aktivni_latky_text": "inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Tradiční hořká droga pro podporu trávení a vylučování moči; v databázi jen evidenčně, ne jako osobní doporučení.",
       "cilovy_efekt": "trávení, mírná močopudná podpora",
@@ -11217,7 +11217,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. fytoterapie hořká droga / nálev / extrakt kořen s natí tradičně míří hlavně na trávení, žlučník, lehkou močovou podporu a jarní 'hořké' použití. hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní. tradiční hořká droga pro podporu trávení a vylučování moči; v databázi jen evidenčně, ne jako osobní doporučení. trávení, mírná močopudná podpora"
+      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. fytoterapie hořká droga / nálev / extrakt kořen s natí tradičně míří hlavně na trávení, žlučník, lehkou močovou podporu a jarní 'hořké' použití. inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly tradiční hořká droga pro podporu trávení a vylučování moči; v databázi jen evidenčně, ne jako osobní doporučení. trávení, mírná močopudná podpora"
     },
     {
       "use_id": "r136",
@@ -11484,8 +11484,8 @@
       "mesic_od": 5,
       "mesic_do": 6,
       "hlavni_prinos_text": "Dává smysl hlavně jako aromatická květní rostlina pro nápoje a jako tmavě polyfenolová plodová surovina po tepelné úpravě.",
-      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky",
-      "latky_a_logika_text": "Smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby.",
+      "aktivni_latky_text": "flavonoidy a fenolické kyseliny v květech, aromatické látky",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Celé květenství obalit v těstíčku a osmažit.",
       "cilovy_efekt": "Sezónní jarní jídlo.",
@@ -11527,7 +11527,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra potrava smažené květenství / kosmatice květenství dává smysl hlavně jako aromatická květní rostlina pro nápoje a jako tmavě polyfenolová plodová surovina po tepelné úpravě. flavonoidy a fenolické kyseliny v květech, anthokyany a další polyfenoly v plodech, pektiny, aromatické látky smysl dávají hlavně polyfenoly, květní aromatika a pektiny; u plodů je důležitá tepelná úprava a nejde o náhradu léčby. celé květenství obalit v těstíčku a osmažit. sezónní jarní jídlo."
+      "search_text": "bez černý sambucus nigra bez černý bez černý sambucus nigra potrava smažené květenství / kosmatice květenství dává smysl hlavně jako aromatická květní rostlina pro nápoje a jako tmavě polyfenolová plodová surovina po tepelné úpravě. flavonoidy a fenolické kyseliny v květech, aromatické látky celé květenství obalit v těstíčku a osmažit. sezónní jarní jídlo."
     },
     {
       "use_id": "r030",
@@ -11546,8 +11546,8 @@
       "mesic_od": 9,
       "mesic_do": 2,
       "hlavni_prinos_text": "Největší hodnotu má jako výrazně aromatická jarní a zimní surovina do nálevů, sirupů a domácích inhalativně působících směsí.",
-      "aktivni_latky_text": "monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin C",
-      "latky_a_logika_text": "Logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Jehličnaté dřevo chytá rychleji, ale může více kouřit a jiskřit; hodí se pro rychlý rozběh ohně.",
       "cilovy_efekt": "Rychlé teplo a rozpal.",
@@ -11589,7 +11589,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "borovice lesní pinus sylvestris borovice lesní borovice lesní pinus sylvestris palivo rychlé teplo / podpal dřevo největší hodnotu má jako výrazně aromatická jarní a zimní surovina do nálevů, sirupů a domácích inhalativně působících směsí. monoterpeny a další silice, pryskyřičné látky, polyfenoly, u mladých výhonků i vitamin c logika stojí hlavně na těkavých terpenických látkách a pryskyřici, které dělají chuť i aromatický respirační efekt. jehličnaté dřevo chytá rychleji, ale může více kouřit a jiskřit; hodí se pro rychlý rozběh ohně. rychlé teplo a rozpal."
+      "search_text": "borovice lesní pinus sylvestris borovice lesní borovice lesní pinus sylvestris palivo rychlé teplo / podpal dřevo největší hodnotu má jako výrazně aromatická jarní a zimní surovina do nálevů, sirupů a domácích inhalativně působících směsí. jehličnaté dřevo chytá rychleji, ale může více kouřit a jiskřit; hodí se pro rychlý rozběh ohně. rychlé teplo a rozpal."
     },
     {
       "use_id": "r053",
@@ -11794,8 +11794,8 @@
       "mesic_od": 3,
       "mesic_do": 4,
       "hlavni_prinos_text": "Pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev.",
-      "aktivni_latky_text": "jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře",
-      "latky_a_logika_text": "U mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Čerstvě odebraná míza se pije jako lehký jarní nápoj.",
       "cilovy_efekt": "Hydratace a sezónní chuťový zdroj.",
@@ -11837,7 +11837,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "bříza bělokorá / pýřitá betula pendula / betula pubescens bříza bělokorá / pýřitá bříza bělokorá / pýřitá betula pendula / betula pubescens pití čerstvá jarní míza míza pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev. jednoduché cukry a minerály v míze, flavonoidy a fenolické látky v listech, triterpeny typu betulinu hlavně v kůře u mízy je logika hlavně v cukrech, minerálech a organických kyselinách; u listů spíš ve flavonoidech a lehce močovém tradičním profilu. čerstvě odebraná míza se pije jako lehký jarní nápoj. hydratace a sezónní chuťový zdroj."
+      "search_text": "bříza bělokorá / pýřitá betula pendula / betula pubescens bříza bělokorá / pýřitá bříza bělokorá / pýřitá betula pendula / betula pubescens pití čerstvá jarní míza míza pít to dává smysl hlavně jako velmi lehký jarní nápoj z mízy nebo jako decentní listový nálev. čerstvě odebraná míza se pije jako lehký jarní nápoj. hydratace a sezónní chuťový zdroj."
     },
     {
       "use_id": "r102",
@@ -12476,8 +12476,8 @@
       "mesic_od": 5,
       "mesic_do": 8,
       "hlavni_prinos_text": "Pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil.",
-      "aktivni_latky_text": "třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech",
-      "latky_a_logika_text": "List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.",
+      "aktivni_latky_text": "třísloviny a flavonoidy v listech",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "List sušit a použít samostatně nebo ve směsích; nálev bývá lehce tříslovitý.",
       "cilovy_efekt": "Jemně svíravý nápoj a historická domácí čajová složka.",
@@ -12519,7 +12519,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus pití čaj / lehká náhražka černého čaje list pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil. třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech list stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech. list sušit a použít samostatně nebo ve směsích; nálev bývá lehce tříslovitý. jemně svíravý nápoj a historická domácí čajová složka."
+      "search_text": "maliník obecný rubus idaeus maliník obecný maliník obecný rubus idaeus pití čaj / lehká náhražka černého čaje list pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil. třísloviny a flavonoidy v listech list sušit a použít samostatně nebo ve směsích; nálev bývá lehce tříslovitý. jemně svíravý nápoj a historická domácí čajová složka."
     },
     {
       "use_id": "r108",
@@ -12538,8 +12538,8 @@
       "mesic_od": 3,
       "mesic_do": 5,
       "hlavni_prinos_text": "Pampeliška má smysl jako hořká listová a kořenová rostlina pro trávení, jarní kuchyni i pražené nápojové experimenty.",
-      "aktivni_latky_text": "hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly",
-      "latky_a_logika_text": "Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Mladé listy syrové po menších dávkách nebo krátce spařené; starší listy bývají výrazně hořké.",
       "cilovy_efekt": "jarní vitamínová zelenina, hořký akcent",
@@ -12581,7 +12581,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. potrava salát / jarní zelenina mladé listy pampeliška má smysl jako hořká listová a kořenová rostlina pro trávení, jarní kuchyni i pražené nápojové experimenty. hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní. mladé listy syrové po menších dávkách nebo krátce spařené; starší listy bývají výrazně hořké. jarní vitamínová zelenina, hořký akcent"
+      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. potrava salát / jarní zelenina mladé listy pampeliška má smysl jako hořká listová a kořenová rostlina pro trávení, jarní kuchyni i pražené nápojové experimenty. mladé listy syrové po menších dávkách nebo krátce spařené; starší listy bývají výrazně hořké. jarní vitamínová zelenina, hořký akcent"
     },
     {
       "use_id": "r096",
@@ -12724,8 +12724,8 @@
       "mesic_od": 9,
       "mesic_do": 2,
       "hlavni_prinos_text": "Smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi.",
-      "aktivni_latky_text": "vitamin C v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly",
-      "latky_a_logika_text": "Logika je hlavně ve vitaminu C, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Smrk se dobře hodí pro rychlé rozhoření, ale pro dlouhou výdrž je slabší než hustá tvrdá dřeva.",
       "cilovy_efekt": "Rychlý start ohně a krátkodobé teplo.",
@@ -12767,7 +12767,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:Picea-abies-shoot.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "smrk ztepilý picea abies smrk ztepilý smrk ztepilý picea abies palivo rychlé teplo / podpal dřevo smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi. vitamin c v mladých výhoncích, monoterpeny a další silice, pryskyřice, polyfenoly logika je hlavně ve vitaminu c, silicích a pryskyřici; právě to nese jak chuť, tak tradiční užití. smrk se dobře hodí pro rychlé rozhoření, ale pro dlouhou výdrž je slabší než hustá tvrdá dřeva. rychlý start ohně a krátkodobé teplo."
+      "search_text": "smrk ztepilý picea abies smrk ztepilý smrk ztepilý picea abies palivo rychlé teplo / podpal dřevo smrk je výborný hlavně pro jarní výhonkové sirupy, lesně aromatické nápoje a dýchací směsi. smrk se dobře hodí pro rychlé rozhoření, ale pro dlouhou výdrž je slabší než hustá tvrdá dřeva. rychlý start ohně a krátkodobé teplo."
     },
     {
       "use_id": "r099",
@@ -13716,8 +13716,8 @@
       "mesic_od": 9,
       "mesic_do": 3,
       "hlavni_prinos_text": "Pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil.",
-      "aktivni_latky_text": "hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly",
-      "latky_a_logika_text": "Hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní.",
+      "aktivni_latky_text": "inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Kořen omýt, nakrájet, usušit a opražit; dává tmavou hořkou kávovou náhražku.",
       "cilovy_efekt": "pražený nápoj bez kofeinu",
@@ -13759,7 +13759,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:T._officinale.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití náhražka kávy kořen pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. hořké seskviterpenové laktony, inulin hlavně v kořeni, draslík, polyfenoly hlavní logika je v hořčinách, draslíku a u kořene i v inulinu; právě proto je pampeliška víc funkční než delikátní. kořen omýt, nakrájet, usušit a opražit; dává tmavou hořkou kávovou náhražku. pražený nápoj bez kofeinu"
+      "search_text": "pampeliška lékařská taraxacum officinale agg. pampeliška lékařská pampeliška lékařská pampeliška / smetanka taraxacum officinale agg. pití náhražka kávy kořen pít ji má smysl hlavně jako hořčí čaj nebo praženou kořenovou náhražku, když chceš trávící a ne sladký profil. inulin hlavně v kořeni, hořké seskviterpenové laktony, draslík, polyfenoly kořen omýt, nakrájet, usušit a opražit; dává tmavou hořkou kávovou náhražku. pražený nápoj bez kofeinu"
     },
     {
       "use_id": "r137",
@@ -15452,8 +15452,8 @@
       "mesic_od": 4,
       "mesic_do": 5,
       "hlavni_prinos_text": "Lípa je jemná květní i listová rostlina, která dává smysl pro zklidňující čaje, slizové směsi a lehké jarní pití.",
-      "aktivni_latky_text": "slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech",
-      "latky_a_logika_text": "Smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá.",
+      "aktivni_latky_text": "",
+      "latky_a_logika_text": "",
       "funkcni_kontext_status": "kuratorsky_profil",
       "zpusob_pripravy": "Sbírat jen nejmladší měkké listy a používat je čerstvé do míchaných salátů nebo jako jemnou vrstvu do sendvičů a na chléb.",
       "cilovy_efekt": "Jemná stromová listová zelenina pro dubnovou kuchyni.",
@@ -15495,7 +15495,7 @@
       "primary_photo_source_url": "https://commons.wikimedia.org/wiki/File:20140605Tilia_cordata7.jpg",
       "primary_photo_kind": "photo",
       "primary_photo_kind_label": "Foto",
-      "search_text": "lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos lípa srdčitá / lípa velkolistá lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos potrava mladé listy do salátu / na chléb mladé listy lípa je jemná květní i listová rostlina, která dává smysl pro zklidňující čaje, slizové směsi a lehké jarní pití. slizové polysacharidy, flavonoidy, třísloviny, jemné aromatické látky v květech smysl dávají hlavně slizy, flavonoidy a jemná květní aromatika; právě proto je lípa spíš měkká a zklidňující než tvrdě léčivá. sbírat jen nejmladší měkké listy a používat je čerstvé do míchaných salátů nebo jako jemnou vrstvu do sendvičů a na chléb. jemná stromová listová zelenina pro dubnovou kuchyni."
+      "search_text": "lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos lípa srdčitá / lípa velkolistá lípa srdčitá / lípa velkolistá tilia cordata / tilia platyphyllos potrava mladé listy do salátu / na chléb mladé listy lípa je jemná květní i listová rostlina, která dává smysl pro zklidňující čaje, slizové směsi a lehké jarní pití. sbírat jen nejmladší měkké listy a používat je čerstvé do míchaných salátů nebo jako jemnou vrstvu do sendvičů a na chléb. jemná stromová listová zelenina pro dubnovou kuchyni."
     },
     {
       "use_id": "r146",

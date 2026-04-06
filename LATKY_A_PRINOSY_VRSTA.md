@@ -20,9 +20,12 @@ Stav po rebuild k `2026-04-06`:
 - `26` rostlin má kurátorský funkční profil
 - `26` rostlin má explicitní pole `aktivni_latky_text`
 - `273` použití má pole `hlavni_prinos_text`
-- `93` použití má explicitní pole `aktivni_latky_text`
+- `82` použití má explicitní use-level pole `aktivni_latky_text`
+- `54` použití má explicitní use-level pole `latky_a_logika_text`
 - `93` použití je označeno jako `kuratorsky_profil`
 - `180` použití je označeno jako `odvozeno_z_pouziti`
+- `11` kurátorských použití má use-level chemii záměrně prázdnou, protože po auditním zpřesnění nebylo bezpečné ji přiřadit ke konkrétní části rostliny
+- `39` kurátorských použití má use-level `latky_a_logika_text` schválně prázdné, protože by jinak šlo jen o příliš široké plant-level zobecnění
 
 Prakticky to znamená:
 
@@ -82,7 +85,7 @@ Tohle zůstává užší use-level pole:
 
 ### `aktivni_latky_text`
 
-Tohle není laboratorní rozbor. Je to konzervativní přehled hlavních tříd látek, které jsou pro danou rostlinu nebo použití relevantní:
+Tohle není laboratorní rozbor. Je to konzervativní přehled hlavních tříd látek, které jsou pro dané použití relevantní, ale jen tam, kde to jde use-level bezpečně říct:
 
 - flavonoidy
 - slizy
@@ -93,6 +96,12 @@ Tohle není laboratorní rozbor. Je to konzervativní přehled hlavních tříd 
 - hořčiny
 - salicylátové deriváty
 
+Po dubnovém auditu navíc platí důležité pravidlo:
+
+- pokud byl text o látkách jen plant-level a nešel poctivě stáhnout na konkrétní použitou část, pole se raději nechá prázdné
+
+To je záměrné. Menší pokrytí je tady lepší než zavádějící jistota.
+
 ### `latky_a_logika_text`
 
 Tohle pole propojuje chemii a uživatelský smysl:
@@ -100,6 +109,8 @@ Tohle pole propojuje chemii a uživatelský smysl:
 - proč to chutná nebo voní právě tak
 - proč se to tradičně používá právě tímto směrem
 - kde je rozumné držet se při zemi a nečíst z látkového profilu víc, než opravdu unese
+
+Stejně jako u `aktivni_latky_text` je use-level `latky_a_logika_text` po auditu schválně prázdné tam, kde by zůstalo jen nepřesné zobecnění z úrovně celé rostliny.
 
 ## Kde se to ukazuje
 

@@ -1,5 +1,8 @@
 # Web Functionality Audit
 
+Historická poznámka:
+tenhle soubor zachycuje tehdejší stav webu a tehdejší UX priority. Ber ho jako vývojový audit, ne jako definitivní popis současného UI.
+
 Date: `2026-04-06`
 
 Scope audited:

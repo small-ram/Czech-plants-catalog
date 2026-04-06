@@ -29,8 +29,8 @@
 - Aplikovatelnost v ČR: střední
 - Proč to může dávat smysl: Pít ji má smysl hlavně kvůli čistě jehličnaté vůni, svěžesti a tradičnímu zimnímu respiračnímu použití.
 - Cílový efekt: Způsob, jak krátké jarní okno převést do trvanlivé formy.
-- Hlavní užitečné / aktivní látky: monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin C
-- Látky a logika: Logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami.
+- Hlavní užitečné / aktivní látky: u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřice
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladé světlé výhonky; v datech je pro něj vedené období V–VI. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Kvůli riziku záměny sbírej jen tehdy, když máš druh jistě určený i podle určovacích znaků; při nejistotě nesklízej. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,8 +43,8 @@
 - Aplikovatelnost v ČR: střední
 - Proč to může dávat smysl: Tradičně se používá hlavně při kašli, zahlenění a jako aromatická součást dýchacích směsí.
 - Cílový efekt: Tradiční podpůrné použití při kašli a respiračních potížích.
-- Hlavní užitečné / aktivní látky: monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin C
-- Látky a logika: Logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami.
+- Hlavní užitečné / aktivní látky: u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřice
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: jarní výhonky; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -57,8 +57,8 @@
 - Aplikovatelnost v ČR: střední
 - Proč to může dávat smysl: Pít ji má smysl hlavně kvůli čistě jehličnaté vůni, svěžesti a tradičnímu zimnímu respiračnímu použití.
 - Cílový efekt: Lesně aromatický sezónní nápoj.
-- Hlavní užitečné / aktivní látky: monoterpeny a další silice, pryskyřice, polyfenoly, u mladých výhonků i vitamin C
-- Látky a logika: Logika stojí hlavně na silicích a pryskyřici, které vytvářejí jehličnaté aroma a tradiční spojení s dýchacími cestami.
+- Hlavní užitečné / aktivní látky: u mladých výhonků i vitamin C, monoterpeny a další silice, pryskyřice
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: čerstvé světlé výhonky; v datech je pro něj vedené období IV–V. Ber jen malé množství mladých výhonků nebo pupenů z více rostlin; neotrhej všechny vrcholové pupeny jedné dřeviny. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

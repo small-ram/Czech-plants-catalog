@@ -38,7 +38,7 @@ Aktuální stav k 6. dubnu 2026:
 - `117` rostlin s reálnou fotkou v katalogu
 - `273` použití s odvozeným `sber_doporuceni`
 - `273` použití s `hlavni_prinos_text`
-- `93` použití s explicitním `aktivni_latky_text`
+- `82` použití s explicitním use-level `aktivni_latky_text`
 - `26` rostlin s kurátorským funkčním profilem
 - `96` použití a `57` rostlin v aktuálním sezónním okně `březen + duben` pro datum `2026-04-06`
 
@@ -205,6 +205,39 @@ Cílová veřejná URL:
   historický report media pokrytí
 - `MEDIA_NAHRADY_PRIORITIZACE.md`
   historický prioritizační report pro náhradu placeholderů
+
+## Jak číst dokumentaci
+
+Aktuální referenční dokumentace:
+
+- `README.md`
+- `ANALYZA_A_AUDIT_PROJEKTU.md`
+- `EXPORTY_A_NORMALIZACE.md`
+- `V7_KANONICKY_DATASET.md`
+- `SQLITE_DATASET.md`
+- `LOKALNI_KATALOG_APLIKACE.md`
+- `SEZONNI_VYCHOZI_REZIM_A_SBER.md`
+- `LATKY_A_PRINOSY_VRSTA.md`
+- `METODY_DLOUHODOBEHO_ZPRACOVANI.md`
+- `app/media/README.md`
+
+Historické snapshoty a návrhové soubory:
+
+- `ANALYZA_DATASETU.md`
+- `AUDIT_DATASETU.md`
+- `BRAINSTORM_VYUZITI_A_ZLEPSENI.md`
+- `DUBNOVE_ROZSIRENI_A_FOTOZDROJE.md`
+- `JARNI_ROZSIRENI_BREZEN_A_KVETEN.md`
+- `MEDIA_POKRYTI_A_AUTO_COVERS.md`
+- `MEDIA_NAHRADY_PRIORITIZACE.md`
+- `WEB_FUNCTIONALITY_AUDIT.md`
+- `V7_SCHEMA_NAVRH.md`
+
+Generované reporty:
+
+- `BUILD_PIPELINE_REPORT.md`
+- `SMOKE_CHECK_PROJEKTU.md`
+- `MEDIA_WIKIMEDIA_FILL_REPORT.md`
 
 ## Praktický závěr
 

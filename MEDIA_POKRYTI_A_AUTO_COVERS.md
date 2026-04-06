@@ -1,5 +1,8 @@
 # Media Pokryti A Auto-Covers
 
+Historická poznámka:
+tenhle report vznikl ještě v době auto-cover workflow. Dnes už mají produkční data plné pokrytí reálnými fotkami a auto-covers nejsou hlavní produkční vrstva.
+
 ## Co se stalo
 
 - Pocet rostlin v manifestu pred behem: 105

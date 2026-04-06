@@ -2,10 +2,10 @@
 
 Tahle složka drží media manifest pro katalog a případné lokální fallback soubory.
 
-## Stav k 5. dubnu 2026
+## Stav k 6. dubnu 2026
 
-- manifest pokrývá všech `105` rostlin v datasetu
-- všech `105` rostlin má skutečnou fotku z Wikimedia zdrojů
+- manifest pokrývá všech `117` rostlin v datasetu
+- všech `117` rostlin má skutečnou fotku z Wikimedia zdrojů
 - auto-cover položky i soubory byly odstraněné
 - API a UI tedy už nemusí spoléhat na placeholder-only stav žádné rostliny
 

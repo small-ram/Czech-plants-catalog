@@ -193,6 +193,122 @@ def _text(value: Any) -> str:
     return str(value or "").strip()
 
 
+def _split_text_clauses(value: str) -> list[str]:
+    parts = [part.strip(" ,;") for part in value.replace(";", ",").split(",")]
+    return [part for part in parts if part]
+
+
+def _part_group_from_text(cast_text: str) -> str:
+    cast = cast_text.lower()
+    if any(token in cast for token in ("květ", "květenství")):
+        return "flower"
+    if any(token in cast for token in ("plod", "bobul", "šípk", "oříš", "semen", "nažk")):
+        return "fruit"
+    if "míza" in cast:
+        return "sap"
+    if any(token in cast for token in ("list", "nať")):
+        return "leaf"
+    if any(token in cast for token in ("výhon", "pupen", "jehlic")):
+        return "shoot"
+    if any(token in cast for token in ("kořen", "odden")):
+        return "root"
+    if "kůr" in cast:
+        return "bark"
+    if "dřevo" in cast:
+        return "wood"
+    return ""
+
+
+PART_MARKERS: dict[str, tuple[str, ...]] = {
+    "flower": ("květ", "květen", "kvet"),
+    "fruit": ("plod", "bobul", "šípk", "oříš", "semen", "anthokyan", "ovocn"),
+    "sap": ("míz", "miza"),
+    "leaf": ("list", "nať"),
+    "shoot": ("výhonk", "pupen", "jehlic"),
+    "root": ("kořen", "oddenk", "inulin"),
+    "bark": ("kůř", "betulin"),
+    "wood": ("dřevo",),
+}
+
+
+GENERIC_ALLOWED_MARKERS: dict[str, tuple[str, ...]] = {
+    "flower": ("aromat", "silic", "flavonoid", "fenolic"),
+    "fruit": ("anthokyan", "pektin", "ovocn", "vitamin c", "polyfenol", "flavonoid"),
+    "shoot": ("vitamin c", "silic", "pryskyř", "pryskyr"),
+}
+
+
+GENERIC_BLOCKED_MARKERS: dict[str, tuple[str, ...]] = {
+    "flower": ("anthokyan", "pektin", "ovocn"),
+    "leaf": ("anthokyan", "ovocn", "pektin", "betulin", "míza", "miza", "vitamin c"),
+    "sap": ("betulin", "kůř", "kur", "anthokyan"),
+}
+
+
+def _clause_groups(clause: str) -> set[str]:
+    lowered = clause.lower()
+    groups: set[str] = set()
+    for group, markers in PART_MARKERS.items():
+        if any(marker in lowered for marker in markers):
+            groups.add(group)
+    return groups
+
+
+def _filter_use_level_compounds(raw_text: str, cast_text: str, domain: str) -> tuple[str, bool]:
+    if not raw_text:
+        return "", False
+    if domain == "palivo":
+        return "", True
+
+    part_group = _part_group_from_text(cast_text)
+    if not part_group:
+        return raw_text, False
+
+    clauses = _split_text_clauses(raw_text)
+    if not clauses:
+        return raw_text, False
+
+    matched: list[str] = []
+    generic: list[str] = []
+    saw_other_part = False
+
+    for clause in clauses:
+        groups = _clause_groups(clause)
+        if not groups:
+            generic.append(clause)
+            continue
+        if part_group in groups:
+            matched.append(clause)
+        else:
+            saw_other_part = True
+
+    if matched:
+        kept = list(matched)
+        allowed_markers = GENERIC_ALLOWED_MARKERS.get(part_group, ())
+        blocked_markers = GENERIC_BLOCKED_MARKERS.get(part_group, ())
+        for clause in generic:
+            lowered = clause.lower()
+            if blocked_markers and any(marker in lowered for marker in blocked_markers):
+                continue
+            if not allowed_markers or any(marker in lowered for marker in allowed_markers):
+                kept.append(clause)
+        deduped: list[str] = []
+        for clause in kept:
+            if clause not in deduped:
+                deduped.append(clause)
+        filtered = ", ".join(deduped)
+        return filtered or raw_text, filtered != raw_text
+
+    if saw_other_part:
+        return "", True
+
+    blocked_markers = GENERIC_BLOCKED_MARKERS.get(part_group, ())
+    if blocked_markers and any(marker in raw_text.lower() for marker in blocked_markers):
+        return "", True
+
+    return raw_text, False
+
+
 def _domain_key(row: dict[str, Any]) -> str:
     return _text(row.get("domena"))
 
@@ -208,6 +324,7 @@ def build_use_functional_context(row: dict[str, Any]) -> dict[str, str]:
     effect = _text(row.get("cilovy_efekt"))
     preparation = _text(row.get("zpusob_pripravy_nebo_vyuziti"))
     subdomain = _text(row.get("poddomena"))
+    cast_text = _text(row.get("cast_rostliny"))
 
     if profile:
         if domain == "pití":
@@ -219,10 +336,19 @@ def build_use_functional_context(row: dict[str, Any]) -> dict[str, str]:
         else:
             benefit = profile.get("obecny_prinos_text") or effect
 
+        compounds_text, compounds_changed = _filter_use_level_compounds(
+            profile.get("aktivni_latky_text", ""),
+            cast_text,
+            domain,
+        )
+        logic_text = profile.get("latky_a_logika_text", "")
+        if compounds_changed:
+            logic_text = ""
+
         return {
             "hlavni_prinos_text": benefit,
-            "aktivni_latky_text": profile.get("aktivni_latky_text", ""),
-            "latky_a_logika_text": profile.get("latky_a_logika_text", ""),
+            "aktivni_latky_text": compounds_text,
+            "latky_a_logika_text": logic_text,
             "funkcni_kontext_status": "kuratorsky_profil",
         }
 

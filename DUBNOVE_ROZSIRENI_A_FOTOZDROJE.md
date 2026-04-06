@@ -1,5 +1,8 @@
 # Dubnové Rozšíření A Fotozdroje
 
+Historická poznámka:
+jde o snapshot konkrétní dubnové kurátorské vlny. Čísla a “aktuální stav” v tomhle souboru platí pro okamžik té iterace, ne nutně pro dnešní celkový dataset.
+
 ## Co se změnilo
 
 Na začátku dubna 2026 se projekt rozšířil ve třech směrech:

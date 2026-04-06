@@ -1,5 +1,8 @@
 # Audit datasetu českých rostlin
 
+Historická poznámka:
+tenhle soubor auditoval původní workbookový stav před pozdějšími jarními rozšířeními, SQLite vrstvou, veřejným webem a novou vrstvou `látky a přínosy`. Pro aktuální stav používej `ANALYZA_A_AUDIT_PROJEKTU.md`.
+
 ## Rozsah a metoda
 
 Tento audit je založený na struktuře a obsahu workbooku `cz_rostliny_rozsireny_dataset_v6_jadro_bezne_trvanlive.xlsx`. Kontroloval jsem:

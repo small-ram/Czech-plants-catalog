@@ -1,264 +1,272 @@
-﻿# Analýza A Audit Projektu
+# Analýza A Audit Projektu
 
-Audit byl znovu proveden 4. dubna 2026 nad aktuálním workspace, skripty, SQLite databází, appkou, media vrstvou a dokumentací.
+Audit byl znovu proveden 6. dubna 2026 a tentokrát se soustředil primárně na dvě vrstvy:
+
+- dokumentaci
+- data, hlavně na přesnost, stručnost, duplicitu a riziko halucinací
 
 ## Shrnutí
 
-Projekt je ve velmi dobrém stavu pro interní používání a další rozvoj. Hlavní posun proti původnímu workbook-only stavu je v tom, že data už mají plnohodnotný životní cyklus:
-
-- workbook
-- exporty
-- normalizace
-- kanonický dataset
-- SQLite
-- lokální appka
-- media vrstva
-- build orchestrace
-- základní automatizované smoke ověření
-- explicitní fallback-promote workflow pro SQLite
-
-Celkově je to silný datově-aplikační prototyp. Není to ale ještě úplně release-ready produkt. Největší zbývající slabiny nejsou v datech samotných, ale v:
-
-- zatím jen částečném pokrytí skutečnými fotkami jako primárním médiem
-- stále jen omezené, ne plně regresní test vrstvě
-- lehké tendenci k dokumentačnímu driftu mezi iteracemi
-
-## Co bylo ověřeno
-
-### Datová vrstva
-
-- workbook existuje a export pipeline ji znovu načetla bez chyby
-- `export_workbook.py` znovu vytvořil raw i normalized výstupy
-- `build_v7_canonical.py` znovu vytvořil kanonický dataset
-- kanonický dataset obsahuje:
-  - `93` plants
-  - `193` plant_aliases
-  - `242` uses
-  - `85` durable_forms
-  - `82` sources
-  - `301` use_sources
+Projekt je strukturálně silný, ale potřeboval zpřesnit dvě věci:
 
-### Kvalita dat
+- oddělit aktuální referenční dokumentaci od historických snapshotů
+- zpřísnit use-level vrstvu `aktivni_latky_text` a `latky_a_logika_text`, aby se do konkrétního použití nepropisovaly informace platné jen pro jinou část téže rostliny
 
-- quality flags jsou snížené na `2` položky
-- obě jsou low severity
-- jde o nepoužité zdroje `S69` a `S77`
+Po auditní opravě dnes platí:
 
-To je velmi dobrý výsledek. V projektu už teď není vidět strukturální datový rozpad.
+- `117` rostlin
+- `273` použití
+- `91` trvanlivých forem
+- `109` zdrojů
+- `0` použití bez zdroje
+- `212` použití jen s jedním zdrojem
+- `82` použití s explicitním use-level `aktivni_latky_text`
+- `54` použití s explicitním use-level `latky_a_logika_text`
+- `180` použití má `hlavni_prinos_text` jen jako odvozený fallback z existujícího popisu použití
+- `2` zdroje zůstávají nepoužité
 
-### SQLite vrstva
+Největší aktuální riziko už není rozpad dat. Je to spíš sémantická přesnost:
 
-- `build_v7_sqlite.py` byl znovu ověřen
-- audit dříve odhalil reálný problém:
-  skript padal při zamknuté `v7_dataset.sqlite`
-- tenhle problém je opraven
-- nově skript při locku vytvoří fallback databázi `v7_dataset.rebuild.sqlite` nebo `v7_dataset.rebuild_<timestamp>.sqlite` místo pádu
-- navíc existuje explicitní promote režim, který po uvolnění locku přesune fallback na primární místo a původní primární DB zálohuje jako `pre_promote` snapshot
-- promote workflow byl ověřen na izolovaném testovacím výstupu
+- část dokumentace dřív vypadala jako aktuální reference, i když šlo jen o historický snapshot
+- část use-level chemických polí byla příliš “na úrovni celé rostliny”, ne na úrovni konkrétní použité části
 
-### Lokální appka
+## Metoda auditu
 
-- Python server i front-end JS se úspěšně syntax-checkly
-- živě byly ověřeny klíčové route pro katalog, plant galerii a detail stránky
-- appka stále vrací správné počty a funguje s aktuálním datasetem
+Audit kombinoval:
 
-### Build a smoke vrstva
+- ruční revizi hlavních `.md` souborů
+- strojové kontroly nad SQLite vrstvou a canonical JSON
+- kontroly úplnosti, redundance a vazeb mezi tabulkami
+- cílené spot-checky rizikovějších tvrzení a léčivějších profilů proti externím zdrojům
 
-- existuje jednotný orchestration skript `build_all.py`
-- existuje automatický smoke runner `smoke_check.py`
-- oba skripty byly ověřeny reálným během
-- `build_all.py` umí nově i volitelný `--promote-rebuild` flow
-- vznikají také reporty:
-  - `BUILD_PIPELINE_REPORT.md`
-  - `SMOKE_CHECK_PROJEKTU.md`
+Interně byly zkontrolované hlavně:
 
-Aktuální smoke coverage ověřuje:
+- úplnost základních polí u všech `273` použití
+- vazby `uses -> use_sources`
+- pokrytí `processing_methods`
+- use-level vrstva `hlavni_prinos_text`, `aktivni_latky_text`, `latky_a_logika_text`
+- překryv `hlavni_prinos_text` vs. `cilovy_efekt`
+- dokumentační drift v root `.md` souborech
 
-- SQLite tabulky a view
-- `/api/summary`
-- `/api/options`
-- `/api/search`
-- `/api/plants`
-- `/api/use`
-- `/api/plant`
-- HTML route `/`, `/plants`, `/plant/...`, `/use/...`
-- exporty `/export/plant/...` a `/export/use/...` pro `JSON` i `Markdown`
-- základní strukturu export payloadů
-- invarianty vybraných filtrů pro durable/core/domain/evidence/month
-- očekávané 400/404 chování u vybraných chybových scénářů
-- media provenance labely a fotozdroje v detailu/exportech
+Externě byly jako sanity check použité hlavně:
 
-### Media vrstva
+- oficiální evropské bylinné monografie EMA tam, kde existují
+- původní kurátorské zdroje v datasetu
+- u niche a ultra-niche potravních položek zejména PFAF a několik doplňkových extension / technických materiálů
 
-- `plant_media.json` pokrývá všech `93` rostlin
-- rozpad primárních médií:
-  - `16` skutečných fotek z Wikimedia Commons
-  - zbytek má fallback ilustrace nebo auto-cover jen v manifestu
-- media provenance je explicitní přes `media_kind`, `source_name`, `source_url` a volitelně `license`
-- UI i exporty nově preferují skutečné `Foto`; pokud chybí, ukážou placeholder místo AI coveru
+Audit neznamená, že každé jednotlivé tvrzení z `273` použití bylo ručně znovu ověřeno proti internetu. Znamená ale, že byla zkontrolovaná celá datová struktura, všechna pole a nejrizikovější vrstvy tvrzení.
 
-## Silné stránky projektu
+## Audit Dokumentace
 
-### 1. Jasná vícevrstvá architektura
+### Co je dnes aktuální reference
 
-Projekt má zdravé rozdělení odpovědností:
+Tyhle soubory mají být brané jako hlavní aktuální dokumentace:
 
-- workbook pro kurátorskou editaci
-- exporty pro reprodukovatelnou transformaci
-- canonical vrstvu pro strojové použití
-- SQLite pro aplikaci
-- appku pro lidské používání
-- media vrstvu pro vizuální rozšíření
-- build a smoke vrstvu pro opakovatelné ověřování
+- `README.md`
+- `EXPORTY_A_NORMALIZACE.md`
+- `V7_KANONICKY_DATASET.md`
+- `SQLITE_DATASET.md`
+- `LOKALNI_KATALOG_APLIKACE.md`
+- `SEZONNI_VYCHOZI_REZIM_A_SBER.md`
+- `LATKY_A_PRINOSY_VRSTA.md`
+- `METODY_DLOUHODOBEHO_ZPRACOVANI.md`
+- `app/media/README.md`
 
-To je silnější než běžný "Excel + pár skriptů" setup.
+### Co jsou historické snapshoty
 
-### 2. Nízký datový dluh
+Tyhle soubory nejsou zbytečné, ale nemají se číst jako aktuální stav projektu:
 
-Kvalita dat je vysoká. Zbylé quality flags jsou jen drobné a lokalizované.
+- `ANALYZA_DATASETU.md`
+- `AUDIT_DATASETU.md`
+- `BRAINSTORM_VYUZITI_A_ZLEPSENI.md`
+- `DUBNOVE_ROZSIRENI_A_FOTOZDROJE.md`
+- `JARNI_ROZSIRENI_BREZEN_A_KVETEN.md`
+- `MEDIA_POKRYTI_A_AUTO_COVERS.md`
+- `MEDIA_NAHRADY_PRIORITIZACE.md`
+- `WEB_FUNCTIONALITY_AUDIT.md`
+- `V7_SCHEMA_NAVRH.md`
 
-### 3. Projekt je už použitelný, ne jen připravený
+Tyhle soubory mají hodnotu jako:
 
-Už teď lze:
+- záznam vývoje
+- rozhodovací historie
+- návrhový kontext
 
-- vyhledávat
-- filtrovat
-- procházet rostliny
-- otevírat detaily
-- exportovat JSON a Markdown
-- opakovaně rebuildnout a automaticky zkontrolovat hlavní vrstvu aplikace
-- bezpečně povýšit fallback SQLite na primární DB bez ruční improvizace
+Nemají ale být primární opora pro dnešní čísla ani dnešní datový model.
 
-### 4. Dobrá reprodukovatelnost
+### Co bylo zastaralé nebo matoucí
 
-Pipeline je znovu spustitelná, auditně čitelná a má rozumné chování i v případě zamknuté primární databáze.
+Audit našel hlavně tyto problémy:
 
-## Auditní nálezy
+- staré počty v některých current-sounding dokumentech
+- staré snapshoty, které neměly hned nahoře vysvětlené, že jsou historické
+- média byla v některých textech popsaná pro starší stav `105` rostlin
+- starší audit projektu pořád mluvil o době, kdy ještě nebyly plné reálné fotky ani jarní březnově-květnové rozšíření
 
-### Nález 1: SQLite rebuild byl křehký při zamknutém cíli
+### Verdikt k nadbytečnosti
 
-Status:
+Na rootu je dokumentů hodně, ale většina není čistě nadbytečná. Problém nebyl v samotné existenci souborů, ale v tom, že nebylo dost jasně řečeno, které jsou:
 
-- nalezeno během auditu
-- opraveno
-- workflow kolem následného promote je nově explicitní
+- aktuální reference
+- generované reporty
+- historické snapshoty
 
-Dopad:
+Jinými slovy: spíš než mazat je správný krok lépe je označit.
 
-- build už neselhává při locku
-- fallback lze později bezpečně povýšit na primární DB
+## Audit Dat
 
-Zbytkové riziko:
+### Co dopadlo dobře
 
-- stále je potřeba lidské rozhodnutí, kdy je vhodný okamžik promote provést
+Strukturálně jsou data ve velmi dobrém stavu:
 
-### Nález 2: Dokumentace měla místy drift proti realitě
+- `0` použití bez zdroje
+- `0` použití bez `zpusob_pripravy`
+- `0` použití bez `cilovy_efekt`
+- `0` použití bez `hlavni_prinos_text`
+- `0` použití bez `sber_doporuceni`
+- `0` rostlin bez primární fotky
+- `2` nepoužité zdroje, tedy jen nízký redakční dluh
 
-Status:
+To znamená, že hlavní slabina dnes není chybějící základní struktura, ale přesnost některých odvozených vrstev.
 
-- průběžně opravováno
-- stále je potřeba držet docs v rytmu s iteracemi
+### Největší datový nález
 
-Dopad:
+Nejvýznamnější nález auditu byl v nové vrstvě `aktivni_latky_text` a `latky_a_logika_text`.
 
-- nízký až střední
-- nepoškozuje data ani appku, ale zvyšuje kognitivní load při návratu do projektu
+Původně se use-level chemický kontext u kurátorských profilů přebíral z profilu celé rostliny. To vedlo k tomu, že některá konkrétní použití ukazovala látky nebo logiku, které sice pro danou rostlinu obecně dávají smysl, ale ne pro právě použitou část.
 
-### Nález 3: Media coverage je úplná, ale obsahově je ještě slabá
+Typické příklady před opravou:
 
-Status:
+- květ bezu ukazoval i anthokyany a pektiny typické spíš pro plody
+- list břízy ukazoval i mízu a betulin z kůry
+- list maliníku ukazoval i anthokyany z plodů
+- palivové použití borovice a smrku ukazovalo vitamin C z mladých výhonků
 
-- neopraveno
-- je to aktuálně hlavní produktové omezení
+To nebyla čistá halucinace, ale byla to zavádějící use-level interpretace.
 
-Faktický stav:
+### Co bylo opraveno
 
-- coverage je `91 / 91`
-- ale žádná rostlina zatím nemá skutečnou fotku jako primární médium
+Při auditu byla zpřísněná logika v `scripts/functional_context.py`:
 
-Dopad:
+- use-level `aktivni_latky_text` se nově filtruje podle použité části rostliny
+- use-level `aktivni_latky_text` se u `palivo` nevyplňuje
+- pokud je use-level chemie poctivě nejasná, pole se raději nechá prázdné
+- spolu s tím se use-level `latky_a_logika_text` vypíná tam, kde by po ořezu zůstala polopravda
 
-- UI působí kompletně, ale vizuální vrstva je stále hlavně fallbacková
-- pro interní katalog je to v pořádku
-- pro širší prezentaci je to hlavní limit
+Praktický dopad:
 
-### Nález 4: Smoke vrstva už existuje, ale ještě není plná regresní sada
+- explicitní use-level chemie klesla z `93` na `82` použití
+- `11` původně kurátorských použití bylo záměrně vráceno do prázdného stavu, protože přesný use-level chemický výklad nebyl dost bezpečný
+- use-level `latky_a_logika_text` zůstává jen u `54` použití; u zbytku bylo raději ztišeno než přehnaně zobecněno
+- `0` palivových použití teď neukazuje zavádějící chemii
 
-Status:
+To je záměrné zlepšení kvality. Nižší pokrytí je tady lepší než chybná jistota.
 
-- významně zlepšeno
-- stále neuzavřeno
+### Co zůstává slabé
 
-Aktuální stav:
+#### 1. Jednozdrojové použití
 
-- existuje `smoke_check.py`
-- existuje `build_all.py`, který smoke check volá automaticky
-- smoke sada ověřuje API, HTML route, exporty, lokální média, záporné scénáře i základní filter invariants
+`212 / 273` použití má právě jeden zdroj.
 
-Zbytkové riziko:
+To neznamená automaticky chybu. Znamená to ale:
 
-- stále chybí širší kombinatorika filtrů, větší invariant coverage a CI běh mimo lokální workflow
+- slabší triangulaci
+- vyšší citlivost na chybné čtení zdroje
+- vyšší potřebu kurátorské opatrnosti u niche a ultra-niche položek
 
-### Nález 5: Zbyly 2 nepoužité zdroje
+#### 2. Redundance `hlavni_prinos_text`
 
-Status:
+`180` použití má `hlavni_prinos_text` fakticky shodné s `cilovy_efekt`.
 
-- neopraveno
-- nízká priorita
+To není halucinace, ale je to slabší informační návrh. Pole sice není prázdné, ale nepřináší nový úhel pohledu.
 
-Detaily:
+#### 3. Chybějící use-level chemie
 
-- `S69`
-- `S77`
+Po zpřísnění je dnes bez explicitního `aktivni_latky_text` `191` použití.
 
-Dopad:
+To je současně:
 
-- minimální
-- jde spíš o redakční čistotu než o technický problém
+- nedostatek pokrytí
+- ale i důkaz, že audit raději odstranil nejistá tvrzení než aby je nechal žít dál
 
-## Celkové hodnocení
+#### 4. Niche jarní vlna
 
-### Datová připravenost
+Nejvyšší kurátorské riziko dál leží v okrajových jarních položkách, hlavně tam, kde se opírají o:
 
-Vysoká.
+- jediný zdroj
+- regionální nebo etnobotanicky okrajové zmínky
+- druhy s vyšší mírou záměny, toxicity nebo fototoxicity
 
-### Reproducibilita
+Typicky:
 
-Vysoká pro lokální workflow.
+- `podběl`
+- `trnovník akát`
+- `bolševník obecný`
+- některé ultra-niche listové druhy z dubnové a květnové vlny
 
-### Aplikační použitelnost
+Tyhle řádky nejsou nutně špatně. Jen mají nižší důkazní komfort než mainstreamové položky.
 
-Vysoká pro interní lokální použití.
+## Posouzení Rizika Halucinací
 
-### Release připravenost pro širší publikaci
+### Co dnes působí bezpečně
 
-Střední.
+Relativně bezpečné jsou:
 
-Hlavní brzda už není architektura ani data, ale:
+- základní relační struktura dat
+- vazby na zdroje
+- pole typu `zpusob_pripravy`, `hlavni_rizika`, `legalita_poznamka_cr`
+- use-level chemie tam, kde zůstala i po zpřísnění
+- mainstreamové léčivější profily, které mají oporu v oficiálních monografiích nebo silné tradiční literatuře
 
-- chybějící skutečné foto vrstvy
-- chybějící plnější automatizace testů mimo smoke úroveň
-- potřeba disciplinovaně držet dokumentaci v souladu s iteracemi
+### Kde je riziko vyšší
+
+Vyšší riziko není v “vymyšlených latinských názvech” nebo strukturálním chaosu. Je spíš v těchto situacích:
+
+- use stojí jen na jednom zdroji
+- jde o okrajový spring-foraging claim
+- profil spojuje více částí jedné rostliny, ale use je jen jedna z nich
+- tvrzení je tradiční, ale ne monograficky silné
+
+### Praktický závěr k halucinacím
+
+V datech jsem nenašel známku masivních vymyšlených tvrzení. Našel jsem ale případy, kde tvrzení byla příliš široce přenesena z úrovně celé rostliny na úroveň konkrétního použití. To je přesně ten typ chyby, který je potřeba hlídat, i když nejde o klasickou LLM halucinaci.
+
+## Co ještě chybí
+
+Z pohledu ideální databáze dnes nejvíc chybí:
+
+- explicitní use-level `aktivni_latky_text` pro další bezpečné potravní a pitné položky
+- explicitní use-level `latky_a_logika_text`
+- méně redundantní `hlavni_prinos_text`
+- silnější druhý zdroj u části niche záznamů
+- jasnější rozlišení “ověřenější use-level chemie” vs. “jen plant-level obecný profil”
 
 ## Doporučené další kroky
 
-### Priorita A: Kvalita obsahu
+### Priorita A: Přesnost dat
 
-1. Nahradit top auto-covery skutečnými fotkami podle `MEDIA_NAHRADY_PRIORITIZACE.md`.
-2. U nejsilnějších rostlin doplnit lepší credits a provenance médií.
-3. Vyřešit `S69` a `S77`.
+1. Ručně rozšířit use-level `aktivni_latky_text` pro nejčastěji zobrazované pitné a léčivé položky.
+2. U dalších řádků raději zůstat prázdný než psát plant-level chemii tam, kde nevíme přesnou část.
+3. Postupně snížit počet jednozdrojových niche položek u rizikovějších druhů.
 
-### Priorita B: Testování
+### Priorita B: Čistota modelu
 
-1. Rozšířit invariant coverage na další kombinace filtrů a payload detailů.
-2. Přidat jednoduchý CI-like lokální release checklist.
-3. Zvážit oddělení rychlého smoke a pomalejšího release ověření.
+1. Oddělit plant-level funkční profil od use-level funkčního profilu ještě explicitněji.
+2. Přestat používat `hlavni_prinos_text` jen jako kopii `cilovy_efekt`.
+3. Zvážit explicitní pole typu `funkcni_kontext_uroven = plant/use`.
 
-### Priorita C: Produktizace
+### Priorita C: Dokumentace
 
-1. Zvážit static snapshot nebo balitelnou read-only distribuci lokální appky.
-2. Ujasnit, jestli má být lokální appka jen interní nástroj, nebo i demonstrační výstup pro další lidi.
+1. Držet `README.md` jako rozcestník, ne jako další historický report.
+2. Historické snapshoty vždy označit už v prvním odstavci.
+3. Generované reporty nebrat jako stabilní reference.
 
-## Praktický závěr
+## Celkový verdikt
 
-Projekt je dnes robustní základ pro lokální znalostní katalog a další produktový rozvoj. Workflow kolem SQLite fallbacku je už výrazně čistší; nejsmysluplnější další investice teď leží hlavně v obsahové vrstvě a v rozšíření test automatizace.
+Projekt je datově i architektonicky silný. Audit ale ukázal důležitou hranici:
+
+- struktura je už velmi dobrá
+- nejcennější další práce není nová infrastruktura
+- je to redakční zpřesňování významu jednotlivých polí
+
+Po této auditní vlně je projekt přesnější než předtím, hlavně tím, že raději přizná nevyplněné nebo ne zcela use-level pole, než aby tvářil jistotu tam, kde ji zatím nemá.

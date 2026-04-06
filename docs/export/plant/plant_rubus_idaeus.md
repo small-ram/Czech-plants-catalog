@@ -29,8 +29,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil.
 - Cílový efekt: Praktický a aromatický způsob uchování měkkých plodů.
-- Hlavní užitečné / aktivní látky: třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech
-- Látky a logika: List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.
+- Hlavní užitečné / aktivní látky: anthokyany a aromatické látky v plodech
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně vyzrálé plody; v datech je pro něj vedené období VII–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -43,8 +43,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil.
 - Cílový efekt: Trvanlivý listový čaj s mírně svíravým profilem.
-- Hlavní užitečné / aktivní látky: třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech
-- Látky a logika: List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.
+- Hlavní užitečné / aktivní látky: třísloviny a flavonoidy v listech
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sušení
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zdravé listy před plným vyzráním plodů; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -57,8 +57,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil.
 - Cílový efekt: Výživný plod, surovina pro nápoje i konzervaci.
-- Hlavní užitečné / aktivní látky: třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech
-- Látky a logika: List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.
+- Hlavní užitečné / aktivní látky: anthokyany a aromatické látky v plodech
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: Sirup / koncentrát · Zavaření / sterilace ve sklenici · Naložení do octa / ocet · Cukrování / kandování / džem
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: plně zralé plody; v datech je pro něj vedené období VI–VIII. Sbírej jen zralé, zdravé a nepoškozené plody; přezrálé, plesnivé nebo otlačené kusy hned vyřaď a část plodů nech na stanovišti. Vyhni se lokalitám u silnic, postřiků, psích tras, skládek a jiných zdrojů kontaminace. Preferuj vlastní, pěstované nebo výslovně povolené zdroje; na cizí pozemek ani cizí dřevinu nezasahuj bez souhlasu. Respektuj chráněná území a druhovou ochranu; v rezervacích nebo u chráněných druhů se sběru vyhni, pokud nemáš jasné oprávnění. Každou dávku hned protřiď; plesnivý, nahnilý nebo hmyzem poškozený materiál vyřaď. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -71,8 +71,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Tradičně se list používá hlavně jako lehce svíravá a podpůrná bylinka, zejména v ženských směsích nebo při průjmu.
 - Cílový efekt: Tradičně při mírném průjmu, drobném zánětu dutiny ústní a hrdla a při menstruačních křečích.
-- Hlavní užitečné / aktivní látky: třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech
-- Látky a logika: List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.
+- Hlavní užitečné / aktivní látky: třísloviny a flavonoidy v listech
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: zdravé listy po plném rozvinutí; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 
@@ -85,8 +85,8 @@
 - Aplikovatelnost v ČR: vysoká
 - Proč to může dávat smysl: Pít ho má smysl hlavně jako příjemný ovocný nebo listový čaj, když chceš jemnou chuť a lehce svíravý profil.
 - Cílový efekt: Jemně svíravý nápoj a historická domácí čajová složka.
-- Hlavní užitečné / aktivní látky: třísloviny a flavonoidy v listech, anthokyany a aromatické látky v plodech
-- Látky a logika: List stojí hlavně na tříslovinách a flavonoidech, plod spíš na barvivých a chuťových polyfenolech.
+- Hlavní užitečné / aktivní látky: třísloviny a flavonoidy v listech
+- Látky a logika: zatím nedoplněno
 - Metody zpracování: neuvedeno
 - Jak sbírat správně: Sbírej jen správně určený, zdravý materiál v této fázi: mladší zdravé listy; v datech je pro něj vedené období V–VIII. Ber hlavně mladé a zdravé listy nebo nať; neober jednu rostlinu úplně a sběr rozlož mezi více jedinců. Sbírej za sucha, do čisté prodyšné nádoby, bez zbytečného kontaktu se zeminou, a materiál co nejdřív zpracuj nebo usuš.
 

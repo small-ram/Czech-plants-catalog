@@ -1,5 +1,8 @@
 # Jarní Rozšíření Březen A Květen
 
+Historická poznámka:
+tenhle soubor zachycuje konkrétní rozšiřovací vlnu. Ber ho jako release note k tehdejší iteraci, ne jako hlavní aktuální referenci projektu.
+
 ## Co přibylo
 
 Nová kurátorská vlna rozšířila dataset o březnové a květnové druhy a použití, schválně i mimo obvyklé domácí foraging seznamy.
